@@ -1,0 +1,214 @@
+:root {
+    --border-radius: 5px;
+    background-color: rgb(178, 178, 178) !important;
+}
+
+.nav {
+    background-color: rgb(30, 30, 30) !important;
+}
+
+.footer {
+    background-color: rgb(30, 30, 30) !important;
+}
+
+a, .value {
+    color: rgb(230, 230, 230) !important;
+}
+
+p, .label, .active {  
+    color: rgb(250, 250, 250) !important;
+}
+
+.genre, .amount, .percentage, .favourite, .cover, section, .follow-card, .review-card .banner {
+    filter: grayscale(100%) brightness(110%);
+    transition: linear 0.25s;
+}
+
+.el-popper, .el-select-dropdown {
+    background-color: rgb(var(--color-blue)) !important;
+}
+
+.el-select-dropdown__item:hover {
+    background-color: rgb(50, 50, 50) !important;   
+}
+
+.genre:hover, .amount:hover, .percentage:hover, .favourite:hover, .cover:hover, .follow-card:hover, .review-card .banner:hover {
+    filter: none;
+}
+
+.progress .bar {
+    background: linear-gradient(270deg, rgb(150, 150, 150), rgb(240, 240, 240)) !important;
+}
+
+.entry:hover {
+    background-color: rgb(50, 50, 50) !important;
+}
+
+.section-header .actions div, .random-btn {
+    background-color: rgb(50, 50, 50) !important;
+}
+
+path {
+    color: rgb(230, 230, 230) !important;
+}
+
+/* Transparent banner - use together with background image */
+.header-wrap .banner {
+    background-image: url("https://github.com/ZenT3600/anilist-profile-src/blob/main/pfp/transparent-banner.png?raw=true") !important;
+    background-color: rgb(0, 0, 0, 0) !important;
+    box-shadow: 0px 0px 10px rgb(178, 178, 178);
+    margin: 10px;
+    height: auto !important;
+}
+
+.banner .shadow {
+    background: none !important;
+}
+
+.banner .avatar {
+    border: 5px solid lightgray;
+    border-radius: 0 !important;
+    box-shadow: 0px 0px 20px gray;
+}
+
+/*  favourites section wrapping */
+.favourites-wrap.anime,
+.favourites-wrap.manga,
+.favourites-wrap.characters,
+.favourites-wrap.staff,
+.favourites-wrap.studios {
+    overflow: visible;
+}
+
+/* About section scrollbar */
+.user .about > div.content-wrap:hover {
+    scrollbar-width: thin;
+}
+
+/* Profile activity (status/messages/list) Makes border corners rounded. Also required as bugfix for .avatar hover! */
+.wrap,
+.reply {
+    border-radius: var(--border-radius) !important;
+    overflow: visible !important;
+}
+/* Anime/manga displaying rounded corners, part 2 */
+.cover {
+    border-top-left-radius: var(--border-radius);
+    border-bottom-left-radius: var(--border-radius);
+}
+.list-stats {
+    border-radius: var(--border-radius) !important;
+}
+
+/* Horizontal rule border settings */
+.markdown hr {
+    border: solid 1px rgb(30, 30, 30);
+    border-radius: 1px;
+}
+
+/* Blockquotes*/
+.markdown blockquote {
+    margin-right: auto;
+}
+
+/* Site background color transparency */
+.site-theme-dark {
+    --color-foreground: 102, 102, 102 !important;
+    --color-background: 0, 0, 0, 0 !important;
+    --color-text-lighter: 30, 30, 30 !important;
+    --color-blue: 30, 30, 30 !important;
+}
+
+/*Hides hoh download button*/
+.hohDownload {
+    display: none;
+}
+
+/* Chrome scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+    background: rgb(30, 30, 30);
+}
+
+::-webkit-scrollbar-corner {
+    background: rgb(30, 30, 30);
+}
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 1ex;
+}
+
+/* Changes "Overview/Anime List/Manga List..." nav section. - shorter navbar*/
+.nav-wrap {
+    background: rgb(var(--color-foreground)) !important;
+    width: 65% !important;
+    margin: 0 auto !important;
+    border-radius: var(--border-radius) !important;
+}
+
+img.avatar,
+h1.name {
+    margin: auto;
+}
+
+/* Re-aligns profile picture and name. */
+.banner-content {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
+    width: auto !important;
+    background-color: rgb(var(--color-foreground));
+    padding: 10px;
+    border-radius: var(--border-radius) !important;
+    margin: auto;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-bottom: 10px
+}
+
+/* Re-aligns more stuff... Part of shorter navbar*/
+.content.container {
+    max-width: 65%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.activity-feed-wrap {
+    margin-left: 3%;
+}
+.stats-wrap {
+    margin-left: 3%;
+}
+
+/* Mobile (small screen size) only: */
+@media (max-width: 760px) {
+
+    /* Username positioning - mobile*/
+    .name-wrapper {
+        position: relative;
+        bottom: 5px;
+    }
+}
+
+
+/** PC (standard screen size) only: */
+@media (min-width: 761px) {
+    /*Donator badge*/
+    .nav-btn {
+        position: relative;
+        bottom: 0px;
+        top: -43px;
+        right: 20px;
+    }
+
+
+    /* Username positioning */
+    .name-wrapper {
+        position: relative;
+        bottom: 40px;
+    }
+}
+
+
+/* Makes box invisible for profile pic and username. */
+.banner-content {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.0);
+    background-color: rgba(16, 24, 35, 0.0);
+}
