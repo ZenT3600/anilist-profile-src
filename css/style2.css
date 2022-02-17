@@ -6,7 +6,6 @@
     --color-light-230: #e6e6e6;
     --color-light-250: #fafafa;
     --var-full-grayscale: 100%;
-    --var-banner: url("https://github.com/ZenT3600/anilist-profile-src/blob/main/pfp/transparent-banner.png?raw=true");
 
     /* Sunrise */
     --color2-dark-30: #1e1e1e;
@@ -24,7 +23,6 @@
     --color-default-text: var(--color-light-250);
     --color-default-dark: var(--color-dark-50);
     --default-var-grayscale: var(--var-full-grayscale);
-    --default-var-banner: var(--var-banner)
 
     --border-radius: 5px;
     background-color: var(--color-default-bg) !important;
@@ -45,18 +43,99 @@
 }
 
 
-
-.header-wrap:active .nav,
-.header-wrap:active ~ .content{
+/* Sunrise */
+.footer {
+    display: none
 }
+.header-wrap:active > .banner {
+    background-image: none !important;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
 
+}
+.header-wrap:active {
+    background-image: url("https://github.com/ZenT3600/anilist-profile-src/blob/main/pfp/banner2.jpg?raw=true") !important;
+}
 .name-wrapper:before {
     display: block;
     color: var(--color-default-text);
-    content: "Hover the Banner to change Theme!";
+    content: "Click & Hold the Banner to change Theme!";
+}
+.header-wrap:active ~ .content {
+    border: 5px solid #e0b094 !important;
+    background-color: #f2c3a4 !important;
+    max-width: 100% !important;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 0px !important;
+}
+.header-wrap:active > .banner > .container > .banner-content > .avatar {
+    border: 5px solid #e0b094 !important;
+    filter: sepia(50%);
+}
+.header-wrap:active > .nav-wrap > .nav {
+    max-width: 100% !important;
+    border: 3px solid #f2c3a4;
+    border-bottom: none;
+    background-color: #e0b094 !important;
+}
+.header-wrap:active ~ .content.container div.overview div.section div.desktop div.genre-overview.content-wrap div.percentage-bar,
+.header-wrap:active ~ .content.container div.overview div.section div.desktop div.genre-overview.content-wrap div.genres div.genre,
+.header-wrap:active ~ .content.container div.overview div.section div.desktop div.activity-history.content-wrap .history-day {
+    filter: sepia(100%) !important;
+}
+.header-wrap:active ~ .content.container div.user-social.user-social-unscoped div.user-follow div.wrap div.follow-card,
+.header-wrap:active ~ .content.container div.favourites div.favourites div.favourites-wrap a,
+.header-wrap:active ~ .content.container div.user-reviews div.review-wrap a.review-card div.banner,
+.header-wrap:active ~ .content.container div.stats div.stats-wrap div.overview section.highlights,
+.header-wrap:active ~ .content.container div.stats div.stats-wrap div.overview section,
+.header-wrap:active ~ .content.container div.overview div.section div.favourites.desktop.preview div.favourites-wrap .favourite {
+    filter: sepia(50%) !important;
+}
+.header-wrap:active ~ .content.container div.overview div.section div.activity-feed-wrap div.activity-feed div.activity-entry.activity-text div.wrap div.actions div.action.replies *,
+.header-wrap:active ~ .content.container div.overview div.section div.activity-feed-wrap div.activity-feed div.activity-entry.full-width.activity-text div.reply-wrap div.activity-replies div.reply div.header div.actions *,
+.header-wrap:active ~ .content.container div.user-reviews div.review-wrap a.review-card div.content div.header,
+.header-wrap:active ~ .content.container div.overview div.section div.activity-feed-wrap div.activity-feed div.activity-entry.activity-text div.wrap div.actions div.action.likes.hohHandledLike div.like-wrap.activity div.button * {
+    color: #c13442 !important
+}
+.header-wrap:active ~ .content.container div.overview div.section div.activity-feed-wrap div.activity-edit .input,
+.header-wrap:active ~ .content.container div.overview div.section div.activity-feed-wrap div.activity-feed .activity-entry > .wrap,
+.header-wrap:active ~ .content.container div.overview div.section div.activity-feed-wrap div.activity-feed div.activity-entry.full-width.activity-text div.reply-wrap div.activity-replies div.reply,
+.header-wrap:active ~ .content.container div.overview div.section div.activity-feed-wrap h2.section-header div.el-dropdown ul,
+.header-wrap:active ~ .content.container div.medialist.table div.lists div.list-wrap div.list-section,
+.header-wrap:active ~ .content.container div.favourites div.favourites div.favourites-wrap,
+.header-wrap:active ~ .content.container div.user-reviews div.review-wrap a.review-card div.content,
+.header-wrap:active ~ .content .content-wrap {
+    background-color: #d39876 !important;
+}
+.header-wrap:active ~ .content.container div.medialist.table div.lists div.list-wrap div.list-section {
+    color: #c13442 !important;
+}
+.header-wrap:active ~ .content.container div.medialist.table div.lists div.list-wrap div.list-section div.list-entries div.entry.row:hover {
+    background-color: #f7dbc8 !important;
+    color: #c13442 !important
+}
+.header-wrap:active ~ .content.container div.medialist.table div.lists div.list-wrap div.list-section div.list-entries div.entry.row div.cover {
+    filter: sepia(50%);
+}
+.header-wrap:active ~ .content.container div.overview div.section div.activity-feed-wrap div.activity-feed img,
+.header-wrap:active ~ .content img {
+    filter: sepia(50%);
+}
+.header-wrap:active ~ .content h1,
+.header-wrap:active ~ .content h2,
+.header-wrap:active ~ .content h3,
+.header-wrap:active ~ .content h4,
+.header-wrap:active ~ .content h5,
+.header-wrap:active ~ .content h6 {
+    color: #c13442 !important;
+}
+.header-wrap:active ~ .content a {
+    color: #d35865 !important;
 }
 
 .nav {
+    opacity: 75%;
     background-color: var(--color-default-dark-bg) !important;
 }
 
@@ -111,7 +190,7 @@ path {
 
 /* Transparent banner - use together with background image */
 .header-wrap .banner {
-    background-image: var(--default-var-banner) !important;
+    background-image: url("https://github.com/ZenT3600/anilist-profile-src/blob/main/pfp/transparent-banner.png?raw=true") !important;
     background-color: rgb(0, 0, 0, 0) !important;
     box-shadow: 0px 0px 10px rgb(178, 178, 178);
     margin: 10px;
