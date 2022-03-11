@@ -63,7 +63,7 @@
 .header-wrap:active ~ .content {
     border: 5px solid #CC9387 !important;
     background: url("https://github.com/ZenT3600/anilist-profile-src/blob/main/css/clouds.jpg?raw=true") !important;
-    background-repeat: no-repeat !important;
+    background-repeat: repeat-x !important;
     background-color: #925D64 !important;
     max-width: 100% !important;
     padding-top: 50px;
