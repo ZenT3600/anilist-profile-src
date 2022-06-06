@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 22 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (12:07, 06 June 2022)
+-   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
+-   📖 Plans to read [Ryokataomoi na Futago Shimai](https://anilist.co/manga/119832) (11:40, 06 June 2022)
 -   📖 Read chapter 1 - 21 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (09:11, 06 June 2022)
 -   📺 Completed [Futabu!!](https://anilist.co/anime/21076) (07:03, 06 June 2022)
 -   📖 Read chapter 1 - 24 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (03:49, 06 June 2022)
@@ -47,8 +50,5 @@
 -   📖 Read chapter 1 - 75 of [My Dress-Up Darling](https://anilist.co/manga/101583) (21:40, 22 May 2022)
 -   📺 Plans to watch [Scissor Seven](https://anilist.co/anime/107912) (20:57, 22 May 2022)
 -   📖 Plans to read [Wind Breaker](https://anilist.co/manga/86099) (17:42, 21 May 2022)
--   📺 Plans to watch [Adachi and Shimamura](https://anilist.co/anime/109287) (17:38, 21 May 2022)
--   📺 Plans to watch [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:52, 21 May 2022)
--   📺 Completed [The Asterisk War 2](https://anilist.co/anime/21390) (14:07, 20 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
