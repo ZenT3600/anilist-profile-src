@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 39 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (16:47, 06 June 2022)
 -   📺 Watched episode 1 - 17 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (14:55, 06 June 2022)
--   📖 Read chapter 1 - 22 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (12:07, 06 June 2022)
 -   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
 -   📖 Plans to read [Ryokataomoi na Futago Shimai](https://anilist.co/manga/119832) (11:40, 06 June 2022)
 -   📖 Read chapter 1 - 21 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (09:11, 06 June 2022)
