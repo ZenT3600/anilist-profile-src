@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 40 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (16:59, 06 June 2022)
+-   📖 Read chapter 1 - 44 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:08, 06 June 2022)
+-   📖 Plans to read [Kaiju No.8](https://anilist.co/manga/120760) (17:58, 06 June 2022)
 -   📺 Watched episode 1 - 17 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (14:55, 06 June 2022)
 -   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
 -   📖 Plans to read [Ryokataomoi na Futago Shimai](https://anilist.co/manga/119832) (11:40, 06 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 93 - 146 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (21:42, 22 May 2022)
 -   📖 Read chapter 1 - 75 of [My Dress-Up Darling](https://anilist.co/manga/101583) (21:40, 22 May 2022)
 -   📺 Plans to watch [Scissor Seven](https://anilist.co/anime/107912) (20:57, 22 May 2022)
--   📖 Plans to read [Wind Breaker](https://anilist.co/manga/86099) (17:42, 21 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
