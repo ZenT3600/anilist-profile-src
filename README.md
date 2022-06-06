@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Futabu!!](https://anilist.co/anime/21076) (07:03, 06 June 2022)
 -   📖 Read chapter 1 - 24 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (03:49, 06 June 2022)
 -   📖 Completed [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
 -   📖 Read chapter 1 - 145 of [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:52, 21 May 2022)
 -   📺 Completed [The Asterisk War 2](https://anilist.co/anime/21390) (14:07, 20 May 2022)
 -   📺 Watched episode 1 - 11 of [The Asterisk War 2](https://anilist.co/anime/21390) (13:47, 20 May 2022)
--   📺 Plans to watch [The Asterisk War 2](https://anilist.co/anime/21390) (14:40, 18 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
