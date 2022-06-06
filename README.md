@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 49 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (19:05, 06 June 2022)
+-   📖 Read chapter 1 - 57 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (19:20, 06 June 2022)
 -   📖 Plans to read [Kaiju No.8](https://anilist.co/manga/120760) (17:58, 06 June 2022)
 -   📺 Watched episode 1 - 17 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (14:55, 06 June 2022)
 -   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
