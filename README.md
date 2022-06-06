@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 17 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (14:55, 06 June 2022)
 -   📖 Read chapter 1 - 22 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (12:07, 06 June 2022)
 -   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
 -   📖 Plans to read [Ryokataomoi na Futago Shimai](https://anilist.co/manga/119832) (11:40, 06 June 2022)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 145 of [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
 -   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (10:43, 05 June 2022)
 -   📖 Read chapter 1 - 115 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (23:38, 04 June 2022)
--   📺 Watched episode 1 - 15 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (20:54, 04 June 2022)
 -   📺 Watched episode 1 - 10 of [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (20:25, 04 June 2022)
 -   📖 Read chapter 1 - 83 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 04 June 2022)
 -   📖 Completed [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:13, 03 June 2022)
