@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 99 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (15:21, 07 June 2022)
+-   📖 Read chapter 1 - 106 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (17:13, 07 June 2022)
 -   📖 Read chapter 1 - 76 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:27, 07 June 2022)
 -   📖 Read chapter 1 - 116 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:51, 07 June 2022)
 -   📖 Plans to read [Kaiju No.8](https://anilist.co/manga/120760) (17:58, 06 June 2022)
