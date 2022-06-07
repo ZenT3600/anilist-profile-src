@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 76 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:27, 07 June 2022)
 -   📖 Read chapter 1 - 116 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:51, 07 June 2022)
 -   📖 Read chapter 1 - 57 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (19:20, 06 June 2022)
 -   📖 Plans to read [Kaiju No.8](https://anilist.co/manga/120760) (17:58, 06 June 2022)
@@ -48,7 +49,6 @@
 -   📺 Completed [Princess Mononoke](https://anilist.co/anime/164) (23:51, 22 May 2022)
 -   📺 Completed [The Wind Rises](https://anilist.co/anime/16662) (23:50, 22 May 2022)
 -   📖 Read chapter 93 - 146 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (21:42, 22 May 2022)
--   📖 Read chapter 1 - 75 of [My Dress-Up Darling](https://anilist.co/manga/101583) (21:40, 22 May 2022)
 -   📺 Plans to watch [Scissor Seven](https://anilist.co/anime/107912) (20:57, 22 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
