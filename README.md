@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 108 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:18, 09 June 2022)
 -   📖 Plans to read [Nihikime no Kingyo](https://anilist.co/manga/101983) (11:00, 09 June 2022)
 -   📖 Read chapter 1 - 108 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (17:17, 07 June 2022)
 -   📖 Read chapter 1 - 76 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:27, 07 June 2022)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 83 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 04 June 2022)
 -   📖 Completed [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:13, 03 June 2022)
 -   📖 Read chapter 1 - 49 of [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:12, 03 June 2022)
--   📖 Read chapter 1 - 107 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:09, 03 June 2022)
 -   📖 Completed [Doubutsutachi](https://anilist.co/manga/101984) (13:23, 03 June 2022)
 -   📖 Read chapter 1 - 8 of [Call of the Night](https://anilist.co/manga/111233) (12:36, 03 June 2022)
 -   📖 Completed [Risouteki Boyfriend](https://anilist.co/manga/100195) (16:50, 02 June 2022)
