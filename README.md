@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 - 10 of [Nihikime no Kingyo](https://anilist.co/manga/101983) (15:35, 10 June 2022)
 -   📖 Read chapter 110 - 130 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (13:52, 10 June 2022)
 -   📖 Read chapter 1 - 108 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:18, 09 June 2022)
 -   📖 Plans to read [Nihikime no Kingyo](https://anilist.co/manga/101983) (11:00, 09 June 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Castle in the Sky](https://anilist.co/anime/513) (23:53, 22 May 2022)
 -   📺 Completed [Kiki's Delivery Service](https://anilist.co/anime/512) (23:51, 22 May 2022)
 -   📺 Completed [Princess Mononoke](https://anilist.co/anime/164) (23:51, 22 May 2022)
--   📺 Completed [The Wind Rises](https://anilist.co/anime/16662) (23:50, 22 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
