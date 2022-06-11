@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Goodbye, Eri](https://anilist.co/manga/146983) (06:31, 11 June 2022)
+-   📖 Read chapter 1 - 28 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (06:25, 11 June 2022)
 -   📖 Read chapter 6 - 10 of [Nihikime no Kingyo](https://anilist.co/manga/101983) (15:35, 10 June 2022)
 -   📖 Read chapter 110 - 130 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (13:52, 10 June 2022)
 -   📖 Read chapter 1 - 108 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:18, 09 June 2022)
@@ -11,7 +13,6 @@
 -   📺 Watched episode 1 - 17 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (14:55, 06 June 2022)
 -   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
 -   📖 Plans to read [Ryokataomoi na Futago Shimai](https://anilist.co/manga/119832) (11:40, 06 June 2022)
--   📖 Read chapter 1 - 21 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (09:11, 06 June 2022)
 -   📺 Completed [Futabu!!](https://anilist.co/anime/21076) (07:03, 06 June 2022)
 -   📖 Read chapter 1 - 24 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (03:49, 06 June 2022)
 -   📖 Completed [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Nausicaä of the Valley of the Wind](https://anilist.co/anime/572) (23:53, 22 May 2022)
 -   📺 Completed [Castle in the Sky](https://anilist.co/anime/513) (23:53, 22 May 2022)
 -   📺 Completed [Kiki's Delivery Service](https://anilist.co/anime/512) (23:51, 22 May 2022)
--   📺 Completed [Princess Mononoke](https://anilist.co/anime/164) (23:51, 22 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
