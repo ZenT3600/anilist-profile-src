@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (12:11, 11 June 2022)
+-   📖 Paused reading [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (12:01, 11 June 2022)
 -   📖 Completed [Goodbye, Eri](https://anilist.co/manga/146983) (06:56, 11 June 2022)
 -   📖 Plans to read [Goodbye, Eri](https://anilist.co/manga/146983) (06:31, 11 June 2022)
 -   📖 Read chapter 1 - 28 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (06:25, 11 June 2022)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [Risouteki Boyfriend](https://anilist.co/manga/100195) (06:17, 24 May 2022)
 -   📖 Read chapter 1 - 26 of [Citrus+](https://anilist.co/manga/103884) (06:15, 24 May 2022)
 -   📺 Completed [Porco Rosso](https://anilist.co/anime/416) (23:54, 22 May 2022)
--   📺 Completed [Nausicaä of the Valley of the Wind](https://anilist.co/anime/572) (23:53, 22 May 2022)
--   📺 Completed [Castle in the Sky](https://anilist.co/anime/513) (23:53, 22 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
