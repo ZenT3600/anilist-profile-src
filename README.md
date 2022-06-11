@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Goodbye, Eri](https://anilist.co/manga/146983) (06:56, 11 June 2022)
 -   📖 Plans to read [Goodbye, Eri](https://anilist.co/manga/146983) (06:31, 11 June 2022)
 -   📖 Read chapter 1 - 28 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (06:25, 11 June 2022)
 -   📖 Read chapter 6 - 10 of [Nihikime no Kingyo](https://anilist.co/manga/101983) (15:35, 10 June 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Porco Rosso](https://anilist.co/anime/416) (23:54, 22 May 2022)
 -   📺 Completed [Nausicaä of the Valley of the Wind](https://anilist.co/anime/572) (23:53, 22 May 2022)
 -   📺 Completed [Castle in the Sky](https://anilist.co/anime/513) (23:53, 22 May 2022)
--   📺 Completed [Kiki's Delivery Service](https://anilist.co/anime/512) (23:51, 22 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
