@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (13:21, 11 June 2022)
+-   📖 Read chapter 1 - 12 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (14:03, 11 June 2022)
 -   📖 Paused reading [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (12:01, 11 June 2022)
 -   📖 Completed [Goodbye, Eri](https://anilist.co/manga/146983) (06:56, 11 June 2022)
 -   📖 Plans to read [Goodbye, Eri](https://anilist.co/manga/146983) (06:31, 11 June 2022)
