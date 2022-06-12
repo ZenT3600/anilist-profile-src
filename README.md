@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Record of Ragnarok](https://anilist.co/manga/107098) (06:36, 12 June 2022)
+-   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (06:35, 12 June 2022)
 -   📖 Read chapter 1 - 36 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (03:53, 12 June 2022)
 -   📖 Read chapter 1 - 19 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (21:49, 11 June 2022)
 -   📖 Read chapter 47 - 48 of [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (16:22, 11 June 2022)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 5 of [Tsuki Iro no Invader](https://anilist.co/manga/106460) (10:44, 24 May 2022)
 -   📖 Plans to read [Tsuki Iro no Invader](https://anilist.co/manga/106460) (10:02, 24 May 2022)
 -   📖 Plans to read [Risouteki Boyfriend](https://anilist.co/manga/100195) (06:17, 24 May 2022)
--   📖 Read chapter 1 - 26 of [Citrus+](https://anilist.co/manga/103884) (06:15, 24 May 2022)
--   📺 Completed [Porco Rosso](https://anilist.co/anime/416) (23:54, 22 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
