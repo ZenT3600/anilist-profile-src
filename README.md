@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [Record of Ragnarok](https://anilist.co/manga/107098) (23:02, 12 June 2022)
 -   📖 Read chapter 1 - 85 of [Yankee-kun to Hakujou Girl](https://anilist.co/manga/107445) (16:20, 12 June 2022)
--   📖 Read chapter 1 - 2 of [Record of Ragnarok](https://anilist.co/manga/107098) (10:54, 12 June 2022)
 -   📖 Plans to read [Record of Ragnarok](https://anilist.co/manga/107098) (06:36, 12 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (06:35, 12 June 2022)
 -   📖 Read chapter 1 - 36 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (03:53, 12 June 2022)
