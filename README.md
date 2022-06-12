@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Record of Ragnarok](https://anilist.co/manga/107098) (10:54, 12 June 2022)
 -   📖 Plans to read [Record of Ragnarok](https://anilist.co/manga/107098) (06:36, 12 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (06:35, 12 June 2022)
 -   📖 Read chapter 1 - 36 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (03:53, 12 June 2022)
@@ -49,6 +50,5 @@
 -   📺 Watched episode 2 - 3 of [Baka na Imouto o Rikou ni Suru no wa Ore no XX Dake na Ken ni Tsuite](https://anilist.co/anime/21632) (18:48, 25 May 2022)
 -   📖 Read chapter 5 of [Tsuki Iro no Invader](https://anilist.co/manga/106460) (10:44, 24 May 2022)
 -   📖 Plans to read [Tsuki Iro no Invader](https://anilist.co/manga/106460) (10:02, 24 May 2022)
--   📖 Plans to read [Risouteki Boyfriend](https://anilist.co/manga/100195) (06:17, 24 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
