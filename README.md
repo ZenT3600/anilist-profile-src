@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 25 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:33, 13 June 2022)
 -   📖 Read chapter 1 - 4 of [Record of Ragnarok](https://anilist.co/manga/107098) (23:02, 12 June 2022)
 -   📖 Read chapter 1 - 85 of [Yankee-kun to Hakujou Girl](https://anilist.co/manga/107445) (16:20, 12 June 2022)
 -   📖 Plans to read [Record of Ragnarok](https://anilist.co/manga/107098) (06:36, 12 June 2022)
@@ -23,7 +24,6 @@
 -   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
 -   📖 Plans to read [Ryokataomoi na Futago Shimai](https://anilist.co/manga/119832) (11:40, 06 June 2022)
 -   📺 Completed [Futabu!!](https://anilist.co/anime/21076) (07:03, 06 June 2022)
--   📖 Read chapter 1 - 24 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (03:49, 06 June 2022)
 -   📖 Completed [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
 -   📖 Read chapter 1 - 145 of [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
 -   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (10:43, 05 June 2022)
