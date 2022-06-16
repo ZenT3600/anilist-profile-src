@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 109 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:57, 16 June 2022)
+-   📖 Read chapter 110 - 132 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (15:52, 16 June 2022)
 -   📖 Read chapter 1 - 25 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:33, 13 June 2022)
 -   📖 Read chapter 1 - 4 of [Record of Ragnarok](https://anilist.co/manga/107098) (23:02, 12 June 2022)
 -   📖 Read chapter 1 - 85 of [Yankee-kun to Hakujou Girl](https://anilist.co/manga/107445) (16:20, 12 June 2022)
@@ -13,8 +15,6 @@
 -   📖 Completed [Goodbye, Eri](https://anilist.co/manga/146983) (06:56, 11 June 2022)
 -   📖 Plans to read [Goodbye, Eri](https://anilist.co/manga/146983) (06:31, 11 June 2022)
 -   📖 Read chapter 6 - 10 of [Nihikime no Kingyo](https://anilist.co/manga/101983) (15:35, 10 June 2022)
--   📖 Read chapter 110 - 130 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (13:52, 10 June 2022)
--   📖 Read chapter 1 - 108 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:18, 09 June 2022)
 -   📖 Plans to read [Nihikime no Kingyo](https://anilist.co/manga/101983) (11:00, 09 June 2022)
 -   📖 Read chapter 1 - 108 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (17:17, 07 June 2022)
 -   📖 Read chapter 1 - 76 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:27, 07 June 2022)
