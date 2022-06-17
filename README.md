@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 199 of [Komi Can't Communicate](https://anilist.co/manga/97852) (11:11, 17 June 2022)
 -   📺 Watched episode 1 of [Adachi and Shimamura](https://anilist.co/anime/109287) (06:33, 17 June 2022)
 -   📖 Read chapter 1 - 8 of [Record of Ragnarok](https://anilist.co/manga/107098) (18:04, 16 June 2022)
 -   📖 Read chapter 1 - 109 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:57, 16 June 2022)
@@ -36,7 +37,6 @@
 -   📖 Completed [Risouteki Boyfriend](https://anilist.co/manga/100195) (16:50, 02 June 2022)
 -   📖 Read chapter 1 - 28 of [Risouteki Boyfriend](https://anilist.co/manga/100195) (16:48, 02 June 2022)
 -   📖 Plans to read [Doubutsutachi](https://anilist.co/manga/101984) (15:38, 02 June 2022)
--   📖 Read chapter 62 - 195 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:51, 02 June 2022)
 -   📺 Watched episode 1 of [Futabu!!](https://anilist.co/anime/21076) (07:02, 02 June 2022)
 -   📺 Completed [Futabu!](https://anilist.co/anime/21062) (07:02, 02 June 2022)
 -   📺 Completed [One → Shota ← One THE ANIMATION](https://anilist.co/anime/123360) (07:02, 02 June 2022)
