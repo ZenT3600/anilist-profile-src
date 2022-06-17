@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 202 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:48, 17 June 2022)
 -   📖 Read chapter 1 - 13 of [Record of Ragnarok](https://anilist.co/manga/107098) (12:48, 17 June 2022)
 -   📺 Watched episode 1 - 3 of [Adachi and Shimamura](https://anilist.co/anime/109287) (12:18, 17 June 2022)
--   📖 Read chapter 62 - 199 of [Komi Can't Communicate](https://anilist.co/manga/97852) (11:11, 17 June 2022)
 -   📖 Read chapter 1 - 109 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:57, 16 June 2022)
 -   📖 Read chapter 110 - 132 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (15:52, 16 June 2022)
 -   📖 Read chapter 1 - 25 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:33, 13 June 2022)
