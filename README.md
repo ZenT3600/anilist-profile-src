@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Adachi and Shimamura](https://anilist.co/anime/109287) (11:57, 17 June 2022)
 -   📖 Read chapter 62 - 199 of [Komi Can't Communicate](https://anilist.co/manga/97852) (11:11, 17 June 2022)
--   📺 Watched episode 1 of [Adachi and Shimamura](https://anilist.co/anime/109287) (06:33, 17 June 2022)
 -   📖 Read chapter 1 - 8 of [Record of Ragnarok](https://anilist.co/manga/107098) (18:04, 16 June 2022)
 -   📖 Read chapter 1 - 109 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:57, 16 June 2022)
 -   📖 Read chapter 110 - 132 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (15:52, 16 June 2022)
