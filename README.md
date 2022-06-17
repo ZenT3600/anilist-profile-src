@@ -8,7 +8,7 @@
 -   📖 Read chapter 1 - 109 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:57, 16 June 2022)
 -   📖 Read chapter 110 - 132 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (15:52, 16 June 2022)
 -   📖 Read chapter 1 - 25 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:33, 13 June 2022)
--   📖 Read chapter 1 - 85 of [Yankee-kun to Hakujou Girl](https://anilist.co/manga/107445) (16:20, 12 June 2022)
+-   📖 Read chapter 1 - 85 of [Love’s in Sight!](https://anilist.co/manga/107445) (16:20, 12 June 2022)
 -   📖 Plans to read [Record of Ragnarok](https://anilist.co/manga/107098) (06:36, 12 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (06:35, 12 June 2022)
 -   📖 Read chapter 1 - 36 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (03:53, 12 June 2022)
