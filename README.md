@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Adachi and Shimamura](https://anilist.co/anime/109287) (06:33, 17 June 2022)
 -   📖 Read chapter 1 - 8 of [Record of Ragnarok](https://anilist.co/manga/107098) (18:04, 16 June 2022)
 -   📖 Read chapter 1 - 109 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:57, 16 June 2022)
 -   📖 Read chapter 110 - 132 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (15:52, 16 June 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Baka na Imouto o Rikou ni Suru no wa Ore no XX Dake na Ken ni Tsuite](https://anilist.co/anime/21632) (14:19, 26 May 2022)
 -   📺 Watched episode 2 - 3 of [Baka na Imouto o Rikou ni Suru no wa Ore no XX Dake na Ken ni Tsuite](https://anilist.co/anime/21632) (18:48, 25 May 2022)
 -   📖 Read chapter 5 of [Tsuki Iro no Invader](https://anilist.co/manga/106460) (10:44, 24 May 2022)
--   📖 Plans to read [Tsuki Iro no Invader](https://anilist.co/manga/106460) (10:02, 24 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
