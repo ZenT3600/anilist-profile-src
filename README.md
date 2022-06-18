@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 23 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:56, 18 June 2022)
 -   📖 Read chapter 1 - 117 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 18 June 2022)
 -   📺 Watched episode 1 of [OniAi](https://anilist.co/anime/14199) (06:22, 18 June 2022)
--   📖 Read chapter 1 - 18 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:24, 18 June 2022)
 -   📖 Plans to read [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:33, 17 June 2022)
 -   📺 Plans to watch [OniAi](https://anilist.co/anime/14199) (17:51, 17 June 2022)
 -   📺 Completed [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (17:41, 17 June 2022)
