@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 117 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 18 June 2022)
+-   📺 Watched episode 1 of [OniAi](https://anilist.co/anime/14199) (06:22, 18 June 2022)
 -   📖 Read chapter 1 - 18 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:24, 18 June 2022)
 -   📖 Plans to read [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:33, 17 June 2022)
 -   📺 Plans to watch [OniAi](https://anilist.co/anime/14199) (17:51, 17 June 2022)
@@ -24,7 +26,6 @@
 -   📖 Plans to read [Nihikime no Kingyo](https://anilist.co/manga/101983) (11:00, 09 June 2022)
 -   📖 Read chapter 1 - 108 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (17:17, 07 June 2022)
 -   📖 Read chapter 1 - 76 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:27, 07 June 2022)
--   📖 Read chapter 1 - 116 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:51, 07 June 2022)
 -   📖 Plans to read [Kaiju No.8](https://anilist.co/manga/120760) (17:58, 06 June 2022)
 -   📺 Watched episode 1 - 17 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (14:55, 06 June 2022)
 -   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 28 - 38 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (05:52, 01 June 2022)
 -   📖 Plans to read [Our Dreams at Dusk: Shimanami Tasogare](https://anilist.co/manga/87208) (05:29, 01 June 2022)
 -   📖 Completed [Boy Meets Maria](https://anilist.co/manga/114027) (12:51, 31 May 2022)
--   📖 Plans to read [Boy Meets Maria](https://anilist.co/manga/114027) (11:45, 31 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
