@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 42 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:11, 19 June 2022)
+-   📖 Read chapter 1 - 47 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:33, 19 June 2022)
 -   📖 Completed [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:35, 19 June 2022)
 -   📖 Read chapter 1 - 22 of [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:33, 19 June 2022)
 -   📖 Plans to read [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (03:39, 19 June 2022)
