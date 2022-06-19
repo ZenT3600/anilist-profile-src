@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 56 of [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:04, 19 June 2022)
+-   📖 Completed [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:22, 19 June 2022)
+-   📖 Read chapter 1 - 60 of [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:21, 19 June 2022)
 -   📖 Read chapter 62 - 207 of [Komi Can't Communicate](https://anilist.co/manga/97852) (13:13, 19 June 2022)
 -   📖 Read chapter 1 - 47 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:33, 19 June 2022)
 -   📖 Completed [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:35, 19 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Doubutsutachi](https://anilist.co/manga/101984) (15:38, 02 June 2022)
 -   📺 Watched episode 1 of [Futabu!!](https://anilist.co/anime/21076) (07:02, 02 June 2022)
 -   📺 Completed [Futabu!](https://anilist.co/anime/21062) (07:02, 02 June 2022)
--   📺 Completed [One → Shota ← One THE ANIMATION](https://anilist.co/anime/123360) (07:02, 02 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
