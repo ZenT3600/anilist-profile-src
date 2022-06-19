@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 23 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:56, 18 June 2022)
+-   📖 Read chapter 1 - 39 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:19, 19 June 2022)
+-   📖 Read chapter 1 - 15 of [Cuprum no Hanayome](https://anilist.co/manga/117675) (00:45, 19 June 2022)
 -   📖 Read chapter 1 - 117 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 18 June 2022)
 -   📺 Watched episode 1 of [OniAi](https://anilist.co/anime/14199) (06:22, 18 June 2022)
 -   📖 Plans to read [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:33, 17 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Our Not-So-Lonely Planet Travel Guide](https://anilist.co/manga/115348) (15:33, 01 June 2022)
 -   📖 Read chapter 28 - 38 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (05:52, 01 June 2022)
 -   📖 Plans to read [Our Dreams at Dusk: Shimanami Tasogare](https://anilist.co/manga/87208) (05:29, 01 June 2022)
--   📖 Completed [Boy Meets Maria](https://anilist.co/manga/114027) (12:51, 31 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
