@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 13 of [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:06, 19 June 2022)
+-   📖 Completed [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:35, 19 June 2022)
+-   📖 Read chapter 1 - 22 of [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:33, 19 June 2022)
 -   📖 Plans to read [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (03:39, 19 June 2022)
 -   📖 Read chapter 1 - 39 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:19, 19 June 2022)
 -   📖 Read chapter 1 - 15 of [Cuprum no Hanayome](https://anilist.co/manga/117675) (00:45, 19 June 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Futabu!](https://anilist.co/anime/21062) (07:02, 02 June 2022)
 -   📺 Completed [One → Shota ← One THE ANIMATION](https://anilist.co/anime/123360) (07:02, 02 June 2022)
 -   📖 Plans to read [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:12, 01 June 2022)
--   📖 Plans to read [Our Not-So-Lonely Planet Travel Guide](https://anilist.co/manga/115348) (15:33, 01 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
