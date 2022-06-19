@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 207 of [Komi Can't Communicate](https://anilist.co/manga/97852) (13:13, 19 June 2022)
 -   📖 Read chapter 1 - 47 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:33, 19 June 2022)
 -   📖 Completed [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:35, 19 June 2022)
 -   📖 Read chapter 1 - 22 of [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:33, 19 June 2022)
@@ -10,7 +11,6 @@
 -   📖 Plans to read [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:33, 17 June 2022)
 -   📺 Plans to watch [OniAi](https://anilist.co/anime/14199) (17:51, 17 June 2022)
 -   📺 Completed [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (17:41, 17 June 2022)
--   📖 Read chapter 62 - 202 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:48, 17 June 2022)
 -   📖 Read chapter 1 - 13 of [Record of Ragnarok](https://anilist.co/manga/107098) (12:48, 17 June 2022)
 -   📺 Watched episode 1 - 3 of [Adachi and Shimamura](https://anilist.co/anime/109287) (12:18, 17 June 2022)
 -   📖 Read chapter 1 - 109 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:57, 16 June 2022)
