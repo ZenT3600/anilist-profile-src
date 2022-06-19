@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 13 of [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:06, 19 June 2022)
+-   📖 Plans to read [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (03:39, 19 June 2022)
 -   📖 Read chapter 1 - 39 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:19, 19 June 2022)
 -   📖 Read chapter 1 - 15 of [Cuprum no Hanayome](https://anilist.co/manga/117675) (00:45, 19 June 2022)
 -   📖 Read chapter 1 - 117 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 18 June 2022)
@@ -48,7 +50,5 @@
 -   📺 Completed [One → Shota ← One THE ANIMATION](https://anilist.co/anime/123360) (07:02, 02 June 2022)
 -   📖 Plans to read [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:12, 01 June 2022)
 -   📖 Plans to read [Our Not-So-Lonely Planet Travel Guide](https://anilist.co/manga/115348) (15:33, 01 June 2022)
--   📖 Read chapter 28 - 38 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (05:52, 01 June 2022)
--   📖 Plans to read [Our Dreams at Dusk: Shimanami Tasogare](https://anilist.co/manga/87208) (05:29, 01 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
