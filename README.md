@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [My Boy in Blue](https://anilist.co/manga/85451) (04:46, 20 June 2022)
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
 -   📖 Completed [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:22, 19 June 2022)
 -   📖 Read chapter 1 - 60 of [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:21, 19 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 28 of [Risouteki Boyfriend](https://anilist.co/manga/100195) (16:48, 02 June 2022)
 -   📖 Plans to read [Doubutsutachi](https://anilist.co/manga/101984) (15:38, 02 June 2022)
 -   📺 Watched episode 1 of [Futabu!!](https://anilist.co/anime/21076) (07:02, 02 June 2022)
--   📺 Completed [Futabu!](https://anilist.co/anime/21062) (07:02, 02 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
