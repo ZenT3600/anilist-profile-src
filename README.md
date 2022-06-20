@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 14 of [My Boy in Blue](https://anilist.co/manga/85451) (15:36, 20 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (12:14, 20 June 2022)
 -   📖 Read chapter 1 - 118 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (11:06, 20 June 2022)
--   📖 Read chapter 1 - 12 of [My Boy in Blue](https://anilist.co/manga/85451) (10:56, 20 June 2022)
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
 -   📖 Completed [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:22, 19 June 2022)
 -   📖 Read chapter 1 - 60 of [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:21, 19 June 2022)
