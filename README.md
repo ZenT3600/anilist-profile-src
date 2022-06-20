@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 118 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (11:06, 20 June 2022)
 -   📖 Read chapter 1 - 12 of [My Boy in Blue](https://anilist.co/manga/85451) (10:56, 20 June 2022)
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
 -   📖 Completed [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:22, 19 June 2022)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 22 of [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:33, 19 June 2022)
 -   📖 Plans to read [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (03:39, 19 June 2022)
 -   📖 Read chapter 1 - 15 of [Cuprum no Hanayome](https://anilist.co/manga/117675) (00:45, 19 June 2022)
--   📖 Read chapter 1 - 117 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 18 June 2022)
 -   📖 Plans to read [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:33, 17 June 2022)
 -   📺 Plans to watch [OniAi](https://anilist.co/anime/14199) (17:51, 17 June 2022)
 -   📺 Completed [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (17:41, 17 June 2022)
