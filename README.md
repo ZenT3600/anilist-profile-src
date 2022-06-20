@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [My Boy in Blue](https://anilist.co/manga/85451) (05:12, 20 June 2022)
+-   📖 Read chapter 1 - 7 of [My Boy in Blue](https://anilist.co/manga/85451) (10:06, 20 June 2022)
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
 -   📖 Completed [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:22, 19 June 2022)
 -   📖 Read chapter 1 - 60 of [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:21, 19 June 2022)
