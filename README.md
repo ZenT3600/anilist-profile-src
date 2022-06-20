@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 109 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:37, 20 June 2022)
 -   📖 Read chapter 1 - 20 of [My Boy in Blue](https://anilist.co/manga/85451) (16:15, 20 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (12:14, 20 June 2022)
 -   📖 Read chapter 1 - 118 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (11:06, 20 June 2022)
@@ -32,7 +33,6 @@
 -   📖 Plans to read [Goodbye, Eri](https://anilist.co/manga/146983) (06:31, 11 June 2022)
 -   📖 Read chapter 6 - 10 of [Nihikime no Kingyo](https://anilist.co/manga/101983) (15:35, 10 June 2022)
 -   📖 Plans to read [Nihikime no Kingyo](https://anilist.co/manga/101983) (11:00, 09 June 2022)
--   📖 Read chapter 1 - 108 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (17:17, 07 June 2022)
 -   📖 Read chapter 1 - 76 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:27, 07 June 2022)
 -   📖 Plans to read [Kaiju No.8](https://anilist.co/manga/120760) (17:58, 06 June 2022)
 -   📺 Watched episode 1 - 17 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (14:55, 06 June 2022)
