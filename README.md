@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 21 of [My Boy in Blue](https://anilist.co/manga/85451) (18:46, 20 June 2022)
 -   📖 Read chapter 1 - 109 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:37, 20 June 2022)
--   📖 Read chapter 1 - 20 of [My Boy in Blue](https://anilist.co/manga/85451) (16:15, 20 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (12:14, 20 June 2022)
 -   📖 Read chapter 1 - 118 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (11:06, 20 June 2022)
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
