@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (12:14, 20 June 2022)
 -   📖 Read chapter 1 - 118 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (11:06, 20 June 2022)
 -   📖 Read chapter 1 - 12 of [My Boy in Blue](https://anilist.co/manga/85451) (10:56, 20 June 2022)
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [Risouteki Boyfriend](https://anilist.co/manga/100195) (16:50, 02 June 2022)
 -   📖 Read chapter 1 - 28 of [Risouteki Boyfriend](https://anilist.co/manga/100195) (16:48, 02 June 2022)
 -   📖 Plans to read [Doubutsutachi](https://anilist.co/manga/101984) (15:38, 02 June 2022)
--   📺 Watched episode 1 of [Futabu!!](https://anilist.co/anime/21076) (07:02, 02 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
