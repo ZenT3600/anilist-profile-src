@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 22 of [My Boy in Blue](https://anilist.co/manga/85451) (18:37, 21 June 2022)
+-   📖 Read chapter 1 - 25 of [My Boy in Blue](https://anilist.co/manga/85451) (19:00, 21 June 2022)
 -   📖 Read chapter 1 - 120 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:52, 21 June 2022)
 -   📖 Read chapter 1 - 18 of [Call of the Night](https://anilist.co/manga/111233) (11:46, 21 June 2022)
 -   📖 Read chapter 1 - 109 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:37, 20 June 2022)
