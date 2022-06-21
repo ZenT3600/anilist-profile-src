@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 18 of [Call of the Night](https://anilist.co/manga/111233) (11:46, 21 June 2022)
 -   📖 Read chapter 1 - 21 of [My Boy in Blue](https://anilist.co/manga/85451) (18:46, 20 June 2022)
 -   📖 Read chapter 1 - 109 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:37, 20 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (12:14, 20 June 2022)
@@ -46,7 +47,6 @@
 -   📖 Completed [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:13, 03 June 2022)
 -   📖 Read chapter 1 - 49 of [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:12, 03 June 2022)
 -   📖 Completed [Doubutsutachi](https://anilist.co/manga/101984) (13:23, 03 June 2022)
--   📖 Read chapter 1 - 8 of [Call of the Night](https://anilist.co/manga/111233) (12:36, 03 June 2022)
 -   📖 Completed [Risouteki Boyfriend](https://anilist.co/manga/100195) (16:50, 02 June 2022)
 -   📖 Read chapter 1 - 28 of [Risouteki Boyfriend](https://anilist.co/manga/100195) (16:48, 02 June 2022)
 -   📖 Plans to read [Doubutsutachi](https://anilist.co/manga/101984) (15:38, 02 June 2022)
