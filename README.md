@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 23 of [Martial Peak](https://anilist.co/manga/104494) (18:08, 22 June 2022)
+-   📖 Read chapter 1 - 121 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:39, 22 June 2022)
+-   📖 Read chapter 1 - 33 of [Martial Peak](https://anilist.co/manga/104494) (18:34, 22 June 2022)
 -   📖 Plans to read [Martial Peak](https://anilist.co/manga/104494) (17:14, 22 June 2022)
 -   📖 Read chapter 1 - 36 of [My Boy in Blue](https://anilist.co/manga/85451) (16:56, 22 June 2022)
 -   📖 Read chapter 1 - 77 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:06, 22 June 2022)
 -   📖 Read chapter 28 - 39 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (06:01, 22 June 2022)
 -   📺 Watched episode 1 of [Shoujo Ramune](https://anilist.co/anime/21828) (19:23, 21 June 2022)
--   📖 Read chapter 1 - 120 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:52, 21 June 2022)
 -   📖 Read chapter 1 - 18 of [Call of the Night](https://anilist.co/manga/111233) (11:46, 21 June 2022)
 -   📖 Read chapter 1 - 109 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:37, 20 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (12:14, 20 June 2022)
