@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 17 of [Martial Peak](https://anilist.co/manga/104494) (17:43, 22 June 2022)
 -   📖 Plans to read [Martial Peak](https://anilist.co/manga/104494) (17:14, 22 June 2022)
 -   📖 Read chapter 1 - 36 of [My Boy in Blue](https://anilist.co/manga/85451) (16:56, 22 June 2022)
 -   📖 Read chapter 1 - 77 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:06, 22 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 83 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 04 June 2022)
 -   📖 Completed [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:13, 03 June 2022)
 -   📖 Read chapter 1 - 49 of [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:12, 03 June 2022)
--   📖 Completed [Doubutsutachi](https://anilist.co/manga/101984) (13:23, 03 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
