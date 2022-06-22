@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 35 of [My Boy in Blue](https://anilist.co/manga/85451) (16:50, 22 June 2022)
+-   📖 Plans to read [Martial Peak](https://anilist.co/manga/104494) (17:14, 22 June 2022)
+-   📖 Read chapter 1 - 36 of [My Boy in Blue](https://anilist.co/manga/85451) (16:56, 22 June 2022)
 -   📖 Read chapter 1 - 77 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:06, 22 June 2022)
 -   📖 Read chapter 28 - 39 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (06:01, 22 June 2022)
 -   📺 Watched episode 1 of [Shoujo Ramune](https://anilist.co/anime/21828) (19:23, 21 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:13, 03 June 2022)
 -   📖 Read chapter 1 - 49 of [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:12, 03 June 2022)
 -   📖 Completed [Doubutsutachi](https://anilist.co/manga/101984) (13:23, 03 June 2022)
--   📖 Completed [Risouteki Boyfriend](https://anilist.co/manga/100195) (16:50, 02 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
