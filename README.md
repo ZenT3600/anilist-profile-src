@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [My Boy in Blue](https://anilist.co/manga/85451) (00:42, 22 June 2022)
 -   📺 Watched episode 1 of [Shoujo Ramune](https://anilist.co/anime/21828) (19:23, 21 June 2022)
--   📖 Read chapter 1 - 26 of [My Boy in Blue](https://anilist.co/manga/85451) (19:06, 21 June 2022)
 -   📖 Read chapter 1 - 120 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:52, 21 June 2022)
 -   📖 Read chapter 1 - 18 of [Call of the Night](https://anilist.co/manga/111233) (11:46, 21 June 2022)
 -   📖 Read chapter 1 - 109 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:37, 20 June 2022)
