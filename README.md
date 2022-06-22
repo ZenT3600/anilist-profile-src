@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 17 of [Martial Peak](https://anilist.co/manga/104494) (17:43, 22 June 2022)
+-   📖 Read chapter 1 - 23 of [Martial Peak](https://anilist.co/manga/104494) (18:08, 22 June 2022)
 -   📖 Plans to read [Martial Peak](https://anilist.co/manga/104494) (17:14, 22 June 2022)
 -   📖 Read chapter 1 - 36 of [My Boy in Blue](https://anilist.co/manga/85451) (16:56, 22 June 2022)
 -   📖 Read chapter 1 - 77 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:06, 22 June 2022)
