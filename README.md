@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 31 of [My Boy in Blue](https://anilist.co/manga/85451) (07:04, 22 June 2022)
+-   📖 Read chapter 1 - 35 of [My Boy in Blue](https://anilist.co/manga/85451) (16:50, 22 June 2022)
 -   📖 Read chapter 1 - 77 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:06, 22 June 2022)
 -   📖 Read chapter 28 - 39 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (06:01, 22 June 2022)
 -   📺 Watched episode 1 of [Shoujo Ramune](https://anilist.co/anime/21828) (19:23, 21 June 2022)
