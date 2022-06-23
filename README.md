@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 99 of [Martial Peak](https://anilist.co/manga/104494) (14:33, 23 June 2022)
+-   📖 Read chapter 1 - 104 of [Martial Peak](https://anilist.co/manga/104494) (14:47, 23 June 2022)
 -   📖 Read chapter 1 - 110 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:21, 23 June 2022)
 -   📺 Watched episode 1 - 2 of [Shoujo Ramune](https://anilist.co/anime/21828) (21:08, 22 June 2022)
 -   📖 Read chapter 1 - 121 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:39, 22 June 2022)
