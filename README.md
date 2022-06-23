@@ -1,7 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 48 of [Martial Peak](https://anilist.co/manga/104494) (07:34, 23 June 2022)
+-   📖 Read chapter 1 - 110 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:21, 23 June 2022)
 -   📺 Watched episode 1 - 2 of [Shoujo Ramune](https://anilist.co/anime/21828) (21:08, 22 June 2022)
--   📖 Read chapter 1 - 44 of [Martial Peak](https://anilist.co/manga/104494) (20:20, 22 June 2022)
 -   📖 Read chapter 1 - 121 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:39, 22 June 2022)
 -   📖 Plans to read [Martial Peak](https://anilist.co/manga/104494) (17:14, 22 June 2022)
 -   📖 Read chapter 1 - 36 of [My Boy in Blue](https://anilist.co/manga/85451) (16:56, 22 June 2022)
@@ -24,7 +25,6 @@
 -   📺 Completed [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (17:41, 17 June 2022)
 -   📖 Read chapter 1 - 13 of [Record of Ragnarok](https://anilist.co/manga/107098) (12:48, 17 June 2022)
 -   📺 Watched episode 1 - 3 of [Adachi and Shimamura](https://anilist.co/anime/109287) (12:18, 17 June 2022)
--   📖 Read chapter 1 - 109 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:57, 16 June 2022)
 -   📖 Read chapter 110 - 132 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (15:52, 16 June 2022)
 -   📖 Read chapter 1 - 25 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:33, 13 June 2022)
 -   📖 Read chapter 1 - 85 of [Love’s in Sight!](https://anilist.co/manga/107445) (16:20, 12 June 2022)
