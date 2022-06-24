@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 106 of [Martial Peak](https://anilist.co/manga/104494) (05:18, 24 June 2022)
+-   📖 Read chapter 1 - 114 of [Martial Peak](https://anilist.co/manga/104494) (05:37, 24 June 2022)
 -   📖 Read chapter 110 - 133 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:09, 24 June 2022)
 -   📖 Read chapter 1 - 58 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (19:12, 23 June 2022)
 -   📖 Read chapter 1 - 110 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:21, 23 June 2022)
