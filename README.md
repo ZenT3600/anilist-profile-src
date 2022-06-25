@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 243 of [Martial Peak](https://anilist.co/manga/104494) (16:43, 25 June 2022)
+-   📖 Read chapter 1 - 245 of [Martial Peak](https://anilist.co/manga/104494) (19:04, 25 June 2022)
+-   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
+-   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
 -   📖 Read chapter 110 - 133 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:09, 24 June 2022)
--   📖 Read chapter 1 - 58 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (19:12, 23 June 2022)
 -   📖 Read chapter 1 - 110 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:21, 23 June 2022)
 -   📺 Watched episode 1 - 2 of [Shoujo Ramune](https://anilist.co/anime/21828) (21:08, 22 June 2022)
 -   📖 Read chapter 1 - 121 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:39, 22 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (10:43, 05 June 2022)
 -   📖 Read chapter 1 - 83 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 04 June 2022)
 -   📖 Completed [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:13, 03 June 2022)
--   📖 Read chapter 1 - 49 of [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:12, 03 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
