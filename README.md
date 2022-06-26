@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 223 of [Komi Can't Communicate](https://anilist.co/manga/97852) (17:49, 26 June 2022)
 -   📖 Read chapter 1 - 303 of [Martial Peak](https://anilist.co/manga/104494) (17:00, 26 June 2022)
 -   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
 -   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
@@ -17,7 +18,6 @@
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
 -   📖 Completed [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:22, 19 June 2022)
 -   📖 Read chapter 1 - 60 of [Yochinouryoku Manga: Kuno Chiyo](https://anilist.co/manga/107729) (18:21, 19 June 2022)
--   📖 Read chapter 62 - 207 of [Komi Can't Communicate](https://anilist.co/manga/97852) (13:13, 19 June 2022)
 -   📖 Completed [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:35, 19 June 2022)
 -   📖 Read chapter 1 - 22 of [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:33, 19 June 2022)
 -   📖 Plans to read [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (03:39, 19 June 2022)
