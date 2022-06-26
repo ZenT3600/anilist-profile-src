@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Run Away With Me, Girl](https://anilist.co/manga/114003) (18:44, 26 June 2022)
 -   📖 Read chapter 62 - 223 of [Komi Can't Communicate](https://anilist.co/manga/97852) (17:49, 26 June 2022)
 -   📖 Read chapter 1 - 303 of [Martial Peak](https://anilist.co/manga/104494) (17:00, 26 June 2022)
 -   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 145 of [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
 -   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (10:43, 05 June 2022)
 -   📖 Read chapter 1 - 83 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 04 June 2022)
--   📖 Completed [Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi](https://anilist.co/manga/123236) (16:13, 03 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
