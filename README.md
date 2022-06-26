@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 309 of [Martial Peak](https://anilist.co/manga/104494) (20:28, 26 June 2022)
 -   📖 Plans to read [Run Away With Me, Girl](https://anilist.co/manga/114003) (18:44, 26 June 2022)
 -   📖 Read chapter 62 - 223 of [Komi Can't Communicate](https://anilist.co/manga/97852) (17:49, 26 June 2022)
--   📖 Read chapter 1 - 303 of [Martial Peak](https://anilist.co/manga/104494) (17:00, 26 June 2022)
 -   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
 -   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
 -   📖 Read chapter 110 - 133 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:09, 24 June 2022)
