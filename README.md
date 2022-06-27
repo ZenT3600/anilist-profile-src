@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 64 of [SPY x FAMILY](https://anilist.co/manga/108556) (08:38, 27 June 2022)
 -   📖 Read chapter 1 - 309 of [Martial Peak](https://anilist.co/manga/104494) (20:28, 26 June 2022)
 -   📖 Plans to read [Run Away With Me, Girl](https://anilist.co/manga/114003) (18:44, 26 June 2022)
 -   📖 Read chapter 62 - 223 of [Komi Can't Communicate](https://anilist.co/manga/97852) (17:49, 26 June 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
 -   📖 Read chapter 1 - 145 of [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
 -   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (10:43, 05 June 2022)
--   📖 Read chapter 1 - 83 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 04 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
