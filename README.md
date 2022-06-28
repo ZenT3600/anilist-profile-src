@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 333 of [Martial Peak](https://anilist.co/manga/104494) (11:21, 28 June 2022)
+-   📖 Read chapter 1 - 334 of [Martial Peak](https://anilist.co/manga/104494) (11:33, 28 June 2022)
 -   📖 Read chapter 1 - 86 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:53, 28 June 2022)
 -   📖 Read chapter 1 - 110 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:58, 27 June 2022)
 -   📖 Read chapter 1 - 26 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (18:23, 27 June 2022)
