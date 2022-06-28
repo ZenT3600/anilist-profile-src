@@ -1,9 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 314 of [Martial Peak](https://anilist.co/manga/104494) (10:04, 28 June 2022)
+-   📖 Read chapter 1 - 86 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:53, 28 June 2022)
 -   📖 Read chapter 1 - 110 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:58, 27 June 2022)
 -   📖 Read chapter 1 - 26 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (18:23, 27 June 2022)
 -   📖 Read chapter 56 - 64 of [SPY x FAMILY](https://anilist.co/manga/108556) (08:38, 27 June 2022)
--   📖 Read chapter 1 - 309 of [Martial Peak](https://anilist.co/manga/104494) (20:28, 26 June 2022)
 -   📖 Plans to read [Run Away With Me, Girl](https://anilist.co/manga/114003) (18:44, 26 June 2022)
 -   📖 Read chapter 62 - 223 of [Komi Can't Communicate](https://anilist.co/manga/97852) (17:49, 26 June 2022)
 -   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
@@ -30,7 +31,6 @@
 -   📺 Completed [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (17:41, 17 June 2022)
 -   📖 Read chapter 1 - 13 of [Record of Ragnarok](https://anilist.co/manga/107098) (12:48, 17 June 2022)
 -   📺 Watched episode 1 - 3 of [Adachi and Shimamura](https://anilist.co/anime/109287) (12:18, 17 June 2022)
--   📖 Read chapter 1 - 85 of [Love’s in Sight!](https://anilist.co/manga/107445) (16:20, 12 June 2022)
 -   📖 Plans to read [Record of Ragnarok](https://anilist.co/manga/107098) (06:36, 12 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (06:35, 12 June 2022)
 -   📖 Read chapter 1 - 36 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (03:53, 12 June 2022)
