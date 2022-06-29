@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 368 of [Martial Peak](https://anilist.co/manga/104494) (16:36, 29 June 2022)
+-   📖 Read chapter 1 - 377 of [Martial Peak](https://anilist.co/manga/104494) (20:38, 29 June 2022)
 -   📖 Plans to read [Hatsukoi Zombie](https://anilist.co/manga/86737) (10:54, 29 June 2022)
 -   📖 Read chapter 1 - 86 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:53, 28 June 2022)
 -   📖 Read chapter 1 - 110 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:58, 27 June 2022)
