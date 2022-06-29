@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Hatsukoi Zombie](https://anilist.co/manga/86737) (10:54, 29 June 2022)
 -   📖 Read chapter 1 - 347 of [Martial Peak](https://anilist.co/manga/104494) (12:47, 28 June 2022)
 -   📖 Read chapter 1 - 86 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:53, 28 June 2022)
 -   📖 Read chapter 1 - 110 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:58, 27 June 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Futabu!!](https://anilist.co/anime/21076) (07:03, 06 June 2022)
 -   📖 Completed [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
 -   📖 Read chapter 1 - 145 of [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
--   📖 Plans to read [Sakamoto Days](https://anilist.co/manga/125828) (10:43, 05 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
