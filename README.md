@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Solo Leveling](https://anilist.co/manga/105398) (14:35, 30 June 2022)
+-   📖 Plans to read [Solo Leveling](https://anilist.co/manga/105398) (14:15, 30 June 2022)
 -   📖 Read chapter 1 - 387 of [Martial Peak](https://anilist.co/manga/104494) (09:29, 30 June 2022)
 -   📖 Paused reading [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (06:10, 30 June 2022)
 -   📖 Dropped [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/manga/107603) (06:09, 30 June 2022)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 6 - 10 of [Nihikime no Kingyo](https://anilist.co/manga/101983) (15:35, 10 June 2022)
 -   📖 Plans to read [Nihikime no Kingyo](https://anilist.co/manga/101983) (11:00, 09 June 2022)
 -   📖 Plans to read [Kaiju No.8](https://anilist.co/manga/120760) (17:58, 06 June 2022)
--   📺 Watched episode 1 - 17 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (14:55, 06 June 2022)
--   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
