@@ -1,5 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (06:10, 30 June 2022)
+-   📖 Dropped [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/manga/107603) (06:09, 30 June 2022)
+-   📖 Dropped [My Awkward Senpai](https://anilist.co/manga/114437) (06:06, 30 June 2022)
+-   📖 Paused reading [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (06:02, 30 June 2022)
 -   📖 Read chapter 1 - 380 of [Martial Peak](https://anilist.co/manga/104494) (20:44, 29 June 2022)
 -   📖 Plans to read [Hatsukoi Zombie](https://anilist.co/manga/86737) (10:54, 29 June 2022)
 -   📖 Read chapter 1 - 86 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:53, 28 June 2022)
@@ -46,9 +50,5 @@
 -   📖 Plans to read [Kaiju No.8](https://anilist.co/manga/120760) (17:58, 06 June 2022)
 -   📺 Watched episode 1 - 17 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (14:55, 06 June 2022)
 -   📖 Plans to read [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (11:42, 06 June 2022)
--   📖 Plans to read [Ryokataomoi na Futago Shimai](https://anilist.co/manga/119832) (11:40, 06 June 2022)
--   📺 Completed [Futabu!!](https://anilist.co/anime/21076) (07:03, 06 June 2022)
--   📖 Completed [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
--   📖 Read chapter 1 - 145 of [What I Love About You](https://anilist.co/manga/106474) (15:33, 05 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
