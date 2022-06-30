@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 381 of [Martial Peak](https://anilist.co/manga/104494) (08:19, 30 June 2022)
+-   📖 Read chapter 1 - 387 of [Martial Peak](https://anilist.co/manga/104494) (09:29, 30 June 2022)
 -   📖 Paused reading [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (06:10, 30 June 2022)
 -   📖 Dropped [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/manga/107603) (06:09, 30 June 2022)
 -   📖 Dropped [My Awkward Senpai](https://anilist.co/manga/114437) (06:06, 30 June 2022)
