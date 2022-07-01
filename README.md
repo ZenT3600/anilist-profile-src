@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 394 of [Martial Peak](https://anilist.co/manga/104494) (19:32, 01 July 2022)
 -   📖 Read chapter 1 - 19 of [Solo Leveling](https://anilist.co/manga/105398) (15:08, 01 July 2022)
 -   📖 Read chapter 1 - 111 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:16, 01 July 2022)
 -   📖 Read chapter 1 - 60 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:12, 01 July 2022)
 -   📖 Plans to read [Solo Leveling](https://anilist.co/manga/105398) (14:15, 30 June 2022)
--   📖 Read chapter 1 - 387 of [Martial Peak](https://anilist.co/manga/104494) (09:29, 30 June 2022)
 -   📖 Paused reading [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (06:10, 30 June 2022)
 -   📖 Dropped [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/manga/107603) (06:09, 30 June 2022)
 -   📖 Dropped [My Awkward Senpai](https://anilist.co/manga/114437) (06:06, 30 June 2022)
