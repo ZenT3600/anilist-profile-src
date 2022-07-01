@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 394 of [Martial Peak](https://anilist.co/manga/104494) (19:32, 01 July 2022)
+-   📖 Read chapter 1 - 399 of [Martial Peak](https://anilist.co/manga/104494) (19:43, 01 July 2022)
 -   📖 Read chapter 1 - 19 of [Solo Leveling](https://anilist.co/manga/105398) (15:08, 01 July 2022)
 -   📖 Read chapter 1 - 111 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:16, 01 July 2022)
 -   📖 Read chapter 1 - 60 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:12, 01 July 2022)
