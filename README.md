@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 413 of [Martial Peak](https://anilist.co/manga/104494) (03:49, 03 July 2022)
+-   📖 Read chapter 1 - 123 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:29, 03 July 2022)
 -   📖 Read chapter 1 - 53 of [Solo Leveling](https://anilist.co/manga/105398) (18:35, 02 July 2022)
--   📖 Read chapter 1 - 405 of [Martial Peak](https://anilist.co/manga/104494) (17:28, 02 July 2022)
 -   📖 Read chapter 1 - 61 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:33, 02 July 2022)
--   📖 Read chapter 1 - 122 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:30, 02 July 2022)
 -   📖 Read chapter 1 - 111 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:16, 01 July 2022)
 -   📖 Plans to read [Solo Leveling](https://anilist.co/manga/105398) (14:15, 30 June 2022)
 -   📖 Paused reading [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (06:10, 30 June 2022)
