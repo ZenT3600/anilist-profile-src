@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 413 of [Martial Peak](https://anilist.co/manga/104494) (03:49, 03 July 2022)
+-   📖 Read chapter 1 - 418 of [Martial Peak](https://anilist.co/manga/104494) (11:54, 03 July 2022)
 -   📖 Read chapter 1 - 123 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:29, 03 July 2022)
 -   📖 Read chapter 1 - 53 of [Solo Leveling](https://anilist.co/manga/105398) (18:35, 02 July 2022)
 -   📖 Read chapter 1 - 61 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:33, 02 July 2022)
