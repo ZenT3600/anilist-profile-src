@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 111 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (16:38, 04 July 2022)
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
 -   📖 Read chapter 62 - 234 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:23, 04 July 2022)
 -   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:52, 04 July 2022)
@@ -15,7 +16,6 @@
 -   📖 Paused reading [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (06:02, 30 June 2022)
 -   📖 Plans to read [Hatsukoi Zombie](https://anilist.co/manga/86737) (10:54, 29 June 2022)
 -   📖 Read chapter 1 - 86 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:53, 28 June 2022)
--   📖 Read chapter 1 - 110 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:58, 27 June 2022)
 -   📖 Read chapter 1 - 26 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (18:23, 27 June 2022)
 -   📖 Read chapter 56 - 64 of [SPY x FAMILY](https://anilist.co/manga/108556) (08:38, 27 June 2022)
 -   📖 Plans to read [Run Away With Me, Girl](https://anilist.co/manga/114003) (18:44, 26 June 2022)
