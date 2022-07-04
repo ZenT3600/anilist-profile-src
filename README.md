@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 37 of [My Boy in Blue](https://anilist.co/manga/85451) (17:32, 04 July 2022)
 -   📖 Read chapter 1 - 111 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (16:38, 04 July 2022)
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
 -   📖 Read chapter 62 - 234 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:23, 04 July 2022)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 110 - 133 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:09, 24 June 2022)
 -   📺 Watched episode 1 - 2 of [Shoujo Ramune](https://anilist.co/anime/21828) (21:08, 22 June 2022)
 -   📖 Plans to read [Martial Peak](https://anilist.co/manga/104494) (17:14, 22 June 2022)
--   📖 Read chapter 1 - 36 of [My Boy in Blue](https://anilist.co/manga/85451) (16:56, 22 June 2022)
 -   📖 Read chapter 1 - 77 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:06, 22 June 2022)
 -   📖 Read chapter 28 - 39 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (06:01, 22 June 2022)
 -   📖 Read chapter 1 - 18 of [Call of the Night](https://anilist.co/manga/111233) (11:46, 21 June 2022)
