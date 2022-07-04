@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
 -   📖 Read chapter 62 - 234 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:23, 04 July 2022)
 -   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:52, 04 July 2022)
 -   📖 Read chapter 1 - 418 of [Martial Peak](https://anilist.co/manga/104494) (11:54, 03 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [Goodbye, Eri](https://anilist.co/manga/146983) (06:56, 11 June 2022)
 -   📖 Plans to read [Goodbye, Eri](https://anilist.co/manga/146983) (06:31, 11 June 2022)
 -   📖 Read chapter 6 - 10 of [Nihikime no Kingyo](https://anilist.co/manga/101983) (15:35, 10 June 2022)
--   📖 Plans to read [Nihikime no Kingyo](https://anilist.co/manga/101983) (11:00, 09 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
