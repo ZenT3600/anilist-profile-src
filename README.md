@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Rosen Blood](https://anilist.co/manga/103030) (15:12, 05 July 2022)
 -   📖 Read chapter 1 - 37 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (14:23, 05 July 2022)
 -   📖 Plans to read [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:25, 05 July 2022)
 -   📖 Read chapter 1 - 37 of [My Boy in Blue](https://anilist.co/manga/85451) (17:32, 04 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 47 - 48 of [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (16:22, 11 June 2022)
 -   📺 Watched episode 1 - 11 of [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (14:35, 11 June 2022)
 -   📖 Paused reading [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (12:01, 11 June 2022)
--   📖 Completed [Goodbye, Eri](https://anilist.co/manga/146983) (06:56, 11 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
