@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 43 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:11, 06 July 2022)
 -   📖 Plans to read [Rosen Blood](https://anilist.co/manga/103030) (15:12, 05 July 2022)
--   📖 Read chapter 1 - 37 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (14:23, 05 July 2022)
 -   📖 Plans to read [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:25, 05 July 2022)
 -   📖 Read chapter 1 - 37 of [My Boy in Blue](https://anilist.co/manga/85451) (17:32, 04 July 2022)
 -   📖 Read chapter 1 - 111 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (16:38, 04 July 2022)
