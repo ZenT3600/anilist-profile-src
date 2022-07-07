@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 246 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:49, 07 July 2022)
 -   📖 Read chapter 1 - 55 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:41, 07 July 2022)
 -   📖 Read chapter 1 - 62 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:05, 07 July 2022)
 -   📺 Watched episode 1 - 3 of [Shoujo Ramune](https://anilist.co/anime/21828) (08:16, 06 July 2022)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 37 of [My Boy in Blue](https://anilist.co/manga/85451) (17:32, 04 July 2022)
 -   📖 Read chapter 1 - 111 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (16:38, 04 July 2022)
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
--   📖 Read chapter 62 - 234 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:23, 04 July 2022)
 -   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:52, 04 July 2022)
 -   📖 Read chapter 1 - 418 of [Martial Peak](https://anilist.co/manga/104494) (11:54, 03 July 2022)
 -   📖 Read chapter 1 - 123 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:29, 03 July 2022)
