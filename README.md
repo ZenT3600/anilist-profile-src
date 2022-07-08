@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 63 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 08 July 2022)
 -   📖 Read chapter 62 - 246 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:49, 07 July 2022)
 -   📖 Read chapter 1 - 55 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:41, 07 July 2022)
--   📖 Read chapter 1 - 62 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:05, 07 July 2022)
 -   📺 Watched episode 1 - 3 of [Shoujo Ramune](https://anilist.co/anime/21828) (08:16, 06 July 2022)
 -   📖 Plans to read [Rosen Blood](https://anilist.co/manga/103030) (15:12, 05 July 2022)
 -   📖 Plans to read [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:25, 05 July 2022)
