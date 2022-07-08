@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 112 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:08, 08 July 2022)
 -   📺 Watched episode 1 - 4 of [Overflow](https://anilist.co/anime/113417) (06:20, 08 July 2022)
 -   📖 Read chapter 1 - 63 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 08 July 2022)
 -   📖 Read chapter 62 - 246 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:49, 07 July 2022)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 418 of [Martial Peak](https://anilist.co/manga/104494) (11:54, 03 July 2022)
 -   📖 Read chapter 1 - 123 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:29, 03 July 2022)
 -   📖 Read chapter 1 - 53 of [Solo Leveling](https://anilist.co/manga/105398) (18:35, 02 July 2022)
--   📖 Read chapter 1 - 111 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:16, 01 July 2022)
 -   📖 Plans to read [Solo Leveling](https://anilist.co/manga/105398) (14:15, 30 June 2022)
 -   📖 Paused reading [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (06:10, 30 June 2022)
 -   📖 Dropped [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/manga/107603) (06:09, 30 June 2022)
