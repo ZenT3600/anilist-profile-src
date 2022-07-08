@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Wolf & Parchment](https://anilist.co/manga/115750) (11:00, 08 July 2022)
 -   📖 Read chapter 1 - 112 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:08, 08 July 2022)
 -   📺 Watched episode 1 - 4 of [Overflow](https://anilist.co/anime/113417) (06:20, 08 July 2022)
 -   📖 Read chapter 1 - 63 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 08 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 36 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (03:53, 12 June 2022)
 -   📖 Read chapter 1 - 19 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (21:49, 11 June 2022)
 -   📖 Read chapter 47 - 48 of [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (16:22, 11 June 2022)
--   📺 Watched episode 1 - 11 of [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (14:35, 11 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
