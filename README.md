@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Overflow](https://anilist.co/anime/113417) (06:20, 08 July 2022)
 -   📖 Read chapter 1 - 63 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 08 July 2022)
 -   📖 Read chapter 62 - 246 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:49, 07 July 2022)
 -   📖 Read chapter 1 - 55 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:41, 07 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 19 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (21:49, 11 June 2022)
 -   📖 Read chapter 47 - 48 of [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (16:22, 11 June 2022)
 -   📺 Watched episode 1 - 11 of [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (14:35, 11 June 2022)
--   📖 Paused reading [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (12:01, 11 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
