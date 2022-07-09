@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 78 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (23:35, 08 July 2022)
+-   📖 Read chapter 1 - 91 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (23:53, 08 July 2022)
 -   📖 Read chapter 1 - 64 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (23:32, 08 July 2022)
 -   📖 Plans to read [Wolf & Parchment](https://anilist.co/manga/115750) (11:00, 08 July 2022)
 -   📖 Read chapter 1 - 112 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:08, 08 July 2022)
