@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 100 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (16:39, 09 July 2022)
 -   📺 Watched episode 1 - 4 of [Adachi and Shimamura](https://anilist.co/anime/109287) (11:42, 09 July 2022)
 -   📖 Read chapter 1 of [Wolf & Parchment](https://anilist.co/manga/115750) (09:29, 09 July 2022)
 -   📖 Plans to read [Levius](https://anilist.co/manga/86761) (09:13, 09 July 2022)
--   📖 Read chapter 1 - 91 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (23:53, 08 July 2022)
 -   📖 Read chapter 1 - 64 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (23:32, 08 July 2022)
 -   📖 Plans to read [Wolf & Parchment](https://anilist.co/manga/115750) (11:00, 08 July 2022)
 -   📖 Read chapter 1 - 112 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:08, 08 July 2022)
