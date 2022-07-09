@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Wolf & Parchment](https://anilist.co/manga/115750) (09:29, 09 July 2022)
+-   📖 Plans to read [Levius](https://anilist.co/manga/86761) (09:13, 09 July 2022)
 -   📖 Read chapter 1 - 91 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (23:53, 08 July 2022)
 -   📖 Read chapter 1 - 64 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (23:32, 08 July 2022)
 -   📖 Plans to read [Wolf & Parchment](https://anilist.co/manga/115750) (11:00, 08 July 2022)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [Record of Ragnarok](https://anilist.co/manga/107098) (06:36, 12 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (06:35, 12 June 2022)
 -   📖 Read chapter 1 - 36 of [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (03:53, 12 June 2022)
--   📖 Read chapter 1 - 19 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (21:49, 11 June 2022)
--   📖 Read chapter 47 - 48 of [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (16:22, 11 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
