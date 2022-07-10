@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 258 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:00, 10 July 2022)
 -   📺 Plans to watch [Barakamon](https://anilist.co/anime/20722) (09:17, 10 July 2022)
 -   📺 Plans to watch [Only Yesterday](https://anilist.co/anime/1029) (09:13, 10 July 2022)
 -   📖 Read chapter 1 - 154 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:02, 10 July 2022)
@@ -11,7 +12,6 @@
 -   📖 Plans to read [Wolf & Parchment](https://anilist.co/manga/115750) (11:00, 08 July 2022)
 -   📖 Read chapter 1 - 112 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:08, 08 July 2022)
 -   📺 Watched episode 1 - 4 of [Overflow](https://anilist.co/anime/113417) (06:20, 08 July 2022)
--   📖 Read chapter 62 - 246 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:49, 07 July 2022)
 -   📺 Watched episode 1 - 3 of [Shoujo Ramune](https://anilist.co/anime/21828) (08:16, 06 July 2022)
 -   📖 Plans to read [Rosen Blood](https://anilist.co/manga/103030) (15:12, 05 July 2022)
 -   📖 Plans to read [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:25, 05 July 2022)
