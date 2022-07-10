@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 170 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:12, 10 July 2022)
+-   📖 Read chapter 1 - 173 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:17, 10 July 2022)
 -   📖 Read chapter 62 - 258 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:00, 10 July 2022)
 -   📺 Plans to watch [Barakamon](https://anilist.co/anime/20722) (09:17, 10 July 2022)
 -   📺 Plans to watch [Only Yesterday](https://anilist.co/anime/1029) (09:13, 10 July 2022)
