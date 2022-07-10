@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 135 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:14, 10 July 2022)
+-   📖 Read chapter 1 - 142 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:35, 10 July 2022)
 -   📖 Plans to read [Teasing Master Takagi-san](https://anilist.co/manga/85533) (16:59, 09 July 2022)
 -   📺 Watched episode 1 - 4 of [Adachi and Shimamura](https://anilist.co/anime/109287) (11:42, 09 July 2022)
 -   📖 Read chapter 1 of [Wolf & Parchment](https://anilist.co/manga/115750) (09:29, 09 July 2022)
