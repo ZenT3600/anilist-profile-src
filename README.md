@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Puffy Fragrance](https://anilist.co/manga/131288) (12:02, 11 July 2022)
 -   📖 Read chapter 1 - 173 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:17, 10 July 2022)
 -   📖 Read chapter 62 - 258 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:00, 10 July 2022)
 -   📺 Plans to watch [Barakamon](https://anilist.co/anime/20722) (09:17, 10 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:33, 17 June 2022)
 -   📺 Plans to watch [OniAi](https://anilist.co/anime/14199) (17:51, 17 June 2022)
 -   📺 Completed [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (17:41, 17 June 2022)
--   📖 Read chapter 1 - 13 of [Record of Ragnarok](https://anilist.co/manga/107098) (12:48, 17 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
