@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 124 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (12:08, 13 July 2022)
 -   📖 Plans to read [Puffy Fragrance](https://anilist.co/manga/131288) (12:02, 11 July 2022)
 -   📖 Read chapter 1 - 173 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:17, 10 July 2022)
 -   📖 Read chapter 62 - 258 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:00, 10 July 2022)
@@ -21,7 +22,6 @@
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
 -   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:52, 04 July 2022)
 -   📖 Read chapter 1 - 418 of [Martial Peak](https://anilist.co/manga/104494) (11:54, 03 July 2022)
--   📖 Read chapter 1 - 123 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:29, 03 July 2022)
 -   📖 Read chapter 1 - 53 of [Solo Leveling](https://anilist.co/manga/105398) (18:35, 02 July 2022)
 -   📖 Plans to read [Solo Leveling](https://anilist.co/manga/105398) (14:15, 30 June 2022)
 -   📖 Paused reading [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (06:10, 30 June 2022)
