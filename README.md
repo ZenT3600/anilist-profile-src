@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 112 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (13:43, 13 July 2022)
+-   📖 Read chapter 1 - 84 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (13:40, 13 July 2022)
 -   📖 Read chapter 1 - 124 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (12:08, 13 July 2022)
 -   📖 Plans to read [Puffy Fragrance](https://anilist.co/manga/131288) (12:02, 11 July 2022)
 -   📖 Read chapter 1 - 173 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:17, 10 July 2022)
@@ -18,7 +20,6 @@
 -   📖 Plans to read [Rosen Blood](https://anilist.co/manga/103030) (15:12, 05 July 2022)
 -   📖 Plans to read [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:25, 05 July 2022)
 -   📖 Read chapter 1 - 37 of [My Boy in Blue](https://anilist.co/manga/85451) (17:32, 04 July 2022)
--   📖 Read chapter 1 - 111 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (16:38, 04 July 2022)
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
 -   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:52, 04 July 2022)
 -   📖 Read chapter 1 - 418 of [Martial Peak](https://anilist.co/manga/104494) (11:54, 03 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 15 of [Cuprum no Hanayome](https://anilist.co/manga/117675) (00:45, 19 June 2022)
 -   📖 Plans to read [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:33, 17 June 2022)
 -   📺 Plans to watch [OniAi](https://anilist.co/anime/14199) (17:51, 17 June 2022)
--   📺 Completed [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (17:41, 17 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
