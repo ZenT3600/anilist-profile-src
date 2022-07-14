@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 125 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (15:12, 14 July 2022)
 -   📖 Read chapter 1 - 175 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (14:30, 13 July 2022)
 -   📖 Read chapter 1 - 112 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (13:43, 13 July 2022)
 -   📖 Read chapter 1 - 84 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (13:40, 13 July 2022)
--   📖 Read chapter 1 - 124 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (12:08, 13 July 2022)
 -   📖 Plans to read [Puffy Fragrance](https://anilist.co/manga/131288) (12:02, 11 July 2022)
 -   📖 Read chapter 62 - 258 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:00, 10 July 2022)
 -   📺 Plans to watch [Barakamon](https://anilist.co/anime/20722) (09:17, 10 July 2022)
