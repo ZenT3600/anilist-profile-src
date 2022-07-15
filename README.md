@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 87 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:42, 15 July 2022)
 -   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
 -   📖 Read chapter 1 - 175 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (14:30, 13 July 2022)
 -   📖 Read chapter 1 - 112 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (13:43, 13 July 2022)
@@ -30,7 +31,6 @@
 -   📖 Dropped [My Awkward Senpai](https://anilist.co/manga/114437) (06:06, 30 June 2022)
 -   📖 Paused reading [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (06:02, 30 June 2022)
 -   📖 Plans to read [Hatsukoi Zombie](https://anilist.co/manga/86737) (10:54, 29 June 2022)
--   📖 Read chapter 1 - 86 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:53, 28 June 2022)
 -   📖 Read chapter 1 - 26 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (18:23, 27 June 2022)
 -   📖 Read chapter 56 - 64 of [SPY x FAMILY](https://anilist.co/manga/108556) (08:38, 27 June 2022)
 -   📖 Plans to read [Run Away With Me, Girl](https://anilist.co/manga/114003) (18:44, 26 June 2022)
