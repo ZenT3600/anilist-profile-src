@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 67 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:32, 18 July 2022)
+-   📖 Read chapter 1 - 113 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:21, 18 July 2022)
 -   📖 Read chapter 1 - 87 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:42, 15 July 2022)
 -   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
 -   📖 Read chapter 1 - 175 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (14:30, 13 July 2022)
@@ -13,9 +15,7 @@
 -   📺 Watched episode 1 - 4 of [Adachi and Shimamura](https://anilist.co/anime/109287) (11:42, 09 July 2022)
 -   📖 Read chapter 1 of [Wolf & Parchment](https://anilist.co/manga/115750) (09:29, 09 July 2022)
 -   📖 Plans to read [Levius](https://anilist.co/manga/86761) (09:13, 09 July 2022)
--   📖 Read chapter 1 - 64 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (23:32, 08 July 2022)
 -   📖 Plans to read [Wolf & Parchment](https://anilist.co/manga/115750) (11:00, 08 July 2022)
--   📖 Read chapter 1 - 112 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:08, 08 July 2022)
 -   📺 Watched episode 1 - 4 of [Overflow](https://anilist.co/anime/113417) (06:20, 08 July 2022)
 -   📺 Watched episode 1 - 3 of [Shoujo Ramune](https://anilist.co/anime/21828) (08:16, 06 July 2022)
 -   📖 Plans to read [Rosen Blood](https://anilist.co/manga/103030) (15:12, 05 July 2022)
