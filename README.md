@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:06, 19 July 2022)
 -   📖 Read chapter 1 - 67 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:32, 18 July 2022)
 -   📖 Read chapter 1 - 113 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:21, 18 July 2022)
 -   📖 Read chapter 1 - 87 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:42, 15 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (03:39, 19 June 2022)
 -   📖 Read chapter 1 - 15 of [Cuprum no Hanayome](https://anilist.co/manga/117675) (00:45, 19 June 2022)
 -   📖 Plans to read [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:33, 17 June 2022)
--   📺 Plans to watch [OniAi](https://anilist.co/anime/14199) (17:51, 17 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
