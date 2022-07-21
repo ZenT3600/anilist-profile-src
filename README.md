@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 78 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:31, 21 July 2022)
 -   📖 Read chapter 1 - 29 of [Call of the Night](https://anilist.co/manga/111233) (08:14, 21 July 2022)
 -   📖 Read chapter 1 of [Puffy Fragrance](https://anilist.co/manga/131288) (07:01, 21 July 2022)
 -   📖 Read chapter 1 - 181 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (05:23, 19 July 2022)
@@ -40,7 +41,6 @@
 -   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
 -   📖 Read chapter 110 - 133 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:09, 24 June 2022)
 -   📖 Plans to read [Martial Peak](https://anilist.co/manga/104494) (17:14, 22 June 2022)
--   📖 Read chapter 1 - 77 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:06, 22 June 2022)
 -   📖 Read chapter 28 - 39 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (06:01, 22 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (12:14, 20 June 2022)
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
