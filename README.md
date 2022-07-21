@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 68 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:32, 21 July 2022)
 -   📖 Read chapter 1 - 78 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:31, 21 July 2022)
 -   📖 Read chapter 1 - 29 of [Call of the Night](https://anilist.co/manga/111233) (08:14, 21 July 2022)
 -   📖 Read chapter 1 of [Puffy Fragrance](https://anilist.co/manga/131288) (07:01, 21 July 2022)
 -   📖 Read chapter 1 - 181 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (05:23, 19 July 2022)
 -   📖 Read chapter 1 - 20 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:06, 19 July 2022)
--   📖 Read chapter 1 - 67 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:32, 18 July 2022)
 -   📖 Read chapter 1 - 113 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:21, 18 July 2022)
 -   📖 Read chapter 1 - 87 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:42, 15 July 2022)
 -   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
