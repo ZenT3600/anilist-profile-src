@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 419 of [Martial Peak](https://anilist.co/manga/104494) (04:35, 24 July 2022)
 -   📖 Read chapter 1 - 70 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:38, 23 July 2022)
 -   📖 Read chapter 1 - 78 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:31, 21 July 2022)
 -   📖 Read chapter 1 - 29 of [Call of the Night](https://anilist.co/manga/111233) (08:14, 21 July 2022)
@@ -27,7 +28,6 @@
 -   📖 Read chapter 1 - 37 of [My Boy in Blue](https://anilist.co/manga/85451) (17:32, 04 July 2022)
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
 -   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:52, 04 July 2022)
--   📖 Read chapter 1 - 418 of [Martial Peak](https://anilist.co/manga/104494) (11:54, 03 July 2022)
 -   📖 Read chapter 1 - 53 of [Solo Leveling](https://anilist.co/manga/105398) (18:35, 02 July 2022)
 -   📖 Plans to read [Solo Leveling](https://anilist.co/manga/105398) (14:15, 30 June 2022)
 -   📖 Paused reading [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (06:10, 30 June 2022)
