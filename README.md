@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 88 of [Love’s in Sight!](https://anilist.co/manga/107445) (21:25, 26 July 2022)
+-   📖 Read chapter 1 - 27 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (21:23, 26 July 2022)
+-   📖 Read chapter 1 - 114 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (21:21, 26 July 2022)
 -   📺 Plans to watch [Assassination Classroom 2](https://anilist.co/anime/21170) (20:20, 26 July 2022)
 -   📖 Plans to read [InuYasha](https://anilist.co/manga/30676) (12:26, 26 July 2022)
 -   📖 Read chapter 1 - 63 of [Solo Leveling](https://anilist.co/manga/105398) (09:21, 24 July 2022)
@@ -11,9 +14,7 @@
 -   📖 Read chapter 1 - 181 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (05:23, 19 July 2022)
 -   📖 Read chapter 1 - 20 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:06, 19 July 2022)
 -   📖 Read chapter 1 - 113 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:21, 18 July 2022)
--   📖 Read chapter 1 - 87 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:42, 15 July 2022)
 -   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
--   📖 Read chapter 1 - 112 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (13:43, 13 July 2022)
 -   📖 Read chapter 1 - 84 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (13:40, 13 July 2022)
 -   📖 Plans to read [Puffy Fragrance](https://anilist.co/manga/131288) (12:02, 11 July 2022)
 -   📖 Read chapter 62 - 258 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:00, 10 July 2022)
@@ -37,7 +38,6 @@
 -   📖 Dropped [My Awkward Senpai](https://anilist.co/manga/114437) (06:06, 30 June 2022)
 -   📖 Paused reading [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (06:02, 30 June 2022)
 -   📖 Plans to read [Hatsukoi Zombie](https://anilist.co/manga/86737) (10:54, 29 June 2022)
--   📖 Read chapter 1 - 26 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (18:23, 27 June 2022)
 -   📖 Read chapter 56 - 64 of [SPY x FAMILY](https://anilist.co/manga/108556) (08:38, 27 June 2022)
 -   📖 Plans to read [Run Away With Me, Girl](https://anilist.co/manga/114003) (18:44, 26 June 2022)
 -   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
