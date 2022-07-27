@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Wolf Children](https://anilist.co/anime/12355) (09:30, 27 July 2022)
 -   📖 Read chapter 1 - 19 of [Ojojojo](https://anilist.co/manga/85419) (07:40, 27 July 2022)
 -   📖 Plans to read [Ojojojo](https://anilist.co/manga/85419) (05:27, 27 July 2022)
 -   📖 Read chapter 1 - 88 of [Love’s in Sight!](https://anilist.co/manga/107445) (21:25, 26 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (12:14, 20 June 2022)
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
 -   📖 Completed [Kuno Chiyo The Esper](https://anilist.co/manga/107729) (18:22, 19 June 2022)
--   📖 Read chapter 1 - 60 of [Kuno Chiyo The Esper](https://anilist.co/manga/107729) (18:21, 19 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
