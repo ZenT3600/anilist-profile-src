@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Ojojojo](https://anilist.co/manga/85419) (07:07, 27 July 2022)
 -   📖 Plans to read [Ojojojo](https://anilist.co/manga/85419) (05:27, 27 July 2022)
 -   📖 Read chapter 1 - 88 of [Love’s in Sight!](https://anilist.co/manga/107445) (21:25, 26 July 2022)
 -   📖 Read chapter 1 - 27 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (21:23, 26 July 2022)
@@ -49,6 +50,5 @@
 -   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
 -   📖 Completed [Kuno Chiyo The Esper](https://anilist.co/manga/107729) (18:22, 19 June 2022)
 -   📖 Read chapter 1 - 60 of [Kuno Chiyo The Esper](https://anilist.co/manga/107729) (18:21, 19 June 2022)
--   📖 Completed [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (04:35, 19 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
