@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 17 of [Ojojojo](https://anilist.co/manga/85419) (07:34, 27 July 2022)
+-   📖 Read chapter 1 - 19 of [Ojojojo](https://anilist.co/manga/85419) (07:40, 27 July 2022)
 -   📖 Plans to read [Ojojojo](https://anilist.co/manga/85419) (05:27, 27 July 2022)
 -   📖 Read chapter 1 - 88 of [Love’s in Sight!](https://anilist.co/manga/107445) (21:25, 26 July 2022)
 -   📖 Read chapter 1 - 27 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (21:23, 26 July 2022)
