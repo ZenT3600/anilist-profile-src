@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 43 of [Ojojojo](https://anilist.co/manga/85419) (06:09, 28 July 2022)
+-   📖 Read chapter 1 - 50 of [Ojojojo](https://anilist.co/manga/85419) (06:31, 28 July 2022)
 -   📺 Plans to watch [Wolf Children](https://anilist.co/anime/12355) (09:30, 27 July 2022)
 -   📖 Plans to read [Ojojojo](https://anilist.co/manga/85419) (05:27, 27 July 2022)
 -   📖 Read chapter 1 - 88 of [Love’s in Sight!](https://anilist.co/manga/107445) (21:25, 26 July 2022)
