@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Until I Meet My Husband](https://anilist.co/manga/120535) (08:45, 29 July 2022)
 -   📖 Completed [Ojojojo](https://anilist.co/manga/85419) (02:52, 29 July 2022)
 -   📖 Read chapter 1 - 58 of [Ojojojo](https://anilist.co/manga/85419) (02:51, 29 July 2022)
 -   📺 Plans to watch [Wolf Children](https://anilist.co/anime/12355) (09:30, 27 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Martial Peak](https://anilist.co/manga/104494) (17:14, 22 June 2022)
 -   📖 Read chapter 28 - 39 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (06:01, 22 June 2022)
 -   📖 Dropped [Aho-Girl: Clueless Girl](https://anilist.co/manga/77102) (12:14, 20 June 2022)
--   📺 Watched episode 1 - 2 of [OniAi](https://anilist.co/anime/14199) (21:53, 19 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
