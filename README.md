@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [Mitsuishi-san](https://anilist.co/manga/126488) (16:24, 30 July 2022)
+-   📖 Plans to read [Mitsuishi-san](https://anilist.co/manga/126488) (16:18, 30 July 2022)
 -   📖 Completed [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:02, 30 July 2022)
 -   📖 Read chapter 1 - 15 of [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:00, 30 July 2022)
 -   📖 Plans to read [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (07:19, 30 July 2022)
@@ -48,7 +50,5 @@
 -   📖 Dropped [My Awkward Senpai](https://anilist.co/manga/114437) (06:06, 30 June 2022)
 -   📖 Paused reading [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (06:02, 30 June 2022)
 -   📖 Plans to read [Hatsukoi Zombie](https://anilist.co/manga/86737) (10:54, 29 June 2022)
--   📖 Read chapter 56 - 64 of [SPY x FAMILY](https://anilist.co/manga/108556) (08:38, 27 June 2022)
--   📖 Plans to read [Run Away With Me, Girl](https://anilist.co/manga/114003) (18:44, 26 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
