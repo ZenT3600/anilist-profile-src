@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (07:31, 30 July 2022)
+-   📖 Completed [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:02, 30 July 2022)
+-   📖 Read chapter 1 - 15 of [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:00, 30 July 2022)
 -   📖 Plans to read [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (07:19, 30 July 2022)
 -   📖 Read chapter 1 - 422 of [Martial Peak](https://anilist.co/manga/104494) (06:32, 30 July 2022)
 -   📖 Read chapter 1 - 73 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:15, 30 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Hatsukoi Zombie](https://anilist.co/manga/86737) (10:54, 29 June 2022)
 -   📖 Read chapter 56 - 64 of [SPY x FAMILY](https://anilist.co/manga/108556) (08:38, 27 June 2022)
 -   📖 Plans to read [Run Away With Me, Girl](https://anilist.co/manga/114003) (18:44, 26 June 2022)
--   📖 Read chapter 1 - 59 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:44, 25 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
