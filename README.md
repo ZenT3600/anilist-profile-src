@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 73 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:15, 30 July 2022)
 -   📖 Read chapter 1 - 420 of [Martial Peak](https://anilist.co/manga/104494) (19:57, 29 July 2022)
--   📖 Read chapter 1 - 72 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:48, 29 July 2022)
 -   📖 Read chapter 1 - 20 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (10:29, 29 July 2022)
 -   📖 Plans to read [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (09:57, 29 July 2022)
 -   📖 Plans to read [Until I Meet My Husband](https://anilist.co/manga/120535) (08:45, 29 July 2022)
