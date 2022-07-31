@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [One Piece](https://anilist.co/manga/30013) (14:11, 31 July 2022)
 -   📖 Read chapter 1 - 14 of [Mitsuishi-san](https://anilist.co/manga/126488) (12:18, 31 July 2022)
 -   📖 Plans to read [Mitsuishi-san](https://anilist.co/manga/126488) (16:18, 30 July 2022)
 -   📖 Completed [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:02, 30 July 2022)
@@ -49,6 +50,5 @@
 -   📖 Dropped [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/manga/107603) (06:09, 30 June 2022)
 -   📖 Dropped [My Awkward Senpai](https://anilist.co/manga/114437) (06:06, 30 June 2022)
 -   📖 Paused reading [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (06:02, 30 June 2022)
--   📖 Plans to read [Hatsukoi Zombie](https://anilist.co/manga/86737) (10:54, 29 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
