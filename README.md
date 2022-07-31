@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 15 of [Mitsuishi-san](https://anilist.co/manga/126488) (16:45, 31 July 2022)
 -   📖 Plans to read [One Piece](https://anilist.co/manga/30013) (14:11, 31 July 2022)
--   📖 Read chapter 1 - 14 of [Mitsuishi-san](https://anilist.co/manga/126488) (12:18, 31 July 2022)
 -   📖 Plans to read [Mitsuishi-san](https://anilist.co/manga/126488) (16:18, 30 July 2022)
 -   📖 Completed [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:02, 30 July 2022)
 -   📖 Read chapter 1 - 15 of [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:00, 30 July 2022)
