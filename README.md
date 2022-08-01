@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [One Piece](https://anilist.co/manga/30013) (05:21, 01 August 2022)
+-   📖 Read chapter 1 - 2 of [One Piece](https://anilist.co/manga/30013) (07:17, 01 August 2022)
 -   📖 Read chapter 1 - 21 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:35, 01 August 2022)
 -   📖 Plans to read [One Piece](https://anilist.co/manga/30013) (14:11, 31 July 2022)
 -   📖 Plans to read [Mitsuishi-san](https://anilist.co/manga/126488) (16:18, 30 July 2022)
