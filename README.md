@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 23 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (10:59, 01 August 2022)
+-   📖 Read chapter 1 - 89 of [Love’s in Sight!](https://anilist.co/manga/107445) (10:57, 01 August 2022)
 -   📖 Read chapter 1 - 7 of [One Piece](https://anilist.co/manga/30013) (07:39, 01 August 2022)
 -   📖 Read chapter 1 - 21 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:35, 01 August 2022)
 -   📖 Plans to read [One Piece](https://anilist.co/manga/30013) (14:11, 31 July 2022)
@@ -9,14 +11,12 @@
 -   📖 Plans to read [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (07:19, 30 July 2022)
 -   📖 Read chapter 1 - 422 of [Martial Peak](https://anilist.co/manga/104494) (06:32, 30 July 2022)
 -   📖 Read chapter 1 - 73 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:15, 30 July 2022)
--   📖 Read chapter 1 - 20 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (10:29, 29 July 2022)
 -   📖 Plans to read [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (09:57, 29 July 2022)
 -   📖 Plans to read [Until I Meet My Husband](https://anilist.co/manga/120535) (08:45, 29 July 2022)
 -   📖 Completed [Ojojojo](https://anilist.co/manga/85419) (02:52, 29 July 2022)
 -   📖 Read chapter 1 - 58 of [Ojojojo](https://anilist.co/manga/85419) (02:51, 29 July 2022)
 -   📺 Plans to watch [Wolf Children](https://anilist.co/anime/12355) (09:30, 27 July 2022)
 -   📖 Plans to read [Ojojojo](https://anilist.co/manga/85419) (05:27, 27 July 2022)
--   📖 Read chapter 1 - 88 of [Love’s in Sight!](https://anilist.co/manga/107445) (21:25, 26 July 2022)
 -   📖 Read chapter 1 - 27 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (21:23, 26 July 2022)
 -   📖 Read chapter 1 - 114 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (21:21, 26 July 2022)
 -   📺 Plans to watch [Assassination Classroom 2](https://anilist.co/anime/21170) (20:20, 26 July 2022)
