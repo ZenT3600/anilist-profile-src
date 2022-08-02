@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 30 of [One Piece](https://anilist.co/manga/30013) (12:38, 02 August 2022)
+-   📖 Read chapter 1 - 31 of [One Piece](https://anilist.co/manga/30013) (15:06, 02 August 2022)
 -   📖 Plans to read [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (05:23, 02 August 2022)
 -   📖 Read chapter 1 - 23 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (10:59, 01 August 2022)
 -   📖 Read chapter 1 - 89 of [Love’s in Sight!](https://anilist.co/manga/107445) (10:57, 01 August 2022)
