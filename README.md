@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 13 of [One Piece](https://anilist.co/manga/30013) (13:45, 01 August 2022)
+-   📖 Read chapter 1 - 16 of [One Piece](https://anilist.co/manga/30013) (03:16, 02 August 2022)
 -   📖 Read chapter 1 - 23 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (10:59, 01 August 2022)
 -   📖 Read chapter 1 - 89 of [Love’s in Sight!](https://anilist.co/manga/107445) (10:57, 01 August 2022)
 -   📖 Read chapter 1 - 21 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:35, 01 August 2022)
