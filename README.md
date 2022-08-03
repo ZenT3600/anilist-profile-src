@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [To Not Die](https://anilist.co/manga/136099) (13:47, 03 August 2022)
 -   📖 Read chapter 1 - 38 of [One Piece](https://anilist.co/manga/30013) (11:45, 03 August 2022)
 -   📖 Plans to read [To Not Die](https://anilist.co/manga/136099) (06:48, 03 August 2022)
 -   📖 Read chapter 1 - 27 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:00, 03 August 2022)
@@ -49,6 +50,5 @@
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
 -   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:52, 04 July 2022)
 -   📖 Plans to read [Solo Leveling](https://anilist.co/manga/105398) (14:15, 30 June 2022)
--   📖 Paused reading [Mishiranu Joshikousei ni Isourousareta Mangaka no Hanashi](https://anilist.co/manga/142994) (06:10, 30 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
