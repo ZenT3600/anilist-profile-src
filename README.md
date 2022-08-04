@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 26 of [To Not Die](https://anilist.co/manga/136099) (16:09, 04 August 2022)
+-   📖 Read chapter 1 - 31 of [To Not Die](https://anilist.co/manga/136099) (16:31, 04 August 2022)
 -   📖 Read chapter 1 - 74 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:32, 04 August 2022)
 -   📖 Read chapter 1 - 28 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (07:39, 04 August 2022)
 -   📖 Read chapter 1 - 38 of [One Piece](https://anilist.co/manga/30013) (11:45, 03 August 2022)
