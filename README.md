@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [100-nichi Go ni Kekkon Suru Futari](https://anilist.co/manga/117769) (17:36, 04 August 2022)
+-   📖 Read chapter 1 - 29 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (17:29, 04 August 2022)
 -   📖 Read chapter 1 - 31 of [To Not Die](https://anilist.co/manga/136099) (16:31, 04 August 2022)
 -   📖 Read chapter 1 - 74 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:32, 04 August 2022)
--   📖 Read chapter 1 - 28 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (07:39, 04 August 2022)
 -   📖 Read chapter 1 - 38 of [One Piece](https://anilist.co/manga/30013) (11:45, 03 August 2022)
 -   📖 Plans to read [To Not Die](https://anilist.co/manga/136099) (06:48, 03 August 2022)
 -   📖 Plans to read [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (05:23, 02 August 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 37 of [My Boy in Blue](https://anilist.co/manga/85451) (17:32, 04 July 2022)
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
 -   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:52, 04 July 2022)
--   📖 Plans to read [Solo Leveling](https://anilist.co/manga/105398) (14:15, 30 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
