@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 34 of [To Not Die](https://anilist.co/manga/136099) (22:04, 04 August 2022)
+-   📖 Read chapter 1 - 75 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:49, 04 August 2022)
 -   📖 Plans to read [100-nichi Go ni Kekkon Suru Futari](https://anilist.co/manga/117769) (17:36, 04 August 2022)
 -   📖 Read chapter 1 - 29 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (17:29, 04 August 2022)
--   📖 Read chapter 1 - 31 of [To Not Die](https://anilist.co/manga/136099) (16:31, 04 August 2022)
--   📖 Read chapter 1 - 74 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:32, 04 August 2022)
 -   📖 Read chapter 1 - 38 of [One Piece](https://anilist.co/manga/30013) (11:45, 03 August 2022)
 -   📖 Plans to read [To Not Die](https://anilist.co/manga/136099) (06:48, 03 August 2022)
 -   📖 Plans to read [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (05:23, 02 August 2022)
