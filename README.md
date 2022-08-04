@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 74 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:32, 04 August 2022)
 -   📖 Read chapter 1 - 21 of [To Not Die](https://anilist.co/manga/136099) (11:12, 04 August 2022)
 -   📖 Read chapter 1 - 28 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (07:39, 04 August 2022)
 -   📖 Read chapter 1 - 38 of [One Piece](https://anilist.co/manga/30013) (11:45, 03 August 2022)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 15 of [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:00, 30 July 2022)
 -   📖 Plans to read [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (07:19, 30 July 2022)
 -   📖 Read chapter 1 - 422 of [Martial Peak](https://anilist.co/manga/104494) (06:32, 30 July 2022)
--   📖 Read chapter 1 - 73 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:15, 30 July 2022)
 -   📖 Plans to read [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (09:57, 29 July 2022)
 -   📖 Plans to read [Until I Meet My Husband](https://anilist.co/manga/120535) (08:45, 29 July 2022)
 -   📖 Completed [Ojojojo](https://anilist.co/manga/85419) (02:52, 29 July 2022)
