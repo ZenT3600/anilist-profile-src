@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 114 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:37, 05 August 2022)
+-   📖 Read chapter 1 - 116 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:44, 05 August 2022)
 -   📖 Read chapter 1 - 42 of [To Not Die](https://anilist.co/manga/136099) (07:51, 05 August 2022)
 -   📖 Read chapter 1 - 75 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:49, 04 August 2022)
 -   📖 Plans to read [100-nichi Go ni Kekkon Suru Futari](https://anilist.co/manga/117769) (17:36, 04 August 2022)
