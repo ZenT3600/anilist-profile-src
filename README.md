@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 59 of [To Not Die](https://anilist.co/manga/136099) (04:34, 07 August 2022)
+-   📖 Read chapter 1 - 65 of [To Not Die](https://anilist.co/manga/136099) (07:33, 07 August 2022)
 -   📖 Read chapter 1 - 30 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:30, 07 August 2022)
 -   📖 Read chapter 1 - 76 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:44, 06 August 2022)
 -   📖 Read chapter 1 - 116 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:44, 05 August 2022)
