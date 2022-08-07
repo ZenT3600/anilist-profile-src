@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Yankee JK Kuzuhana-chan](https://anilist.co/manga/125275) (17:22, 07 August 2022)
 -   📖 Read chapter 1 - 66 of [To Not Die](https://anilist.co/manga/136099) (07:37, 07 August 2022)
 -   📖 Read chapter 1 - 30 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:30, 07 August 2022)
 -   📖 Read chapter 1 - 76 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:44, 06 August 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:25, 05 July 2022)
 -   📖 Read chapter 1 - 37 of [My Boy in Blue](https://anilist.co/manga/85451) (17:32, 04 July 2022)
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:41, 04 July 2022)
--   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:52, 04 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
