@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 188 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:41, 08 August 2022)
+-   📖 Read chapter 1 - 191 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (15:21, 08 August 2022)
 -   📖 Plans to read [Yankee JK Kuzuhana-chan](https://anilist.co/manga/125275) (17:22, 07 August 2022)
 -   📖 Read chapter 1 - 66 of [To Not Die](https://anilist.co/manga/136099) (07:37, 07 August 2022)
 -   📖 Read chapter 1 - 30 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:30, 07 August 2022)
