@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 115 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:09, 08 August 2022)
 -   📖 Read chapter 1 - 32 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:52, 08 August 2022)
 -   📖 Read chapter 1 - 191 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (15:21, 08 August 2022)
 -   📖 Plans to read [Yankee JK Kuzuhana-chan](https://anilist.co/manga/125275) (17:22, 07 August 2022)
@@ -25,7 +26,6 @@
 -   📺 Plans to watch [Wolf Children](https://anilist.co/anime/12355) (09:30, 27 July 2022)
 -   📖 Plans to read [Ojojojo](https://anilist.co/manga/85419) (05:27, 27 July 2022)
 -   📖 Read chapter 1 - 27 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (21:23, 26 July 2022)
--   📖 Read chapter 1 - 114 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (21:21, 26 July 2022)
 -   📺 Plans to watch [Assassination Classroom 2](https://anilist.co/anime/21170) (20:20, 26 July 2022)
 -   📖 Plans to read [InuYasha](https://anilist.co/manga/30676) (12:26, 26 July 2022)
 -   📖 Read chapter 1 - 63 of [Solo Leveling](https://anilist.co/manga/105398) (09:21, 24 July 2022)
