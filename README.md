@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 32 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:52, 08 August 2022)
 -   📖 Read chapter 1 - 191 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (15:21, 08 August 2022)
 -   📖 Plans to read [Yankee JK Kuzuhana-chan](https://anilist.co/manga/125275) (17:22, 07 August 2022)
 -   📖 Read chapter 1 - 66 of [To Not Die](https://anilist.co/manga/136099) (07:37, 07 August 2022)
--   📖 Read chapter 1 - 30 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:30, 07 August 2022)
 -   📖 Read chapter 1 - 76 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:44, 06 August 2022)
 -   📖 Read chapter 1 - 116 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:44, 05 August 2022)
 -   📖 Plans to read [100-nichi Go ni Kekkon Suru Futari](https://anilist.co/manga/117769) (17:36, 04 August 2022)
