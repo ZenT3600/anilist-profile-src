@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 85 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:16, 08 August 2022)
 -   📖 Read chapter 1 - 115 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:09, 08 August 2022)
 -   📖 Read chapter 1 - 32 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:52, 08 August 2022)
 -   📖 Read chapter 1 - 191 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (15:21, 08 August 2022)
@@ -34,7 +35,6 @@
 -   📖 Read chapter 1 of [Puffy Fragrance](https://anilist.co/manga/131288) (07:01, 21 July 2022)
 -   📖 Read chapter 1 - 20 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:06, 19 July 2022)
 -   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
--   📖 Read chapter 1 - 84 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (13:40, 13 July 2022)
 -   📖 Plans to read [Puffy Fragrance](https://anilist.co/manga/131288) (12:02, 11 July 2022)
 -   📖 Read chapter 62 - 258 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:00, 10 July 2022)
 -   📺 Plans to watch [Barakamon](https://anilist.co/anime/20722) (09:17, 10 July 2022)
