@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 188 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:41, 08 August 2022)
 -   📖 Plans to read [Yankee JK Kuzuhana-chan](https://anilist.co/manga/125275) (17:22, 07 August 2022)
 -   📖 Read chapter 1 - 66 of [To Not Die](https://anilist.co/manga/136099) (07:37, 07 August 2022)
 -   📖 Read chapter 1 - 30 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:30, 07 August 2022)
@@ -31,7 +32,6 @@
 -   📖 Read chapter 1 - 78 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:31, 21 July 2022)
 -   📖 Read chapter 1 - 29 of [Call of the Night](https://anilist.co/manga/111233) (08:14, 21 July 2022)
 -   📖 Read chapter 1 of [Puffy Fragrance](https://anilist.co/manga/131288) (07:01, 21 July 2022)
--   📖 Read chapter 1 - 181 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (05:23, 19 July 2022)
 -   📖 Read chapter 1 - 20 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:06, 19 July 2022)
 -   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
 -   📖 Read chapter 1 - 84 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (13:40, 13 July 2022)
