@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 40 of [One Piece](https://anilist.co/manga/30013) (08:32, 09 August 2022)
+-   📖 Read chapter 1 - 44 of [One Piece](https://anilist.co/manga/30013) (10:31, 09 August 2022)
 -   📖 Read chapter 1 - 210 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:18, 09 August 2022)
 -   📖 Read chapter 1 - 85 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:16, 08 August 2022)
 -   📖 Read chapter 1 - 115 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:09, 08 August 2022)
