@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 91 - 181 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (13:05, 12 August 2022)
+-   📖 Read chapter 91 - 184 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (13:15, 12 August 2022)
 -   📖 Read chapter 1 - 42 of [My Boy in Blue](https://anilist.co/manga/85451) (07:40, 12 August 2022)
 -   📖 Read chapter 1 - 78 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:03, 12 August 2022)
 -   📖 Completed [Pochi Gokko.](https://anilist.co/manga/110512) (14:08, 11 August 2022)
