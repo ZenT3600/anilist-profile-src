@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 78 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:03, 12 August 2022)
 -   📖 Completed [Pochi Gokko.](https://anilist.co/manga/110512) (14:08, 11 August 2022)
 -   📖 Read chapter 1 - 34 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (06:12, 11 August 2022)
--   📖 Read chapter 1 - 77 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:12, 11 August 2022)
 -   📖 Read chapter 1 - 235 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (10:27, 10 August 2022)
 -   📖 Read chapter 1 - 44 of [One Piece](https://anilist.co/manga/30013) (10:31, 09 August 2022)
 -   📖 Read chapter 1 - 85 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:16, 08 August 2022)
