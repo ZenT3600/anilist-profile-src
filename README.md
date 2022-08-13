@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (12:12, 13 August 2022)
+-   📖 Read chapter 1 - 28 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (12:30, 13 August 2022)
 -   📖 Plans to read [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (12:03, 13 August 2022)
 -   📖 Read chapter 1 - 79 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:17, 13 August 2022)
 -   📖 Read chapter 1 - 35 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:14, 13 August 2022)
