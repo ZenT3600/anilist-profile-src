@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (12:12, 13 August 2022)
+-   📖 Plans to read [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (12:03, 13 August 2022)
 -   📖 Read chapter 1 - 79 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:17, 13 August 2022)
 -   📖 Read chapter 1 - 35 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:14, 13 August 2022)
 -   📖 Read chapter 91 - 184 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (13:15, 12 August 2022)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [Levius](https://anilist.co/manga/86761) (09:13, 09 July 2022)
 -   📖 Plans to read [Wolf & Parchment](https://anilist.co/manga/115750) (11:00, 08 July 2022)
 -   📺 Watched episode 1 - 4 of [Overflow](https://anilist.co/anime/113417) (06:20, 08 July 2022)
--   📺 Watched episode 1 - 3 of [Shoujo Ramune](https://anilist.co/anime/21828) (08:16, 06 July 2022)
--   📖 Plans to read [Rosen Blood](https://anilist.co/manga/103030) (15:12, 05 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
