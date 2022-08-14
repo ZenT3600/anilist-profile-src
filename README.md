@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 44 of [My Boy in Blue](https://anilist.co/manga/85451) (05:08, 14 August 2022)
+-   📖 Read chapter 1 - 46 of [My Boy in Blue](https://anilist.co/manga/85451) (05:19, 14 August 2022)
 -   📖 Read chapter 1 - 46 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (17:40, 13 August 2022)
 -   📖 Plans to read [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (12:03, 13 August 2022)
 -   📖 Read chapter 1 - 79 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:17, 13 August 2022)
