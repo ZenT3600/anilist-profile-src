@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 237 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (11:55, 14 August 2022)
+-   📖 Read chapter 1 - 241 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:20, 14 August 2022)
 -   📖 Read chapter 1 - 50 of [My Boy in Blue](https://anilist.co/manga/85451) (07:21, 14 August 2022)
 -   📖 Read chapter 1 - 46 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (17:40, 13 August 2022)
 -   📖 Plans to read [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (12:03, 13 August 2022)
