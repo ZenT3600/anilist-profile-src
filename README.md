@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 36 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (20:14, 14 August 2022)
 -   📖 Read chapter 1 - 241 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:20, 14 August 2022)
 -   📖 Read chapter 1 - 50 of [My Boy in Blue](https://anilist.co/manga/85451) (07:21, 14 August 2022)
 -   📖 Read chapter 1 - 46 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (17:40, 13 August 2022)
 -   📖 Plans to read [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (12:03, 13 August 2022)
 -   📖 Read chapter 1 - 79 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:17, 13 August 2022)
--   📖 Read chapter 1 - 35 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:14, 13 August 2022)
 -   📖 Read chapter 91 - 184 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (13:15, 12 August 2022)
 -   📖 Completed [Pochi Gokko.](https://anilist.co/manga/110512) (14:08, 11 August 2022)
 -   📖 Read chapter 1 - 44 of [One Piece](https://anilist.co/manga/30013) (10:31, 09 August 2022)
