@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 28 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:29, 15 August 2022)
 -   📖 Read chapter 1 - 58 of [My Boy in Blue](https://anilist.co/manga/85451) (07:51, 15 August 2022)
 -   📖 Read chapter 1 - 36 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (20:14, 14 August 2022)
 -   📖 Read chapter 1 - 241 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:20, 14 August 2022)
@@ -31,7 +32,6 @@
 -   📖 Read chapter 1 - 58 of [Ojojojo](https://anilist.co/manga/85419) (02:51, 29 July 2022)
 -   📺 Plans to watch [Wolf Children](https://anilist.co/anime/12355) (09:30, 27 July 2022)
 -   📖 Plans to read [Ojojojo](https://anilist.co/manga/85419) (05:27, 27 July 2022)
--   📖 Read chapter 1 - 27 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (21:23, 26 July 2022)
 -   📺 Plans to watch [Assassination Classroom 2](https://anilist.co/anime/21170) (20:20, 26 July 2022)
 -   📖 Plans to read [InuYasha](https://anilist.co/manga/30676) (12:26, 26 July 2022)
 -   📖 Read chapter 1 - 63 of [Solo Leveling](https://anilist.co/manga/105398) (09:21, 24 July 2022)
