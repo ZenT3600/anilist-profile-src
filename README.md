@@ -1,7 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [My Boy in Blue](https://anilist.co/manga/85451) (10:23, 15 August 2022)
+-   📖 Read chapter 1 - 62 of [My Boy in Blue](https://anilist.co/manga/85451) (10:23, 15 August 2022)
 -   📖 Read chapter 1 - 28 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:29, 15 August 2022)
--   📖 Read chapter 1 - 58 of [My Boy in Blue](https://anilist.co/manga/85451) (07:51, 15 August 2022)
 -   📖 Read chapter 1 - 36 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (20:14, 14 August 2022)
 -   📖 Read chapter 1 - 241 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:20, 14 August 2022)
 -   📖 Read chapter 1 - 46 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (17:40, 13 August 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 of [Wolf & Parchment](https://anilist.co/manga/115750) (09:29, 09 July 2022)
 -   📖 Plans to read [Levius](https://anilist.co/manga/86761) (09:13, 09 July 2022)
 -   📖 Plans to read [Wolf & Parchment](https://anilist.co/manga/115750) (11:00, 08 July 2022)
--   📺 Watched episode 1 - 4 of [Overflow](https://anilist.co/anime/113417) (06:20, 08 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
