@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 251 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:36, 16 August 2022)
 -   📖 Read chapter 1 - 36 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:27, 16 August 2022)
--   📖 Read chapter 1 - 250 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (16:08, 15 August 2022)
 -   📖 Completed [My Boy in Blue](https://anilist.co/manga/85451) (10:23, 15 August 2022)
 -   📖 Read chapter 1 - 62 of [My Boy in Blue](https://anilist.co/manga/85451) (10:23, 15 August 2022)
 -   📖 Read chapter 1 - 28 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:29, 15 August 2022)
