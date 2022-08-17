@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 269 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:00, 17 August 2022)
 -   📖 Read chapter 1 - 251 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:36, 16 August 2022)
 -   📖 Read chapter 1 - 36 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:27, 16 August 2022)
 -   📖 Completed [My Boy in Blue](https://anilist.co/manga/85451) (10:23, 15 August 2022)
@@ -42,7 +43,6 @@
 -   📖 Read chapter 1 - 20 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:06, 19 July 2022)
 -   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
 -   📖 Plans to read [Puffy Fragrance](https://anilist.co/manga/131288) (12:02, 11 July 2022)
--   📖 Read chapter 62 - 258 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:00, 10 July 2022)
 -   📺 Plans to watch [Barakamon](https://anilist.co/anime/20722) (09:17, 10 July 2022)
 -   📺 Plans to watch [Only Yesterday](https://anilist.co/anime/1029) (09:13, 10 July 2022)
 -   📖 Plans to read [Teasing Master Takagi-san](https://anilist.co/manga/85533) (16:59, 09 July 2022)
