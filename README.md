@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Last Word of the World](https://anilist.co/manga/120692) (08:38, 18 August 2022)
+-   📖 Plans to read [Last Word of the World](https://anilist.co/manga/120692) (08:20, 18 August 2022)
 -   📖 Read chapter 1 - 80 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (23:57, 17 August 2022)
 -   📖 Read chapter 62 - 269 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:00, 17 August 2022)
 -   📖 Read chapter 1 - 251 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:36, 16 August 2022)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [Teasing Master Takagi-san](https://anilist.co/manga/85533) (16:59, 09 July 2022)
 -   📺 Watched episode 1 - 4 of [Adachi and Shimamura](https://anilist.co/anime/109287) (11:42, 09 July 2022)
 -   📖 Read chapter 1 of [Wolf & Parchment](https://anilist.co/manga/115750) (09:29, 09 July 2022)
--   📖 Plans to read [Levius](https://anilist.co/manga/86761) (09:13, 09 July 2022)
--   📖 Plans to read [Wolf & Parchment](https://anilist.co/manga/115750) (11:00, 08 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
