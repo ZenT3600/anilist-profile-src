@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 79 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:01, 18 August 2022)
 -   📖 Read chapter 1 - 3 of [Last Word of the World](https://anilist.co/manga/120692) (08:38, 18 August 2022)
 -   📖 Plans to read [Last Word of the World](https://anilist.co/manga/120692) (08:20, 18 August 2022)
 -   📖 Read chapter 1 - 80 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (23:57, 17 August 2022)
@@ -39,7 +40,6 @@
 -   📺 Plans to watch [Assassination Classroom 2](https://anilist.co/anime/21170) (20:20, 26 July 2022)
 -   📖 Plans to read [InuYasha](https://anilist.co/manga/30676) (12:26, 26 July 2022)
 -   📖 Read chapter 1 - 63 of [Solo Leveling](https://anilist.co/manga/105398) (09:21, 24 July 2022)
--   📖 Read chapter 1 - 78 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:31, 21 July 2022)
 -   📖 Read chapter 1 - 29 of [Call of the Night](https://anilist.co/manga/111233) (08:14, 21 July 2022)
 -   📖 Read chapter 1 of [Puffy Fragrance](https://anilist.co/manga/131288) (07:01, 21 July 2022)
 -   📖 Read chapter 1 - 20 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:06, 19 July 2022)
