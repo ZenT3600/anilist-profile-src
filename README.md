@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 259 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:10, 19 August 2022)
+-   📖 Read chapter 1 - 265 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:20, 19 August 2022)
 -   📖 Read chapter 1 - 117 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:44, 19 August 2022)
 -   📖 Plans to read [Arrested Love](https://anilist.co/manga/118930) (05:30, 19 August 2022)
 -   📖 Read chapter 1 - 81 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:58, 19 August 2022)
