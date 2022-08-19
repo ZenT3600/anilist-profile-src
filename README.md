@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Arrested Love](https://anilist.co/manga/118930) (05:30, 19 August 2022)
 -   📖 Read chapter 1 - 81 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:58, 19 August 2022)
 -   📖 Read chapter 1 - 79 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:01, 18 August 2022)
 -   📖 Read chapter 1 - 3 of [Last Word of the World](https://anilist.co/manga/120692) (08:38, 18 August 2022)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Only Yesterday](https://anilist.co/anime/1029) (09:13, 10 July 2022)
 -   📖 Plans to read [Teasing Master Takagi-san](https://anilist.co/manga/85533) (16:59, 09 July 2022)
 -   📺 Watched episode 1 - 4 of [Adachi and Shimamura](https://anilist.co/anime/109287) (11:42, 09 July 2022)
--   📖 Read chapter 1 of [Wolf & Parchment](https://anilist.co/manga/115750) (09:29, 09 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
