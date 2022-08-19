@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 117 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:44, 19 August 2022)
 -   📖 Plans to read [Arrested Love](https://anilist.co/manga/118930) (05:30, 19 August 2022)
 -   📖 Read chapter 1 - 81 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:58, 19 August 2022)
 -   📖 Read chapter 1 - 79 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:01, 18 August 2022)
@@ -20,7 +21,6 @@
 -   📖 Read chapter 1 - 115 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:09, 08 August 2022)
 -   📖 Plans to read [Yankee JK Kuzuhana-chan](https://anilist.co/manga/125275) (17:22, 07 August 2022)
 -   📖 Read chapter 1 - 66 of [To Not Die](https://anilist.co/manga/136099) (07:37, 07 August 2022)
--   📖 Read chapter 1 - 116 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:44, 05 August 2022)
 -   📖 Plans to read [100-nichi Go ni Kekkon Suru Futari](https://anilist.co/manga/117769) (17:36, 04 August 2022)
 -   📖 Plans to read [To Not Die](https://anilist.co/manga/136099) (06:48, 03 August 2022)
 -   📖 Plans to read [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (05:23, 02 August 2022)
