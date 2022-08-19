@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 81 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:58, 19 August 2022)
 -   📖 Read chapter 1 - 79 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:01, 18 August 2022)
 -   📖 Read chapter 1 - 3 of [Last Word of the World](https://anilist.co/manga/120692) (08:38, 18 August 2022)
 -   📖 Plans to read [Last Word of the World](https://anilist.co/manga/120692) (08:20, 18 August 2022)
--   📖 Read chapter 1 - 80 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (23:57, 17 August 2022)
 -   📖 Read chapter 62 - 269 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:00, 17 August 2022)
 -   📖 Read chapter 1 - 251 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:36, 16 August 2022)
 -   📖 Read chapter 1 - 36 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:27, 16 August 2022)
