@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [Citrus+](https://anilist.co/manga/103884) (12:58, 20 August 2022)
 -   📖 Read chapter 1 - 82 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:36, 20 August 2022)
 -   📖 Read chapter 1 - 265 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:20, 19 August 2022)
 -   📖 Read chapter 1 - 117 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:44, 19 August 2022)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Barakamon](https://anilist.co/anime/20722) (09:17, 10 July 2022)
 -   📺 Plans to watch [Only Yesterday](https://anilist.co/anime/1029) (09:13, 10 July 2022)
 -   📖 Plans to read [Teasing Master Takagi-san](https://anilist.co/manga/85533) (16:59, 09 July 2022)
--   📺 Watched episode 1 - 4 of [Adachi and Shimamura](https://anilist.co/anime/109287) (11:42, 09 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
