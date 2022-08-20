@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 82 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:36, 20 August 2022)
 -   📖 Read chapter 1 - 265 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:20, 19 August 2022)
 -   📖 Read chapter 1 - 117 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:44, 19 August 2022)
 -   📖 Plans to read [Arrested Love](https://anilist.co/manga/118930) (05:30, 19 August 2022)
--   📖 Read chapter 1 - 81 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:58, 19 August 2022)
 -   📖 Read chapter 1 - 79 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:01, 18 August 2022)
 -   📖 Read chapter 1 - 3 of [Last Word of the World](https://anilist.co/manga/120692) (08:38, 18 August 2022)
 -   📖 Plans to read [Last Word of the World](https://anilist.co/manga/120692) (08:20, 18 August 2022)
