@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 90 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:36, 22 August 2022)
 -   📖 Read chapter 1 - 27 of [Citrus+](https://anilist.co/manga/103884) (12:58, 20 August 2022)
 -   📖 Read chapter 1 - 82 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:36, 20 August 2022)
 -   📖 Read chapter 1 - 265 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:20, 19 August 2022)
@@ -25,7 +26,6 @@
 -   📖 Plans to read [100-nichi Go ni Kekkon Suru Futari](https://anilist.co/manga/117769) (17:36, 04 August 2022)
 -   📖 Plans to read [To Not Die](https://anilist.co/manga/136099) (06:48, 03 August 2022)
 -   📖 Plans to read [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (05:23, 02 August 2022)
--   📖 Read chapter 1 - 89 of [Love’s in Sight!](https://anilist.co/manga/107445) (10:57, 01 August 2022)
 -   📖 Read chapter 1 - 21 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:35, 01 August 2022)
 -   📖 Plans to read [One Piece](https://anilist.co/manga/30013) (14:11, 31 July 2022)
 -   📖 Plans to read [Mitsuishi-san](https://anilist.co/manga/126488) (16:18, 30 July 2022)
