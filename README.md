@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 116 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:58, 22 August 2022)
+-   📖 Read chapter 1 - 37 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:56, 22 August 2022)
 -   📖 Read chapter 1 - 90 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:36, 22 August 2022)
 -   📖 Read chapter 1 - 27 of [Citrus+](https://anilist.co/manga/103884) (12:58, 20 August 2022)
 -   📖 Read chapter 1 - 82 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:36, 20 August 2022)
@@ -10,7 +12,6 @@
 -   📖 Read chapter 1 - 3 of [Last Word of the World](https://anilist.co/manga/120692) (08:38, 18 August 2022)
 -   📖 Plans to read [Last Word of the World](https://anilist.co/manga/120692) (08:20, 18 August 2022)
 -   📖 Read chapter 62 - 269 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:00, 17 August 2022)
--   📖 Read chapter 1 - 36 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:27, 16 August 2022)
 -   📖 Completed [My Boy in Blue](https://anilist.co/manga/85451) (10:23, 15 August 2022)
 -   📖 Read chapter 1 - 62 of [My Boy in Blue](https://anilist.co/manga/85451) (10:23, 15 August 2022)
 -   📖 Read chapter 1 - 28 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:29, 15 August 2022)
@@ -20,7 +21,6 @@
 -   📖 Completed [Pochi Gokko.](https://anilist.co/manga/110512) (14:08, 11 August 2022)
 -   📖 Read chapter 1 - 44 of [One Piece](https://anilist.co/manga/30013) (10:31, 09 August 2022)
 -   📖 Read chapter 1 - 85 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:16, 08 August 2022)
--   📖 Read chapter 1 - 115 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:09, 08 August 2022)
 -   📖 Plans to read [Yankee JK Kuzuhana-chan](https://anilist.co/manga/125275) (17:22, 07 August 2022)
 -   📖 Read chapter 1 - 66 of [To Not Die](https://anilist.co/manga/136099) (07:37, 07 August 2022)
 -   📖 Plans to read [100-nichi Go ni Kekkon Suru Futari](https://anilist.co/manga/117769) (17:36, 04 August 2022)
