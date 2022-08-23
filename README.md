@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 284 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:44, 23 August 2022)
 -   📖 Read chapter 1 - 116 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:58, 22 August 2022)
 -   📖 Read chapter 1 - 37 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:56, 22 August 2022)
 -   📖 Read chapter 1 - 90 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:36, 22 August 2022)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 79 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:01, 18 August 2022)
 -   📖 Read chapter 1 - 3 of [Last Word of the World](https://anilist.co/manga/120692) (08:38, 18 August 2022)
 -   📖 Plans to read [Last Word of the World](https://anilist.co/manga/120692) (08:20, 18 August 2022)
--   📖 Read chapter 62 - 269 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:00, 17 August 2022)
 -   📖 Completed [My Boy in Blue](https://anilist.co/manga/85451) (10:23, 15 August 2022)
 -   📖 Read chapter 1 - 62 of [My Boy in Blue](https://anilist.co/manga/85451) (10:23, 15 August 2022)
 -   📖 Read chapter 1 - 28 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:29, 15 August 2022)
