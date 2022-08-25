@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Shoujo Ramune](https://anilist.co/anime/21828) (18:12, 25 August 2022)
 -   📖 Read chapter 1 - 38 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:13, 24 August 2022)
 -   📖 Plans to read [Sweet Home](https://anilist.co/manga/100954) (11:37, 24 August 2022)
 -   📖 Read chapter 62 - 284 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:44, 23 August 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
 -   📖 Plans to read [Puffy Fragrance](https://anilist.co/manga/131288) (12:02, 11 July 2022)
 -   📺 Plans to watch [Barakamon](https://anilist.co/anime/20722) (09:17, 10 July 2022)
--   📺 Plans to watch [Only Yesterday](https://anilist.co/anime/1029) (09:13, 10 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
