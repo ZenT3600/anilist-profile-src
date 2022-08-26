@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [17-sai.](https://anilist.co/manga/54959) (13:24, 26 August 2022)
 -   📖 Read chapter 1 - 84 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:02, 26 August 2022)
 -   📖 Read chapter 1 - 29 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:56, 26 August 2022)
 -   📺 Completed [Shoujo Ramune](https://anilist.co/anime/21828) (18:12, 25 August 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 20 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:06, 19 July 2022)
 -   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
 -   📖 Plans to read [Puffy Fragrance](https://anilist.co/manga/131288) (12:02, 11 July 2022)
--   📺 Plans to watch [Barakamon](https://anilist.co/anime/20722) (09:17, 10 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
