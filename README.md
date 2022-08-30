@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 277 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (05:43, 29 August 2022)
+-   📖 Read chapter 1 - 294 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:37, 30 August 2022)
+-   📖 Read chapter 1 - 117 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:32, 30 August 2022)
 -   📖 Read chapter 1 - 118 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (21:15, 28 August 2022)
 -   📖 Read chapter 1 - 39 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:09, 28 August 2022)
 -   📖 Read chapter 1 - 85 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:57, 27 August 2022)
@@ -10,7 +11,6 @@
 -   📺 Completed [Shoujo Ramune](https://anilist.co/anime/21828) (18:12, 25 August 2022)
 -   📖 Plans to read [Sweet Home](https://anilist.co/manga/100954) (11:37, 24 August 2022)
 -   📖 Read chapter 62 - 284 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:44, 23 August 2022)
--   📖 Read chapter 1 - 116 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:58, 22 August 2022)
 -   📖 Read chapter 1 - 90 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:36, 22 August 2022)
 -   📖 Read chapter 1 - 27 of [Citrus+](https://anilist.co/manga/103884) (12:58, 20 August 2022)
 -   📖 Plans to read [Arrested Love](https://anilist.co/manga/118930) (05:30, 19 August 2022)
