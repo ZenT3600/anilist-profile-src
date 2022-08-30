@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 326 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (16:10, 30 August 2022)
+-   📖 Read chapter 1 - 340 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (16:38, 30 August 2022)
 -   📖 Read chapter 1 - 117 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:32, 30 August 2022)
 -   📖 Read chapter 1 - 118 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (21:15, 28 August 2022)
 -   📖 Read chapter 1 - 39 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:09, 28 August 2022)
