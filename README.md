@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (15:40, 31 August 2022)
+-   📖 Read chapter 1 - 15 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (15:43, 31 August 2022)
 -   📖 Plans to read [Kase-san and Yamada](https://anilist.co/manga/98777) (14:53, 31 August 2022)
 -   📖 Read chapter 1 - 388 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:29, 31 August 2022)
 -   📖 Read chapter 1 - 117 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:32, 30 August 2022)
