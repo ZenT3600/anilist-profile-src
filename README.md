@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (15:40, 31 August 2022)
 -   📖 Plans to read [Kase-san and Yamada](https://anilist.co/manga/98777) (14:53, 31 August 2022)
 -   📖 Read chapter 1 - 388 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:29, 31 August 2022)
 -   📖 Read chapter 1 - 117 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:32, 30 August 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 29 of [Call of the Night](https://anilist.co/manga/111233) (08:14, 21 July 2022)
 -   📖 Read chapter 1 of [Puffy Fragrance](https://anilist.co/manga/131288) (07:01, 21 July 2022)
 -   📖 Read chapter 1 - 20 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:06, 19 July 2022)
--   📖 Read chapter 1 - 126 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:38, 15 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
