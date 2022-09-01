@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 91 - 188 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (16:09, 01 September 2022)
+-   📖 Read chapter 91 - 211 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (16:54, 01 September 2022)
 -   📖 Read chapter 1 - 119 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:06, 01 September 2022)
 -   📖 Read chapter 1 - 86 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:30, 01 September 2022)
 -   📖 Read chapter 1 - 40 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:44, 01 September 2022)
