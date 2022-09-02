@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Toradora!](https://anilist.co/manga/34368) (15:43, 02 September 2022)
 -   📖 Read chapter 1 - 27 of [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (15:05, 02 September 2022)
 -   📖 Completed [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
 -   📖 Read chapter 91 - 223 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Assassination Classroom 2](https://anilist.co/anime/21170) (20:20, 26 July 2022)
 -   📖 Plans to read [InuYasha](https://anilist.co/manga/30676) (12:26, 26 July 2022)
 -   📖 Read chapter 1 - 63 of [Solo Leveling](https://anilist.co/manga/105398) (09:21, 24 July 2022)
--   📖 Read chapter 1 - 29 of [Call of the Night](https://anilist.co/manga/111233) (08:14, 21 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
