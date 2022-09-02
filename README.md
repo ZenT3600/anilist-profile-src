@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 6 of [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (09:37, 02 September 2022)
+-   📖 Read chapter 1 - 23 of [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (10:00, 02 September 2022)
 -   📖 Completed [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
 -   📖 Read chapter 91 - 223 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
 -   📖 Read chapter 1 - 119 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:06, 01 September 2022)
