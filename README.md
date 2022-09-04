@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 30 of [Toradora!](https://anilist.co/manga/34368) (19:45, 03 September 2022)
+-   📖 Read chapter 1 - 34 of [Toradora!](https://anilist.co/manga/34368) (03:25, 04 September 2022)
 -   📖 Read chapter 1 - 87 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (00:40, 03 September 2022)
 -   📖 Read chapter 1 - 41 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:53, 02 September 2022)
 -   📖 Completed [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (16:37, 02 September 2022)
