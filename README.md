@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 42 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:39, 05 September 2022)
+-   📖 Read chapter 1 - 91 of [Love’s in Sight!](https://anilist.co/manga/107445) (02:39, 05 September 2022)
 -   📖 Read chapter 1 - 55 of [Toradora!](https://anilist.co/manga/34368) (17:19, 04 September 2022)
 -   📖 Read chapter 1 - 87 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (00:40, 03 September 2022)
--   📖 Read chapter 1 - 41 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:53, 02 September 2022)
 -   📖 Completed [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (16:37, 02 September 2022)
 -   📖 Read chapter 1 - 34 of [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (16:37, 02 September 2022)
 -   📖 Plans to read [Toradora!](https://anilist.co/manga/34368) (15:43, 02 September 2022)
@@ -19,7 +20,6 @@
 -   📺 Completed [Shoujo Ramune](https://anilist.co/anime/21828) (18:12, 25 August 2022)
 -   📖 Plans to read [Sweet Home](https://anilist.co/manga/100954) (11:37, 24 August 2022)
 -   📖 Read chapter 62 - 284 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:44, 23 August 2022)
--   📖 Read chapter 1 - 90 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:36, 22 August 2022)
 -   📖 Read chapter 1 - 27 of [Citrus+](https://anilist.co/manga/103884) (12:58, 20 August 2022)
 -   📖 Plans to read [Arrested Love](https://anilist.co/manga/118930) (05:30, 19 August 2022)
 -   📖 Read chapter 1 - 79 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:01, 18 August 2022)
