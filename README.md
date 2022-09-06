@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 118 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (04:06, 06 September 2022)
 -   📖 Read chapter 1 - 64 of [Toradora!](https://anilist.co/manga/34368) (03:40, 05 September 2022)
 -   📖 Read chapter 1 - 42 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:39, 05 September 2022)
 -   📖 Read chapter 1 - 91 of [Love’s in Sight!](https://anilist.co/manga/107445) (02:39, 05 September 2022)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 15 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (15:43, 31 August 2022)
 -   📖 Plans to read [Kase-san and Yamada](https://anilist.co/manga/98777) (14:53, 31 August 2022)
 -   📖 Read chapter 1 - 388 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:29, 31 August 2022)
--   📖 Read chapter 1 - 117 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:32, 30 August 2022)
 -   📖 Read chapter 1 - 86 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:55, 27 August 2022)
 -   📖 Plans to read [17-sai.](https://anilist.co/manga/54959) (13:24, 26 August 2022)
 -   📖 Read chapter 1 - 29 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:56, 26 August 2022)
