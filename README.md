@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 30 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (14:12, 06 September 2022)
 -   📖 Read chapter 1 - 118 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (04:06, 06 September 2022)
 -   📖 Read chapter 1 - 64 of [Toradora!](https://anilist.co/manga/34368) (03:40, 05 September 2022)
 -   📖 Read chapter 1 - 42 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:39, 05 September 2022)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 388 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:29, 31 August 2022)
 -   📖 Read chapter 1 - 86 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:55, 27 August 2022)
 -   📖 Plans to read [17-sai.](https://anilist.co/manga/54959) (13:24, 26 August 2022)
--   📖 Read chapter 1 - 29 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:56, 26 August 2022)
 -   📺 Completed [Shoujo Ramune](https://anilist.co/anime/21828) (18:12, 25 August 2022)
 -   📖 Plans to read [Sweet Home](https://anilist.co/manga/100954) (11:37, 24 August 2022)
 -   📖 Read chapter 62 - 284 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:44, 23 August 2022)
