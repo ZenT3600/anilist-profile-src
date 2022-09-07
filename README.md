@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Reincarnated as a Sword](https://anilist.co/manga/98014) (08:17, 07 September 2022)
 -   📖 Read chapter 1 - 73 of [Toradora!](https://anilist.co/manga/34368) (04:06, 07 September 2022)
 -   📖 Read chapter 1 - 43 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:31, 07 September 2022)
 -   📖 Read chapter 1 - 30 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (14:12, 06 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 58 of [Ojojojo](https://anilist.co/manga/85419) (02:51, 29 July 2022)
 -   📺 Plans to watch [Wolf Children](https://anilist.co/anime/12355) (09:30, 27 July 2022)
 -   📖 Plans to read [Ojojojo](https://anilist.co/manga/85419) (05:27, 27 July 2022)
--   📺 Plans to watch [Assassination Classroom 2](https://anilist.co/anime/21170) (20:20, 26 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
