@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Hari's Sexy Star](https://anilist.co/manga/101475) (08:10, 08 September 2022)
+-   📖 Plans to read [Hari's Steamy Boarding House](https://anilist.co/manga/97632) (08:10, 08 September 2022)
+-   📖 Plans to read [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:03, 08 September 2022)
 -   📖 Read chapter 1 - 120 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:19, 08 September 2022)
 -   📖 Plans to read [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (06:56, 08 September 2022)
 -   📖 Read chapter 1 - 88 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:53, 08 September 2022)
@@ -47,8 +50,5 @@
 -   📖 Read chapter 1 - 422 of [Martial Peak](https://anilist.co/manga/104494) (06:32, 30 July 2022)
 -   📖 Plans to read [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (09:57, 29 July 2022)
 -   📖 Plans to read [Until I Meet My Husband](https://anilist.co/manga/120535) (08:45, 29 July 2022)
--   📖 Completed [Ojojojo](https://anilist.co/manga/85419) (02:52, 29 July 2022)
--   📖 Read chapter 1 - 58 of [Ojojojo](https://anilist.co/manga/85419) (02:51, 29 July 2022)
--   📺 Plans to watch [Wolf Children](https://anilist.co/anime/12355) (09:30, 27 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
