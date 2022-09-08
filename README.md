@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 120 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:19, 08 September 2022)
 -   📖 Plans to read [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (06:56, 08 September 2022)
 -   📖 Read chapter 1 - 88 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:53, 08 September 2022)
 -   📖 Read chapter 1 - 87 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (02:49, 08 September 2022)
@@ -14,7 +15,6 @@
 -   📖 Plans to read [Toradora!](https://anilist.co/manga/34368) (15:43, 02 September 2022)
 -   📖 Completed [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
 -   📖 Read chapter 91 - 223 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
--   📖 Read chapter 1 - 119 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:06, 01 September 2022)
 -   📖 Read chapter 1 - 15 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (15:43, 31 August 2022)
 -   📖 Plans to read [Kase-san and Yamada](https://anilist.co/manga/98777) (14:53, 31 August 2022)
 -   📖 Read chapter 1 - 388 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:29, 31 August 2022)
