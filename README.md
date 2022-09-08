@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 133 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:40, 08 September 2022)
 -   📖 Read chapter 1 - 11 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:58, 08 September 2022)
 -   📖 Plans to read [Hari's Sexy Star](https://anilist.co/manga/101475) (08:10, 08 September 2022)
 -   📖 Plans to read [Hari's Steamy Boarding House](https://anilist.co/manga/97632) (08:10, 08 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 15 of [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:00, 30 July 2022)
 -   📖 Plans to read [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (07:19, 30 July 2022)
 -   📖 Read chapter 1 - 422 of [Martial Peak](https://anilist.co/manga/104494) (06:32, 30 July 2022)
--   📖 Plans to read [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (09:57, 29 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
