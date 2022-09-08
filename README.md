@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 6 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:44, 08 September 2022)
+-   📖 Read chapter 1 - 11 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:58, 08 September 2022)
 -   📖 Plans to read [Hari's Sexy Star](https://anilist.co/manga/101475) (08:10, 08 September 2022)
 -   📖 Plans to read [Hari's Steamy Boarding House](https://anilist.co/manga/97632) (08:10, 08 September 2022)
 -   📖 Plans to read [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:03, 08 September 2022)
