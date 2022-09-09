@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Plunderer](https://anilist.co/manga/85939) (11:34, 09 September 2022)
+-   📖 Read chapter 1 - 3 of [Plunderer](https://anilist.co/manga/85939) (11:49, 09 September 2022)
 -   📖 Plans to read [Plunderer](https://anilist.co/manga/85939) (11:22, 09 September 2022)
 -   📖 Read chapter 1 - 133 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:40, 08 September 2022)
 -   📖 Read chapter 1 - 11 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:58, 08 September 2022)
