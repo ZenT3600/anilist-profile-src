@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 391 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:48, 10 September 2022)
 -   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
 -   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
 -   📖 Read chapter 1 - 48 of [One Piece](https://anilist.co/manga/30013) (07:57, 10 September 2022)
@@ -26,7 +27,6 @@
 -   📖 Read chapter 91 - 223 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
 -   📖 Read chapter 1 - 15 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (15:43, 31 August 2022)
 -   📖 Plans to read [Kase-san and Yamada](https://anilist.co/manga/98777) (14:53, 31 August 2022)
--   📖 Read chapter 1 - 388 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:29, 31 August 2022)
 -   📖 Plans to read [17-sai.](https://anilist.co/manga/54959) (13:24, 26 August 2022)
 -   📺 Completed [Shoujo Ramune](https://anilist.co/anime/21828) (18:12, 25 August 2022)
 -   📖 Plans to read [Sweet Home](https://anilist.co/manga/100954) (11:37, 24 August 2022)
