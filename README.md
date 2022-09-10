@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
 -   📖 Read chapter 1 - 48 of [One Piece](https://anilist.co/manga/30013) (07:57, 10 September 2022)
 -   📖 Read chapter 1 - 89 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:27, 10 September 2022)
 -   📖 Read chapter 1 - 3 of [Plunderer](https://anilist.co/manga/85939) (11:49, 09 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [One Piece](https://anilist.co/manga/30013) (14:11, 31 July 2022)
 -   📖 Plans to read [Mitsuishi-san](https://anilist.co/manga/126488) (16:18, 30 July 2022)
 -   📖 Completed [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:02, 30 July 2022)
--   📖 Read chapter 1 - 15 of [Mabarai-san wa Boku wo Karitai](https://anilist.co/manga/137023) (08:00, 30 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
