@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 48 of [One Piece](https://anilist.co/manga/30013) (07:57, 10 September 2022)
 -   📖 Read chapter 1 - 89 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:27, 10 September 2022)
 -   📖 Read chapter 1 - 3 of [Plunderer](https://anilist.co/manga/85939) (11:49, 09 September 2022)
 -   📖 Plans to read [Plunderer](https://anilist.co/manga/85939) (11:22, 09 September 2022)
@@ -39,7 +40,6 @@
 -   📖 Read chapter 1 - 46 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (17:40, 13 August 2022)
 -   📖 Plans to read [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (12:03, 13 August 2022)
 -   📖 Completed [Pochi Gokko.](https://anilist.co/manga/110512) (14:08, 11 August 2022)
--   📖 Read chapter 1 - 44 of [One Piece](https://anilist.co/manga/30013) (10:31, 09 August 2022)
 -   📖 Plans to read [Yankee JK Kuzuhana-chan](https://anilist.co/manga/125275) (17:22, 07 August 2022)
 -   📖 Read chapter 1 - 66 of [To Not Die](https://anilist.co/manga/136099) (07:37, 07 August 2022)
 -   📖 Plans to read [100-nichi Go ni Kekkon Suru Futari](https://anilist.co/manga/117769) (17:36, 04 August 2022)
