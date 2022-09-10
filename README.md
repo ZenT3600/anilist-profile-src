@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
 -   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
 -   📖 Read chapter 1 - 48 of [One Piece](https://anilist.co/manga/30013) (07:57, 10 September 2022)
 -   📖 Read chapter 1 - 89 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:27, 10 September 2022)
--   📖 Read chapter 1 - 3 of [Plunderer](https://anilist.co/manga/85939) (11:49, 09 September 2022)
 -   📖 Plans to read [Plunderer](https://anilist.co/manga/85939) (11:22, 09 September 2022)
 -   📖 Read chapter 1 - 133 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:40, 08 September 2022)
 -   📖 Read chapter 1 - 11 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:58, 08 September 2022)
