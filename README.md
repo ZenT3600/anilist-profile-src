@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 89 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:27, 10 September 2022)
 -   📖 Read chapter 1 - 3 of [Plunderer](https://anilist.co/manga/85939) (11:49, 09 September 2022)
 -   📖 Plans to read [Plunderer](https://anilist.co/manga/85939) (11:22, 09 September 2022)
 -   📖 Read chapter 1 - 133 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:40, 08 September 2022)
@@ -9,7 +10,6 @@
 -   📖 Plans to read [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:03, 08 September 2022)
 -   📖 Read chapter 1 - 120 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:19, 08 September 2022)
 -   📖 Plans to read [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (06:56, 08 September 2022)
--   📖 Read chapter 1 - 88 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:53, 08 September 2022)
 -   📖 Read chapter 1 - 87 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (02:49, 08 September 2022)
 -   📖 Plans to read [Reincarnated as a Sword](https://anilist.co/manga/98014) (08:17, 07 September 2022)
 -   📖 Read chapter 1 - 73 of [Toradora!](https://anilist.co/manga/34368) (04:06, 07 September 2022)
