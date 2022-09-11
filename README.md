@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 81 of [Toradora!](https://anilist.co/manga/34368) (16:40, 11 September 2022)
+-   📖 Read chapter 1 - 88 of [Toradora!](https://anilist.co/manga/34368) (17:03, 11 September 2022)
 -   📖 Read chapter 1 - 58 of [One Piece](https://anilist.co/manga/30013) (04:05, 11 September 2022)
 -   📖 Read chapter 1 - 391 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:48, 10 September 2022)
 -   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
