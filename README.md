@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 81 of [Toradora!](https://anilist.co/manga/34368) (16:40, 11 September 2022)
 -   📖 Read chapter 1 - 58 of [One Piece](https://anilist.co/manga/30013) (04:05, 11 September 2022)
 -   📖 Read chapter 1 - 391 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:48, 10 September 2022)
 -   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
@@ -15,7 +16,6 @@
 -   📖 Plans to read [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (06:56, 08 September 2022)
 -   📖 Read chapter 1 - 87 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (02:49, 08 September 2022)
 -   📖 Plans to read [Reincarnated as a Sword](https://anilist.co/manga/98014) (08:17, 07 September 2022)
--   📖 Read chapter 1 - 73 of [Toradora!](https://anilist.co/manga/34368) (04:06, 07 September 2022)
 -   📖 Read chapter 1 - 43 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:31, 07 September 2022)
 -   📖 Read chapter 1 - 30 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (14:12, 06 September 2022)
 -   📖 Read chapter 1 - 118 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (04:06, 06 September 2022)
