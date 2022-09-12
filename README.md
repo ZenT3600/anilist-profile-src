@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 60 of [One Piece](https://anilist.co/manga/30013) (09:41, 12 September 2022)
 -   📖 Read chapter 1 - 92 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:03, 12 September 2022)
 -   📖 Read chapter 1 - 44 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:00, 12 September 2022)
 -   📖 Read chapter 1 - 88 of [Toradora!](https://anilist.co/manga/34368) (17:03, 11 September 2022)
--   📖 Read chapter 1 - 58 of [One Piece](https://anilist.co/manga/30013) (04:05, 11 September 2022)
 -   📖 Read chapter 1 - 391 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:48, 10 September 2022)
 -   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
 -   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
