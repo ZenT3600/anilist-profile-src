@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 60 of [One Piece](https://anilist.co/manga/30013) (09:41, 12 September 2022)
+-   📖 Read chapter 1 - 67 of [One Piece](https://anilist.co/manga/30013) (03:37, 13 September 2022)
+-   📖 Read chapter 1 - 119 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:25, 13 September 2022)
 -   📖 Read chapter 1 - 92 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:03, 12 September 2022)
 -   📖 Read chapter 1 - 44 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:00, 12 September 2022)
 -   📖 Read chapter 1 - 88 of [Toradora!](https://anilist.co/manga/34368) (17:03, 11 September 2022)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 1 - 87 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (02:49, 08 September 2022)
 -   📖 Plans to read [Reincarnated as a Sword](https://anilist.co/manga/98014) (08:17, 07 September 2022)
 -   📖 Read chapter 1 - 30 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (14:12, 06 September 2022)
--   📖 Read chapter 1 - 118 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (04:06, 06 September 2022)
 -   📖 Completed [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (16:37, 02 September 2022)
 -   📖 Read chapter 1 - 34 of [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (16:37, 02 September 2022)
 -   📖 Plans to read [Toradora!](https://anilist.co/manga/34368) (15:43, 02 September 2022)
