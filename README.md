@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 67 of [One Piece](https://anilist.co/manga/30013) (03:37, 13 September 2022)
+-   📖 Read chapter 1 - 68 of [One Piece](https://anilist.co/manga/30013) (03:41, 13 September 2022)
 -   📖 Read chapter 1 - 119 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:25, 13 September 2022)
 -   📖 Read chapter 1 - 92 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:03, 12 September 2022)
 -   📖 Read chapter 1 - 44 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:00, 12 September 2022)
