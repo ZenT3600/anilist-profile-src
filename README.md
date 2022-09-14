@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 75 of [One Piece](https://anilist.co/manga/30013) (16:57, 14 September 2022)
+-   📖 Read chapter 1 - 80 of [One Piece](https://anilist.co/manga/30013) (17:19, 14 September 2022)
 -   📺 Completed [Trapped in the Past](https://anilist.co/anime/123436) (04:58, 14 September 2022)
 -   📺 Completed [Halzion](https://anilist.co/anime/130156) (04:58, 14 September 2022)
 -   📺 Completed [Ano Yume wo Nazotte](https://anilist.co/anime/130246) (04:58, 14 September 2022)
