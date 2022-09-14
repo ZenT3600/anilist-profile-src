@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 75 of [One Piece](https://anilist.co/manga/30013) (16:57, 14 September 2022)
 -   📺 Completed [Trapped in the Past](https://anilist.co/anime/123436) (04:58, 14 September 2022)
 -   📺 Completed [Halzion](https://anilist.co/anime/130156) (04:58, 14 September 2022)
 -   📺 Completed [Ano Yume wo Nazotte](https://anilist.co/anime/130246) (04:58, 14 September 2022)
@@ -22,7 +23,6 @@
 -   📺 Completed [STUDY ME](https://anilist.co/anime/118609) (04:52, 14 September 2022)
 -   📺 Completed [DARKEN](https://anilist.co/anime/128752) (04:52, 14 September 2022)
 -   📖 Read chapter 1 - 45 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:13, 14 September 2022)
--   📖 Read chapter 1 - 68 of [One Piece](https://anilist.co/manga/30013) (03:41, 13 September 2022)
 -   📖 Read chapter 1 - 119 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:25, 13 September 2022)
 -   📖 Read chapter 1 - 92 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:03, 12 September 2022)
 -   📖 Read chapter 1 - 88 of [Toradora!](https://anilist.co/manga/34368) (17:03, 11 September 2022)
