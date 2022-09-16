@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 84 of [One Piece](https://anilist.co/manga/30013) (03:41, 16 September 2022)
+-   📖 Read chapter 1 - 89 of [One Piece](https://anilist.co/manga/30013) (03:59, 16 September 2022)
 -   📖 Read chapter 1 - 392 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (02:04, 16 September 2022)
 -   📖 Read chapter 1 - 90 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:02, 16 September 2022)
 -   📖 Read chapter 1 - 81 of [My Dress-Up Darling](https://anilist.co/manga/101583) (01:57, 16 September 2022)
