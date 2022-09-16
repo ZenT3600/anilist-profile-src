@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (13:40, 16 September 2022)
 -   📖 Read chapter 1 - 121 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:40, 16 September 2022)
 -   📖 Read chapter 1 - 89 of [One Piece](https://anilist.co/manga/30013) (03:59, 16 September 2022)
 -   📖 Read chapter 1 - 392 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (02:04, 16 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 91 - 223 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
 -   📖 Read chapter 1 - 15 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (15:43, 31 August 2022)
 -   📖 Plans to read [Kase-san and Yamada](https://anilist.co/manga/98777) (14:53, 31 August 2022)
--   📖 Plans to read [17-sai.](https://anilist.co/manga/54959) (13:24, 26 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
