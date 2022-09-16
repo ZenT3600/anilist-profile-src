@@ -1,6 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 80 of [One Piece](https://anilist.co/manga/30013) (17:19, 14 September 2022)
+-   📖 Read chapter 1 - 84 of [One Piece](https://anilist.co/manga/30013) (03:41, 16 September 2022)
+-   📖 Read chapter 1 - 392 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (02:04, 16 September 2022)
+-   📖 Read chapter 1 - 90 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:02, 16 September 2022)
+-   📖 Read chapter 1 - 81 of [My Dress-Up Darling](https://anilist.co/manga/101583) (01:57, 16 September 2022)
+-   📖 Read chapter 1 - 46 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (01:54, 16 September 2022)
 -   📺 Completed [Trapped in the Past](https://anilist.co/anime/123436) (04:58, 14 September 2022)
 -   📺 Completed [Halzion](https://anilist.co/anime/130156) (04:58, 14 September 2022)
 -   📺 Completed [Ano Yume wo Nazotte](https://anilist.co/anime/130246) (04:58, 14 September 2022)
@@ -22,14 +26,11 @@
 -   📺 Completed [Kan Saete Kuyashii wa](https://anilist.co/anime/131755) (04:53, 14 September 2022)
 -   📺 Completed [STUDY ME](https://anilist.co/anime/118609) (04:52, 14 September 2022)
 -   📺 Completed [DARKEN](https://anilist.co/anime/128752) (04:52, 14 September 2022)
--   📖 Read chapter 1 - 45 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:13, 14 September 2022)
 -   📖 Read chapter 1 - 119 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:25, 13 September 2022)
 -   📖 Read chapter 1 - 92 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:03, 12 September 2022)
 -   📖 Read chapter 1 - 88 of [Toradora!](https://anilist.co/manga/34368) (17:03, 11 September 2022)
--   📖 Read chapter 1 - 391 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:48, 10 September 2022)
 -   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
 -   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
--   📖 Read chapter 1 - 89 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:27, 10 September 2022)
 -   📖 Plans to read [Plunderer](https://anilist.co/manga/85939) (11:22, 09 September 2022)
 -   📖 Read chapter 1 - 133 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:40, 08 September 2022)
 -   📖 Read chapter 1 - 11 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:58, 08 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 15 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (15:43, 31 August 2022)
 -   📖 Plans to read [Kase-san and Yamada](https://anilist.co/manga/98777) (14:53, 31 August 2022)
 -   📖 Plans to read [17-sai.](https://anilist.co/manga/54959) (13:24, 26 August 2022)
--   📺 Completed [Shoujo Ramune](https://anilist.co/anime/21828) (18:12, 25 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
