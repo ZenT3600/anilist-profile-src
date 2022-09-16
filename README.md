@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 121 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:40, 16 September 2022)
 -   📖 Read chapter 1 - 89 of [One Piece](https://anilist.co/manga/30013) (03:59, 16 September 2022)
 -   📖 Read chapter 1 - 392 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (02:04, 16 September 2022)
 -   📖 Read chapter 1 - 90 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:02, 16 September 2022)
@@ -37,7 +38,6 @@
 -   📖 Plans to read [Hari's Sexy Star](https://anilist.co/manga/101475) (08:10, 08 September 2022)
 -   📖 Plans to read [Hari's Steamy Boarding House](https://anilist.co/manga/97632) (08:10, 08 September 2022)
 -   📖 Plans to read [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:03, 08 September 2022)
--   📖 Read chapter 1 - 120 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:19, 08 September 2022)
 -   📖 Plans to read [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (06:56, 08 September 2022)
 -   📖 Read chapter 1 - 87 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (02:49, 08 September 2022)
 -   📖 Plans to read [Reincarnated as a Sword](https://anilist.co/manga/98014) (08:17, 07 September 2022)
