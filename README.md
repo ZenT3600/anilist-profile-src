@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 16 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (21:25, 16 September 2022)
 -   📖 Read chapter 1 - 6 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (14:23, 16 September 2022)
 -   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (13:40, 16 September 2022)
 -   📖 Read chapter 1 - 121 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:40, 16 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Toradora!](https://anilist.co/manga/34368) (15:43, 02 September 2022)
 -   📖 Completed [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
 -   📖 Read chapter 91 - 223 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
--   📖 Read chapter 1 - 15 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (15:43, 31 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
