@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Sora no Aosa wo Shiru Hito yo](https://anilist.co/manga/112910) (14:24, 18 September 2022)
 -   📖 Read chapter 1 - 100 of [One Piece](https://anilist.co/manga/30013) (13:43, 18 September 2022)
 -   📖 Read chapter 1 - 7 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (10:33, 18 September 2022)
 -   📖 Read chapter 1 - 393 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:17, 18 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 34 of [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (16:37, 02 September 2022)
 -   📖 Plans to read [Toradora!](https://anilist.co/manga/34368) (15:43, 02 September 2022)
 -   📖 Completed [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
--   📖 Read chapter 91 - 223 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
