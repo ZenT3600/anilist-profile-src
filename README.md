@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 65 of [SPY x FAMILY](https://anilist.co/manga/108556) (03:12, 19 September 2022)
+-   📖 Read chapter 1 - 93 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:07, 19 September 2022)
+-   📖 Read chapter 1 - 22 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:05, 19 September 2022)
 -   📖 Read chapter 1 - 105 of [One Piece](https://anilist.co/manga/30013) (16:31, 18 September 2022)
 -   📖 Plans to read [Sora no Aosa wo Shiru Hito yo](https://anilist.co/manga/112910) (14:24, 18 September 2022)
 -   📖 Read chapter 1 - 7 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (10:33, 18 September 2022)
@@ -32,7 +35,6 @@
 -   📺 Completed [STUDY ME](https://anilist.co/anime/118609) (04:52, 14 September 2022)
 -   📺 Completed [DARKEN](https://anilist.co/anime/128752) (04:52, 14 September 2022)
 -   📖 Read chapter 1 - 119 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:25, 13 September 2022)
--   📖 Read chapter 1 - 92 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:03, 12 September 2022)
 -   📖 Read chapter 1 - 88 of [Toradora!](https://anilist.co/manga/34368) (17:03, 11 September 2022)
 -   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
 -   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 30 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (14:12, 06 September 2022)
 -   📖 Completed [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (16:37, 02 September 2022)
 -   📖 Read chapter 1 - 34 of [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (16:37, 02 September 2022)
--   📖 Plans to read [Toradora!](https://anilist.co/manga/34368) (15:43, 02 September 2022)
--   📖 Completed [The Duke of Death and His Maid](https://anilist.co/manga/100293) (05:02, 02 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
