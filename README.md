@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 56 - 65 of [SPY x FAMILY](https://anilist.co/manga/108556) (03:12, 19 September 2022)
+-   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:15, 19 September 2022)
 -   📖 Read chapter 1 - 93 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:07, 19 September 2022)
 -   📖 Read chapter 1 - 22 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:05, 19 September 2022)
 -   📖 Read chapter 1 - 105 of [One Piece](https://anilist.co/manga/30013) (16:31, 18 September 2022)
