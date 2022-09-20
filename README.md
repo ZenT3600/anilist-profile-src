@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 112 of [One Piece](https://anilist.co/manga/30013) (08:10, 20 September 2022)
 -   📖 Read chapter 1 - 48 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (23:08, 19 September 2022)
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:15, 19 September 2022)
 -   📖 Read chapter 1 - 93 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:07, 19 September 2022)
 -   📖 Read chapter 1 - 22 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:05, 19 September 2022)
--   📖 Read chapter 1 - 105 of [One Piece](https://anilist.co/manga/30013) (16:31, 18 September 2022)
 -   📖 Plans to read [Sora no Aosa wo Shiru Hito yo](https://anilist.co/manga/112910) (14:24, 18 September 2022)
 -   📖 Read chapter 1 - 7 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (10:33, 18 September 2022)
 -   📖 Read chapter 1 - 393 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:17, 18 September 2022)
