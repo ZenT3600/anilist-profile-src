@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 112 of [One Piece](https://anilist.co/manga/30013) (08:10, 20 September 2022)
+-   📖 Read chapter 1 - 113 of [One Piece](https://anilist.co/manga/30013) (08:14, 20 September 2022)
 -   📖 Read chapter 1 - 48 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (23:08, 19 September 2022)
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:15, 19 September 2022)
 -   📖 Read chapter 1 - 93 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:07, 19 September 2022)
