@@ -36,7 +36,7 @@
 -   📺 Completed [Kan Saete Kuyashii wa](https://anilist.co/anime/131755) (04:53, 14 September 2022)
 -   📺 Completed [STUDY ME](https://anilist.co/anime/118609) (04:52, 14 September 2022)
 -   📺 Completed [DARKEN](https://anilist.co/anime/128752) (04:52, 14 September 2022)
--   📖 Read chapter 1 - 119 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (02:25, 13 September 2022)
+-   📖 Read chapter 1 - 119 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (02:25, 13 September 2022)
 -   📖 Read chapter 1 - 88 of [Toradora!](https://anilist.co/manga/34368) (17:03, 11 September 2022)
 -   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
 -   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
