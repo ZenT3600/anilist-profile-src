@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 298 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:11, 21 September 2022)
 -   📺 Plans to watch [Dragon Ball Z](https://anilist.co/anime/813) (08:49, 21 September 2022)
 -   📖 Read chapter 1 - 113 of [One Piece](https://anilist.co/manga/30013) (08:14, 20 September 2022)
 -   📖 Read chapter 1 - 48 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (23:08, 19 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 87 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (02:49, 08 September 2022)
 -   📖 Plans to read [Reincarnated as a Sword](https://anilist.co/manga/98014) (08:17, 07 September 2022)
 -   📖 Read chapter 1 - 30 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (14:12, 06 September 2022)
--   📖 Completed [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://anilist.co/manga/118084) (16:37, 02 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
