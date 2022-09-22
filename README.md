@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 92 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:09, 22 September 2022)
+-   📖 Read chapter 1 - 8 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (04:05, 22 September 2022)
+-   📖 Read chapter 1 - 134 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:03, 22 September 2022)
 -   📖 Read chapter 62 - 298 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:11, 21 September 2022)
 -   📺 Plans to watch [Dragon Ball Z](https://anilist.co/anime/813) (08:49, 21 September 2022)
 -   📖 Read chapter 1 - 113 of [One Piece](https://anilist.co/manga/30013) (08:14, 20 September 2022)
@@ -8,9 +11,7 @@
 -   📖 Read chapter 1 - 93 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:07, 19 September 2022)
 -   📖 Read chapter 1 - 22 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:05, 19 September 2022)
 -   📖 Plans to read [Sora no Aosa wo Shiru Hito yo](https://anilist.co/manga/112910) (14:24, 18 September 2022)
--   📖 Read chapter 1 - 7 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (10:33, 18 September 2022)
 -   📖 Read chapter 1 - 393 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:17, 18 September 2022)
--   📖 Read chapter 1 - 91 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:08, 17 September 2022)
 -   📖 Read chapter 1 - 16 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (21:25, 16 September 2022)
 -   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (13:40, 16 September 2022)
 -   📖 Read chapter 1 - 121 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:40, 16 September 2022)
@@ -41,7 +42,6 @@
 -   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
 -   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
 -   📖 Plans to read [Plunderer](https://anilist.co/manga/85939) (11:22, 09 September 2022)
--   📖 Read chapter 1 - 133 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:40, 08 September 2022)
 -   📖 Read chapter 1 - 11 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:58, 08 September 2022)
 -   📖 Plans to read [Hari's Sexy Star](https://anilist.co/manga/101475) (08:10, 08 September 2022)
 -   📖 Plans to read [Hari's Steamy Boarding House](https://anilist.co/manga/97632) (08:10, 08 September 2022)
