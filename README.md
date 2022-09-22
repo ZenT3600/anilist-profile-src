@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 122 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:03, 22 September 2022)
+-   📖 Read chapter 1 - 31 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:59, 22 September 2022)
 -   📖 Read chapter 1 - 92 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:09, 22 September 2022)
 -   📖 Read chapter 1 - 8 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (04:05, 22 September 2022)
 -   📖 Read chapter 1 - 134 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:03, 22 September 2022)
@@ -14,7 +16,6 @@
 -   📖 Read chapter 1 - 393 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:17, 18 September 2022)
 -   📖 Read chapter 1 - 16 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (21:25, 16 September 2022)
 -   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (13:40, 16 September 2022)
--   📖 Read chapter 1 - 121 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:40, 16 September 2022)
 -   📖 Read chapter 1 - 81 of [My Dress-Up Darling](https://anilist.co/manga/101583) (01:57, 16 September 2022)
 -   📺 Completed [Trapped in the Past](https://anilist.co/anime/123436) (04:58, 14 September 2022)
 -   📺 Completed [Halzion](https://anilist.co/anime/130156) (04:58, 14 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (06:56, 08 September 2022)
 -   📖 Read chapter 1 - 87 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (02:49, 08 September 2022)
 -   📖 Plans to read [Reincarnated as a Sword](https://anilist.co/manga/98014) (08:17, 07 September 2022)
--   📖 Read chapter 1 - 30 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (14:12, 06 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
