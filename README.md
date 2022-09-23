@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Maybe Meant to Be](https://anilist.co/manga/146139) (00:15, 23 September 2022)
+-   📖 Read chapter 1 - 12 of [Maybe Meant to Be](https://anilist.co/manga/146139) (08:50, 23 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
 -   📖 Read chapter 1 - 122 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:03, 22 September 2022)
 -   📖 Read chapter 1 - 31 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:59, 22 September 2022)
