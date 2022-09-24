@@ -1,7 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:43, 24 September 2022)
+-   📖 Read chapter 1 - 394 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:04, 24 September 2022)
 -   📖 Read chapter 1 - 93 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (00:50, 24 September 2022)
--   📖 Read chapter 1 - 25 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:03, 23 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
 -   📖 Read chapter 1 - 122 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:03, 22 September 2022)
 -   📖 Read chapter 1 - 31 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:59, 22 September 2022)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 93 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:07, 19 September 2022)
 -   📖 Read chapter 1 - 22 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:05, 19 September 2022)
 -   📖 Plans to read [Sora no Aosa wo Shiru Hito yo](https://anilist.co/manga/112910) (14:24, 18 September 2022)
--   📖 Read chapter 1 - 393 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:17, 18 September 2022)
 -   📖 Read chapter 1 - 16 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (21:25, 16 September 2022)
 -   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (13:40, 16 September 2022)
 -   📖 Read chapter 1 - 81 of [My Dress-Up Darling](https://anilist.co/manga/101583) (01:57, 16 September 2022)
