@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 17 of [Plunderer](https://anilist.co/manga/85939) (15:05, 25 September 2022)
+-   📖 Read chapter 1 - 22 of [Plunderer](https://anilist.co/manga/85939) (15:39, 25 September 2022)
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Read chapter 1 - 38 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:03, 24 September 2022)
 -   📖 Read chapter 1 - 394 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:04, 24 September 2022)
