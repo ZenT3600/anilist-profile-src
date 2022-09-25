@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Read chapter 1 - 15 of [Plunderer](https://anilist.co/manga/85939) (07:01, 25 September 2022)
 -   📖 Read chapter 1 - 38 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:03, 24 September 2022)
 -   📖 Read chapter 1 - 394 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:04, 24 September 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Hari's Sexy Star](https://anilist.co/manga/101475) (08:10, 08 September 2022)
 -   📖 Plans to read [Hari's Steamy Boarding House](https://anilist.co/manga/97632) (08:10, 08 September 2022)
 -   📖 Plans to read [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:03, 08 September 2022)
--   📖 Plans to read [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (06:56, 08 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
