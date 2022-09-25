@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 12 of [Plunderer](https://anilist.co/manga/85939) (06:47, 25 September 2022)
 -   📖 Read chapter 1 - 38 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:03, 24 September 2022)
 -   📖 Read chapter 1 - 394 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:04, 24 September 2022)
 -   📖 Read chapter 1 - 93 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (00:50, 24 September 2022)
@@ -42,7 +43,6 @@
 -   📺 Completed [DARKEN](https://anilist.co/anime/128752) (04:52, 14 September 2022)
 -   📖 Read chapter 1 - 119 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (02:25, 13 September 2022)
 -   📖 Read chapter 1 - 88 of [Toradora!](https://anilist.co/manga/34368) (17:03, 11 September 2022)
--   📖 Read chapter 1 - 8 of [Plunderer](https://anilist.co/manga/85939) (16:32, 10 September 2022)
 -   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
 -   📖 Plans to read [Plunderer](https://anilist.co/manga/85939) (11:22, 09 September 2022)
 -   📖 Read chapter 1 - 11 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:58, 08 September 2022)
