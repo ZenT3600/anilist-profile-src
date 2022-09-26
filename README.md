@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 25 of [Plunderer](https://anilist.co/manga/85939) (11:05, 26 September 2022)
+-   📖 Read chapter 1 - 29 of [Plunderer](https://anilist.co/manga/85939) (11:23, 26 September 2022)
 -   📖 Read chapter 1 - 94 of [Love’s in Sight!](https://anilist.co/manga/107445) (19:32, 25 September 2022)
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Read chapter 1 - 38 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:03, 24 September 2022)
