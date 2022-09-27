@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (02:21, 27 September 2022)
 -   📖 Read chapter 1 - 120 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (13:07, 26 September 2022)
 -   📖 Read chapter 1 - 29 of [Plunderer](https://anilist.co/manga/85939) (11:23, 26 September 2022)
 -   📖 Read chapter 1 - 94 of [Love’s in Sight!](https://anilist.co/manga/107445) (19:32, 25 September 2022)
@@ -10,7 +11,6 @@
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
 -   📖 Read chapter 1 - 122 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:03, 22 September 2022)
 -   📖 Read chapter 1 - 31 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:59, 22 September 2022)
--   📖 Read chapter 1 - 8 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (04:05, 22 September 2022)
 -   📖 Read chapter 1 - 134 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:03, 22 September 2022)
 -   📖 Read chapter 62 - 298 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:11, 21 September 2022)
 -   📺 Plans to watch [Dragon Ball Z](https://anilist.co/anime/813) (08:49, 21 September 2022)
