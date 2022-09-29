@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 94 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:02, 29 September 2022)
 -   📖 Read chapter 1 - 9 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (02:21, 27 September 2022)
 -   📖 Read chapter 1 - 120 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (13:07, 26 September 2022)
 -   📖 Read chapter 1 - 29 of [Plunderer](https://anilist.co/manga/85939) (11:23, 26 September 2022)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Read chapter 1 - 38 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:03, 24 September 2022)
 -   📖 Read chapter 1 - 394 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:04, 24 September 2022)
--   📖 Read chapter 1 - 93 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (00:50, 24 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
 -   📖 Read chapter 1 - 122 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:03, 22 September 2022)
 -   📖 Read chapter 1 - 31 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:59, 22 September 2022)
