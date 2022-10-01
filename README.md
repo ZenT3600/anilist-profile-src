@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 135 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (16:45, 01 October 2022)
 -   📖 Read chapter 1 - 395 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:34, 01 October 2022)
 -   📖 Read chapter 1 - 95 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:35, 30 September 2022)
 -   📖 Read chapter 1 - 123 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:15, 30 September 2022)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
 -   📖 Read chapter 1 - 31 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:59, 22 September 2022)
--   📖 Read chapter 1 - 134 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:03, 22 September 2022)
 -   📖 Read chapter 62 - 298 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:11, 21 September 2022)
 -   📺 Plans to watch [Dragon Ball Z](https://anilist.co/anime/813) (08:49, 21 September 2022)
 -   📖 Read chapter 1 - 113 of [One Piece](https://anilist.co/manga/30013) (08:14, 20 September 2022)
