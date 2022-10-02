@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (17:24, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (12:37, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (12:37, 02 October 2022)
 -   📖 Read chapter 1 - 10 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (08:43, 02 October 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
 -   📖 Plans to read [Plunderer](https://anilist.co/manga/85939) (11:22, 09 September 2022)
 -   📖 Read chapter 1 - 11 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (08:58, 08 September 2022)
--   📖 Plans to read [Hari's Sexy Star](https://anilist.co/manga/101475) (08:10, 08 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
