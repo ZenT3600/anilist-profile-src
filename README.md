@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 10 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (08:43, 02 October 2022)
+-   📖 Read chapter 1 - 396 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:39, 02 October 2022)
 -   📖 Read chapter 1 - 49 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (08:09, 02 October 2022)
 -   📖 Read chapter 1 - 135 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (16:45, 01 October 2022)
--   📖 Read chapter 1 - 395 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:34, 01 October 2022)
 -   📖 Read chapter 1 - 95 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:35, 30 September 2022)
 -   📖 Read chapter 1 - 123 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:15, 30 September 2022)
 -   📖 Read chapter 1 - 39 of [Maybe Meant to Be](https://anilist.co/manga/146139) (02:27, 30 September 2022)
--   📖 Read chapter 1 - 9 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (02:21, 27 September 2022)
 -   📖 Read chapter 1 - 120 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (13:07, 26 September 2022)
 -   📖 Read chapter 1 - 29 of [Plunderer](https://anilist.co/manga/85939) (11:23, 26 September 2022)
 -   📖 Read chapter 1 - 94 of [Love’s in Sight!](https://anilist.co/manga/107445) (19:32, 25 September 2022)
