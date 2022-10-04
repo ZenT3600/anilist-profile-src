@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 31 of [Plunderer](https://anilist.co/manga/85939) (07:51, 04 October 2022)
+-   📖 Read chapter 1 - 34 of [Plunderer](https://anilist.co/manga/85939) (08:00, 04 October 2022)
 -   📖 Read chapter 1 - 88 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:15, 04 October 2022)
 -   📖 Read chapter 1 - 121 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:09, 04 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (17:24, 02 October 2022)
