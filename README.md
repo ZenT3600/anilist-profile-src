@@ -1,14 +1,14 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 11 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (15:05, 04 October 2022)
+-   📖 Read chapter 1 - 50 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:03, 04 October 2022)
 -   📖 Read chapter 1 - 34 of [Plunderer](https://anilist.co/manga/85939) (08:00, 04 October 2022)
 -   📖 Read chapter 1 - 88 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:15, 04 October 2022)
 -   📖 Read chapter 1 - 121 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:09, 04 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (17:24, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (12:37, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (12:37, 02 October 2022)
--   📖 Read chapter 1 - 10 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (08:43, 02 October 2022)
 -   📖 Read chapter 1 - 396 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:39, 02 October 2022)
--   📖 Read chapter 1 - 49 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (08:09, 02 October 2022)
 -   📖 Read chapter 1 - 135 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (16:45, 01 October 2022)
 -   📖 Read chapter 1 - 95 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:35, 30 September 2022)
 -   📖 Read chapter 1 - 123 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:15, 30 September 2022)
