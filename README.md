@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 31 of [Plunderer](https://anilist.co/manga/85939) (07:51, 04 October 2022)
 -   📖 Read chapter 1 - 88 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:15, 04 October 2022)
 -   📖 Read chapter 1 - 121 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:09, 04 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (17:24, 02 October 2022)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 95 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (21:35, 30 September 2022)
 -   📖 Read chapter 1 - 123 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:15, 30 September 2022)
 -   📖 Read chapter 1 - 39 of [Maybe Meant to Be](https://anilist.co/manga/146139) (02:27, 30 September 2022)
--   📖 Read chapter 1 - 29 of [Plunderer](https://anilist.co/manga/85939) (11:23, 26 September 2022)
 -   📖 Read chapter 1 - 94 of [Love’s in Sight!](https://anilist.co/manga/107445) (19:32, 25 September 2022)
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
