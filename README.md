@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 41 of [Plunderer](https://anilist.co/manga/85939) (03:45, 05 October 2022)
 -   📖 Read chapter 1 - 136 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (02:57, 05 October 2022)
--   📖 Read chapter 1 - 37 of [Plunderer](https://anilist.co/manga/85939) (16:52, 04 October 2022)
 -   📖 Read chapter 1 - 11 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (15:05, 04 October 2022)
 -   📖 Read chapter 1 - 50 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:03, 04 October 2022)
 -   📖 Read chapter 1 - 88 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:15, 04 October 2022)
