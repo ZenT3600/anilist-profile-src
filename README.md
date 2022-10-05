@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (16:28, 05 October 2022)
+-   📖 Read chapter 1 - 25 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (16:42, 05 October 2022)
 -   📖 Read chapter 1 - 42 of [Plunderer](https://anilist.co/manga/85939) (15:23, 05 October 2022)
 -   📖 Read chapter 1 - 136 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (02:57, 05 October 2022)
 -   📖 Read chapter 1 - 11 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (15:05, 04 October 2022)
