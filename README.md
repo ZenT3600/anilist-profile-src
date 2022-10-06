@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 96 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:17, 06 October 2022)
+-   📖 Read chapter 1 - 137 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:16, 06 October 2022)
+-   📖 Read chapter 1 - 97 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:15, 06 October 2022)
 -   📖 Read chapter 1 - 124 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:14, 06 October 2022)
 -   📖 Read chapter 1 - 51 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (17:59, 05 October 2022)
 -   📖 Read chapter 1 - 25 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (16:42, 05 October 2022)
 -   📖 Read chapter 1 - 42 of [Plunderer](https://anilist.co/manga/85939) (15:23, 05 October 2022)
--   📖 Read chapter 1 - 136 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (02:57, 05 October 2022)
 -   📖 Read chapter 1 - 11 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (15:05, 04 October 2022)
 -   📖 Read chapter 1 - 88 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:15, 04 October 2022)
 -   📖 Read chapter 1 - 121 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:09, 04 October 2022)
