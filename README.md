@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 49 of [Plunderer](https://anilist.co/manga/85939) (16:55, 07 October 2022)
+-   📖 Read chapter 1 - 51 of [Plunderer](https://anilist.co/manga/85939) (18:46, 07 October 2022)
 -   📖 Read chapter 1 - 100 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:24, 07 October 2022)
 -   📖 Read chapter 1 - 40 of [Maybe Meant to Be](https://anilist.co/manga/146139) (01:09, 07 October 2022)
 -   📖 Read chapter 1 - 137 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:16, 06 October 2022)
