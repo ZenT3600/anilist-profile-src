@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 53 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (22:38, 09 October 2022)
 -   📖 Read chapter 1 - 12 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (03:08, 09 October 2022)
 -   📖 Read chapter 1 - 101 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (23:31, 07 October 2022)
--   📖 Read chapter 1 - 52 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (23:27, 07 October 2022)
 -   📖 Read chapter 1 - 51 of [Plunderer](https://anilist.co/manga/85939) (18:46, 07 October 2022)
 -   📖 Read chapter 1 - 40 of [Maybe Meant to Be](https://anilist.co/manga/146139) (01:09, 07 October 2022)
 -   📖 Read chapter 1 - 137 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:16, 06 October 2022)
