@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (07:55, 11 October 2022)
 -   📖 Read chapter 1 - 63 of [Plunderer](https://anilist.co/manga/85939) (03:01, 11 October 2022)
 -   📖 Read chapter 1 - 53 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (22:38, 09 October 2022)
 -   📖 Read chapter 1 - 12 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (03:08, 09 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [STUDY ME](https://anilist.co/anime/118609) (04:52, 14 September 2022)
 -   📺 Completed [DARKEN](https://anilist.co/anime/128752) (04:52, 14 September 2022)
 -   📖 Read chapter 1 - 88 of [Toradora!](https://anilist.co/manga/34368) (17:03, 11 September 2022)
--   📖 Read chapter 1 - 39 of [Call of the Night](https://anilist.co/manga/111233) (10:03, 10 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
