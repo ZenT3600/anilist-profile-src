@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 80 of [Plunderer](https://anilist.co/manga/85939) (16:16, 12 October 2022)
+-   📖 Completed [Plunderer](https://anilist.co/manga/85939) (16:22, 12 October 2022)
+-   📖 Read chapter 1 - 81 of [Plunderer](https://anilist.co/manga/85939) (16:21, 12 October 2022)
 -   📖 Read chapter 1 - 13 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (02:40, 12 October 2022)
 -   📖 Plans to read [Girls' Last Tour](https://anilist.co/manga/85412) (12:31, 11 October 2022)
 -   📖 Read chapter 1 - 2 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (07:55, 11 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Lagtrain](https://anilist.co/anime/139809) (04:54, 14 September 2022)
 -   📺 Completed [Kan Saete Kuyashii wa](https://anilist.co/anime/131755) (04:53, 14 September 2022)
 -   📺 Completed [STUDY ME](https://anilist.co/anime/118609) (04:52, 14 September 2022)
--   📺 Completed [DARKEN](https://anilist.co/anime/128752) (04:52, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
