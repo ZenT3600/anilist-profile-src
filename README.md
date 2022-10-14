@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 128 of [One Piece](https://anilist.co/manga/30013) (09:13, 14 October 2022)
 -   📖 Read chapter 1 - 14 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (07:48, 14 October 2022)
 -   📖 Read chapter 1 - 41 of [Maybe Meant to Be](https://anilist.co/manga/146139) (07:08, 14 October 2022)
--   📖 Read chapter 1 - 127 of [One Piece](https://anilist.co/manga/30013) (16:21, 13 October 2022)
 -   📖 Read chapter 1 - 125 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (02:56, 13 October 2022)
 -   📖 Read chapter 1 - 102 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:53, 13 October 2022)
 -   📖 Read chapter 1 - 54 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:49, 13 October 2022)
