@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 14 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (07:48, 14 October 2022)
 -   📖 Read chapter 1 - 41 of [Maybe Meant to Be](https://anilist.co/manga/146139) (07:08, 14 October 2022)
 -   📖 Read chapter 1 - 127 of [One Piece](https://anilist.co/manga/30013) (16:21, 13 October 2022)
 -   📖 Read chapter 1 - 125 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (02:56, 13 October 2022)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 54 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:49, 13 October 2022)
 -   📖 Completed [Plunderer](https://anilist.co/manga/85939) (16:22, 12 October 2022)
 -   📖 Read chapter 1 - 81 of [Plunderer](https://anilist.co/manga/85939) (16:21, 12 October 2022)
--   📖 Read chapter 1 - 13 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (02:40, 12 October 2022)
 -   📖 Plans to read [Girls' Last Tour](https://anilist.co/manga/85412) (12:31, 11 October 2022)
 -   📖 Read chapter 1 - 2 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (07:55, 11 October 2022)
 -   📖 Read chapter 1 - 137 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:16, 06 October 2022)
