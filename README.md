@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 133 of [One Piece](https://anilist.co/manga/30013) (17:45, 15 October 2022)
+-   📖 Read chapter 1 - 134 of [One Piece](https://anilist.co/manga/30013) (17:50, 15 October 2022)
 -   📖 Read chapter 1 - 16 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:03, 15 October 2022)
 -   📖 Read chapter 1 - 397 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:14, 15 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
