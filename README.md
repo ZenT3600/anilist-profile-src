@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [Girls' Last Tour](https://anilist.co/manga/85412) (09:38, 15 October 2022)
 -   📖 Read chapter 1 - 397 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:14, 15 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
 -   📖 Read chapter 1 - 3 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [SLoWMoTIoN](https://anilist.co/anime/112144) (04:54, 14 September 2022)
 -   📺 Completed [Rainy Boots](https://anilist.co/anime/137916) (04:54, 14 September 2022)
 -   📺 Completed [Lagtrain](https://anilist.co/anime/139809) (04:54, 14 September 2022)
--   📺 Completed [Kan Saete Kuyashii wa](https://anilist.co/anime/131755) (04:53, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
