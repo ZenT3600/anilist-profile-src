@@ -1,15 +1,16 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
+-   📖 Read chapter 1 - 3 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
+-   📖 Read chapter 1 - 103 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:23, 15 October 2022)
 -   📖 Read chapter 1 - 130 of [One Piece](https://anilist.co/manga/30013) (09:21, 14 October 2022)
 -   📖 Read chapter 1 - 14 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (07:48, 14 October 2022)
 -   📖 Read chapter 1 - 41 of [Maybe Meant to Be](https://anilist.co/manga/146139) (07:08, 14 October 2022)
 -   📖 Read chapter 1 - 125 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (02:56, 13 October 2022)
--   📖 Read chapter 1 - 102 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:53, 13 October 2022)
 -   📖 Read chapter 1 - 54 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:49, 13 October 2022)
 -   📖 Completed [Plunderer](https://anilist.co/manga/85939) (16:22, 12 October 2022)
 -   📖 Read chapter 1 - 81 of [Plunderer](https://anilist.co/manga/85939) (16:21, 12 October 2022)
 -   📖 Plans to read [Girls' Last Tour](https://anilist.co/manga/85412) (12:31, 11 October 2022)
--   📖 Read chapter 1 - 2 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (07:55, 11 October 2022)
 -   📖 Read chapter 1 - 137 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:16, 06 October 2022)
 -   📖 Read chapter 1 - 25 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (16:42, 05 October 2022)
 -   📖 Read chapter 1 - 88 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:15, 04 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Rainy Boots](https://anilist.co/anime/137916) (04:54, 14 September 2022)
 -   📺 Completed [Lagtrain](https://anilist.co/anime/139809) (04:54, 14 September 2022)
 -   📺 Completed [Kan Saete Kuyashii wa](https://anilist.co/anime/131755) (04:53, 14 September 2022)
--   📺 Completed [STUDY ME](https://anilist.co/anime/118609) (04:52, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
