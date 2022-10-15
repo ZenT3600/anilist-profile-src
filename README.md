@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 397 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:14, 15 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
 -   📖 Read chapter 1 - 3 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
 -   📖 Read chapter 1 - 103 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:23, 15 October 2022)
@@ -18,7 +19,6 @@
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (17:24, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (12:37, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (12:37, 02 October 2022)
--   📖 Read chapter 1 - 396 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:39, 02 October 2022)
 -   📖 Read chapter 1 - 94 of [Love’s in Sight!](https://anilist.co/manga/107445) (19:32, 25 September 2022)
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
