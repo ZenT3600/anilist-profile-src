@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [Girls' Last Tour](https://anilist.co/manga/85412) (09:38, 15 October 2022)
+-   📖 Read chapter 1 - 16 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:03, 15 October 2022)
 -   📖 Read chapter 1 - 397 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:14, 15 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
 -   📖 Read chapter 1 - 3 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
