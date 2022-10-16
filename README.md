@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [She's Hopeless](https://anilist.co/manga/126944) (09:41, 16 October 2022)
+-   📖 Read chapter 1 - 10 of [She's Hopeless](https://anilist.co/manga/126944) (10:44, 16 October 2022)
 -   📖 Paused reading [Citrus+](https://anilist.co/manga/103884) (08:55, 16 October 2022)
 -   📖 Paused reading [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:54, 16 October 2022)
 -   📖 Paused reading [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (08:54, 16 October 2022)
