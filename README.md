@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 22 of [She's Hopeless](https://anilist.co/manga/126944) (12:03, 16 October 2022)
+-   📖 Read chapter 1 - 23 of [She's Hopeless](https://anilist.co/manga/126944) (13:55, 16 October 2022)
+-   📺 Watched episode 6 - 10 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (13:30, 16 October 2022)
 -   📖 Paused reading [Citrus+](https://anilist.co/manga/103884) (08:55, 16 October 2022)
 -   📖 Paused reading [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:54, 16 October 2022)
 -   📖 Paused reading [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (08:54, 16 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Nobody Makes Sense](https://anilist.co/anime/108850) (04:56, 14 September 2022)
 -   📺 Completed [Non-Breath Oblige](https://anilist.co/anime/140878) (04:56, 14 September 2022)
 -   📺 Completed [Apple dot com](https://anilist.co/anime/108849) (04:55, 14 September 2022)
--   📺 Completed [Ultimate Senpai](https://anilist.co/anime/112793) (04:55, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
