@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 32 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:38, 17 October 2022)
 -   📖 Read chapter 1 - 67 of [She's Hopeless](https://anilist.co/manga/126944) (07:14, 17 October 2022)
 -   📖 Read chapter 1 - 56 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (06:00, 17 October 2022)
 -   📺 Watched episode 6 - 10 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (13:30, 16 October 2022)
@@ -30,7 +31,6 @@
 -   📖 Read chapter 1 - 94 of [Love’s in Sight!](https://anilist.co/manga/107445) (19:32, 25 September 2022)
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
--   📖 Read chapter 1 - 31 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:59, 22 September 2022)
 -   📖 Read chapter 62 - 298 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:11, 21 September 2022)
 -   📺 Plans to watch [Dragon Ball Z](https://anilist.co/anime/813) (08:49, 21 September 2022)
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:15, 19 September 2022)
