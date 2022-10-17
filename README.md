@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 122 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:02, 17 October 2022)
 -   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:59, 17 October 2022)
 -   📺 Watched episode 6 - 11 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:35, 17 October 2022)
 -   📺 Dropped [OniAi](https://anilist.co/anime/14199) (10:22, 17 October 2022)
@@ -26,7 +27,6 @@
 -   📖 Read chapter 1 - 137 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:16, 06 October 2022)
 -   📖 Read chapter 1 - 25 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (16:42, 05 October 2022)
 -   📖 Read chapter 1 - 88 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:15, 04 October 2022)
--   📖 Read chapter 1 - 121 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:09, 04 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (17:24, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (12:37, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (12:37, 02 October 2022)
