@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [OniAi](https://anilist.co/anime/14199) (10:22, 17 October 2022)
 -   📖 Read chapter 1 - 32 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:38, 17 October 2022)
 -   📖 Read chapter 1 - 67 of [She's Hopeless](https://anilist.co/manga/126944) (07:14, 17 October 2022)
 -   📖 Read chapter 1 - 56 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (06:00, 17 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Itte.](https://anilist.co/anime/114039) (04:57, 14 September 2022)
 -   📺 Completed [Nobody Makes Sense](https://anilist.co/anime/108850) (04:56, 14 September 2022)
 -   📺 Completed [Non-Breath Oblige](https://anilist.co/anime/140878) (04:56, 14 September 2022)
--   📺 Completed [Apple dot com](https://anilist.co/anime/108849) (04:55, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
