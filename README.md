@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 62 of [She's Hopeless](https://anilist.co/manga/126944) (05:34, 17 October 2022)
+-   📖 Read chapter 1 - 66 of [She's Hopeless](https://anilist.co/manga/126944) (06:28, 17 October 2022)
+-   📖 Read chapter 1 - 56 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (06:00, 17 October 2022)
 -   📺 Watched episode 6 - 10 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (13:30, 16 October 2022)
 -   📖 Paused reading [Citrus+](https://anilist.co/manga/103884) (08:55, 16 October 2022)
 -   📖 Paused reading [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:54, 16 October 2022)
@@ -8,7 +9,6 @@
 -   📖 Paused reading [The Coppersmith's Bride](https://anilist.co/manga/117675) (08:54, 16 October 2022)
 -   📖 Plans to read [She's Hopeless](https://anilist.co/manga/126944) (08:50, 16 October 2022)
 -   📖 Read chapter 1 - 398 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:49, 16 October 2022)
--   📖 Read chapter 1 - 55 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:46, 16 October 2022)
 -   📖 Read chapter 1 - 134 of [One Piece](https://anilist.co/manga/30013) (17:50, 15 October 2022)
 -   📖 Read chapter 1 - 16 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:03, 15 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
