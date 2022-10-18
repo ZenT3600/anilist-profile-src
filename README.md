@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 135 of [One Piece](https://anilist.co/manga/30013) (06:15, 18 October 2022)
+-   📖 Read chapter 1 - 139 of [One Piece](https://anilist.co/manga/30013) (11:37, 18 October 2022)
 -   📖 Read chapter 1 - 89 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:07, 17 October 2022)
 -   📖 Read chapter 1 - 122 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:02, 17 October 2022)
 -   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:59, 17 October 2022)
