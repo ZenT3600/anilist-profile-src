@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
 -   📖 Read chapter 1 - 139 of [One Piece](https://anilist.co/manga/30013) (11:37, 18 October 2022)
 -   📖 Read chapter 1 - 89 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:07, 17 October 2022)
 -   📖 Read chapter 1 - 122 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:02, 17 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [That's Why I Gave Up on Music](https://anilist.co/anime/116327) (04:57, 14 September 2022)
 -   📺 Completed [Hitchcock](https://anilist.co/anime/115315) (04:57, 14 September 2022)
 -   📺 Completed [Itte.](https://anilist.co/anime/114039) (04:57, 14 September 2022)
--   📺 Completed [Nobody Makes Sense](https://anilist.co/anime/108850) (04:56, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
