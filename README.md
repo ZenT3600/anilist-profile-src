@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 313 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:50, 19 October 2022)
 -   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
 -   📖 Read chapter 1 - 139 of [One Piece](https://anilist.co/manga/30013) (11:37, 18 October 2022)
 -   📖 Read chapter 1 - 89 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:07, 17 October 2022)
@@ -34,7 +35,6 @@
 -   📖 Read chapter 1 - 94 of [Love’s in Sight!](https://anilist.co/manga/107445) (19:32, 25 September 2022)
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
--   📖 Read chapter 62 - 298 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:11, 21 September 2022)
 -   📺 Plans to watch [Dragon Ball Z](https://anilist.co/anime/813) (08:49, 21 September 2022)
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:15, 19 September 2022)
 -   📖 Read chapter 1 - 22 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:05, 19 September 2022)
