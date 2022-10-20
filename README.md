@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 104 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:27, 20 October 2022)
+-   📖 Read chapter 1 - 126 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:23, 20 October 2022)
 -   📖 Read chapter 62 - 313 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:50, 19 October 2022)
 -   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
 -   📖 Read chapter 1 - 139 of [One Piece](https://anilist.co/manga/30013) (11:37, 18 October 2022)
@@ -20,10 +22,8 @@
 -   📖 Read chapter 1 - 16 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:03, 15 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
 -   📖 Read chapter 1 - 3 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
--   📖 Read chapter 1 - 103 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:23, 15 October 2022)
 -   📖 Read chapter 1 - 14 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (07:48, 14 October 2022)
 -   📖 Read chapter 1 - 41 of [Maybe Meant to Be](https://anilist.co/manga/146139) (07:08, 14 October 2022)
--   📖 Read chapter 1 - 125 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (02:56, 13 October 2022)
 -   📖 Completed [Plunderer](https://anilist.co/manga/85939) (16:22, 12 October 2022)
 -   📖 Read chapter 1 - 81 of [Plunderer](https://anilist.co/manga/85939) (16:21, 12 October 2022)
 -   📖 Plans to read [Girls' Last Tour](https://anilist.co/manga/85412) (12:31, 11 October 2022)
