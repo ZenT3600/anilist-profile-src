@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 42 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:11, 21 October 2022)
+-   📖 Read chapter 1 - 82 of [My Dress-Up Darling](https://anilist.co/manga/101583) (03:24, 21 October 2022)
+-   📖 Read chapter 1 - 57 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:21, 21 October 2022)
 -   📖 Read chapter 1 - 104 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:27, 20 October 2022)
 -   📖 Read chapter 1 - 126 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:23, 20 October 2022)
 -   📖 Read chapter 62 - 313 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:50, 19 October 2022)
@@ -12,7 +15,6 @@
 -   📺 Dropped [OniAi](https://anilist.co/anime/14199) (10:22, 17 October 2022)
 -   📖 Read chapter 1 - 32 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:38, 17 October 2022)
 -   📖 Read chapter 1 - 67 of [She's Hopeless](https://anilist.co/manga/126944) (07:14, 17 October 2022)
--   📖 Read chapter 1 - 56 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (06:00, 17 October 2022)
 -   📖 Paused reading [Citrus+](https://anilist.co/manga/103884) (08:55, 16 October 2022)
 -   📖 Paused reading [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:54, 16 October 2022)
 -   📖 Paused reading [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (08:54, 16 October 2022)
@@ -23,7 +25,6 @@
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
 -   📖 Read chapter 1 - 3 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
 -   📖 Read chapter 1 - 14 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (07:48, 14 October 2022)
--   📖 Read chapter 1 - 41 of [Maybe Meant to Be](https://anilist.co/manga/146139) (07:08, 14 October 2022)
 -   📖 Completed [Plunderer](https://anilist.co/manga/85939) (16:22, 12 October 2022)
 -   📖 Read chapter 1 - 81 of [Plunderer](https://anilist.co/manga/85939) (16:21, 12 October 2022)
 -   📖 Plans to read [Girls' Last Tour](https://anilist.co/manga/85412) (12:31, 11 October 2022)
@@ -41,7 +42,6 @@
 -   📖 Plans to read [Sora no Aosa wo Shiru Hito yo](https://anilist.co/manga/112910) (14:24, 18 September 2022)
 -   📖 Read chapter 1 - 16 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (21:25, 16 September 2022)
 -   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (13:40, 16 September 2022)
--   📖 Read chapter 1 - 81 of [My Dress-Up Darling](https://anilist.co/manga/101583) (01:57, 16 September 2022)
 -   📺 Completed [Trapped in the Past](https://anilist.co/anime/123436) (04:58, 14 September 2022)
 -   📺 Completed [Halzion](https://anilist.co/anime/130156) (04:58, 14 September 2022)
 -   📺 Completed [Ano Yume wo Nazotte](https://anilist.co/anime/130246) (04:58, 14 September 2022)
