@@ -17,6 +17,6 @@ jobs:
       - name: Push files
         uses: EndBug/add-and-commit@v9
         with:
-          add: ${GITHUB_WORKSPACE}/.github
+          add: .
           author_name: Github Actions
           author_email: actions@github.com
