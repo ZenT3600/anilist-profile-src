@@ -9,8 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
       - run: sudo apt-get install -y gnuplot && bash /followers.sh
+      
       - run: git config --local user.email "test@github.com" && git config --local user.name "GitHub Action test" && git add ${GITHUB_WORKSPACE}/.github && git commit -m "Add changes"
+      
       - uses: EndBug/add-and-commit@v9
       with:
         add: ${GITHUB_WORKSPACE}/.github
