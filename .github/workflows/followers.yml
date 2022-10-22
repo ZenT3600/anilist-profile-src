@@ -11,6 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: sudo apt-get install -y gnuplot && bash /followers.sh
       - run: git config --local user.email "test@github.com" && git config --local user.name "GitHub Action test" && git add ${GITHUB_WORKSPACE}/.github && git commit -m "Add changes"
-      - uses: ad-m/github-push-action@master
+      - name: push
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
