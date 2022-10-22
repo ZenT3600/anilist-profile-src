@@ -15,8 +15,8 @@ jobs:
       - run: git config --local user.email "test@github.com" && git config --local user.name "GitHub Action test" && git add ${GITHUB_WORKSPACE}/.github && git commit -m "Add changes"
       
       - name: Push files
-      uses: EndBug/add-and-commit@v9
-      with:
-      add: ${GITHUB_WORKSPACE}/.github
-      author_name: Github Actions
-      author_email: actions@github.com
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: ${GITHUB_WORKSPACE}/.github
+          author_name: Github Actions
+          author_email: actions@github.com
