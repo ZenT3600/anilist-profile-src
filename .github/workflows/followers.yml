@@ -1,0 +1,10 @@
+name: "Follower graph"
+on:
+  schedule:
+  - cron: "*/30 * * * *"
+
+jobs:
+  graph;
+    runs-on: ubuntu-latest
+    steps:
+      run: sudo apt-get install -y gnuplot && bash .github/followers.sh
