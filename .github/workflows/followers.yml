@@ -12,7 +12,7 @@ jobs:
       
       - run: sudo apt-get install -y gnuplot && bash ${GITHUB_WORKSPACE}/.github/followers.sh
       
-      - run: git config --local user.email "test@github.com" && git config --local user.name "GitHub Action test" && git add ${GITHUB_WORKSPACE}/.github && git commit -m "Add changes"
+      # - run: git config --local user.email "test@github.com" && git config --local user.name "GitHub Action test" && git add ${GITHUB_WORKSPACE}/.github && git commit -m "Add changes"
       
       - name: Push files
         uses: EndBug/add-and-commit@v9
