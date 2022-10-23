@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 27 of [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:30, 23 October 2022)
+-   📖 Completed [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
+-   📖 Read chapter 1 - 33 of [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 1 - 399 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:27, 22 October 2022)
 -   📖 Read chapter 1 - 68 of [She's Hopeless](https://anilist.co/manga/126944) (04:09, 22 October 2022)
 -   📖 Read chapter 1 - 105 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:40, 22 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Racing into the Night](https://anilist.co/anime/126914) (04:58, 14 September 2022)
 -   📺 Completed [Ame to Cappuccino ](https://anilist.co/anime/116329) (04:57, 14 September 2022)
 -   📺 Completed [That's Why I Gave Up on Music](https://anilist.co/anime/116327) (04:57, 14 September 2022)
--   📺 Completed [Hitchcock](https://anilist.co/anime/115315) (04:57, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
