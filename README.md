@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Bonnouji](https://anilist.co/manga/58226) (16:38, 24 October 2022)
 -   📖 Read chapter 1 - 123 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:14, 24 October 2022)
 -   📖 Read chapter 9 - 45 of [The Way of the Househusband](https://anilist.co/manga/101233) (07:56, 24 October 2022)
--   📖 Read chapter 1 - 3 of [Bonnouji](https://anilist.co/manga/58226) (04:08, 24 October 2022)
 -   📖 Read chapter 1 - 59 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:44, 24 October 2022)
 -   📖 Read chapter 1 - 400 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:09, 23 October 2022)
 -   📖 Completed [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
