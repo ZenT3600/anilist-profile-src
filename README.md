@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 123 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:14, 24 October 2022)
 -   📖 Read chapter 9 - 45 of [The Way of the Househusband](https://anilist.co/manga/101233) (07:56, 24 October 2022)
 -   📖 Read chapter 1 - 3 of [Bonnouji](https://anilist.co/manga/58226) (04:08, 24 October 2022)
 -   📖 Read chapter 1 - 59 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:44, 24 October 2022)
@@ -15,7 +16,6 @@
 -   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
 -   📖 Read chapter 1 - 139 of [One Piece](https://anilist.co/manga/30013) (11:37, 18 October 2022)
 -   📖 Read chapter 1 - 89 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:07, 17 October 2022)
--   📖 Read chapter 1 - 122 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:02, 17 October 2022)
 -   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:59, 17 October 2022)
 -   📺 Watched episode 6 - 11 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:35, 17 October 2022)
 -   📺 Dropped [OniAi](https://anilist.co/anime/14199) (10:22, 17 October 2022)
