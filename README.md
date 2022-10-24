@@ -1,12 +1,13 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Bonnouji](https://anilist.co/manga/58226) (04:08, 24 October 2022)
+-   📖 Read chapter 1 - 59 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:44, 24 October 2022)
 -   📖 Read chapter 9 - 36 of [The Way of the Househusband](https://anilist.co/manga/101233) (13:47, 23 October 2022)
 -   📖 Read chapter 1 - 400 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:09, 23 October 2022)
 -   📖 Completed [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 1 - 33 of [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 1 - 68 of [She's Hopeless](https://anilist.co/manga/126944) (04:09, 22 October 2022)
 -   📖 Read chapter 1 - 105 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:40, 22 October 2022)
--   📖 Read chapter 1 - 58 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:36, 22 October 2022)
 -   📖 Read chapter 1 - 42 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:11, 21 October 2022)
 -   📖 Read chapter 1 - 82 of [My Dress-Up Darling](https://anilist.co/manga/101583) (03:24, 21 October 2022)
 -   📖 Read chapter 1 - 126 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:23, 20 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Halzion](https://anilist.co/anime/130156) (04:58, 14 September 2022)
 -   📺 Completed [Ano Yume wo Nazotte](https://anilist.co/anime/130246) (04:58, 14 September 2022)
 -   📺 Completed [Racing into the Night](https://anilist.co/anime/126914) (04:58, 14 September 2022)
--   📺 Completed [Ame to Cappuccino ](https://anilist.co/anime/116329) (04:57, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
