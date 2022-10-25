@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 6 of [Bonnouji](https://anilist.co/manga/58226) (16:38, 24 October 2022)
+-   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (03:53, 25 October 2022)
+-   📖 Read chapter 1 - 8 of [Bonnouji](https://anilist.co/manga/58226) (03:20, 25 October 2022)
 -   📖 Read chapter 1 - 123 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:14, 24 October 2022)
 -   📖 Read chapter 9 - 45 of [The Way of the Househusband](https://anilist.co/manga/101233) (07:56, 24 October 2022)
 -   📖 Read chapter 1 - 59 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:44, 24 October 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Trapped in the Past](https://anilist.co/anime/123436) (04:58, 14 September 2022)
 -   📺 Completed [Halzion](https://anilist.co/anime/130156) (04:58, 14 September 2022)
 -   📺 Completed [Ano Yume wo Nazotte](https://anilist.co/anime/130246) (04:58, 14 September 2022)
--   📺 Completed [Racing into the Night](https://anilist.co/anime/126914) (04:58, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
