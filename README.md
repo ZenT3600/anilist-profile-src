@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of [Bonnouji](https://anilist.co/manga/58226) (16:14, 25 October 2022)
+-   📖 Read chapter 1 - 16 of [Bonnouji](https://anilist.co/manga/58226) (02:56, 26 October 2022)
 -   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (03:53, 25 October 2022)
 -   📖 Read chapter 1 - 123 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:14, 24 October 2022)
 -   📖 Read chapter 9 - 45 of [The Way of the Househusband](https://anilist.co/manga/101233) (07:56, 24 October 2022)
