@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 24 of [Bonnouji](https://anilist.co/manga/58226) (14:46, 27 October 2022)
 -   📖 Read chapter 1 - 127 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:16, 27 October 2022)
 -   📖 Read chapter 1 - 106 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:06, 27 October 2022)
 -   📖 Read chapter 1 - 60 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:52, 27 October 2022)
 -   📖 Read chapter 9 - 54 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:12, 26 October 2022)
--   📖 Read chapter 1 - 16 of [Bonnouji](https://anilist.co/manga/58226) (02:56, 26 October 2022)
 -   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (03:53, 25 October 2022)
 -   📖 Read chapter 1 - 123 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:14, 24 October 2022)
 -   📖 Read chapter 1 - 400 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:09, 23 October 2022)
