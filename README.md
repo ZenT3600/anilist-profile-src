@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 60 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:52, 27 October 2022)
 -   📖 Read chapter 9 - 54 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:12, 26 October 2022)
 -   📖 Read chapter 1 - 16 of [Bonnouji](https://anilist.co/manga/58226) (02:56, 26 October 2022)
 -   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (03:53, 25 October 2022)
 -   📖 Read chapter 1 - 123 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:14, 24 October 2022)
--   📖 Read chapter 1 - 59 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:44, 24 October 2022)
 -   📖 Read chapter 1 - 400 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:09, 23 October 2022)
 -   📖 Completed [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 1 - 33 of [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
