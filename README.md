@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 127 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:16, 27 October 2022)
 -   📖 Read chapter 1 - 106 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:06, 27 October 2022)
 -   📖 Read chapter 1 - 60 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:52, 27 October 2022)
 -   📖 Read chapter 9 - 54 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:12, 26 October 2022)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 68 of [She's Hopeless](https://anilist.co/manga/126944) (04:09, 22 October 2022)
 -   📖 Read chapter 1 - 42 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:11, 21 October 2022)
 -   📖 Read chapter 1 - 82 of [My Dress-Up Darling](https://anilist.co/manga/101583) (03:24, 21 October 2022)
--   📖 Read chapter 1 - 126 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:23, 20 October 2022)
 -   📖 Read chapter 62 - 313 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:50, 19 October 2022)
 -   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
 -   📖 Read chapter 1 - 139 of [One Piece](https://anilist.co/manga/30013) (11:37, 18 October 2022)
