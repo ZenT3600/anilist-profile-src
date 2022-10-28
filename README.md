@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
 -   📖 Read chapter 1 - 43 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:39, 28 October 2022)
--   📺 Watched episode 1 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (21:58, 27 October 2022)
 -   📺 Completed [Aisei Tenshi Love Mary: Akusei Jutai THE ANIMATION](https://anilist.co/anime/113621) (21:28, 27 October 2022)
 -   📖 Read chapter 1 - 28 of [Bonnouji](https://anilist.co/manga/58226) (15:01, 27 October 2022)
 -   📖 Read chapter 1 - 127 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:16, 27 October 2022)
