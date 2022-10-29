@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Gakuen Saimin Reido](https://anilist.co/anime/8293) (06:41, 29 October 2022)
+-   📺 Watched episode 1 of [Dragon Ball Z](https://anilist.co/anime/813) (06:41, 29 October 2022)
 -   📖 Read chapter 1 - 69 of [She's Hopeless](https://anilist.co/manga/126944) (04:52, 29 October 2022)
 -   📖 Read chapter 1 - 107 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:48, 29 October 2022)
 -   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 22 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:05, 19 September 2022)
 -   📖 Plans to read [Sora no Aosa wo Shiru Hito yo](https://anilist.co/manga/112910) (14:24, 18 September 2022)
 -   📖 Read chapter 1 - 16 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (21:25, 16 September 2022)
--   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (13:40, 16 September 2022)
--   📺 Completed [Trapped in the Past](https://anilist.co/anime/123436) (04:58, 14 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
