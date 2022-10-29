@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Dragon Ball Z](https://anilist.co/anime/813) (16:42, 29 October 2022)
 -   📖 Read chapter 1 - 29 of [Bonnouji](https://anilist.co/manga/58226) (09:46, 29 October 2022)
 -   📖 Read chapter 1 - 401 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (09:41, 29 October 2022)
 -   📖 Read chapter 1 - 61 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (09:39, 29 October 2022)
 -   📺 Completed [Gakuen Saimin Reido](https://anilist.co/anime/8293) (06:41, 29 October 2022)
--   📺 Watched episode 1 of [Dragon Ball Z](https://anilist.co/anime/813) (06:41, 29 October 2022)
 -   📖 Read chapter 1 - 69 of [She's Hopeless](https://anilist.co/manga/126944) (04:52, 29 October 2022)
 -   📖 Read chapter 1 - 107 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:48, 29 October 2022)
 -   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
