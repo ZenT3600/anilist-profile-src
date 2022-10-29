@@ -1,11 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 69 of [She's Hopeless](https://anilist.co/manga/126944) (04:52, 29 October 2022)
+-   📖 Read chapter 1 - 107 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:48, 29 October 2022)
 -   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
 -   📖 Read chapter 1 - 43 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:39, 28 October 2022)
 -   📺 Completed [Aisei Tenshi Love Mary: Akusei Jutai THE ANIMATION](https://anilist.co/anime/113621) (21:28, 27 October 2022)
 -   📖 Read chapter 1 - 28 of [Bonnouji](https://anilist.co/manga/58226) (15:01, 27 October 2022)
 -   📖 Read chapter 1 - 127 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:16, 27 October 2022)
--   📖 Read chapter 1 - 106 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:06, 27 October 2022)
 -   📖 Read chapter 1 - 60 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:52, 27 October 2022)
 -   📖 Read chapter 9 - 54 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:12, 26 October 2022)
 -   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (03:53, 25 October 2022)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 400 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:09, 23 October 2022)
 -   📖 Completed [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 1 - 33 of [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
--   📖 Read chapter 1 - 68 of [She's Hopeless](https://anilist.co/manga/126944) (04:09, 22 October 2022)
 -   📖 Read chapter 1 - 82 of [My Dress-Up Darling](https://anilist.co/manga/101583) (03:24, 21 October 2022)
 -   📖 Read chapter 62 - 313 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:50, 19 October 2022)
 -   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
