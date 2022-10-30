@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 402 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:24, 30 October 2022)
+-   📖 Read chapter 1 - 33 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:22, 30 October 2022)
 -   📺 Watched episode 1 - 2 of [Dragon Ball Z](https://anilist.co/anime/813) (16:42, 29 October 2022)
 -   📖 Read chapter 1 - 29 of [Bonnouji](https://anilist.co/manga/58226) (09:46, 29 October 2022)
--   📖 Read chapter 1 - 401 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (09:41, 29 October 2022)
 -   📖 Read chapter 1 - 61 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (09:39, 29 October 2022)
 -   📺 Completed [Gakuen Saimin Reido](https://anilist.co/anime/8293) (06:41, 29 October 2022)
 -   📖 Read chapter 1 - 69 of [She's Hopeless](https://anilist.co/manga/126944) (04:52, 29 October 2022)
@@ -24,7 +25,6 @@
 -   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:59, 17 October 2022)
 -   📺 Watched episode 6 - 11 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:35, 17 October 2022)
 -   📺 Dropped [OniAi](https://anilist.co/anime/14199) (10:22, 17 October 2022)
--   📖 Read chapter 1 - 32 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:38, 17 October 2022)
 -   📖 Paused reading [Citrus+](https://anilist.co/manga/103884) (08:55, 16 October 2022)
 -   📖 Paused reading [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:54, 16 October 2022)
 -   📖 Paused reading [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (08:54, 16 October 2022)
