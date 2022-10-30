@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 32 of [Bonnouji](https://anilist.co/manga/58226) (13:46, 30 October 2022)
 -   📖 Read chapter 1 - 402 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:24, 30 October 2022)
 -   📖 Read chapter 1 - 33 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:22, 30 October 2022)
 -   📺 Watched episode 1 - 2 of [Dragon Ball Z](https://anilist.co/anime/813) (16:42, 29 October 2022)
--   📖 Read chapter 1 - 29 of [Bonnouji](https://anilist.co/manga/58226) (09:46, 29 October 2022)
 -   📖 Read chapter 1 - 61 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (09:39, 29 October 2022)
 -   📺 Completed [Gakuen Saimin Reido](https://anilist.co/anime/8293) (06:41, 29 October 2022)
 -   📖 Read chapter 1 - 69 of [She's Hopeless](https://anilist.co/manga/126944) (04:52, 29 October 2022)
