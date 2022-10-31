@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (14:30, 31 October 2022)
 -   📖 Plans to read [Look Back](https://anilist.co/manga/136807) (12:40, 31 October 2022)
--   📖 Read chapter 1 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (05:31, 31 October 2022)
 -   📖 Completed [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
 -   📖 Read chapter 1 - 35 of [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
 -   📖 Read chapter 1 - 402 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:24, 30 October 2022)
