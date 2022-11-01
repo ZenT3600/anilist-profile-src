@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Look Back](https://anilist.co/manga/136807) (08:13, 01 November 2022)
 -   📖 Read chapter 1 - 13 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (05:58, 01 November 2022)
 -   📖 Read chapter 1 - 124 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:22, 01 November 2022)
 -   📖 Read chapter 1 - 96 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:21, 01 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
 -   📺 Plans to watch [Dragon Ball Z](https://anilist.co/anime/813) (08:49, 21 September 2022)
--   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:15, 19 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
