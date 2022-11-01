@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 19 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (11:34, 01 November 2022)
 -   📖 Completed [Look Back](https://anilist.co/manga/136807) (08:13, 01 November 2022)
--   📖 Read chapter 1 - 13 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (05:58, 01 November 2022)
 -   📖 Read chapter 1 - 124 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:22, 01 November 2022)
 -   📖 Read chapter 1 - 96 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:21, 01 November 2022)
 -   📖 Read chapter 1 - 138 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:35, 01 November 2022)
