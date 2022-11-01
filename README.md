@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 22 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (11:41, 01 November 2022)
+-   📖 Read chapter 1 - 25 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (17:23, 01 November 2022)
 -   📖 Completed [Look Back](https://anilist.co/manga/136807) (08:13, 01 November 2022)
 -   📖 Read chapter 1 - 124 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:22, 01 November 2022)
 -   📖 Read chapter 1 - 96 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:21, 01 November 2022)
