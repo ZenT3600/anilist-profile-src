@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:39, 01 November 2022)
 -   📖 Read chapter 1 - 36 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:35, 01 November 2022)
 -   📖 Completed [Look Back](https://anilist.co/manga/136807) (08:13, 01 November 2022)
 -   📖 Read chapter 1 - 124 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:22, 01 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (12:37, 02 October 2022)
 -   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 -   📖 Plans to read [Maybe Meant to Be](https://anilist.co/manga/146139) (23:53, 22 September 2022)
--   📺 Plans to watch [Dragon Ball Z](https://anilist.co/anime/813) (08:49, 21 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
