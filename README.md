@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 95 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:39, 01 November 2022)
+-   📖 Read chapter 1 - 13 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (05:58, 01 November 2022)
+-   📖 Read chapter 1 - 124 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:22, 01 November 2022)
+-   📖 Read chapter 1 - 96 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:21, 01 November 2022)
 -   📖 Read chapter 1 - 138 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:35, 01 November 2022)
--   📖 Read chapter 1 - 6 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (14:30, 31 October 2022)
 -   📖 Plans to read [Look Back](https://anilist.co/manga/136807) (12:40, 31 October 2022)
 -   📖 Completed [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
 -   📖 Read chapter 1 - 35 of [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 1 - 127 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:16, 27 October 2022)
 -   📖 Read chapter 9 - 54 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:12, 26 October 2022)
 -   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (03:53, 25 October 2022)
--   📖 Read chapter 1 - 123 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:14, 24 October 2022)
 -   📖 Completed [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 1 - 33 of [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 1 - 82 of [My Dress-Up Darling](https://anilist.co/manga/101583) (03:24, 21 October 2022)
