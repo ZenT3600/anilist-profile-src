@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 128 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:31, 02 November 2022)
 -   📖 Read chapter 1 - 10 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (06:38, 02 November 2022)
 -   📖 Completed [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:39, 01 November 2022)
 -   📖 Read chapter 1 - 36 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:35, 01 November 2022)
@@ -20,7 +21,6 @@
 -   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
 -   📖 Read chapter 1 - 43 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:39, 28 October 2022)
 -   📺 Completed [Aisei Tenshi Love Mary: Akusei Jutai THE ANIMATION](https://anilist.co/anime/113621) (21:28, 27 October 2022)
--   📖 Read chapter 1 - 127 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:16, 27 October 2022)
 -   📖 Read chapter 9 - 54 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:12, 26 October 2022)
 -   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (03:53, 25 October 2022)
 -   📖 Completed [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
