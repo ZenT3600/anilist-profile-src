@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 49 of [Call of the Night](https://anilist.co/manga/111233) (13:02, 02 November 2022)
 -   📖 Read chapter 1 - 12 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (12:13, 02 November 2022)
 -   📖 Read chapter 1 - 128 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:31, 02 November 2022)
 -   📖 Completed [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:39, 01 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (17:24, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (12:37, 02 October 2022)
 -   📖 Plans to read [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (12:37, 02 October 2022)
--   📖 Read chapter 1 - 10 of [Last Word of the World](https://anilist.co/manga/120692) (08:43, 25 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
