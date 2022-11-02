@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (05:07, 02 November 2022)
+-   📖 Read chapter 1 - 10 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (06:38, 02 November 2022)
 -   📖 Completed [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:39, 01 November 2022)
 -   📖 Read chapter 1 - 36 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:35, 01 November 2022)
 -   📖 Completed [Look Back](https://anilist.co/manga/136807) (08:13, 01 November 2022)
