@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 17 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (11:28, 03 November 2022)
+-   📖 Read chapter 1 - 18 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (14:28, 03 November 2022)
 -   📖 Read chapter 1 - 108 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 03 November 2022)
 -   📖 Read chapter 1 - 49 of [Call of the Night](https://anilist.co/manga/111233) (13:02, 02 November 2022)
 -   📖 Read chapter 1 - 128 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:31, 02 November 2022)
