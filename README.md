@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 13 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (05:04, 03 November 2022)
 -   📖 Read chapter 1 - 108 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 03 November 2022)
 -   📖 Read chapter 1 - 49 of [Call of the Night](https://anilist.co/manga/111233) (13:02, 02 November 2022)
--   📖 Read chapter 1 - 12 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (12:13, 02 November 2022)
 -   📖 Read chapter 1 - 128 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:31, 02 November 2022)
 -   📖 Completed [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:39, 01 November 2022)
 -   📖 Read chapter 1 - 36 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:35, 01 November 2022)
