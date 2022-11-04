@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 60 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (19:47, 04 November 2022)
+-   📖 Read chapter 1 - 64 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (20:12, 04 November 2022)
 -   📖 Read chapter 1 - 64 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:24, 04 November 2022)
 -   📖 Completed [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:29, 04 November 2022)
 -   📖 Read chapter 1 - 31 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:25, 04 November 2022)
