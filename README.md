@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 37 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (19:32, 04 November 2022)
+-   📖 Read chapter 1 - 64 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:24, 04 November 2022)
 -   📖 Completed [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:29, 04 November 2022)
 -   📖 Read chapter 1 - 31 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:25, 04 November 2022)
--   📖 Read chapter 1 - 9 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (13:46, 04 November 2022)
 -   📖 Plans to read [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (12:44, 04 November 2022)
 -   📖 Read chapter 1 - 44 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:33, 04 November 2022)
 -   📖 Read chapter 1 - 83 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:05, 04 November 2022)
@@ -21,7 +22,6 @@
 -   📖 Read chapter 1 - 402 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:24, 30 October 2022)
 -   📖 Read chapter 1 - 33 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:22, 30 October 2022)
 -   📺 Watched episode 1 - 2 of [Dragon Ball Z](https://anilist.co/anime/813) (16:42, 29 October 2022)
--   📖 Read chapter 1 - 61 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (09:39, 29 October 2022)
 -   📺 Completed [Gakuen Saimin Reido](https://anilist.co/anime/8293) (06:41, 29 October 2022)
 -   📖 Read chapter 1 - 69 of [She's Hopeless](https://anilist.co/manga/126944) (04:52, 29 October 2022)
 -   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
