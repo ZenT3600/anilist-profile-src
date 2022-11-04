@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 44 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:33, 04 November 2022)
 -   📖 Read chapter 1 - 83 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:05, 04 November 2022)
 -   📖 Read chapter 1 - 25 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:09, 03 November 2022)
 -   📖 Read chapter 1 - 108 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 03 November 2022)
@@ -21,7 +22,6 @@
 -   📺 Completed [Gakuen Saimin Reido](https://anilist.co/anime/8293) (06:41, 29 October 2022)
 -   📖 Read chapter 1 - 69 of [She's Hopeless](https://anilist.co/manga/126944) (04:52, 29 October 2022)
 -   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
--   📖 Read chapter 1 - 43 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:39, 28 October 2022)
 -   📺 Completed [Aisei Tenshi Love Mary: Akusei Jutai THE ANIMATION](https://anilist.co/anime/113621) (21:28, 27 October 2022)
 -   📖 Read chapter 9 - 54 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:12, 26 October 2022)
 -   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (03:53, 25 October 2022)
