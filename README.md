@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 83 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:05, 04 November 2022)
 -   📖 Read chapter 1 - 25 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:09, 03 November 2022)
 -   📖 Read chapter 1 - 108 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 03 November 2022)
 -   📖 Read chapter 1 - 49 of [Call of the Night](https://anilist.co/manga/111233) (13:02, 02 November 2022)
@@ -26,7 +27,6 @@
 -   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (03:53, 25 October 2022)
 -   📖 Completed [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 1 - 33 of [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
--   📖 Read chapter 1 - 82 of [My Dress-Up Darling](https://anilist.co/manga/101583) (03:24, 21 October 2022)
 -   📖 Read chapter 62 - 313 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:50, 19 October 2022)
 -   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
 -   📖 Read chapter 1 - 139 of [One Piece](https://anilist.co/manga/30013) (11:37, 18 October 2022)
