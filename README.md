@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 29 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (13:58, 04 November 2022)
+-   📖 Completed [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:29, 04 November 2022)
+-   📖 Read chapter 1 - 31 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:25, 04 November 2022)
 -   📖 Read chapter 1 - 9 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (13:46, 04 November 2022)
 -   📖 Plans to read [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (12:44, 04 November 2022)
 -   📖 Read chapter 1 - 44 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:33, 04 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 81 of [Plunderer](https://anilist.co/manga/85939) (16:21, 12 October 2022)
 -   📖 Plans to read [Girls' Last Tour](https://anilist.co/manga/85412) (12:31, 11 October 2022)
 -   📖 Read chapter 1 - 25 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (16:42, 05 October 2022)
--   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 17-21](https://anilist.co/manga/139855) (17:24, 02 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
