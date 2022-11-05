@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 109 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 05 November 2022)
+-   📖 Read chapter 1 - 403 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:20, 05 November 2022)
+-   📖 Read chapter 1 - 70 of [She's Hopeless](https://anilist.co/manga/126944) (04:19, 05 November 2022)
 -   📖 Read chapter 1 - 100 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (21:41, 04 November 2022)
 -   📖 Read chapter 1 - 64 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:24, 04 November 2022)
 -   📖 Completed [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:29, 04 November 2022)
@@ -7,7 +10,6 @@
 -   📖 Plans to read [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (12:44, 04 November 2022)
 -   📖 Read chapter 1 - 44 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:33, 04 November 2022)
 -   📖 Read chapter 1 - 83 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:05, 04 November 2022)
--   📖 Read chapter 1 - 108 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 03 November 2022)
 -   📖 Read chapter 1 - 49 of [Call of the Night](https://anilist.co/manga/111233) (13:02, 02 November 2022)
 -   📖 Read chapter 1 - 128 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:31, 02 November 2022)
 -   📖 Completed [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:39, 01 November 2022)
@@ -19,11 +21,9 @@
 -   📖 Plans to read [Look Back](https://anilist.co/manga/136807) (12:40, 31 October 2022)
 -   📖 Completed [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
 -   📖 Read chapter 1 - 35 of [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
--   📖 Read chapter 1 - 402 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:24, 30 October 2022)
 -   📖 Read chapter 1 - 33 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:22, 30 October 2022)
 -   📺 Watched episode 1 - 2 of [Dragon Ball Z](https://anilist.co/anime/813) (16:42, 29 October 2022)
 -   📺 Completed [Gakuen Saimin Reido](https://anilist.co/anime/8293) (06:41, 29 October 2022)
--   📖 Read chapter 1 - 69 of [She's Hopeless](https://anilist.co/manga/126944) (04:52, 29 October 2022)
 -   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
 -   📺 Completed [Aisei Tenshi Love Mary: Akusei Jutai THE ANIMATION](https://anilist.co/anime/113621) (21:28, 27 October 2022)
 -   📖 Read chapter 9 - 54 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:12, 26 October 2022)
