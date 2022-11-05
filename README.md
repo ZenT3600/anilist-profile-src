@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 135 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (09:59, 05 November 2022)
+-   📖 Read chapter 1 - 161 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (11:01, 05 November 2022)
 -   📖 Read chapter 1 - 109 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 05 November 2022)
 -   📖 Read chapter 1 - 403 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:20, 05 November 2022)
 -   📖 Read chapter 1 - 70 of [She's Hopeless](https://anilist.co/manga/126944) (04:19, 05 November 2022)
