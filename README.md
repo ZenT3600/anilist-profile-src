@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 180 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:07, 05 November 2022)
+-   📖 Completed [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
+-   📖 Read chapter 1 - 222 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
 -   📖 Plans to read [Get Schooled](https://anilist.co/manga/128521) (13:08, 05 November 2022)
 -   📖 Read chapter 1 - 109 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 05 November 2022)
 -   📖 Read chapter 1 - 403 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:20, 05 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 14 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (07:48, 14 October 2022)
 -   📖 Completed [Plunderer](https://anilist.co/manga/85939) (16:22, 12 October 2022)
 -   📖 Read chapter 1 - 81 of [Plunderer](https://anilist.co/manga/85939) (16:21, 12 October 2022)
--   📖 Plans to read [Girls' Last Tour](https://anilist.co/manga/85412) (12:31, 11 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
