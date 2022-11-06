@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 21 of [Get Schooled](https://anilist.co/manga/128521) (08:39, 06 November 2022)
+-   📖 Read chapter 1 - 24 of [Get Schooled](https://anilist.co/manga/128521) (08:53, 06 November 2022)
 -   📖 Completed [Orange](https://anilist.co/manga/65573) (06:40, 06 November 2022)
 -   📖 Completed [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
 -   📖 Read chapter 1 - 222 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
