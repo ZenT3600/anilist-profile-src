@@ -1,6 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 28 of [Get Schooled](https://anilist.co/manga/128521) (17:06, 06 November 2022)
+-   📖 Paused reading [Record of Ragnarok](https://anilist.co/manga/107098) (17:34, 06 November 2022)
+-   📖 Read chapter 1 - 16 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (17:33, 06 November 2022)
+-   📖 Read chapter 1 - 34 of [Get Schooled](https://anilist.co/manga/128521) (17:27, 06 November 2022)
 -   📖 Completed [Orange](https://anilist.co/manga/65573) (06:40, 06 November 2022)
 -   📖 Completed [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
 -   📖 Read chapter 1 - 222 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [She's Hopeless](https://anilist.co/manga/126944) (08:50, 16 October 2022)
 -   📖 Read chapter 1 - 16 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:03, 15 October 2022)
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
--   📖 Read chapter 1 - 3 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
--   📖 Read chapter 1 - 14 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (07:48, 14 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
