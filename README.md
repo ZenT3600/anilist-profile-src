@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Orange](https://anilist.co/manga/65573) (06:40, 06 November 2022)
 -   📖 Read chapter 1 - 14 of [Get Schooled](https://anilist.co/manga/128521) (04:37, 06 November 2022)
 -   📖 Completed [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
 -   📖 Read chapter 1 - 222 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
 -   📖 Read chapter 1 - 3 of [Tatsuki Fujimoto Before Chainsaw Man: 22-26](https://anilist.co/manga/141157) (03:27, 15 October 2022)
 -   📖 Read chapter 1 - 14 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (07:48, 14 October 2022)
--   📖 Completed [Plunderer](https://anilist.co/manga/85939) (16:22, 12 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
