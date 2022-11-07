@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 36 of [Get Schooled](https://anilist.co/manga/128521) (05:15, 07 November 2022)
+-   📖 Read chapter 1 - 97 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:35, 07 November 2022)
 -   📖 Paused reading [Record of Ragnarok](https://anilist.co/manga/107098) (17:34, 06 November 2022)
 -   📖 Read chapter 1 - 16 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (17:33, 06 November 2022)
--   📖 Read chapter 1 - 34 of [Get Schooled](https://anilist.co/manga/128521) (17:27, 06 November 2022)
 -   📖 Completed [Orange](https://anilist.co/manga/65573) (06:40, 06 November 2022)
 -   📖 Completed [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
 -   📖 Read chapter 1 - 222 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
@@ -22,7 +23,6 @@
 -   📖 Read chapter 1 - 36 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:35, 01 November 2022)
 -   📖 Completed [Look Back](https://anilist.co/manga/136807) (08:13, 01 November 2022)
 -   📖 Read chapter 1 - 124 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:22, 01 November 2022)
--   📖 Read chapter 1 - 96 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:21, 01 November 2022)
 -   📖 Read chapter 1 - 138 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:35, 01 November 2022)
 -   📖 Plans to read [Look Back](https://anilist.co/manga/136807) (12:40, 31 October 2022)
 -   📖 Completed [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
