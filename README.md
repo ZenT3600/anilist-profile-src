@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (07:07, 09 November 2022)
+-   📖 Read chapter 16 - 22 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (07:33, 09 November 2022)
 -   📖 Read chapter 1 - 57 of [Get Schooled](https://anilist.co/manga/128521) (06:18, 09 November 2022)
 -   📖 Read chapter 1 - 97 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:35, 07 November 2022)
 -   📖 Paused reading [Record of Ragnarok](https://anilist.co/manga/107098) (17:34, 06 November 2022)
