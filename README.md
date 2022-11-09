@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 45 of [Get Schooled](https://anilist.co/manga/128521) (04:24, 09 November 2022)
+-   📖 Read chapter 1 - 48 of [Get Schooled](https://anilist.co/manga/128521) (04:34, 09 November 2022)
 -   📖 Read chapter 1 - 97 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:35, 07 November 2022)
 -   📖 Paused reading [Record of Ragnarok](https://anilist.co/manga/107098) (17:34, 06 November 2022)
 -   📖 Read chapter 1 - 16 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (17:33, 06 November 2022)
