@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 65 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:27, 09 November 2022)
 -   📖 Read chapter 1 - 72 of [Get Schooled](https://anilist.co/manga/128521) (13:06, 09 November 2022)
 -   📖 Read chapter 16 - 26 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (09:50, 09 November 2022)
 -   📖 Read chapter 1 - 97 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:35, 07 November 2022)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 109 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 05 November 2022)
 -   📖 Read chapter 1 - 403 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:20, 05 November 2022)
 -   📖 Read chapter 1 - 70 of [She's Hopeless](https://anilist.co/manga/126944) (04:19, 05 November 2022)
--   📖 Read chapter 1 - 64 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:24, 04 November 2022)
 -   📖 Completed [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:29, 04 November 2022)
 -   📖 Read chapter 1 - 31 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:25, 04 November 2022)
 -   📖 Plans to read [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (12:44, 04 November 2022)
