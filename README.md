@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 83 of [Get Schooled](https://anilist.co/manga/128521) (20:21, 11 November 2022)
 -   📖 Read chapter 1 - 17 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (18:58, 11 November 2022)
--   📖 Read chapter 1 - 78 of [Get Schooled](https://anilist.co/manga/128521) (17:34, 11 November 2022)
 -   📖 Read chapter 16 - 28 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:36, 11 November 2022)
 -   📖 Read chapter 1 - 45 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:20, 11 November 2022)
 -   📖 Read chapter 1 - 129 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (16:52, 10 November 2022)
