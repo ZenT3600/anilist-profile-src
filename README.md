@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 28 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:36, 11 November 2022)
 -   📖 Read chapter 1 - 45 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:20, 11 November 2022)
 -   📖 Read chapter 1 - 76 of [Get Schooled](https://anilist.co/manga/128521) (17:16, 10 November 2022)
--   📖 Read chapter 16 - 27 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:00, 10 November 2022)
 -   📖 Read chapter 1 - 129 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (16:52, 10 November 2022)
 -   📖 Read chapter 1 - 110 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:00, 10 November 2022)
 -   📖 Read chapter 1 - 65 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:27, 09 November 2022)
