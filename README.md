@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 86 of [Get Schooled](https://anilist.co/manga/128521) (10:37, 12 November 2022)
+-   📖 Read chapter 1 - 90 of [Get Schooled](https://anilist.co/manga/128521) (10:55, 12 November 2022)
 -   📖 Read chapter 1 - 66 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (10:26, 12 November 2022)
 -   📖 Read chapter 1 - 71 of [She's Hopeless](https://anilist.co/manga/126944) (06:22, 12 November 2022)
 -   📖 Read chapter 1 - 111 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:17, 12 November 2022)
