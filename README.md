@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 34 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:35, 15 November 2022)
 -   📖 Read chapter 1 - 108 of [Get Schooled](https://anilist.co/manga/128521) (04:05, 14 November 2022)
 -   📖 Read chapter 1 - 406 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (14:57, 13 November 2022)
 -   📖 Read chapter 1 - 66 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (10:26, 12 November 2022)
 -   📖 Read chapter 1 - 71 of [She's Hopeless](https://anilist.co/manga/126944) (06:22, 12 November 2022)
 -   📖 Read chapter 1 - 111 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:17, 12 November 2022)
 -   📖 Read chapter 1 - 17 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (18:58, 11 November 2022)
--   📖 Read chapter 16 - 28 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:36, 11 November 2022)
 -   📖 Read chapter 1 - 45 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:20, 11 November 2022)
 -   📖 Read chapter 1 - 129 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (16:52, 10 November 2022)
 -   📖 Read chapter 1 - 97 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:35, 07 November 2022)
