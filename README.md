@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 17 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (19:31, 15 November 2022)
 -   📖 Read chapter 16 - 35 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:39, 15 November 2022)
 -   📖 Read chapter 1 - 108 of [Get Schooled](https://anilist.co/manga/128521) (04:05, 14 November 2022)
 -   📖 Read chapter 1 - 406 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (14:57, 13 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Paused reading [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (08:54, 16 October 2022)
 -   📖 Paused reading [The Coppersmith's Bride](https://anilist.co/manga/117675) (08:54, 16 October 2022)
 -   📖 Plans to read [She's Hopeless](https://anilist.co/manga/126944) (08:50, 16 October 2022)
--   📖 Read chapter 1 - 16 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:03, 15 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
