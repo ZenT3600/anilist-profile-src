@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 - 34 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:35, 15 November 2022)
+-   📖 Read chapter 16 - 35 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:39, 15 November 2022)
 -   📖 Read chapter 1 - 108 of [Get Schooled](https://anilist.co/manga/128521) (04:05, 14 November 2022)
 -   📖 Read chapter 1 - 406 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (14:57, 13 November 2022)
 -   📖 Read chapter 1 - 66 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (10:26, 12 November 2022)
