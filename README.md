@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 144 of [One Piece](https://anilist.co/manga/30013) (11:05, 16 November 2022)
 -   📖 Completed [I Married My Best Friend to Shut My Parents Up](https://anilist.co/manga/102047) (05:14, 16 November 2022)
 -   📖 Read chapter 1 - 17 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (19:31, 15 November 2022)
 -   📖 Read chapter 16 - 35 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:39, 15 November 2022)
@@ -41,7 +42,6 @@
 -   📖 Read chapter 1 - 33 of [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 62 - 313 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:50, 19 October 2022)
 -   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
--   📖 Read chapter 1 - 139 of [One Piece](https://anilist.co/manga/30013) (11:37, 18 October 2022)
 -   📖 Read chapter 1 - 89 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:07, 17 October 2022)
 -   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:59, 17 October 2022)
 -   📺 Watched episode 6 - 11 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:35, 17 October 2022)
