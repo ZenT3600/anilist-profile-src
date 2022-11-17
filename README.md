@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 130 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:21, 17 November 2022)
 -   📖 Read chapter 1 - 112 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 17 November 2022)
 -   📖 Read chapter 1 - 144 of [One Piece](https://anilist.co/manga/30013) (11:05, 16 November 2022)
 -   📖 Completed [I Married My Best Friend to Shut My Parents Up](https://anilist.co/manga/102047) (05:14, 16 November 2022)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 71 of [She's Hopeless](https://anilist.co/manga/126944) (06:22, 12 November 2022)
 -   📖 Read chapter 1 - 17 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (18:58, 11 November 2022)
 -   📖 Read chapter 1 - 45 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:20, 11 November 2022)
--   📖 Read chapter 1 - 129 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (16:52, 10 November 2022)
 -   📖 Read chapter 1 - 97 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:35, 07 November 2022)
 -   📖 Paused reading [Record of Ragnarok](https://anilist.co/manga/107098) (17:34, 06 November 2022)
 -   📖 Completed [Orange](https://anilist.co/manga/65573) (06:40, 06 November 2022)
