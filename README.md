@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 150 of [One Piece](https://anilist.co/manga/30013) (10:08, 18 November 2022)
+-   📖 Read chapter 1 - 153 of [One Piece](https://anilist.co/manga/30013) (20:32, 18 November 2022)
 -   📖 Read chapter 1 - 109 of [Get Schooled](https://anilist.co/manga/128521) (09:50, 18 November 2022)
 -   📖 Read chapter 1 - 46 of [Maybe Meant to Be](https://anilist.co/manga/146139) (08:16, 18 November 2022)
 -   📖 Read chapter 1 - 84 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:12, 18 November 2022)
