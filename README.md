@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 72 of [She's Hopeless](https://anilist.co/manga/126944) (05:11, 19 November 2022)
 -   📖 Read chapter 1 - 113 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:52, 19 November 2022)
 -   📖 Read chapter 1 - 407 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:48, 19 November 2022)
 -   📖 Read chapter 1 - 153 of [One Piece](https://anilist.co/manga/30013) (20:32, 18 November 2022)
@@ -12,7 +13,6 @@
 -   📖 Completed [I Married My Best Friend to Shut My Parents Up](https://anilist.co/manga/102047) (05:14, 16 November 2022)
 -   📖 Read chapter 1 - 17 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (19:31, 15 November 2022)
 -   📖 Read chapter 16 - 35 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:39, 15 November 2022)
--   📖 Read chapter 1 - 71 of [She's Hopeless](https://anilist.co/manga/126944) (06:22, 12 November 2022)
 -   📖 Read chapter 1 - 17 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (18:58, 11 November 2022)
 -   📖 Read chapter 1 - 97 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:35, 07 November 2022)
 -   📖 Paused reading [Record of Ragnarok](https://anilist.co/manga/107098) (17:34, 06 November 2022)
