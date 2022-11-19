@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 28 of [Citrus+](https://anilist.co/manga/103884) (14:05, 19 November 2022)
 -   📖 Read chapter 1 - 72 of [She's Hopeless](https://anilist.co/manga/126944) (05:11, 19 November 2022)
 -   📖 Read chapter 1 - 113 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:52, 19 November 2022)
 -   📖 Read chapter 1 - 407 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:48, 19 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Paused reading [Citrus+](https://anilist.co/manga/103884) (08:55, 16 October 2022)
 -   📖 Paused reading [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:54, 16 October 2022)
 -   📖 Paused reading [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (08:54, 16 October 2022)
--   📖 Paused reading [The Coppersmith's Bride](https://anilist.co/manga/117675) (08:54, 16 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
