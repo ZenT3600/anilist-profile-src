@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (18:02, 21 November 2022)
 -   📖 Read chapter 1 - 125 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (15:52, 21 November 2022)
--   📺 Watched episode 1 - 6 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (13:30, 21 November 2022)
 -   📺 Plans to watch [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (09:33, 21 November 2022)
 -   📖 Read chapter 1 - 98 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:23, 21 November 2022)
 -   📖 Read chapter 1 - 90 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:59, 20 November 2022)
