@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (10:25, 21 November 2022)
+-   📺 Watched episode 1 - 3 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (10:46, 21 November 2022)
 -   📺 Plans to watch [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (09:33, 21 November 2022)
 -   📖 Read chapter 1 - 98 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:23, 21 November 2022)
 -   📖 Read chapter 1 - 90 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:59, 20 November 2022)
