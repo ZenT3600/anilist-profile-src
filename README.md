@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 98 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:23, 21 November 2022)
 -   📖 Read chapter 1 - 90 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:59, 20 November 2022)
 -   📖 Read chapter 1 - 408 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:56, 20 November 2022)
 -   📖 Read chapter 1 - 68 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:54, 20 November 2022)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 17 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (19:31, 15 November 2022)
 -   📖 Read chapter 16 - 35 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:39, 15 November 2022)
 -   📖 Read chapter 1 - 17 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (18:58, 11 November 2022)
--   📖 Read chapter 1 - 97 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:35, 07 November 2022)
 -   📖 Paused reading [Record of Ragnarok](https://anilist.co/manga/107098) (17:34, 06 November 2022)
 -   📖 Completed [Orange](https://anilist.co/manga/65573) (06:40, 06 November 2022)
 -   📖 Completed [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
