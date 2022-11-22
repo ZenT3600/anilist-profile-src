@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (10:01, 22 November 2022)
 -   📺 Watched episode 1 - 10 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (04:26, 22 November 2022)
 -   📖 Read chapter 1 - 125 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (15:52, 21 November 2022)
 -   📺 Plans to watch [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (09:33, 21 November 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:59, 17 October 2022)
 -   📺 Watched episode 6 - 11 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:35, 17 October 2022)
 -   📺 Dropped [OniAi](https://anilist.co/anime/14199) (10:22, 17 October 2022)
--   📖 Paused reading [Citrus+](https://anilist.co/manga/103884) (08:55, 16 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
