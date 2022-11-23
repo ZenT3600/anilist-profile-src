@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (03:10, 23 November 2022)
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:33, 22 November 2022)
 -   📺 Watched episode 1 - 12 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:30, 22 November 2022)
 -   📺 Plans to watch [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (10:01, 22 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 62 - 313 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:50, 19 October 2022)
 -   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
 -   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:59, 17 October 2022)
--   📺 Watched episode 6 - 11 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:35, 17 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
