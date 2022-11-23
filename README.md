@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 69 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:06, 23 November 2022)
 -   📺 Watched episode 1 - 3 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (03:54, 23 November 2022)
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:33, 22 November 2022)
 -   📺 Watched episode 1 - 12 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:30, 22 November 2022)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 1 - 98 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:23, 21 November 2022)
 -   📖 Read chapter 1 - 90 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:59, 20 November 2022)
 -   📖 Read chapter 1 - 408 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:56, 20 November 2022)
--   📖 Read chapter 1 - 68 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:54, 20 November 2022)
 -   📖 Read chapter 1 - 28 of [Citrus+](https://anilist.co/manga/103884) (14:05, 19 November 2022)
 -   📖 Read chapter 1 - 72 of [She's Hopeless](https://anilist.co/manga/126944) (05:11, 19 November 2022)
 -   📖 Read chapter 1 - 113 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:52, 19 November 2022)
