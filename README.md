@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 131 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:02, 24 November 2022)
 -   📖 Read chapter 1 - 114 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:12, 24 November 2022)
 -   📺 Watched episode 1 - 6 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (15:51, 23 November 2022)
 -   📖 Read chapter 1 - 69 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:06, 23 November 2022)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 46 of [Maybe Meant to Be](https://anilist.co/manga/146139) (08:16, 18 November 2022)
 -   📖 Read chapter 1 - 84 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:12, 18 November 2022)
 -   📖 Read chapter 1 - 34 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:10, 18 November 2022)
--   📖 Read chapter 1 - 130 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:21, 17 November 2022)
 -   📖 Completed [I Married My Best Friend to Shut My Parents Up](https://anilist.co/manga/102047) (05:14, 16 November 2022)
 -   📖 Read chapter 1 - 17 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (19:31, 15 November 2022)
 -   📖 Read chapter 16 - 35 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:39, 15 November 2022)
