@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (10:48, 24 November 2022)
 -   📖 Read chapter 1 - 131 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:02, 24 November 2022)
 -   📖 Read chapter 1 - 114 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:12, 24 November 2022)
--   📺 Watched episode 1 - 6 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (15:51, 23 November 2022)
 -   📖 Read chapter 1 - 69 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:06, 23 November 2022)
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:33, 22 November 2022)
 -   📺 Watched episode 1 - 12 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:30, 22 November 2022)
