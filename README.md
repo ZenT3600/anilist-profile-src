@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 114 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:12, 24 November 2022)
 -   📺 Watched episode 1 - 6 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (15:51, 23 November 2022)
 -   📖 Read chapter 1 - 69 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:06, 23 November 2022)
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:33, 22 November 2022)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 408 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:56, 20 November 2022)
 -   📖 Read chapter 1 - 28 of [Citrus+](https://anilist.co/manga/103884) (14:05, 19 November 2022)
 -   📖 Read chapter 1 - 72 of [She's Hopeless](https://anilist.co/manga/126944) (05:11, 19 November 2022)
--   📖 Read chapter 1 - 113 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:52, 19 November 2022)
 -   📖 Read chapter 1 - 153 of [One Piece](https://anilist.co/manga/30013) (20:32, 18 November 2022)
 -   📖 Read chapter 1 - 109 of [Get Schooled](https://anilist.co/manga/128521) (09:50, 18 November 2022)
 -   📖 Read chapter 1 - 46 of [Maybe Meant to Be](https://anilist.co/manga/146139) (08:16, 18 November 2022)
