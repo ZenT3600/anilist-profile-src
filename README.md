@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 81 of [Solo Leveling](https://anilist.co/manga/105398) (12:11, 24 November 2022)
 -   📺 Watched episode 1 - 7 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (10:48, 24 November 2022)
 -   📖 Read chapter 1 - 131 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:02, 24 November 2022)
 -   📖 Read chapter 1 - 114 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:12, 24 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 33 of [Majime Succubus Hiiragi-san](https://anilist.co/manga/136346) (03:46, 23 October 2022)
 -   📖 Read chapter 62 - 313 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:50, 19 October 2022)
 -   📺 Watched episode 1 - 18 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (09:34, 19 October 2022)
--   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (12:59, 17 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
