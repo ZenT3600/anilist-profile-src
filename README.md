@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 47 of [Maybe Meant to Be](https://anilist.co/manga/146139) (02:55, 25 November 2022)
 -   📺 Watched episode 1 - 8 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (15:05, 24 November 2022)
 -   📖 Read chapter 1 - 81 of [Solo Leveling](https://anilist.co/manga/105398) (12:11, 24 November 2022)
 -   📖 Read chapter 1 - 131 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:02, 24 November 2022)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 72 of [She's Hopeless](https://anilist.co/manga/126944) (05:11, 19 November 2022)
 -   📖 Read chapter 1 - 153 of [One Piece](https://anilist.co/manga/30013) (20:32, 18 November 2022)
 -   📖 Read chapter 1 - 109 of [Get Schooled](https://anilist.co/manga/128521) (09:50, 18 November 2022)
--   📖 Read chapter 1 - 46 of [Maybe Meant to Be](https://anilist.co/manga/146139) (08:16, 18 November 2022)
 -   📖 Read chapter 1 - 84 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:12, 18 November 2022)
 -   📖 Read chapter 1 - 34 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:10, 18 November 2022)
 -   📖 Completed [I Married My Best Friend to Shut My Parents Up](https://anilist.co/manga/102047) (05:14, 16 November 2022)
