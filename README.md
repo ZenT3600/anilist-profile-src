@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (04:18, 25 November 2022)
 -   📖 Read chapter 1 - 223 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (03:56, 25 November 2022)
 -   📖 Read chapter 1 - 47 of [Maybe Meant to Be](https://anilist.co/manga/146139) (02:55, 25 November 2022)
--   📺 Watched episode 1 - 8 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (15:05, 24 November 2022)
 -   📖 Read chapter 1 - 81 of [Solo Leveling](https://anilist.co/manga/105398) (12:11, 24 November 2022)
 -   📖 Read chapter 1 - 131 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:02, 24 November 2022)
 -   📖 Read chapter 1 - 114 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:12, 24 November 2022)
