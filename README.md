@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 71 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:32, 27 November 2022)
 -   📖 Read chapter 1 - 410 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:19, 27 November 2022)
 -   📖 Read chapter 1 - 30 of [Sweet Home](https://anilist.co/manga/100954) (17:18, 27 November 2022)
 -   📖 Read chapter 1 - 9 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (14:14, 27 November 2022)
@@ -7,7 +8,6 @@
 -   📖 Plans to read [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:34, 26 November 2022)
 -   📖 Plans to read [The Girl with the Sanpaku Eyes](https://anilist.co/manga/103184) (13:32, 26 November 2022)
 -   📖 Read chapter 1 - 73 of [She's Hopeless](https://anilist.co/manga/126944) (07:44, 26 November 2022)
--   📖 Read chapter 1 - 70 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (07:42, 26 November 2022)
 -   📖 Read chapter 1 - 115 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:36, 26 November 2022)
 -   📖 Read chapter 1 - 154 of [One Piece](https://anilist.co/manga/30013) (03:55, 26 November 2022)
 -   📺 Completed [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:33, 25 November 2022)
