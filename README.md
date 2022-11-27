@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Sweet Home](https://anilist.co/manga/100954) (16:59, 27 November 2022)
+-   📖 Read chapter 1 - 410 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:19, 27 November 2022)
+-   📖 Read chapter 1 - 30 of [Sweet Home](https://anilist.co/manga/100954) (17:18, 27 November 2022)
 -   📖 Read chapter 1 - 9 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (14:14, 27 November 2022)
 -   📖 Plans to read [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (13:57, 26 November 2022)
 -   📖 Plans to read [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:34, 26 November 2022)
@@ -22,7 +23,6 @@
 -   📺 Plans to watch [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (09:33, 21 November 2022)
 -   📖 Read chapter 1 - 98 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:23, 21 November 2022)
 -   📖 Read chapter 1 - 90 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:59, 20 November 2022)
--   📖 Read chapter 1 - 408 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:56, 20 November 2022)
 -   📖 Read chapter 1 - 28 of [Citrus+](https://anilist.co/manga/103884) (14:05, 19 November 2022)
 -   📖 Read chapter 1 - 109 of [Get Schooled](https://anilist.co/manga/128521) (09:50, 18 November 2022)
 -   📖 Read chapter 1 - 84 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:12, 18 November 2022)
