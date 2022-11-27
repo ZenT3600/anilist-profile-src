@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (14:05, 27 November 2022)
 -   📖 Read chapter 1 - 10 of [Sweet Home](https://anilist.co/manga/100954) (09:50, 27 November 2022)
 -   📖 Plans to read [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (13:57, 26 November 2022)
 -   📖 Plans to read [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:34, 26 November 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [Gakuen Saimin Reido](https://anilist.co/anime/8293) (06:41, 29 October 2022)
 -   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
 -   📺 Completed [Aisei Tenshi Love Mary: Akusei Jutai THE ANIMATION](https://anilist.co/anime/113621) (21:28, 27 October 2022)
--   📖 Read chapter 9 - 54 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:12, 26 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
