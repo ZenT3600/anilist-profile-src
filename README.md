@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 36 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (10:15, 29 November 2022)
 -   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
 -   📖 Plans to read [I AM THE VILLAIN](https://anilist.co/manga/145498) (05:55, 29 November 2022)
 -   📖 Read chapter 1 - 33 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (04:14, 29 November 2022)
@@ -31,7 +32,6 @@
 -   📖 Read chapter 1 - 34 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:10, 18 November 2022)
 -   📖 Completed [I Married My Best Friend to Shut My Parents Up](https://anilist.co/manga/102047) (05:14, 16 November 2022)
 -   📖 Read chapter 1 - 17 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (19:31, 15 November 2022)
--   📖 Read chapter 16 - 35 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:39, 15 November 2022)
 -   📖 Read chapter 1 - 17 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (18:58, 11 November 2022)
 -   📖 Paused reading [Record of Ragnarok](https://anilist.co/manga/107098) (17:34, 06 November 2022)
 -   📖 Completed [Orange](https://anilist.co/manga/65573) (06:40, 06 November 2022)
