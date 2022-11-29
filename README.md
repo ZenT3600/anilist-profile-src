@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
 -   📖 Plans to read [I AM THE VILLAIN](https://anilist.co/manga/145498) (05:55, 29 November 2022)
 -   📖 Read chapter 1 - 33 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (04:14, 29 November 2022)
 -   📖 Read chapter 1 - 72 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:46, 29 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 35 of [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
 -   📺 Watched episode 1 - 2 of [Dragon Ball Z](https://anilist.co/anime/813) (16:42, 29 October 2022)
 -   📺 Completed [Gakuen Saimin Reido](https://anilist.co/anime/8293) (06:41, 29 October 2022)
--   📺 Watched episode 1 - 2 of [Gakuen Saimin Reido](https://anilist.co/anime/8293) (07:45, 28 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
