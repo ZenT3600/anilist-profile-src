@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 41 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:19, 30 November 2022)
 -   📖 Read chapter 1 - 38 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:49, 30 November 2022)
--   📖 Read chapter 16 - 38 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:37, 30 November 2022)
 -   📖 Read chapter 1 - 51 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (15:18, 29 November 2022)
 -   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
 -   📖 Plans to read [I AM THE VILLAIN](https://anilist.co/manga/145498) (05:55, 29 November 2022)
