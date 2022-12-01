@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 40 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (12:00, 01 December 2022)
 -   📖 Read chapter 1 - 116 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 01 December 2022)
 -   📖 Read chapter 1 - 132 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:28, 01 December 2022)
 -   📖 Read chapter 16 - 41 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:19, 30 November 2022)
--   📖 Read chapter 1 - 38 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:49, 30 November 2022)
 -   📖 Read chapter 1 - 51 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (15:18, 29 November 2022)
 -   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
 -   📖 Plans to read [I AM THE VILLAIN](https://anilist.co/manga/145498) (05:55, 29 November 2022)
