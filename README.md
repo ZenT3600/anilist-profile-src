@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 116 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 01 December 2022)
+-   📖 Read chapter 1 - 132 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:28, 01 December 2022)
 -   📖 Read chapter 16 - 41 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:19, 30 November 2022)
 -   📖 Read chapter 1 - 38 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:49, 30 November 2022)
 -   📖 Read chapter 1 - 51 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (15:18, 29 November 2022)
@@ -12,14 +14,12 @@
 -   📖 Plans to read [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:34, 26 November 2022)
 -   📖 Plans to read [The Girl with the Sanpaku Eyes](https://anilist.co/manga/103184) (13:32, 26 November 2022)
 -   📖 Read chapter 1 - 73 of [She's Hopeless](https://anilist.co/manga/126944) (07:44, 26 November 2022)
--   📖 Read chapter 1 - 115 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:36, 26 November 2022)
 -   📖 Read chapter 1 - 154 of [One Piece](https://anilist.co/manga/30013) (03:55, 26 November 2022)
 -   📺 Completed [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:33, 25 November 2022)
 -   📺 Watched episode 1 - 11 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:13, 25 November 2022)
 -   📖 Read chapter 1 - 223 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (03:56, 25 November 2022)
 -   📖 Read chapter 1 - 47 of [Maybe Meant to Be](https://anilist.co/manga/146139) (02:55, 25 November 2022)
 -   📖 Read chapter 1 - 81 of [Solo Leveling](https://anilist.co/manga/105398) (12:11, 24 November 2022)
--   📖 Read chapter 1 - 131 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:02, 24 November 2022)
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:33, 22 November 2022)
 -   📺 Watched episode 1 - 12 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:30, 22 November 2022)
 -   📺 Plans to watch [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (10:01, 22 November 2022)
