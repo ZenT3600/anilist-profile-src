@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 48 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (17:44, 01 December 2022)
+-   📖 Read chapter 1 - 50 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (10:09, 02 December 2022)
 -   📖 Read chapter 1 - 116 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 01 December 2022)
 -   📖 Read chapter 1 - 132 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:28, 01 December 2022)
 -   📖 Read chapter 16 - 41 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:19, 30 November 2022)
