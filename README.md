@@ -1,6 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 50 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (10:09, 02 December 2022)
+-   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
+-   📖 Read chapter 1 - 55 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:44, 02 December 2022)
+-   📖 Read chapter 1 - 110 of [Get Schooled](https://anilist.co/manga/128521) (19:39, 02 December 2022)
 -   📖 Read chapter 1 - 116 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 01 December 2022)
 -   📖 Read chapter 1 - 132 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:28, 01 December 2022)
 -   📖 Read chapter 16 - 41 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:19, 30 November 2022)
@@ -28,7 +30,6 @@
 -   📖 Read chapter 1 - 98 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:23, 21 November 2022)
 -   📖 Read chapter 1 - 90 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:59, 20 November 2022)
 -   📖 Read chapter 1 - 28 of [Citrus+](https://anilist.co/manga/103884) (14:05, 19 November 2022)
--   📖 Read chapter 1 - 109 of [Get Schooled](https://anilist.co/manga/128521) (09:50, 18 November 2022)
 -   📖 Read chapter 1 - 84 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:12, 18 November 2022)
 -   📖 Read chapter 1 - 34 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:10, 18 November 2022)
 -   📖 Completed [I Married My Best Friend to Shut My Parents Up](https://anilist.co/manga/102047) (05:14, 16 November 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Look Back](https://anilist.co/manga/136807) (12:40, 31 October 2022)
 -   📖 Completed [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
 -   📖 Read chapter 1 - 35 of [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
--   📺 Watched episode 1 - 2 of [Dragon Ball Z](https://anilist.co/anime/813) (16:42, 29 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
