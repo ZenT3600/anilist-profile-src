@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 73 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:47, 03 December 2022)
+-   📖 Read chapter 1 - 48 of [Maybe Meant to Be](https://anilist.co/manga/146139) (03:45, 03 December 2022)
 -   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
 -   📖 Read chapter 1 - 55 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:44, 02 December 2022)
 -   📖 Read chapter 1 - 110 of [Get Schooled](https://anilist.co/manga/128521) (19:39, 02 December 2022)
@@ -9,7 +11,6 @@
 -   📖 Read chapter 1 - 51 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (15:18, 29 November 2022)
 -   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
 -   📖 Plans to read [I AM THE VILLAIN](https://anilist.co/manga/145498) (05:55, 29 November 2022)
--   📖 Read chapter 1 - 72 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:46, 29 November 2022)
 -   📖 Read chapter 1 - 410 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:19, 27 November 2022)
 -   📖 Read chapter 1 - 30 of [Sweet Home](https://anilist.co/manga/100954) (17:18, 27 November 2022)
 -   📖 Plans to read [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (13:57, 26 November 2022)
@@ -20,7 +21,6 @@
 -   📺 Completed [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:33, 25 November 2022)
 -   📺 Watched episode 1 - 11 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:13, 25 November 2022)
 -   📖 Read chapter 1 - 223 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (03:56, 25 November 2022)
--   📖 Read chapter 1 - 47 of [Maybe Meant to Be](https://anilist.co/manga/146139) (02:55, 25 November 2022)
 -   📖 Read chapter 1 - 81 of [Solo Leveling](https://anilist.co/manga/105398) (12:11, 24 November 2022)
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:33, 22 November 2022)
 -   📺 Watched episode 1 - 12 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:30, 22 November 2022)
