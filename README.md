@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:20, 03 December 2022)
 -   📖 Read chapter 1 - 74 of [She's Hopeless](https://anilist.co/manga/126944) (10:55, 03 December 2022)
 -   📖 Read chapter 1 - 411 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:59, 03 December 2022)
 -   📖 Read chapter 1 - 73 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:47, 03 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 138 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:35, 01 November 2022)
 -   📖 Plans to read [Look Back](https://anilist.co/manga/136807) (12:40, 31 October 2022)
 -   📖 Completed [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
--   📖 Read chapter 1 - 35 of [Bonnouji](https://anilist.co/manga/58226) (13:55, 30 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
