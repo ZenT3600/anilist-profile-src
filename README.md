@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 74 of [She's Hopeless](https://anilist.co/manga/126944) (10:55, 03 December 2022)
 -   📖 Read chapter 1 - 411 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:59, 03 December 2022)
 -   📖 Read chapter 1 - 73 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:47, 03 December 2022)
 -   📖 Read chapter 1 - 48 of [Maybe Meant to Be](https://anilist.co/manga/146139) (03:45, 03 December 2022)
@@ -16,7 +17,6 @@
 -   📖 Plans to read [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (13:57, 26 November 2022)
 -   📖 Plans to read [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:34, 26 November 2022)
 -   📖 Plans to read [The Girl with the Sanpaku Eyes](https://anilist.co/manga/103184) (13:32, 26 November 2022)
--   📖 Read chapter 1 - 73 of [She's Hopeless](https://anilist.co/manga/126944) (07:44, 26 November 2022)
 -   📖 Read chapter 1 - 154 of [One Piece](https://anilist.co/manga/30013) (03:55, 26 November 2022)
 -   📺 Completed [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:33, 25 November 2022)
 -   📺 Watched episode 1 - 11 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:13, 25 November 2022)
