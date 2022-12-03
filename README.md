@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 411 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:59, 03 December 2022)
 -   📖 Read chapter 1 - 73 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:47, 03 December 2022)
 -   📖 Read chapter 1 - 48 of [Maybe Meant to Be](https://anilist.co/manga/146139) (03:45, 03 December 2022)
 -   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 51 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (15:18, 29 November 2022)
 -   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
 -   📖 Plans to read [I AM THE VILLAIN](https://anilist.co/manga/145498) (05:55, 29 November 2022)
--   📖 Read chapter 1 - 410 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:19, 27 November 2022)
 -   📖 Read chapter 1 - 30 of [Sweet Home](https://anilist.co/manga/100954) (17:18, 27 November 2022)
 -   📖 Plans to read [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (13:57, 26 November 2022)
 -   📖 Plans to read [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:34, 26 November 2022)
