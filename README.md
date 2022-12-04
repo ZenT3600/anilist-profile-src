@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 412 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:58, 04 December 2022)
 -   📖 Read chapter 3 - 4 of [Night of the Living Cat](https://anilist.co/manga/124767) (15:57, 03 December 2022)
 -   📖 Read chapter 1 - 24 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:38, 03 December 2022)
 -   📖 Read chapter 62 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:20, 03 December 2022)
 -   📖 Read chapter 1 - 74 of [She's Hopeless](https://anilist.co/manga/126944) (10:55, 03 December 2022)
--   📖 Read chapter 1 - 411 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:59, 03 December 2022)
 -   📖 Read chapter 1 - 73 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:47, 03 December 2022)
 -   📖 Read chapter 1 - 48 of [Maybe Meant to Be](https://anilist.co/manga/146139) (03:45, 03 December 2022)
 -   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
