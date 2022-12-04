@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [My Alcoholic Escape from Reality](https://anilist.co/manga/113168) (14:45, 04 December 2022)
 -   📖 Read chapter 1 - 412 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:58, 04 December 2022)
 -   📖 Read chapter 3 - 4 of [Night of the Living Cat](https://anilist.co/manga/124767) (15:57, 03 December 2022)
 -   📖 Read chapter 1 - 24 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:38, 03 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:39, 01 November 2022)
 -   📖 Read chapter 1 - 36 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:35, 01 November 2022)
 -   📖 Completed [Look Back](https://anilist.co/manga/136807) (08:13, 01 November 2022)
--   📖 Read chapter 1 - 138 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:35, 01 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
