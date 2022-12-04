@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 42 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:34, 04 December 2022)
 -   📖 Completed [My Alcoholic Escape from Reality](https://anilist.co/manga/113168) (14:45, 04 December 2022)
 -   📖 Read chapter 1 - 412 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:58, 04 December 2022)
 -   📖 Read chapter 3 - 4 of [Night of the Living Cat](https://anilist.co/manga/124767) (15:57, 03 December 2022)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 110 of [Get Schooled](https://anilist.co/manga/128521) (19:39, 02 December 2022)
 -   📖 Read chapter 1 - 116 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 01 December 2022)
 -   📖 Read chapter 1 - 132 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:28, 01 December 2022)
--   📖 Read chapter 16 - 41 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:19, 30 November 2022)
 -   📖 Read chapter 1 - 51 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (15:18, 29 November 2022)
 -   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
 -   📖 Plans to read [I AM THE VILLAIN](https://anilist.co/manga/145498) (05:55, 29 November 2022)
