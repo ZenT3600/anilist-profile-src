@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 99 of [Love’s in Sight!](https://anilist.co/manga/107445) (10:45, 05 December 2022)
 -   📖 Read chapter 16 - 42 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:34, 04 December 2022)
 -   📖 Completed [My Alcoholic Escape from Reality](https://anilist.co/manga/113168) (14:45, 04 December 2022)
 -   📖 Read chapter 1 - 412 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:58, 04 December 2022)
@@ -31,7 +32,6 @@
 -   📺 Plans to watch [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (10:01, 22 November 2022)
 -   📖 Read chapter 1 - 125 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (15:52, 21 November 2022)
 -   📺 Plans to watch [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (09:33, 21 November 2022)
--   📖 Read chapter 1 - 98 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:23, 21 November 2022)
 -   📖 Read chapter 1 - 90 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:59, 20 November 2022)
 -   📖 Read chapter 1 - 28 of [Citrus+](https://anilist.co/manga/103884) (14:05, 19 November 2022)
 -   📖 Read chapter 1 - 84 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:12, 18 November 2022)
