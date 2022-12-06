@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [My Wandering Warrior Existence](https://anilist.co/manga/117073) (15:25, 06 December 2022)
 -   📖 Read chapter 1 - 126 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (13:53, 06 December 2022)
 -   📖 Read chapter 1 - 74 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:58, 06 December 2022)
 -   📖 Read chapter 1 - 99 of [Love’s in Sight!](https://anilist.co/manga/107445) (10:45, 05 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 49 of [Call of the Night](https://anilist.co/manga/111233) (13:02, 02 November 2022)
 -   📖 Completed [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:39, 01 November 2022)
 -   📖 Read chapter 1 - 36 of [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:35, 01 November 2022)
--   📖 Completed [Look Back](https://anilist.co/manga/136807) (08:13, 01 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
