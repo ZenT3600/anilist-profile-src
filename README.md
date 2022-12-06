@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 74 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:58, 06 December 2022)
 -   📖 Read chapter 1 - 99 of [Love’s in Sight!](https://anilist.co/manga/107445) (10:45, 05 December 2022)
 -   📖 Read chapter 16 - 42 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:34, 04 December 2022)
 -   📖 Completed [My Alcoholic Escape from Reality](https://anilist.co/manga/113168) (14:45, 04 December 2022)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 24 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:38, 03 December 2022)
 -   📖 Read chapter 62 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:20, 03 December 2022)
 -   📖 Read chapter 1 - 74 of [She's Hopeless](https://anilist.co/manga/126944) (10:55, 03 December 2022)
--   📖 Read chapter 1 - 73 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (03:47, 03 December 2022)
 -   📖 Read chapter 1 - 48 of [Maybe Meant to Be](https://anilist.co/manga/146139) (03:45, 03 December 2022)
 -   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
 -   📖 Read chapter 1 - 55 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:44, 02 December 2022)
