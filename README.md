@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [My Wandering Warrior Existence](https://anilist.co/manga/117073) (16:33, 07 December 2022)
 -   📺 Watched episode 1 of [Rosario + Vampire](https://anilist.co/anime/2993) (14:47, 07 December 2022)
 -   📺 Plans to watch [Rosario + Vampire](https://anilist.co/anime/2993) (11:38, 07 December 2022)
 -   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:44, 07 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Get Schooled](https://anilist.co/manga/128521) (13:08, 05 November 2022)
 -   📖 Completed [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:29, 04 November 2022)
 -   📖 Read chapter 1 - 31 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:25, 04 November 2022)
--   📖 Plans to read [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (12:44, 04 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
