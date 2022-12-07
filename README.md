@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Rosario + Vampire](https://anilist.co/anime/2993) (11:38, 07 December 2022)
 -   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:44, 07 December 2022)
 -   📖 Plans to read [My Wandering Warrior Existence](https://anilist.co/manga/117073) (15:25, 06 December 2022)
 -   📖 Read chapter 1 - 126 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (13:53, 06 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 31 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:25, 04 November 2022)
 -   📖 Plans to read [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (12:44, 04 November 2022)
 -   📖 Read chapter 1 - 49 of [Call of the Night](https://anilist.co/manga/111233) (13:02, 02 November 2022)
--   📖 Completed [Fudatsuki no Kyouko-chan](https://anilist.co/manga/85915) (21:39, 01 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
