@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (07:03, 08 December 2022)
 -   📖 Read chapter 1 - 75 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:51, 08 December 2022)
 -   📖 Plans to read [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (17:23, 07 December 2022)
 -   📖 Completed [My Wandering Warrior Existence](https://anilist.co/manga/117073) (16:33, 07 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [Orange](https://anilist.co/manga/65573) (06:40, 06 November 2022)
 -   📖 Completed [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
 -   📖 Plans to read [Get Schooled](https://anilist.co/manga/128521) (13:08, 05 November 2022)
--   📖 Completed [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (18:29, 04 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
