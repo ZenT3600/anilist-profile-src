@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 75 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:51, 08 December 2022)
 -   📖 Plans to read [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (17:23, 07 December 2022)
 -   📖 Completed [My Wandering Warrior Existence](https://anilist.co/manga/117073) (16:33, 07 December 2022)
 -   📺 Watched episode 1 of [Rosario + Vampire](https://anilist.co/anime/2993) (14:47, 07 December 2022)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:44, 07 December 2022)
 -   📖 Plans to read [My Wandering Warrior Existence](https://anilist.co/manga/117073) (15:25, 06 December 2022)
 -   📖 Read chapter 1 - 126 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (13:53, 06 December 2022)
--   📖 Read chapter 1 - 74 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:58, 06 December 2022)
 -   📖 Read chapter 1 - 99 of [Love’s in Sight!](https://anilist.co/manga/107445) (10:45, 05 December 2022)
 -   📖 Read chapter 16 - 42 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:34, 04 December 2022)
 -   📖 Completed [My Alcoholic Escape from Reality](https://anilist.co/manga/113168) (14:45, 04 December 2022)
