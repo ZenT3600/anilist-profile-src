@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Rosario + Vampire](https://anilist.co/anime/2993) (15:37, 08 December 2022)
 -   📖 Read chapter 1 - 133 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:24, 08 December 2022)
 -   📖 Read chapter 1 - 118 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:21, 08 December 2022)
 -   📖 Completed [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (07:03, 08 December 2022)
 -   📖 Read chapter 1 - 75 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:51, 08 December 2022)
 -   📖 Plans to read [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (17:23, 07 December 2022)
 -   📖 Completed [My Wandering Warrior Existence](https://anilist.co/manga/117073) (16:33, 07 December 2022)
--   📺 Watched episode 1 of [Rosario + Vampire](https://anilist.co/anime/2993) (14:47, 07 December 2022)
 -   📺 Plans to watch [Rosario + Vampire](https://anilist.co/anime/2993) (11:38, 07 December 2022)
 -   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:44, 07 December 2022)
 -   📖 Plans to read [My Wandering Warrior Existence](https://anilist.co/manga/117073) (15:25, 06 December 2022)
