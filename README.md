@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/manga/152404) (06:58, 10 December 2022)
 -   📖 Read chapter 1 - 49 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:33, 09 December 2022)
 -   📺 Watched episode 1 - 2 of [Rosario + Vampire](https://anilist.co/anime/2993) (15:37, 08 December 2022)
 -   📖 Read chapter 1 - 133 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:24, 08 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Paused reading [Record of Ragnarok](https://anilist.co/manga/107098) (17:34, 06 November 2022)
 -   📖 Completed [Orange](https://anilist.co/manga/65573) (06:40, 06 November 2022)
 -   📖 Completed [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (15:30, 05 November 2022)
--   📖 Plans to read [Get Schooled](https://anilist.co/manga/128521) (13:08, 05 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
