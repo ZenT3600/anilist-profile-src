@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:06, 11 December 2022)
 -   📺 Plans to watch [Shinobi no Ittoki](https://anilist.co/anime/145604) (18:02, 10 December 2022)
 -   📖 Plans to read [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:30, 10 December 2022)
 -   📖 Read chapter 1 - 19 of [Last Word of the World](https://anilist.co/manga/120692) (09:01, 10 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 34 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:10, 18 November 2022)
 -   📖 Completed [I Married My Best Friend to Shut My Parents Up](https://anilist.co/manga/102047) (05:14, 16 November 2022)
 -   📖 Read chapter 1 - 17 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (19:31, 15 November 2022)
--   📖 Read chapter 1 - 17 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (18:58, 11 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
