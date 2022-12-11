@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 6 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:06, 11 December 2022)
+-   📖 Read chapter 1 - 8 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:13, 11 December 2022)
 -   📺 Plans to watch [Shinobi no Ittoki](https://anilist.co/anime/145604) (18:02, 10 December 2022)
 -   📖 Plans to read [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:30, 10 December 2022)
 -   📖 Read chapter 1 - 19 of [Last Word of the World](https://anilist.co/manga/120692) (09:01, 10 December 2022)
