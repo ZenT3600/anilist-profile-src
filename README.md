@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [My Solo Exchange Diary](https://anilist.co/manga/99140) (18:42, 13 December 2022)
 -   📖 Read chapter 1 - 119 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:04, 13 December 2022)
 -   📖 Read chapter 1 - 127 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:01, 13 December 2022)
 -   📖 Read chapter 1 - 413 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:00, 13 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 84 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:12, 18 November 2022)
 -   📖 Read chapter 1 - 34 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:10, 18 November 2022)
 -   📖 Completed [I Married My Best Friend to Shut My Parents Up](https://anilist.co/manga/102047) (05:14, 16 November 2022)
--   📖 Read chapter 1 - 17 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (19:31, 15 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
