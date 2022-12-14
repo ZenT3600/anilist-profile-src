@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 54 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:40, 14 December 2022)
 -   📖 Read chapter 1 - 10 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (11:55, 14 December 2022)
 -   📖 Plans to read [My Solo Exchange Diary](https://anilist.co/manga/99140) (18:42, 13 December 2022)
 -   📖 Read chapter 1 - 119 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:04, 13 December 2022)
 -   📖 Read chapter 1 - 127 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:01, 13 December 2022)
 -   📖 Read chapter 1 - 413 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:00, 13 December 2022)
 -   📖 Read chapter 1 - 76 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (17:57, 13 December 2022)
--   📖 Read chapter 1 - 52 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:26, 13 December 2022)
 -   📖 Read chapter 1 - 52 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (09:08, 12 December 2022)
 -   📺 Plans to watch [Shinobi no Ittoki](https://anilist.co/anime/145604) (18:02, 10 December 2022)
 -   📖 Plans to read [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:30, 10 December 2022)
