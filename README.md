@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 77 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:32, 16 December 2022)
 -   📖 Read chapter 1 - 78 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:59, 16 December 2022)
--   📖 Read chapter 1 - 76 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:06, 16 December 2022)
 -   📖 Read chapter 1 - 50 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:28, 16 December 2022)
 -   📖 Read chapter 1 - 120 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:18, 15 December 2022)
 -   📖 Read chapter 1 - 10 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (11:55, 14 December 2022)
