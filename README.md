@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 50 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:28, 16 December 2022)
 -   📖 Read chapter 1 - 63 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (21:10, 15 December 2022)
 -   📖 Read chapter 1 - 120 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:18, 15 December 2022)
 -   📖 Read chapter 1 - 77 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:40, 15 December 2022)
@@ -12,7 +13,6 @@
 -   📖 Plans to read [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:30, 10 December 2022)
 -   📖 Read chapter 1 - 19 of [Last Word of the World](https://anilist.co/manga/120692) (09:01, 10 December 2022)
 -   📖 Plans to read [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/manga/152404) (06:58, 10 December 2022)
--   📖 Read chapter 1 - 49 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:33, 09 December 2022)
 -   📺 Watched episode 1 - 2 of [Rosario + Vampire](https://anilist.co/anime/2993) (15:37, 08 December 2022)
 -   📖 Read chapter 1 - 133 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:24, 08 December 2022)
 -   📖 Completed [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (07:03, 08 December 2022)
