@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 75 of [She's Hopeless](https://anilist.co/manga/126944) (03:59, 17 December 2022)
+-   📖 Read chapter 1 - 76 of [She's Hopeless](https://anilist.co/manga/126944) (04:57, 17 December 2022)
 -   📖 Read chapter 1 - 77 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:32, 16 December 2022)
 -   📖 Read chapter 1 - 78 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:59, 16 December 2022)
 -   📖 Read chapter 1 - 50 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:28, 16 December 2022)
