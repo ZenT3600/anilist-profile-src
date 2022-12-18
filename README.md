@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 30 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (15:29, 18 December 2022)
 -   📖 Read chapter 1 - 92 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (10:27, 18 December 2022)
 -   📖 Plans to read [Midnight Blue](https://anilist.co/manga/114394) (06:26, 18 December 2022)
--   📖 Read chapter 1 - 29 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (20:08, 17 December 2022)
 -   📖 Read chapter 16 - 43 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (16:53, 17 December 2022)
 -   📖 Plans to read [Kagen no Tsuki](https://anilist.co/manga/31267) (11:13, 17 December 2022)
 -   📖 Read chapter 1 - 76 of [She's Hopeless](https://anilist.co/manga/126944) (04:57, 17 December 2022)
