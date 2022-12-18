@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Midnight Blue](https://anilist.co/manga/114394) (06:26, 18 December 2022)
 -   📖 Read chapter 1 - 84 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (05:26, 18 December 2022)
 -   📖 Read chapter 1 - 29 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (20:08, 17 December 2022)
 -   📖 Read chapter 16 - 43 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (16:53, 17 December 2022)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (10:01, 22 November 2022)
 -   📺 Plans to watch [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (09:33, 21 November 2022)
 -   📖 Read chapter 1 - 90 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:59, 20 November 2022)
--   📖 Read chapter 1 - 28 of [Citrus+](https://anilist.co/manga/103884) (14:05, 19 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
