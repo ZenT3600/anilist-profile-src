@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 79 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:01, 19 December 2022)
 -   📖 Read chapter 1 - 36 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (15:50, 18 December 2022)
 -   📖 Read chapter 1 - 92 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (10:27, 18 December 2022)
 -   📖 Plans to read [Midnight Blue](https://anilist.co/manga/114394) (06:26, 18 December 2022)
 -   📖 Read chapter 16 - 43 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (16:53, 17 December 2022)
 -   📖 Plans to read [Kagen no Tsuki](https://anilist.co/manga/31267) (11:13, 17 December 2022)
 -   📖 Read chapter 1 - 76 of [She's Hopeless](https://anilist.co/manga/126944) (04:57, 17 December 2022)
--   📖 Read chapter 1 - 78 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:59, 16 December 2022)
 -   📖 Read chapter 1 - 50 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:28, 16 December 2022)
 -   📖 Read chapter 1 - 120 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:18, 15 December 2022)
 -   📖 Read chapter 1 - 10 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (11:55, 14 December 2022)
