@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 95 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (14:33, 20 December 2022)
+-   📖 Read chapter 1 - 98 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (14:43, 20 December 2022)
 -   📖 Read chapter 1 - 416 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:04, 20 December 2022)
 -   📖 Read chapter 1 - 79 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:01, 19 December 2022)
 -   📖 Read chapter 1 - 36 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (15:50, 18 December 2022)
