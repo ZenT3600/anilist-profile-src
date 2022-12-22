@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 32 of [Girls' Last Tour](https://anilist.co/manga/85412) (05:43, 22 December 2022)
 -   📖 Read chapter 1 - 105 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (10:41, 21 December 2022)
 -   📖 Read chapter 1 - 18 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:52, 20 December 2022)
 -   📖 Read chapter 1 - 416 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:04, 20 December 2022)
@@ -30,7 +31,6 @@
 -   📖 Read chapter 1 - 99 of [Love’s in Sight!](https://anilist.co/manga/107445) (10:45, 05 December 2022)
 -   📖 Completed [My Alcoholic Escape from Reality](https://anilist.co/manga/113168) (14:45, 04 December 2022)
 -   📖 Read chapter 3 - 4 of [Night of the Living Cat](https://anilist.co/manga/124767) (15:57, 03 December 2022)
--   📖 Read chapter 1 - 24 of [Girls' Last Tour](https://anilist.co/manga/85412) (15:38, 03 December 2022)
 -   📖 Read chapter 62 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:20, 03 December 2022)
 -   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
 -   📖 Read chapter 1 - 55 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:44, 02 December 2022)
