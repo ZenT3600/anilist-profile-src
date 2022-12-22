@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [My Solo Exchange Diary](https://anilist.co/manga/99140) (16:04, 22 December 2022)
 -   📖 Read chapter 1 - 12 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (15:15, 22 December 2022)
 -   📖 Read chapter 1 - 44 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (10:58, 22 December 2022)
 -   📖 Read chapter 1 - 32 of [Girls' Last Tour](https://anilist.co/manga/85412) (05:43, 22 December 2022)
@@ -49,6 +50,5 @@
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:33, 22 November 2022)
 -   📺 Watched episode 1 - 12 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:30, 22 November 2022)
 -   📺 Plans to watch [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (10:01, 22 November 2022)
--   📺 Plans to watch [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (09:33, 21 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
