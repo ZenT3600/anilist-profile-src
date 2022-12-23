@@ -1,5 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 134 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:59, 23 December 2022)
+-   📖 Read chapter 1 - 91 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:56, 23 December 2022)
+-   📖 Read chapter 1 - 122 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:52, 23 December 2022)
+-   📖 Read chapter 1 - 29 of [Citrus+](https://anilist.co/manga/103884) (09:44, 23 December 2022)
 -   📖 Read chapter 1 - 51 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:24, 23 December 2022)
 -   📖 Read chapter 1 - 80 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (17:51, 22 December 2022)
 -   📖 Completed [My Solo Exchange Diary](https://anilist.co/manga/99140) (16:04, 22 December 2022)
@@ -13,7 +17,6 @@
 -   📖 Read chapter 16 - 43 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (16:53, 17 December 2022)
 -   📖 Plans to read [Kagen no Tsuki](https://anilist.co/manga/31267) (11:13, 17 December 2022)
 -   📖 Read chapter 1 - 76 of [She's Hopeless](https://anilist.co/manga/126944) (04:57, 17 December 2022)
--   📖 Read chapter 1 - 120 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:18, 15 December 2022)
 -   📖 Plans to read [My Solo Exchange Diary](https://anilist.co/manga/99140) (18:42, 13 December 2022)
 -   📖 Read chapter 1 - 127 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:01, 13 December 2022)
 -   📖 Read chapter 1 - 52 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (09:08, 12 December 2022)
@@ -22,7 +25,6 @@
 -   📖 Read chapter 1 - 19 of [Last Word of the World](https://anilist.co/manga/120692) (09:01, 10 December 2022)
 -   📖 Plans to read [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/manga/152404) (06:58, 10 December 2022)
 -   📺 Watched episode 1 - 2 of [Rosario + Vampire](https://anilist.co/anime/2993) (15:37, 08 December 2022)
--   📖 Read chapter 1 - 133 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:24, 08 December 2022)
 -   📖 Completed [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (07:03, 08 December 2022)
 -   📖 Plans to read [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (17:23, 07 December 2022)
 -   📖 Completed [My Wandering Warrior Existence](https://anilist.co/manga/117073) (16:33, 07 December 2022)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 223 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (03:56, 25 November 2022)
 -   📖 Read chapter 1 - 81 of [Solo Leveling](https://anilist.co/manga/105398) (12:11, 24 November 2022)
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:33, 22 November 2022)
--   📺 Watched episode 1 - 12 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:30, 22 November 2022)
--   📺 Plans to watch [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (10:01, 22 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
