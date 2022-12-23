@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 24 of [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:08, 23 December 2022)
+-   📖 Read chapter 1 - 26 of [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:09, 23 December 2022)
 -   📖 Read chapter 1 - 134 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:59, 23 December 2022)
 -   📖 Read chapter 1 - 91 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:56, 23 December 2022)
 -   📖 Read chapter 1 - 122 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:52, 23 December 2022)
