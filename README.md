@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 51 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:24, 23 December 2022)
 -   📖 Read chapter 1 - 80 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (17:51, 22 December 2022)
 -   📖 Completed [My Solo Exchange Diary](https://anilist.co/manga/99140) (16:04, 22 December 2022)
 -   📖 Read chapter 1 - 12 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (15:15, 22 December 2022)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 16 - 43 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (16:53, 17 December 2022)
 -   📖 Plans to read [Kagen no Tsuki](https://anilist.co/manga/31267) (11:13, 17 December 2022)
 -   📖 Read chapter 1 - 76 of [She's Hopeless](https://anilist.co/manga/126944) (04:57, 17 December 2022)
--   📖 Read chapter 1 - 50 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:28, 16 December 2022)
 -   📖 Read chapter 1 - 120 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:18, 15 December 2022)
 -   📖 Plans to read [My Solo Exchange Diary](https://anilist.co/manga/99140) (18:42, 13 December 2022)
 -   📖 Read chapter 1 - 127 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:01, 13 December 2022)
