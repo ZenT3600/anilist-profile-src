@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 77 of [She's Hopeless](https://anilist.co/manga/126944) (16:29, 24 December 2022)
 -   📖 Read chapter 1 - 81 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:13, 24 December 2022)
 -   📖 Read chapter 1 - 26 of [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:09, 23 December 2022)
 -   📖 Read chapter 1 - 134 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:59, 23 December 2022)
@@ -17,7 +18,6 @@
 -   📖 Plans to read [Midnight Blue](https://anilist.co/manga/114394) (06:26, 18 December 2022)
 -   📖 Read chapter 16 - 43 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (16:53, 17 December 2022)
 -   📖 Plans to read [Kagen no Tsuki](https://anilist.co/manga/31267) (11:13, 17 December 2022)
--   📖 Read chapter 1 - 76 of [She's Hopeless](https://anilist.co/manga/126944) (04:57, 17 December 2022)
 -   📖 Plans to read [My Solo Exchange Diary](https://anilist.co/manga/99140) (18:42, 13 December 2022)
 -   📖 Read chapter 1 - 127 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:01, 13 December 2022)
 -   📖 Read chapter 1 - 52 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (09:08, 12 December 2022)
