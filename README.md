@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:01, 24 December 2022)
+-   📖 Read chapter 28 - 42 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (18:00, 24 December 2022)
 -   📖 Read chapter 1 - 77 of [She's Hopeless](https://anilist.co/manga/126944) (16:29, 24 December 2022)
 -   📖 Read chapter 1 - 81 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:13, 24 December 2022)
 -   📖 Read chapter 1 - 26 of [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:09, 23 December 2022)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 154 of [One Piece](https://anilist.co/manga/30013) (03:55, 26 November 2022)
 -   📺 Completed [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:33, 25 November 2022)
 -   📺 Watched episode 1 - 11 of [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:13, 25 November 2022)
--   📖 Read chapter 1 - 223 of [SQ: Begin W/Your Name!](https://anilist.co/manga/85734) (03:56, 25 November 2022)
--   📖 Read chapter 1 - 81 of [Solo Leveling](https://anilist.co/manga/105398) (12:11, 24 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
