@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 82 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:02, 25 December 2022)
 -   📖 Paused reading [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:01, 24 December 2022)
 -   📖 Read chapter 28 - 42 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (18:00, 24 December 2022)
 -   📖 Read chapter 1 - 77 of [She's Hopeless](https://anilist.co/manga/126944) (16:29, 24 December 2022)
--   📖 Read chapter 1 - 81 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:13, 24 December 2022)
 -   📖 Read chapter 1 - 26 of [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:09, 23 December 2022)
 -   📖 Read chapter 1 - 134 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:59, 23 December 2022)
 -   📖 Read chapter 1 - 91 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:56, 23 December 2022)
