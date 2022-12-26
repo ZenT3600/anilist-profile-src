@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136510) (15:59, 26 December 2022)
 -   📖 Read chapter 2 of [Classroom of the Elite](https://anilist.co/manga/94970) (10:05, 26 December 2022)
 -   📖 Plans to read [Classroom of the Elite](https://anilist.co/manga/94970) (09:14, 26 December 2022)
 -   📖 Read chapter 1 - 82 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:02, 25 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (13:57, 26 November 2022)
 -   📖 Plans to read [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:34, 26 November 2022)
 -   📖 Plans to read [The Girl with the Sanpaku Eyes](https://anilist.co/manga/103184) (13:32, 26 November 2022)
--   📖 Read chapter 1 - 154 of [One Piece](https://anilist.co/manga/30013) (03:55, 26 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
