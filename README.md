@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 of [Classroom of the Elite](https://anilist.co/manga/94970) (10:05, 26 December 2022)
 -   📖 Plans to read [Classroom of the Elite](https://anilist.co/manga/94970) (09:14, 26 December 2022)
 -   📖 Read chapter 1 - 82 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:02, 25 December 2022)
 -   📖 Paused reading [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:01, 24 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:34, 26 November 2022)
 -   📖 Plans to read [The Girl with the Sanpaku Eyes](https://anilist.co/manga/103184) (13:32, 26 November 2022)
 -   📖 Read chapter 1 - 154 of [One Piece](https://anilist.co/manga/30013) (03:55, 26 November 2022)
--   📺 Completed [The Ambition of Oda Nobuna](https://anilist.co/anime/11933) (16:33, 25 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
