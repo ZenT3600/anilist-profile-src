@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 7 of [Classroom of the Elite](https://anilist.co/manga/94970) (05:46, 27 December 2022)
+-   📖 Read chapter 2 - 8 of [Classroom of the Elite](https://anilist.co/manga/94970) (09:53, 27 December 2022)
 -   📖 Plans to read [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (16:37, 26 December 2022)
 -   📖 Plans to read [Classroom of the Elite](https://anilist.co/manga/94970) (09:14, 26 December 2022)
 -   📖 Read chapter 1 - 82 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:02, 25 December 2022)
