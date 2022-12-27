@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 49 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (18:55, 27 December 2022)
 -   📖 Read chapter 2 - 8 of [Classroom of the Elite](https://anilist.co/manga/94970) (09:53, 27 December 2022)
 -   📖 Plans to read [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (16:37, 26 December 2022)
 -   📖 Plans to read [Classroom of the Elite](https://anilist.co/manga/94970) (09:14, 26 December 2022)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 51 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:24, 23 December 2022)
 -   📖 Completed [My Solo Exchange Diary](https://anilist.co/manga/99140) (16:04, 22 December 2022)
 -   📖 Read chapter 1 - 12 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (15:15, 22 December 2022)
--   📖 Read chapter 1 - 44 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (10:58, 22 December 2022)
 -   📖 Read chapter 1 - 32 of [Girls' Last Tour](https://anilist.co/manga/85412) (05:43, 22 December 2022)
 -   📖 Read chapter 1 - 105 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (10:41, 21 December 2022)
 -   📖 Read chapter 1 - 18 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:52, 20 December 2022)
