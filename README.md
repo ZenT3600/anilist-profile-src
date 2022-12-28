@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (13:29, 28 December 2022)
 -   📖 Read chapter 2 - 12 of [Classroom of the Elite](https://anilist.co/manga/94970) (08:28, 28 December 2022)
 -   📖 Read chapter 1 - 83 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:19, 28 December 2022)
 -   📖 Read chapter 1 - 49 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (18:55, 27 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 30 of [Sweet Home](https://anilist.co/manga/100954) (17:18, 27 November 2022)
 -   📖 Plans to read [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (13:57, 26 November 2022)
 -   📖 Plans to read [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (13:34, 26 November 2022)
--   📖 Plans to read [The Girl with the Sanpaku Eyes](https://anilist.co/manga/103184) (13:32, 26 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
