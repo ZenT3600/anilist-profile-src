@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Saimin Seishidou](https://anilist.co/anime/104451) (14:31, 29 December 2022)
+-   📺 Plans to watch [Saimin Seishidou](https://anilist.co/anime/104451) (14:16, 29 December 2022)
 -   📖 Read chapter 1 - 140 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (08:58, 29 December 2022)
 -   📖 Read chapter 1 - 2 of [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (13:29, 28 December 2022)
 -   📖 Read chapter 2 - 12 of [Classroom of the Elite](https://anilist.co/manga/94970) (08:28, 28 December 2022)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 110 of [Get Schooled](https://anilist.co/manga/128521) (19:39, 02 December 2022)
 -   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
 -   📖 Plans to read [I AM THE VILLAIN](https://anilist.co/manga/145498) (05:55, 29 November 2022)
--   📖 Read chapter 1 - 30 of [Sweet Home](https://anilist.co/manga/100954) (17:18, 27 November 2022)
--   📖 Plans to read [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (13:57, 26 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
