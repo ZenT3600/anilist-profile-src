@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 52 of [Maybe Meant to Be](https://anilist.co/manga/146139) (18:08, 29 December 2022)
 -   📺 Watched episode 1 - 3 of [Saimin Seishidou](https://anilist.co/anime/104451) (17:08, 29 December 2022)
 -   📺 Plans to watch [Saimin Seishidou](https://anilist.co/anime/104451) (14:16, 29 December 2022)
 -   📖 Read chapter 1 - 140 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (08:58, 29 December 2022)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 91 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:56, 23 December 2022)
 -   📖 Read chapter 1 - 122 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:52, 23 December 2022)
 -   📖 Read chapter 1 - 29 of [Citrus+](https://anilist.co/manga/103884) (09:44, 23 December 2022)
--   📖 Read chapter 1 - 51 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:24, 23 December 2022)
 -   📖 Completed [My Solo Exchange Diary](https://anilist.co/manga/99140) (16:04, 22 December 2022)
 -   📖 Read chapter 1 - 12 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (15:15, 22 December 2022)
 -   📖 Read chapter 1 - 32 of [Girls' Last Tour](https://anilist.co/manga/85412) (05:43, 22 December 2022)
