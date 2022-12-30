@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Saimin Seishidou](https://anilist.co/anime/104451) (13:05, 30 December 2022)
 -   📖 Read chapter 1 - 52 of [Maybe Meant to Be](https://anilist.co/manga/146139) (18:08, 29 December 2022)
--   📺 Watched episode 1 - 3 of [Saimin Seishidou](https://anilist.co/anime/104451) (17:08, 29 December 2022)
 -   📺 Plans to watch [Saimin Seishidou](https://anilist.co/anime/104451) (14:16, 29 December 2022)
 -   📖 Read chapter 1 - 140 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (08:58, 29 December 2022)
 -   📖 Read chapter 1 - 2 of [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (13:29, 28 December 2022)
