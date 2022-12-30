@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Saimin Seishidou](https://anilist.co/anime/104451) (13:19, 30 December 2022)
 -   📺 Watched episode 1 - 5 of [Saimin Seishidou](https://anilist.co/anime/104451) (13:05, 30 December 2022)
 -   📖 Read chapter 1 - 52 of [Maybe Meant to Be](https://anilist.co/manga/146139) (18:08, 29 December 2022)
 -   📺 Plans to watch [Saimin Seishidou](https://anilist.co/anime/104451) (14:16, 29 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 55 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:44, 02 December 2022)
 -   📖 Read chapter 1 - 110 of [Get Schooled](https://anilist.co/manga/128521) (19:39, 02 December 2022)
 -   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
--   📖 Plans to read [I AM THE VILLAIN](https://anilist.co/manga/145498) (05:55, 29 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
