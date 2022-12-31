@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 418 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (22:24, 31 December 2022)
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📖 Read chapter 1 - 51 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
--   📖 Read chapter 1 - 417 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:56, 31 December 2022)
 -   📖 Read chapter 1 - 35 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:00, 31 December 2022)
 -   📖 Read chapter 1 - 125 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:58, 31 December 2022)
 -   📖 Read chapter 1 - 78 of [She's Hopeless](https://anilist.co/manga/126944) (05:13, 31 December 2022)
