@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 43 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:32, 31 December 2022)
+-   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
+-   📖 Read chapter 1 - 51 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📖 Read chapter 1 - 417 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:56, 31 December 2022)
 -   📖 Read chapter 1 - 35 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:00, 31 December 2022)
 -   📖 Read chapter 1 - 125 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:58, 31 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 3 - 4 of [Night of the Living Cat](https://anilist.co/manga/124767) (15:57, 03 December 2022)
 -   📖 Read chapter 62 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:20, 03 December 2022)
 -   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
--   📖 Read chapter 1 - 55 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:44, 02 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
