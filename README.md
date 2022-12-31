@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 35 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:00, 31 December 2022)
+-   📖 Read chapter 1 - 125 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:58, 31 December 2022)
 -   📖 Read chapter 1 - 78 of [She's Hopeless](https://anilist.co/manga/126944) (05:13, 31 December 2022)
 -   📺 Completed [Saimin Seishidou](https://anilist.co/anime/104451) (13:19, 30 December 2022)
 -   📺 Watched episode 1 - 5 of [Saimin Seishidou](https://anilist.co/anime/104451) (13:05, 30 December 2022)
@@ -17,7 +19,6 @@
 -   📖 Read chapter 1 - 26 of [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:09, 23 December 2022)
 -   📖 Read chapter 1 - 134 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:59, 23 December 2022)
 -   📖 Read chapter 1 - 91 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:56, 23 December 2022)
--   📖 Read chapter 1 - 122 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:52, 23 December 2022)
 -   📖 Read chapter 1 - 29 of [Citrus+](https://anilist.co/manga/103884) (09:44, 23 December 2022)
 -   📖 Completed [My Solo Exchange Diary](https://anilist.co/manga/99140) (16:04, 22 December 2022)
 -   📖 Read chapter 1 - 12 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (15:15, 22 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
 -   📖 Read chapter 1 - 55 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:44, 02 December 2022)
 -   📖 Read chapter 1 - 110 of [Get Schooled](https://anilist.co/manga/128521) (19:39, 02 December 2022)
--   📖 Plans to read [He Does a Body Good](https://anilist.co/manga/86429) (09:17, 29 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
