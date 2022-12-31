@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 30 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:07, 31 December 2022)
+-   📖 Read chapter 1 - 417 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:56, 31 December 2022)
 -   📖 Read chapter 1 - 35 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:00, 31 December 2022)
 -   📖 Read chapter 1 - 125 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:58, 31 December 2022)
 -   📖 Read chapter 1 - 78 of [She's Hopeless](https://anilist.co/manga/126944) (05:13, 31 December 2022)
@@ -25,7 +27,6 @@
 -   📖 Read chapter 1 - 32 of [Girls' Last Tour](https://anilist.co/manga/85412) (05:43, 22 December 2022)
 -   📖 Read chapter 1 - 105 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (10:41, 21 December 2022)
 -   📖 Read chapter 1 - 18 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:52, 20 December 2022)
--   📖 Read chapter 1 - 416 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:04, 20 December 2022)
 -   📖 Plans to read [Midnight Blue](https://anilist.co/manga/114394) (06:26, 18 December 2022)
 -   📖 Read chapter 16 - 43 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (16:53, 17 December 2022)
 -   📖 Plans to read [Kagen no Tsuki](https://anilist.co/manga/31267) (11:13, 17 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 62 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:20, 03 December 2022)
 -   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
 -   📖 Read chapter 1 - 55 of [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:44, 02 December 2022)
--   📖 Read chapter 1 - 110 of [Get Schooled](https://anilist.co/manga/128521) (19:39, 02 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
