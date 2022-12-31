@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 78 of [She's Hopeless](https://anilist.co/manga/126944) (05:13, 31 December 2022)
 -   📺 Completed [Saimin Seishidou](https://anilist.co/anime/104451) (13:19, 30 December 2022)
 -   📺 Watched episode 1 - 5 of [Saimin Seishidou](https://anilist.co/anime/104451) (13:05, 30 December 2022)
 -   📖 Read chapter 1 - 52 of [Maybe Meant to Be](https://anilist.co/manga/146139) (18:08, 29 December 2022)
@@ -13,7 +14,6 @@
 -   📖 Plans to read [Classroom of the Elite](https://anilist.co/manga/94970) (09:14, 26 December 2022)
 -   📖 Paused reading [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:01, 24 December 2022)
 -   📖 Read chapter 28 - 42 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (18:00, 24 December 2022)
--   📖 Read chapter 1 - 77 of [She's Hopeless](https://anilist.co/manga/126944) (16:29, 24 December 2022)
 -   📖 Read chapter 1 - 26 of [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:09, 23 December 2022)
 -   📖 Read chapter 1 - 134 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:59, 23 December 2022)
 -   📖 Read chapter 1 - 91 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:56, 23 December 2022)
