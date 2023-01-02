@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
 -   📖 Read chapter 1 - 101 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:43, 01 January 2023)
 -   📖 Read chapter 1 - 106 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:57, 01 January 2023)
 -   📖 Read chapter 1 - 418 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (22:24, 31 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [My Alcoholic Escape from Reality](https://anilist.co/manga/113168) (14:45, 04 December 2022)
 -   📖 Read chapter 3 - 4 of [Night of the Living Cat](https://anilist.co/manga/124767) (15:57, 03 December 2022)
 -   📖 Read chapter 62 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:20, 03 December 2022)
--   📖 Completed [Sanpakugan-chan no Ohanashi](https://anilist.co/manga/101867) (19:45, 02 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
