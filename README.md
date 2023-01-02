@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 419 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:38, 02 January 2023)
 -   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
 -   📖 Read chapter 1 - 101 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:43, 01 January 2023)
 -   📖 Read chapter 1 - 106 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:57, 01 January 2023)
--   📖 Read chapter 1 - 418 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (22:24, 31 December 2022)
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📖 Read chapter 1 - 51 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📖 Read chapter 1 - 35 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:00, 31 December 2022)
