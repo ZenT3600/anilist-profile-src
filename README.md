@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 - 336 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:58, 06 January 2023)
 -   📖 Read chapter 1 - 36 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:00, 06 January 2023)
 -   📖 Read chapter 1 - 86 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:59, 06 January 2023)
 -   📖 Read chapter 1 - 53 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:09, 06 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:44, 07 December 2022)
 -   📖 Plans to read [My Wandering Warrior Existence](https://anilist.co/manga/117073) (15:25, 06 December 2022)
 -   📖 Completed [My Alcoholic Escape from Reality](https://anilist.co/manga/113168) (14:45, 04 December 2022)
--   📖 Read chapter 3 - 4 of [Night of the Living Cat](https://anilist.co/manga/124767) (15:57, 03 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
