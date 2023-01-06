@@ -1,9 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 36 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:00, 06 January 2023)
+-   📖 Read chapter 1 - 86 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:59, 06 January 2023)
 -   📖 Read chapter 1 - 53 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:09, 06 January 2023)
 -   📖 Read chapter 1 - 84 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (20:05, 05 January 2023)
 -   📖 Read chapter 1 - 92 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (03:59, 05 January 2023)
--   📖 Read chapter 1 - 85 of [My Dress-Up Darling](https://anilist.co/manga/101583) (03:54, 05 January 2023)
 -   📖 Read chapter 1 - 126 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:50, 05 January 2023)
 -   📖 Read chapter 1 - 135 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:46, 05 January 2023)
 -   📖 Read chapter 1 - 128 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:21, 03 January 2023)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 106 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:57, 01 January 2023)
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📖 Read chapter 1 - 51 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
--   📖 Read chapter 1 - 35 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:00, 31 December 2022)
 -   📖 Read chapter 1 - 78 of [She's Hopeless](https://anilist.co/manga/126944) (05:13, 31 December 2022)
 -   📺 Completed [Saimin Seishidou](https://anilist.co/anime/104451) (13:19, 30 December 2022)
 -   📺 Watched episode 1 - 5 of [Saimin Seishidou](https://anilist.co/anime/104451) (13:05, 30 December 2022)
