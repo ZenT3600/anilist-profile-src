@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 53 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:09, 06 January 2023)
 -   📖 Read chapter 1 - 84 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (20:05, 05 January 2023)
 -   📖 Read chapter 1 - 92 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (03:59, 05 January 2023)
 -   📖 Read chapter 1 - 85 of [My Dress-Up Darling](https://anilist.co/manga/101583) (03:54, 05 January 2023)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 78 of [She's Hopeless](https://anilist.co/manga/126944) (05:13, 31 December 2022)
 -   📺 Completed [Saimin Seishidou](https://anilist.co/anime/104451) (13:19, 30 December 2022)
 -   📺 Watched episode 1 - 5 of [Saimin Seishidou](https://anilist.co/anime/104451) (13:05, 30 December 2022)
--   📖 Read chapter 1 - 52 of [Maybe Meant to Be](https://anilist.co/manga/146139) (18:08, 29 December 2022)
 -   📺 Plans to watch [Saimin Seishidou](https://anilist.co/anime/104451) (14:16, 29 December 2022)
 -   📖 Read chapter 1 - 140 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (08:58, 29 December 2022)
 -   📖 Read chapter 1 - 2 of [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (13:29, 28 December 2022)
