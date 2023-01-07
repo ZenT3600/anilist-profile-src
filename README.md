@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Don't Toy With Me, Miss Nagatoro 2nd Attack](https://anilist.co/anime/140596) (17:52, 07 January 2023)
+-   📺 Plans to watch [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (17:52, 07 January 2023)
 -   📖 Read chapter 1 - 111 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:37, 07 January 2023)
 -   📖 Read chapter 1 - 127 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:58, 07 January 2023)
 -   📖 Read chapter 1 - 79 of [She's Hopeless](https://anilist.co/manga/126944) (06:19, 07 January 2023)
