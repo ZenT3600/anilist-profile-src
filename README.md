@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 109 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:28, 07 January 2023)
 -   📖 Read chapter 1 - 127 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:58, 07 January 2023)
 -   📖 Read chapter 1 - 79 of [She's Hopeless](https://anilist.co/manga/126944) (06:19, 07 January 2023)
 -   📖 Read chapter 1 - 85 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:18, 07 January 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 419 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:38, 02 January 2023)
 -   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
 -   📖 Read chapter 1 - 101 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:43, 01 January 2023)
--   📖 Read chapter 1 - 106 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:57, 01 January 2023)
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📖 Read chapter 1 - 51 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📺 Completed [Saimin Seishidou](https://anilist.co/anime/104451) (13:19, 30 December 2022)
