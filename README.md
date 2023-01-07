@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 109 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:28, 07 January 2023)
+-   📺 Plans to watch [Don't Toy With Me, Miss Nagatoro 2nd Attack](https://anilist.co/anime/140596) (17:52, 07 January 2023)
+-   📖 Read chapter 1 - 111 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:37, 07 January 2023)
 -   📖 Read chapter 1 - 127 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:58, 07 January 2023)
 -   📖 Read chapter 1 - 79 of [She's Hopeless](https://anilist.co/manga/126944) (06:19, 07 January 2023)
 -   📖 Read chapter 1 - 85 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:18, 07 January 2023)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Rosario + Vampire](https://anilist.co/anime/2993) (11:38, 07 December 2022)
 -   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:44, 07 December 2022)
 -   📖 Plans to read [My Wandering Warrior Existence](https://anilist.co/manga/117073) (15:25, 06 December 2022)
--   📖 Completed [My Alcoholic Escape from Reality](https://anilist.co/manga/113168) (14:45, 04 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
