@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 of [To Love Ru](https://anilist.co/anime/3455) (18:58, 08 January 2023)
 -   📖 Read chapter 1 - 421 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:18, 08 January 2023)
 -   📖 Plans to read [Dorakon!](https://anilist.co/manga/113284) (17:14, 08 January 2023)
 -   📖 Plans to read [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:06, 08 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (07:03, 08 December 2022)
 -   📖 Plans to read [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (17:23, 07 December 2022)
 -   📖 Completed [My Wandering Warrior Existence](https://anilist.co/manga/117073) (16:33, 07 December 2022)
--   📺 Plans to watch [Rosario + Vampire](https://anilist.co/anime/2993) (11:38, 07 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
