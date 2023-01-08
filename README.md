@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 421 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:18, 08 January 2023)
+-   📖 Plans to read [Dorakon!](https://anilist.co/manga/113284) (17:14, 08 January 2023)
+-   📖 Plans to read [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:06, 08 January 2023)
 -   📖 Read chapter 1 - 115 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (05:25, 08 January 2023)
 -   📺 Plans to watch [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (17:52, 07 January 2023)
 -   📖 Read chapter 1 - 127 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:58, 07 January 2023)
@@ -13,7 +16,6 @@
 -   📖 Read chapter 1 - 92 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (03:59, 05 January 2023)
 -   📖 Read chapter 1 - 135 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:46, 05 January 2023)
 -   📖 Read chapter 1 - 128 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:21, 03 January 2023)
--   📖 Read chapter 1 - 419 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:38, 02 January 2023)
 -   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
 -   📖 Read chapter 1 - 101 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:43, 01 January 2023)
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (17:23, 07 December 2022)
 -   📖 Completed [My Wandering Warrior Existence](https://anilist.co/manga/117073) (16:33, 07 December 2022)
 -   📺 Plans to watch [Rosario + Vampire](https://anilist.co/anime/2993) (11:38, 07 December 2022)
--   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (03:44, 07 December 2022)
--   📖 Plans to read [My Wandering Warrior Existence](https://anilist.co/manga/117073) (15:25, 06 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
