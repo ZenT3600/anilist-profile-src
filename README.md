@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 2 of [To Love Ru](https://anilist.co/anime/3455) (18:12, 09 January 2023)
 -   📖 Read chapter 1 - 86 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:43, 09 January 2023)
--   📺 Rewatched episode 1 of [To Love Ru](https://anilist.co/anime/3455) (18:58, 08 January 2023)
 -   📖 Read chapter 1 - 421 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:18, 08 January 2023)
 -   📖 Plans to read [Dorakon!](https://anilist.co/manga/113284) (17:14, 08 January 2023)
 -   📖 Plans to read [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:06, 08 January 2023)
