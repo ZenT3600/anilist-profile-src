@@ -2,7 +2,6 @@
 
 -   📖 Read chapter 1 - 21 of [Oh! Holy](https://anilist.co/manga/86703) (13:56, 10 January 2023)
 -   📖 Plans to read [Oh! Holy](https://anilist.co/manga/86703) (12:42, 10 January 2023)
--   📖 Plans to read [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/manga/152404) (12:33, 10 January 2023)
 -   📺 Rewatched episode 1 - 2 of [To Love Ru](https://anilist.co/anime/3455) (18:12, 09 January 2023)
 -   📖 Read chapter 1 - 86 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:43, 09 January 2023)
 -   📖 Read chapter 1 - 421 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:18, 08 January 2023)
@@ -50,5 +49,6 @@
 -   📖 Read chapter 1 - 19 of [Last Word of the World](https://anilist.co/manga/120692) (09:01, 10 December 2022)
 -   📖 Plans to read [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/manga/152404) (06:58, 10 December 2022)
 -   📺 Watched episode 1 - 2 of [Rosario + Vampire](https://anilist.co/anime/2993) (15:37, 08 December 2022)
+-   📖 Completed [My Lesbian Experience With Loneliness](https://anilist.co/manga/87459) (07:03, 08 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
