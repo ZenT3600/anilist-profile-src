@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 37 of [Oh! Holy](https://anilist.co/manga/86703) (15:18, 10 January 2023)
+-   📖 Read chapter 1 - 39 of [Oh! Holy](https://anilist.co/manga/86703) (16:46, 10 January 2023)
 -   📖 Plans to read [Oh! Holy](https://anilist.co/manga/86703) (12:42, 10 January 2023)
 -   📺 Rewatched episode 1 - 2 of [To Love Ru](https://anilist.co/anime/3455) (18:12, 09 January 2023)
 -   📖 Read chapter 1 - 86 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (04:43, 09 January 2023)
