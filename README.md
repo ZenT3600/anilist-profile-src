@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 9 of [Oh! Holy](https://anilist.co/manga/86703) (13:35, 10 January 2023)
+-   📖 Read chapter 1 - 21 of [Oh! Holy](https://anilist.co/manga/86703) (13:56, 10 January 2023)
 -   📖 Plans to read [Oh! Holy](https://anilist.co/manga/86703) (12:42, 10 January 2023)
 -   📖 Plans to read [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/manga/152404) (12:33, 10 January 2023)
 -   📺 Rewatched episode 1 - 2 of [To Love Ru](https://anilist.co/anime/3455) (18:12, 09 January 2023)
