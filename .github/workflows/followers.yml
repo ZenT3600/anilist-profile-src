@@ -8,7 +8,7 @@ jobs:
   graph:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       
       - run: sudo apt-get install -y gnuplot && bash ${GITHUB_WORKSPACE}/.github/followers.sh "${GITHUB_WORKSPACE}/.github"
       
