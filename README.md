@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 136 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:17, 12 January 2023)
 -   📖 Read chapter 1 - 73 of [Oh! Holy](https://anilist.co/manga/86703) (00:21, 12 January 2023)
 -   📖 Read chapter 1 - 102 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:47, 11 January 2023)
 -   📺 Watched episode 1 - 19 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (18:16, 10 January 2023)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 1 - 86 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:59, 06 January 2023)
 -   📖 Read chapter 1 - 53 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:09, 06 January 2023)
 -   📖 Read chapter 1 - 92 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (03:59, 05 January 2023)
--   📖 Read chapter 1 - 135 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (03:46, 05 January 2023)
 -   📖 Read chapter 1 - 128 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:21, 03 January 2023)
 -   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
