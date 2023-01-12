@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 54 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:01, 12 January 2023)
 -   📖 Read chapter 1 - 86 of [Oh! Holy](https://anilist.co/manga/86703) (14:03, 12 January 2023)
 -   📖 Read chapter 1 - 136 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:17, 12 January 2023)
 -   📖 Read chapter 1 - 102 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:47, 11 January 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 62 - 336 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:58, 06 January 2023)
 -   📖 Read chapter 1 - 36 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:00, 06 January 2023)
 -   📖 Read chapter 1 - 86 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:59, 06 January 2023)
--   📖 Read chapter 1 - 53 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:09, 06 January 2023)
 -   📖 Read chapter 1 - 92 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (03:59, 05 January 2023)
 -   📖 Read chapter 1 - 128 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:21, 03 January 2023)
 -   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
