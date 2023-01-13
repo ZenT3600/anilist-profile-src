@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 3 of [To Love Ru](https://anilist.co/anime/3455) (16:24, 13 January 2023)
 -   📖 Read chapter 1 - 98 of [Oh! Holy](https://anilist.co/manga/86703) (13:53, 13 January 2023)
 -   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (09:45, 13 January 2023)
 -   📖 Read chapter 1 - 87 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (23:56, 12 January 2023)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 102 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:47, 11 January 2023)
 -   📺 Watched episode 1 - 19 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (18:16, 10 January 2023)
 -   📖 Plans to read [Oh! Holy](https://anilist.co/manga/86703) (12:42, 10 January 2023)
--   📺 Rewatched episode 1 - 2 of [To Love Ru](https://anilist.co/anime/3455) (18:12, 09 January 2023)
 -   📖 Read chapter 1 - 421 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:18, 08 January 2023)
 -   📖 Plans to read [Dorakon!](https://anilist.co/manga/113284) (17:14, 08 January 2023)
 -   📖 Plans to read [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:06, 08 January 2023)
