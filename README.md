@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 96 of [Oh! Holy](https://anilist.co/manga/86703) (12:52, 13 January 2023)
 -   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (09:45, 13 January 2023)
--   📖 Read chapter 1 - 91 of [Oh! Holy](https://anilist.co/manga/86703) (09:45, 13 January 2023)
 -   📖 Read chapter 1 - 87 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (23:56, 12 January 2023)
 -   📖 Read chapter 1 - 54 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:01, 12 January 2023)
 -   📖 Read chapter 1 - 136 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:17, 12 January 2023)
