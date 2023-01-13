@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Rewatched episode 1 - 3 of [To Love Ru](https://anilist.co/anime/3455) (16:24, 13 January 2023)
+-   📺 Rewatched episode 1 - 4 of [To Love Ru](https://anilist.co/anime/3455) (16:48, 13 January 2023)
 -   📖 Read chapter 1 - 98 of [Oh! Holy](https://anilist.co/manga/86703) (13:53, 13 January 2023)
 -   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (09:45, 13 January 2023)
 -   📖 Read chapter 1 - 87 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (23:56, 12 January 2023)
