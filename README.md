@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 50 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:49, 13 January 2023)
 -   📖 Read chapter 1 - 128 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:24, 13 January 2023)
 -   📺 Watched episode 1 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (17:46, 13 January 2023)
 -   📺 Rewatched episode 1 - 4 of [To Love Ru](https://anilist.co/anime/3455) (16:48, 13 January 2023)
@@ -31,7 +32,6 @@
 -   📺 Plans to watch [Saimin Seishidou](https://anilist.co/anime/104451) (14:16, 29 December 2022)
 -   📖 Read chapter 1 - 2 of [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (13:29, 28 December 2022)
 -   📖 Read chapter 2 - 12 of [Classroom of the Elite](https://anilist.co/manga/94970) (08:28, 28 December 2022)
--   📖 Read chapter 1 - 49 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (18:55, 27 December 2022)
 -   📖 Plans to read [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (16:37, 26 December 2022)
 -   📖 Plans to read [Classroom of the Elite](https://anilist.co/manga/94970) (09:14, 26 December 2022)
 -   📖 Paused reading [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:01, 24 December 2022)
