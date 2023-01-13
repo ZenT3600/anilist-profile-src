@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (09:45, 13 January 2023)
+-   📖 Read chapter 1 - 91 of [Oh! Holy](https://anilist.co/manga/86703) (09:45, 13 January 2023)
 -   📖 Read chapter 1 - 87 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (23:56, 12 January 2023)
 -   📖 Read chapter 1 - 54 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:01, 12 January 2023)
--   📖 Read chapter 1 - 86 of [Oh! Holy](https://anilist.co/manga/86703) (14:03, 12 January 2023)
 -   📖 Read chapter 1 - 136 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:17, 12 January 2023)
 -   📖 Read chapter 1 - 102 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:47, 11 January 2023)
 -   📺 Watched episode 1 - 19 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (18:16, 10 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:30, 10 December 2022)
 -   📖 Read chapter 1 - 19 of [Last Word of the World](https://anilist.co/manga/120692) (09:01, 10 December 2022)
 -   📖 Plans to read [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/manga/152404) (06:58, 10 December 2022)
--   📺 Watched episode 1 - 2 of [Rosario + Vampire](https://anilist.co/anime/2993) (15:37, 08 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
