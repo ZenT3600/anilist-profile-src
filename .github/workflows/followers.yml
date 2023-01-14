@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - run: sudo apt-get install -y apt-transport-https && sudo apt-get install -y gnuplot && bash ${GITHUB_WORKSPACE}/.github/followers.sh "${GITHUB_WORKSPACE}/.github"
+      - run: sudo apt-get update -y && sudo apt-get install -y --fix-missing gnuplot && bash ${GITHUB_WORKSPACE}/.github/followers.sh "${GITHUB_WORKSPACE}/.github"
       
       # - run: git config --local user.email "test@github.com" && git config --local user.name "GitHub Action test" && git add ${GITHUB_WORKSPACE}/.github && git commit -m "Add changes"
       
