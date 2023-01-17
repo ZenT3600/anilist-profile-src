@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 114 of [Oh! Holy](https://anilist.co/manga/86703) (07:31, 17 January 2023)
 -   📖 Read chapter 1 - 31 of [Citrus+](https://anilist.co/manga/103884) (09:53, 16 January 2023)
 -   📖 Read chapter 1 - 422 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:12, 15 January 2023)
 -   📺 Watched episode 1 - 2 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (14:53, 14 January 2023)
--   📖 Read chapter 1 - 102 of [Oh! Holy](https://anilist.co/manga/86703) (13:30, 14 January 2023)
 -   📖 Read chapter 1 - 129 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:01, 14 January 2023)
 -   📖 Read chapter 1 - 50 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:49, 13 January 2023)
 -   📺 Rewatched episode 1 - 4 of [To Love Ru](https://anilist.co/anime/3455) (16:48, 13 January 2023)
