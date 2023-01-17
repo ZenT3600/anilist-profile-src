@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (12:11, 17 January 2023)
+-   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (12:04, 17 January 2023)
 -   📖 Completed [Oh! Holy](https://anilist.co/manga/86703) (08:42, 17 January 2023)
 -   📖 Read chapter 1 - 140 of [Oh! Holy](https://anilist.co/manga/86703) (08:40, 17 January 2023)
 -   📖 Read chapter 1 - 31 of [Citrus+](https://anilist.co/manga/103884) (09:53, 16 January 2023)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [Kagen no Tsuki](https://anilist.co/manga/31267) (11:13, 17 December 2022)
 -   📖 Plans to read [My Solo Exchange Diary](https://anilist.co/manga/99140) (18:42, 13 December 2022)
 -   📖 Read chapter 1 - 52 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (09:08, 12 December 2022)
--   📺 Plans to watch [Shinobi no Ittoki](https://anilist.co/anime/145604) (18:02, 10 December 2022)
--   📖 Plans to read [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:30, 10 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
