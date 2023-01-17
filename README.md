@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 138 of [Oh! Holy](https://anilist.co/manga/86703) (08:36, 17 January 2023)
+-   📖 Completed [Oh! Holy](https://anilist.co/manga/86703) (08:42, 17 January 2023)
+-   📖 Read chapter 1 - 140 of [Oh! Holy](https://anilist.co/manga/86703) (08:40, 17 January 2023)
 -   📖 Read chapter 1 - 31 of [Citrus+](https://anilist.co/manga/103884) (09:53, 16 January 2023)
 -   📖 Read chapter 1 - 422 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:12, 15 January 2023)
 -   📺 Watched episode 1 - 2 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (14:53, 14 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 52 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (09:08, 12 December 2022)
 -   📺 Plans to watch [Shinobi no Ittoki](https://anilist.co/anime/145604) (18:02, 10 December 2022)
 -   📖 Plans to read [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:30, 10 December 2022)
--   📖 Read chapter 1 - 19 of [Last Word of the World](https://anilist.co/manga/120692) (09:01, 10 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
