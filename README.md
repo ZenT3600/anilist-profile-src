@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (12:11, 17 January 2023)
+-   📖 Read chapter 1 - 20 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (12:42, 17 January 2023)
 -   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (12:04, 17 January 2023)
 -   📖 Completed [Oh! Holy](https://anilist.co/manga/86703) (08:42, 17 January 2023)
 -   📖 Read chapter 1 - 140 of [Oh! Holy](https://anilist.co/manga/86703) (08:40, 17 January 2023)
