@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 39 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (17:36, 19 January 2023)
 -   📖 Paused reading [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/manga/124374) (10:23, 19 January 2023)
 -   📖 Read chapter 1 - 137 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:22, 19 January 2023)
 -   📖 Read chapter 1 - 423 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (10:17, 19 January 2023)
 -   📖 Read chapter 1 - 129 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (10:15, 19 January 2023)
 -   📖 Read chapter 1 - 88 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:59, 18 January 2023)
 -   📖 Plans to read [Kimi to Picopico](https://anilist.co/manga/131287) (05:47, 18 January 2023)
--   📖 Read chapter 1 - 30 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:08, 17 January 2023)
 -   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (12:04, 17 January 2023)
 -   📖 Completed [Oh! Holy](https://anilist.co/manga/86703) (08:42, 17 January 2023)
 -   📖 Read chapter 1 - 140 of [Oh! Holy](https://anilist.co/manga/86703) (08:40, 17 January 2023)
