@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (11:51, 21 January 2023)
+-   📖 Plans to read [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (11:47, 21 January 2023)
 -   📖 Read chapter 1 - 81 of [She's Hopeless](https://anilist.co/manga/126944) (08:25, 21 January 2023)
 -   📖 Read chapter 1 - 131 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:19, 21 January 2023)
 -   📖 Read chapter 1 - 55 of [Maybe Meant to Be](https://anilist.co/manga/146139) (18:34, 19 January 2023)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 32 of [Girls' Last Tour](https://anilist.co/manga/85412) (05:43, 22 December 2022)
 -   📖 Read chapter 1 - 18 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:52, 20 December 2022)
 -   📖 Plans to read [Midnight Blue](https://anilist.co/manga/114394) (06:26, 18 December 2022)
--   📖 Read chapter 16 - 43 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (16:53, 17 December 2022)
--   📖 Plans to read [Kagen no Tsuki](https://anilist.co/manga/31267) (11:13, 17 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
