@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (15:25, 21 January 2023)
 -   📖 Dropped [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (11:51, 21 January 2023)
 -   📖 Plans to read [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (11:47, 21 January 2023)
 -   📖 Read chapter 1 - 81 of [She's Hopeless](https://anilist.co/manga/126944) (08:25, 21 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 12 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (15:15, 22 December 2022)
 -   📖 Read chapter 1 - 32 of [Girls' Last Tour](https://anilist.co/manga/85412) (05:43, 22 December 2022)
 -   📖 Read chapter 1 - 18 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:52, 20 December 2022)
--   📖 Plans to read [Midnight Blue](https://anilist.co/manga/114394) (06:26, 18 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
