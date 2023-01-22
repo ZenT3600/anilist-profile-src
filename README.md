@@ -1,6 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 14 - 15 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (02:13, 22 January 2023)
+-   📖 Completed [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:54, 22 January 2023)
+-   📖 Read chapter 1 - 25 of [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:52, 22 January 2023)
+-   📖 Read chapter 14 - 20 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (02:17, 22 January 2023)
 -   📖 Read chapter 1 - 132 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:02, 22 January 2023)
 -   📖 Read chapter 1 - 87 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:53, 22 January 2023)
 -   📖 Read chapter 1 - 424 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (00:45, 22 January 2023)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 28 - 42 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (18:00, 24 December 2022)
 -   📖 Read chapter 1 - 26 of [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:09, 23 December 2022)
 -   📖 Completed [My Solo Exchange Diary](https://anilist.co/manga/99140) (16:04, 22 December 2022)
--   📖 Read chapter 1 - 12 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (15:15, 22 December 2022)
--   📖 Read chapter 1 - 32 of [Girls' Last Tour](https://anilist.co/manga/85412) (05:43, 22 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
