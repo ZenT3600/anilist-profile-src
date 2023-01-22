@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 103 of [Love’s in Sight!](https://anilist.co/manga/107445) (18:14, 22 January 2023)
+-   📖 Read chapter 1 - 425 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:13, 22 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
 -   📖 Read chapter 1 - 28 of [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:54, 22 January 2023)
@@ -7,7 +9,6 @@
 -   📖 Read chapter 14 - 20 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (02:17, 22 January 2023)
 -   📖 Read chapter 1 - 132 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:02, 22 January 2023)
 -   📖 Read chapter 1 - 87 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:53, 22 January 2023)
--   📖 Read chapter 1 - 424 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (00:45, 22 January 2023)
 -   📖 Read chapter 1 - 6 of [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (00:18, 22 January 2023)
 -   📖 Dropped [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (11:51, 21 January 2023)
 -   📖 Plans to read [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (11:47, 21 January 2023)
@@ -28,7 +29,6 @@
 -   📖 Read chapter 1 - 50 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:49, 13 January 2023)
 -   📺 Rewatched episode 1 - 4 of [To Love Ru](https://anilist.co/anime/3455) (16:48, 13 January 2023)
 -   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (09:45, 13 January 2023)
--   📖 Read chapter 1 - 102 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:47, 11 January 2023)
 -   📺 Watched episode 1 - 19 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (18:16, 10 January 2023)
 -   📖 Plans to read [Oh! Holy](https://anilist.co/manga/86703) (12:42, 10 January 2023)
 -   📖 Plans to read [Dorakon!](https://anilist.co/manga/113284) (17:14, 08 January 2023)
