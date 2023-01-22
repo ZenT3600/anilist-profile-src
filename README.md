@@ -1,16 +1,18 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 15 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (02:13, 22 January 2023)
+-   📖 Read chapter 1 - 132 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:02, 22 January 2023)
+-   📖 Read chapter 1 - 87 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:53, 22 January 2023)
+-   📖 Read chapter 1 - 424 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (00:45, 22 January 2023)
 -   📖 Read chapter 1 - 6 of [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (00:18, 22 January 2023)
 -   📖 Dropped [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (11:51, 21 January 2023)
 -   📖 Plans to read [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (11:47, 21 January 2023)
 -   📖 Read chapter 1 - 81 of [She's Hopeless](https://anilist.co/manga/126944) (08:25, 21 January 2023)
--   📖 Read chapter 1 - 131 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:19, 21 January 2023)
 -   📖 Read chapter 1 - 55 of [Maybe Meant to Be](https://anilist.co/manga/146139) (18:34, 19 January 2023)
 -   📖 Read chapter 1 - 116 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (18:29, 19 January 2023)
 -   📖 Read chapter 1 - 39 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (17:36, 19 January 2023)
 -   📖 Paused reading [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/manga/124374) (10:23, 19 January 2023)
 -   📖 Read chapter 1 - 137 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:22, 19 January 2023)
--   📖 Read chapter 1 - 423 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (10:17, 19 January 2023)
 -   📖 Read chapter 1 - 129 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (10:15, 19 January 2023)
 -   📖 Read chapter 1 - 88 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:59, 18 January 2023)
 -   📖 Plans to read [Kimi to Picopico](https://anilist.co/manga/131287) (05:47, 18 January 2023)
@@ -31,7 +33,6 @@
 -   📖 Read chapter 1 - 141 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:17, 07 January 2023)
 -   📖 Read chapter 62 - 336 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:58, 06 January 2023)
 -   📖 Read chapter 1 - 36 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:00, 06 January 2023)
--   📖 Read chapter 1 - 86 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:59, 06 January 2023)
 -   📖 Read chapter 1 - 92 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (03:59, 05 January 2023)
 -   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
@@ -49,6 +50,5 @@
 -   📖 Completed [My Solo Exchange Diary](https://anilist.co/manga/99140) (16:04, 22 December 2022)
 -   📖 Read chapter 1 - 12 of [My Solo Exchange Diary](https://anilist.co/manga/99140) (15:15, 22 December 2022)
 -   📖 Read chapter 1 - 32 of [Girls' Last Tour](https://anilist.co/manga/85412) (05:43, 22 December 2022)
--   📖 Read chapter 1 - 18 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:52, 20 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
