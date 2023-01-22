@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:05, 22 January 2023)
+-   📖 Read chapter 1 - 26 of [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:31, 22 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:54, 22 January 2023)
 -   📖 Read chapter 1 - 25 of [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:52, 22 January 2023)
 -   📖 Read chapter 14 - 20 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (02:17, 22 January 2023)
