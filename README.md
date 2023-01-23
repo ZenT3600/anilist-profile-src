@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 133 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:52, 23 January 2023)
 -   📺 Rewatched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:17, 23 January 2023)
 -   📖 Read chapter 1 - 103 of [Love’s in Sight!](https://anilist.co/manga/107445) (18:14, 22 January 2023)
 -   📖 Read chapter 1 - 425 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:13, 22 January 2023)
@@ -8,7 +9,6 @@
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:54, 22 January 2023)
 -   📖 Read chapter 1 - 25 of [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:52, 22 January 2023)
 -   📖 Read chapter 14 - 20 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (02:17, 22 January 2023)
--   📖 Read chapter 1 - 132 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:02, 22 January 2023)
 -   📖 Read chapter 1 - 87 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:53, 22 January 2023)
 -   📖 Read chapter 1 - 6 of [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (00:18, 22 January 2023)
 -   📖 Dropped [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (11:51, 21 January 2023)
