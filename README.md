@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:17, 23 January 2023)
 -   📖 Read chapter 1 - 103 of [Love’s in Sight!](https://anilist.co/manga/107445) (18:14, 22 January 2023)
 -   📖 Read chapter 1 - 425 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:13, 22 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (16:37, 26 December 2022)
 -   📖 Plans to read [Classroom of the Elite](https://anilist.co/manga/94970) (09:14, 26 December 2022)
 -   📖 Paused reading [Cool na Gakuen no Idol ga Ore ni Dake Natsuitekuru](https://anilist.co/manga/137597) (18:01, 24 December 2022)
--   📖 Read chapter 28 - 42 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (18:00, 24 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
