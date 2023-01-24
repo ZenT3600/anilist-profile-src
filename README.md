@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 48 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (11:08, 24 January 2023)
 -   📖 Read chapter 1 - 134 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:16, 24 January 2023)
 -   📖 Read chapter 1 - 130 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:39, 24 January 2023)
 -   📖 Read chapter 1 - 157 of [One Piece](https://anilist.co/manga/30013) (18:31, 23 January 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 81 of [She's Hopeless](https://anilist.co/manga/126944) (08:25, 21 January 2023)
 -   📖 Read chapter 1 - 55 of [Maybe Meant to Be](https://anilist.co/manga/146139) (18:34, 19 January 2023)
 -   📖 Read chapter 1 - 116 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (18:29, 19 January 2023)
--   📖 Read chapter 1 - 39 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (17:36, 19 January 2023)
 -   📖 Paused reading [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/manga/124374) (10:23, 19 January 2023)
 -   📖 Read chapter 1 - 137 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:22, 19 January 2023)
 -   📖 Read chapter 1 - 88 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:59, 18 January 2023)
