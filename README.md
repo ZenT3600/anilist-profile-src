@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 135 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:34, 25 January 2023)
 -   📖 Read chapter 1 - 24 of [Mitsuishi-san](https://anilist.co/manga/126488) (05:30, 25 January 2023)
 -   📖 Read chapter 1 - 58 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (15:11, 24 January 2023)
--   📖 Read chapter 1 - 134 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:16, 24 January 2023)
 -   📖 Read chapter 1 - 130 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:39, 24 January 2023)
 -   📖 Read chapter 1 - 157 of [One Piece](https://anilist.co/manga/30013) (18:31, 23 January 2023)
 -   📺 Rewatched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:17, 23 January 2023)
