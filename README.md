@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 24 of [Mitsuishi-san](https://anilist.co/manga/126488) (05:30, 25 January 2023)
 -   📖 Read chapter 1 - 58 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (15:11, 24 January 2023)
 -   📖 Read chapter 1 - 134 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:16, 24 January 2023)
 -   📖 Read chapter 1 - 130 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:39, 24 January 2023)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 1 - 137 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:22, 19 January 2023)
 -   📖 Read chapter 1 - 88 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:59, 18 January 2023)
 -   📖 Plans to read [Kimi to Picopico](https://anilist.co/manga/131287) (05:47, 18 January 2023)
--   📖 Read chapter 1 - 23 of [Mitsuishi-san](https://anilist.co/manga/126488) (12:04, 17 January 2023)
 -   📖 Completed [Oh! Holy](https://anilist.co/manga/86703) (08:42, 17 January 2023)
 -   📖 Read chapter 1 - 140 of [Oh! Holy](https://anilist.co/manga/86703) (08:40, 17 January 2023)
 -   📖 Read chapter 1 - 31 of [Citrus+](https://anilist.co/manga/103884) (09:53, 16 January 2023)
