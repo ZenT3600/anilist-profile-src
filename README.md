@@ -1,9 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Got A Room?](https://anilist.co/manga/129808) (07:03, 26 January 2023)
+-   📖 Read chapter 8 - 35 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (06:55, 26 January 2023)
+-   📖 Read chapter 1 - 136 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:50, 26 January 2023)
 -   📖 Plans to read [Got A Room?](https://anilist.co/manga/129808) (15:07, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:46, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:45, 25 January 2023)
--   📖 Read chapter 1 - 135 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:34, 25 January 2023)
 -   📖 Read chapter 1 - 24 of [Mitsuishi-san](https://anilist.co/manga/126488) (05:30, 25 January 2023)
 -   📖 Read chapter 1 - 58 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (15:11, 24 January 2023)
 -   📖 Read chapter 1 - 130 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:39, 24 January 2023)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 51 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📺 Completed [Saimin Seishidou](https://anilist.co/anime/104451) (13:19, 30 December 2022)
 -   📺 Watched episode 1 - 5 of [Saimin Seishidou](https://anilist.co/anime/104451) (13:05, 30 December 2022)
--   📺 Plans to watch [Saimin Seishidou](https://anilist.co/anime/104451) (14:16, 29 December 2022)
--   📖 Read chapter 1 - 2 of [Kamiyama-san no Kami Bukuro no Naka ni wa](https://anilist.co/manga/136047) (13:29, 28 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
