@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 426 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (16:16, 28 January 2023)
+-   📖 Read chapter 1 - 93 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (16:13, 28 January 2023)
 -   📺 Watched episode 1 - 4 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (12:09, 28 January 2023)
 -   📖 Read chapter 1 - 78 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (10:43, 28 January 2023)
 -   📖 Read chapter 1 - 42 of [Sweet Home](https://anilist.co/manga/100954) (05:53, 28 January 2023)
@@ -17,7 +19,6 @@
 -   📖 Read chapter 1 - 157 of [One Piece](https://anilist.co/manga/30013) (18:31, 23 January 2023)
 -   📺 Rewatched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:17, 23 January 2023)
 -   📖 Read chapter 1 - 103 of [Love’s in Sight!](https://anilist.co/manga/107445) (18:14, 22 January 2023)
--   📖 Read chapter 1 - 425 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:13, 22 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
 -   📖 Read chapter 1 - 28 of [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:54, 22 January 2023)
@@ -45,7 +46,6 @@
 -   📖 Read chapter 1 - 141 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:17, 07 January 2023)
 -   📖 Read chapter 62 - 336 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:58, 06 January 2023)
 -   📖 Read chapter 1 - 36 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:00, 06 January 2023)
--   📖 Read chapter 1 - 92 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (03:59, 05 January 2023)
 -   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📖 Read chapter 1 - 51 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
