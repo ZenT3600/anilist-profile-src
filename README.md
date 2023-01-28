@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 42 of [Sweet Home](https://anilist.co/manga/100954) (05:53, 28 January 2023)
 -   📖 Read chapter 1 - 82 of [She's Hopeless](https://anilist.co/manga/126944) (04:30, 28 January 2023)
 -   📖 Read chapter 1 - 138 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:25, 28 January 2023)
 -   📖 Read chapter 1 - 56 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:44, 27 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📖 Read chapter 1 - 51 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 -   📺 Completed [Saimin Seishidou](https://anilist.co/anime/104451) (13:19, 30 December 2022)
--   📺 Watched episode 1 - 5 of [Saimin Seishidou](https://anilist.co/anime/104451) (13:05, 30 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
