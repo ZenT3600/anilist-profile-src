@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 137 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:49, 27 January 2023)
+-   📖 Read chapter 1 - 82 of [She's Hopeless](https://anilist.co/manga/126944) (04:30, 28 January 2023)
+-   📖 Read chapter 1 - 138 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:25, 28 January 2023)
 -   📖 Read chapter 1 - 56 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:44, 27 January 2023)
 -   📖 Read chapter 1 - 34 of [Got A Room?](https://anilist.co/manga/129808) (18:43, 26 January 2023)
 -   📖 Read chapter 1 - 138 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:43, 26 January 2023)
@@ -24,7 +25,6 @@
 -   📖 Read chapter 1 - 6 of [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (00:18, 22 January 2023)
 -   📖 Dropped [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (11:51, 21 January 2023)
 -   📖 Plans to read [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (11:47, 21 January 2023)
--   📖 Read chapter 1 - 81 of [She's Hopeless](https://anilist.co/manga/126944) (08:25, 21 January 2023)
 -   📖 Read chapter 1 - 116 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (18:29, 19 January 2023)
 -   📖 Paused reading [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/manga/124374) (10:23, 19 January 2023)
 -   📖 Read chapter 1 - 88 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:59, 18 January 2023)
