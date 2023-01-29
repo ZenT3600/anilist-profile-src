@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (13:08, 29 January 2023)
 -   📖 Read chapter 1 - 427 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:38, 29 January 2023)
 -   📖 Read chapter 1 - 93 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (16:13, 28 January 2023)
--   📺 Watched episode 1 - 4 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (12:09, 28 January 2023)
 -   📖 Read chapter 1 - 78 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (10:43, 28 January 2023)
 -   📖 Read chapter 1 - 42 of [Sweet Home](https://anilist.co/manga/100954) (05:53, 28 January 2023)
 -   📖 Read chapter 1 - 82 of [She's Hopeless](https://anilist.co/manga/126944) (04:30, 28 January 2023)
