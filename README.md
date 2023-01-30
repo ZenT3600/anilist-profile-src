@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 28 of [She Is Also Cute Today](https://anilist.co/manga/112378) (12:57, 30 January 2023)
 -   📖 Read chapter 8 - 38 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (11:37, 30 January 2023)
 -   📖 Plans to read [Tokyo Aliens](https://anilist.co/manga/123657) (09:02, 30 January 2023)
--   📖 Read chapter 3 - 22 of [She Is Also Cute Today](https://anilist.co/manga/112378) (08:37, 30 January 2023)
 -   📺 Completed [Fight Song](https://anilist.co/anime/159110) (07:44, 30 January 2023)
 -   📺 Completed [How to Eat Life](https://anilist.co/anime/118857) (07:44, 30 January 2023)
 -   📖 Plans to read [She Is Also Cute Today](https://anilist.co/manga/112378) (04:57, 30 January 2023)
