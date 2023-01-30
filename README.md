@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Fight Song](https://anilist.co/anime/159110) (07:44, 30 January 2023)
+-   📺 Completed [How to Eat Life](https://anilist.co/anime/118857) (07:44, 30 January 2023)
 -   📖 Read chapter 3 - 8 of [She Is Also Cute Today](https://anilist.co/manga/112378) (05:24, 30 January 2023)
 -   📖 Plans to read [She Is Also Cute Today](https://anilist.co/manga/112378) (04:57, 30 January 2023)
 -   📺 Watched episode 1 - 5 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (13:08, 29 January 2023)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 141 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:17, 07 January 2023)
 -   📖 Read chapter 62 - 336 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:58, 06 January 2023)
 -   📖 Read chapter 1 - 36 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:00, 06 January 2023)
--   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
--   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
