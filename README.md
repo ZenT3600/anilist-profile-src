@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 4 of [She Is Also Cute Today](https://anilist.co/manga/112378) (05:07, 30 January 2023)
+-   📖 Plans to read [She Is Also Cute Today](https://anilist.co/manga/112378) (04:57, 30 January 2023)
 -   📺 Watched episode 1 - 5 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (13:08, 29 January 2023)
 -   📖 Read chapter 1 - 427 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:38, 29 January 2023)
 -   📖 Read chapter 1 - 93 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (16:13, 28 January 2023)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 36 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:00, 06 January 2023)
 -   📖 Completed [Metamorphosis](https://anilist.co/manga/90310) (08:15, 02 January 2023)
 -   📖 Completed [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
--   📖 Read chapter 1 - 51 of [Under Observation: My First Loves and I](https://anilist.co/manga/103864) (18:49, 31 December 2022)
--   📺 Completed [Saimin Seishidou](https://anilist.co/anime/104451) (13:19, 30 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
