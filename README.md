@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 45 of [She Is Also Cute Today](https://anilist.co/manga/112378) (15:11, 30 January 2023)
+-   📖 Read chapter 3 - 46 of [She Is Also Cute Today](https://anilist.co/manga/112378) (18:08, 30 January 2023)
+-   📖 Read chapter 1 - 19 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (18:05, 30 January 2023)
 -   📖 Read chapter 8 - 38 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (11:37, 30 January 2023)
 -   📖 Plans to read [Tokyo Aliens](https://anilist.co/manga/123657) (09:02, 30 January 2023)
 -   📺 Completed [Fight Song](https://anilist.co/anime/159110) (07:44, 30 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:06, 08 January 2023)
 -   📺 Plans to watch [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (17:52, 07 January 2023)
 -   📖 Read chapter 1 - 141 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:17, 07 January 2023)
--   📖 Read chapter 62 - 336 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:58, 06 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
