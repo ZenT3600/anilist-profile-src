@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 49 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:06, 31 January 2023)
 -   📖 Read chapter 3 - 57 of [She Is Also Cute Today](https://anilist.co/manga/112378) (17:20, 31 January 2023)
 -   📖 Read chapter 1 - 131 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:18, 31 January 2023)
 -   📖 Read chapter 1 - 19 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (18:05, 30 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Dorakon!](https://anilist.co/manga/113284) (17:14, 08 January 2023)
 -   📖 Plans to read [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:06, 08 January 2023)
 -   📺 Plans to watch [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (17:52, 07 January 2023)
--   📖 Read chapter 1 - 141 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:17, 07 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
