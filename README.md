@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 131 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:18, 31 January 2023)
 -   📖 Read chapter 3 - 48 of [She Is Also Cute Today](https://anilist.co/manga/112378) (18:13, 30 January 2023)
 -   📖 Read chapter 1 - 19 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (18:05, 30 January 2023)
 -   📖 Read chapter 8 - 38 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (11:37, 30 January 2023)
@@ -21,7 +22,6 @@
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:46, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:45, 25 January 2023)
 -   📖 Read chapter 1 - 24 of [Mitsuishi-san](https://anilist.co/manga/126488) (05:30, 25 January 2023)
--   📖 Read chapter 1 - 130 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:39, 24 January 2023)
 -   📖 Read chapter 1 - 157 of [One Piece](https://anilist.co/manga/30013) (18:31, 23 January 2023)
 -   📺 Rewatched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:17, 23 January 2023)
 -   📖 Read chapter 1 - 103 of [Love’s in Sight!](https://anilist.co/manga/107445) (18:14, 22 January 2023)
