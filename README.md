@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
 -   📖 Read chapter 3 - 75 of [She Is Also Cute Today](https://anilist.co/manga/112378) (12:45, 01 February 2023)
 -   📖 Read chapter 1 - 39 of [Got A Room?](https://anilist.co/manga/129808) (07:25, 01 February 2023)
 -   📖 Read chapter 16 - 49 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:06, 31 January 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Oh! Holy](https://anilist.co/manga/86703) (12:42, 10 January 2023)
 -   📖 Plans to read [Dorakon!](https://anilist.co/manga/113284) (17:14, 08 January 2023)
 -   📖 Plans to read [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:06, 08 January 2023)
--   📺 Plans to watch [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (17:52, 07 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
