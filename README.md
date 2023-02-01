@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 39 of [Got A Room?](https://anilist.co/manga/129808) (07:25, 01 February 2023)
 -   📖 Read chapter 3 - 59 of [She Is Also Cute Today](https://anilist.co/manga/112378) (05:50, 01 February 2023)
 -   📖 Read chapter 16 - 49 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:06, 31 January 2023)
 -   📖 Read chapter 1 - 131 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:18, 31 January 2023)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 82 of [She's Hopeless](https://anilist.co/manga/126944) (04:30, 28 January 2023)
 -   📖 Read chapter 1 - 138 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:25, 28 January 2023)
 -   📖 Read chapter 1 - 56 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:44, 27 January 2023)
--   📖 Read chapter 1 - 34 of [Got A Room?](https://anilist.co/manga/129808) (18:43, 26 January 2023)
 -   📖 Read chapter 1 - 138 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:43, 26 January 2023)
 -   📖 Plans to read [Got A Room?](https://anilist.co/manga/129808) (15:07, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:46, 25 January 2023)
