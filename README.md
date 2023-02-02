@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 78 of [She Is Also Cute Today](https://anilist.co/manga/112378) (05:58, 02 February 2023)
 -   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
--   📖 Read chapter 3 - 75 of [She Is Also Cute Today](https://anilist.co/manga/112378) (12:45, 01 February 2023)
 -   📖 Read chapter 1 - 39 of [Got A Room?](https://anilist.co/manga/129808) (07:25, 01 February 2023)
 -   📖 Read chapter 16 - 49 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:06, 31 January 2023)
 -   📖 Read chapter 1 - 131 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:18, 31 January 2023)
