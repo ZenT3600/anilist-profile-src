@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 139 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (17:12, 02 February 2023)
 -   📖 Read chapter 3 - 80 of [She Is Also Cute Today](https://anilist.co/manga/112378) (07:50, 02 February 2023)
 -   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
 -   📖 Read chapter 1 - 39 of [Got A Room?](https://anilist.co/manga/129808) (07:25, 01 February 2023)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 1 - 82 of [She's Hopeless](https://anilist.co/manga/126944) (04:30, 28 January 2023)
 -   📖 Read chapter 1 - 138 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:25, 28 January 2023)
 -   📖 Read chapter 1 - 56 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:44, 27 January 2023)
--   📖 Read chapter 1 - 138 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:43, 26 January 2023)
 -   📖 Plans to read [Got A Room?](https://anilist.co/manga/129808) (15:07, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:46, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:45, 25 January 2023)
