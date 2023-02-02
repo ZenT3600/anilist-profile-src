@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 21 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (22:48, 02 February 2023)
+-   📖 Read chapter 1 - 57 of [Maybe Meant to Be](https://anilist.co/manga/146139) (22:47, 02 February 2023)
 -   📖 Read chapter 1 - 139 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (17:12, 02 February 2023)
 -   📖 Read chapter 3 - 80 of [She Is Also Cute Today](https://anilist.co/manga/112378) (07:50, 02 February 2023)
 -   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
@@ -19,7 +21,6 @@
 -   📖 Read chapter 1 - 42 of [Sweet Home](https://anilist.co/manga/100954) (05:53, 28 January 2023)
 -   📖 Read chapter 1 - 82 of [She's Hopeless](https://anilist.co/manga/126944) (04:30, 28 January 2023)
 -   📖 Read chapter 1 - 138 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:25, 28 January 2023)
--   📖 Read chapter 1 - 56 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:44, 27 January 2023)
 -   📖 Plans to read [Got A Room?](https://anilist.co/manga/129808) (15:07, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:46, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:45, 25 January 2023)
@@ -31,7 +32,6 @@
 -   📖 Read chapter 1 - 28 of [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:54, 22 January 2023)
 -   📖 Read chapter 1 - 25 of [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:52, 22 January 2023)
--   📖 Read chapter 14 - 20 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (02:17, 22 January 2023)
 -   📖 Read chapter 1 - 87 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:53, 22 January 2023)
 -   📖 Read chapter 1 - 6 of [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (00:18, 22 January 2023)
 -   📖 Dropped [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (11:51, 21 January 2023)
