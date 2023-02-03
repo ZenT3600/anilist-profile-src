@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 40 of [Got A Room?](https://anilist.co/manga/129808) (23:30, 02 February 2023)
+-   📖 Read chapter 1 - 44 of [Got A Room?](https://anilist.co/manga/129808) (23:41, 02 February 2023)
 -   📖 Read chapter 14 - 21 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (22:48, 02 February 2023)
 -   📖 Read chapter 1 - 57 of [Maybe Meant to Be](https://anilist.co/manga/146139) (22:47, 02 February 2023)
 -   📖 Read chapter 1 - 139 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (17:12, 02 February 2023)
