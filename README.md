@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 56 of [Call of the Night](https://anilist.co/manga/111233) (06:08, 03 February 2023)
+-   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:08, 03 February 2023)
 -   📖 Read chapter 1 - 44 of [Got A Room?](https://anilist.co/manga/129808) (23:41, 02 February 2023)
 -   📖 Read chapter 14 - 21 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (22:48, 02 February 2023)
 -   📖 Read chapter 1 - 57 of [Maybe Meant to Be](https://anilist.co/manga/146139) (22:47, 02 February 2023)
@@ -48,7 +50,5 @@
 -   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (09:45, 13 January 2023)
 -   📺 Watched episode 1 - 19 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (18:16, 10 January 2023)
 -   📖 Plans to read [Oh! Holy](https://anilist.co/manga/86703) (12:42, 10 January 2023)
--   📖 Plans to read [Dorakon!](https://anilist.co/manga/113284) (17:14, 08 January 2023)
--   📖 Plans to read [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:06, 08 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
