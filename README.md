@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 140 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:40, 04 February 2023)
 -   📖 Read chapter 1 - 59 of [Call of the Night](https://anilist.co/manga/111233) (06:21, 03 February 2023)
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:08, 03 February 2023)
 -   📖 Read chapter 1 - 44 of [Got A Room?](https://anilist.co/manga/129808) (23:41, 02 February 2023)
@@ -22,7 +23,6 @@
 -   📖 Read chapter 1 - 78 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (10:43, 28 January 2023)
 -   📖 Read chapter 1 - 42 of [Sweet Home](https://anilist.co/manga/100954) (05:53, 28 January 2023)
 -   📖 Read chapter 1 - 82 of [She's Hopeless](https://anilist.co/manga/126944) (04:30, 28 January 2023)
--   📖 Read chapter 1 - 138 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:25, 28 January 2023)
 -   📖 Plans to read [Got A Room?](https://anilist.co/manga/129808) (15:07, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:46, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:45, 25 January 2023)
