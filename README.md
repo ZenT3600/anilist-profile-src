@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 25 of [Chainsaw Man](https://anilist.co/manga/105778) (09:23, 05 February 2023)
+-   📖 Read chapter 1 - 34 of [Chainsaw Man](https://anilist.co/manga/105778) (09:52, 05 February 2023)
 -   📺 Watched episode 1 - 6 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (04:52, 05 February 2023)
 -   📖 Read chapter 3 - 81 of [She Is Also Cute Today](https://anilist.co/manga/112378) (17:57, 04 February 2023)
 -   📖 Read chapter 1 - 83 of [She's Hopeless](https://anilist.co/manga/126944) (10:39, 04 February 2023)
