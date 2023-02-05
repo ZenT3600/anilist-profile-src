@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Chainsaw Man](https://anilist.co/manga/105778) (05:15, 05 February 2023)
 -   📺 Watched episode 1 - 6 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (04:52, 05 February 2023)
 -   📖 Read chapter 3 - 81 of [She Is Also Cute Today](https://anilist.co/manga/112378) (17:57, 04 February 2023)
 -   📖 Read chapter 1 - 83 of [She's Hopeless](https://anilist.co/manga/126944) (10:39, 04 February 2023)
@@ -49,6 +50,5 @@
 -   📺 Rewatched episode 1 - 4 of [To Love Ru](https://anilist.co/anime/3455) (16:48, 13 January 2023)
 -   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (09:45, 13 January 2023)
 -   📺 Watched episode 1 - 19 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (18:16, 10 January 2023)
--   📖 Plans to read [Oh! Holy](https://anilist.co/manga/86703) (12:42, 10 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
