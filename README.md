@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 86 of [She Is Also Cute Today](https://anilist.co/manga/112378) (19:04, 06 February 2023)
+-   📖 Read chapter 3 - 90 of [She Is Also Cute Today](https://anilist.co/manga/112378) (19:23, 06 February 2023)
 -   📖 Read chapter 1 - 53 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (18:44, 06 February 2023)
 -   📖 Read chapter 1 - 118 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:17, 06 February 2023)
 -   📖 Read chapter 1 - 104 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:06, 06 February 2023)
