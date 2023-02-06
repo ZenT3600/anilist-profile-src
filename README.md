@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 104 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:06, 06 February 2023)
+-   📖 Read chapter 1 - 428 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:00, 06 February 2023)
 -   📖 Read chapter 56 - 64 of [One Room of Happiness](https://anilist.co/manga/100557) (10:06, 06 February 2023)
 -   📖 Read chapter 1 - 43 of [Chainsaw Man](https://anilist.co/manga/105778) (06:00, 06 February 2023)
 -   📖 Read chapter 14 - 22 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (17:10, 05 February 2023)
@@ -22,7 +24,6 @@
 -   📺 Completed [Fight Song](https://anilist.co/anime/159110) (07:44, 30 January 2023)
 -   📺 Completed [How to Eat Life](https://anilist.co/anime/118857) (07:44, 30 January 2023)
 -   📖 Plans to read [She Is Also Cute Today](https://anilist.co/manga/112378) (04:57, 30 January 2023)
--   📖 Read chapter 1 - 427 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:38, 29 January 2023)
 -   📖 Read chapter 1 - 93 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (16:13, 28 January 2023)
 -   📖 Read chapter 1 - 42 of [Sweet Home](https://anilist.co/manga/100954) (05:53, 28 January 2023)
 -   📖 Plans to read [Got A Room?](https://anilist.co/manga/129808) (15:07, 25 January 2023)
@@ -31,7 +32,6 @@
 -   📖 Read chapter 1 - 24 of [Mitsuishi-san](https://anilist.co/manga/126488) (05:30, 25 January 2023)
 -   📖 Read chapter 1 - 157 of [One Piece](https://anilist.co/manga/30013) (18:31, 23 January 2023)
 -   📺 Rewatched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:17, 23 January 2023)
--   📖 Read chapter 1 - 103 of [Love’s in Sight!](https://anilist.co/manga/107445) (18:14, 22 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
 -   📖 Read chapter 1 - 28 of [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:54, 22 January 2023)
