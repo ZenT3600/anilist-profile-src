@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 86 of [She Is Also Cute Today](https://anilist.co/manga/112378) (19:04, 06 February 2023)
+-   📖 Read chapter 1 - 53 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (18:44, 06 February 2023)
 -   📖 Read chapter 1 - 118 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:17, 06 February 2023)
 -   📖 Read chapter 1 - 104 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:06, 06 February 2023)
 -   📖 Read chapter 1 - 428 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:00, 06 February 2023)
@@ -7,7 +9,6 @@
 -   📖 Read chapter 1 - 43 of [Chainsaw Man](https://anilist.co/manga/105778) (06:00, 06 February 2023)
 -   📖 Read chapter 14 - 22 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (17:10, 05 February 2023)
 -   📺 Watched episode 1 - 6 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (04:52, 05 February 2023)
--   📖 Read chapter 3 - 81 of [She Is Also Cute Today](https://anilist.co/manga/112378) (17:57, 04 February 2023)
 -   📖 Read chapter 1 - 83 of [She's Hopeless](https://anilist.co/manga/126944) (10:39, 04 February 2023)
 -   📖 Read chapter 1 - 87 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (07:08, 04 February 2023)
 -   📖 Read chapter 1 - 140 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:40, 04 February 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 31 of [Citrus+](https://anilist.co/manga/103884) (09:53, 16 January 2023)
 -   📖 Read chapter 1 - 50 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:49, 13 January 2023)
 -   📺 Rewatched episode 1 - 4 of [To Love Ru](https://anilist.co/anime/3455) (16:48, 13 January 2023)
--   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (09:45, 13 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
