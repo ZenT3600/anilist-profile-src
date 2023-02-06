@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 57 of [One Room of Happiness](https://anilist.co/manga/100557) (09:06, 06 February 2023)
 -   📖 Read chapter 1 - 43 of [Chainsaw Man](https://anilist.co/manga/105778) (06:00, 06 February 2023)
 -   📖 Read chapter 14 - 22 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (17:10, 05 February 2023)
 -   📺 Watched episode 1 - 6 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (04:52, 05 February 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 50 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:49, 13 January 2023)
 -   📺 Rewatched episode 1 - 4 of [To Love Ru](https://anilist.co/anime/3455) (16:48, 13 January 2023)
 -   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (09:45, 13 January 2023)
--   📺 Watched episode 1 - 19 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (18:16, 10 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
