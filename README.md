@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 58 of [Chainsaw Man](https://anilist.co/manga/105778) (15:30, 07 February 2023)
+-   📖 Read chapter 1 - 61 of [Chainsaw Man](https://anilist.co/manga/105778) (15:37, 07 February 2023)
 -   📖 Read chapter 1 - 96 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (11:30, 07 February 2023)
 -   📖 Read chapter 3 - 91 of [She Is Also Cute Today](https://anilist.co/manga/112378) (21:12, 06 February 2023)
 -   📖 Read chapter 1 - 53 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (18:44, 06 February 2023)
