@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 96 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (11:30, 07 February 2023)
 -   📖 Read chapter 1 - 52 of [Chainsaw Man](https://anilist.co/manga/105778) (06:56, 07 February 2023)
 -   📖 Read chapter 3 - 91 of [She Is Also Cute Today](https://anilist.co/manga/112378) (21:12, 06 February 2023)
 -   📖 Read chapter 1 - 53 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (18:44, 06 February 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 14 - 22 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (17:10, 05 February 2023)
 -   📺 Watched episode 1 - 6 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (04:52, 05 February 2023)
 -   📖 Read chapter 1 - 83 of [She's Hopeless](https://anilist.co/manga/126944) (10:39, 04 February 2023)
--   📖 Read chapter 1 - 87 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (07:08, 04 February 2023)
 -   📖 Read chapter 1 - 140 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:40, 04 February 2023)
 -   📖 Read chapter 1 - 59 of [Call of the Night](https://anilist.co/manga/111233) (06:21, 03 February 2023)
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:08, 03 February 2023)
