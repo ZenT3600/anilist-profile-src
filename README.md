@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 47 of [Got A Room?](https://anilist.co/manga/129808) (18:35, 08 February 2023)
+-   📖 Read chapter 1 - 49 of [Got A Room?](https://anilist.co/manga/129808) (18:41, 08 February 2023)
 -   📖 Read chapter 1 - 79 of [Chainsaw Man](https://anilist.co/manga/105778) (17:23, 08 February 2023)
 -   📖 Read chapter 1 - 37 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:06, 08 February 2023)
 -   📖 Read chapter 3 - 92 of [She Is Also Cute Today](https://anilist.co/manga/112378) (17:03, 07 February 2023)
