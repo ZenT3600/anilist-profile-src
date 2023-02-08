@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 79 of [Chainsaw Man](https://anilist.co/manga/105778) (17:23, 08 February 2023)
 -   📖 Read chapter 1 - 37 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:06, 08 February 2023)
--   📖 Read chapter 1 - 70 of [Chainsaw Man](https://anilist.co/manga/105778) (18:44, 07 February 2023)
 -   📖 Read chapter 3 - 92 of [She Is Also Cute Today](https://anilist.co/manga/112378) (17:03, 07 February 2023)
 -   📖 Read chapter 1 - 96 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (11:30, 07 February 2023)
 -   📖 Read chapter 1 - 53 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (18:44, 06 February 2023)
