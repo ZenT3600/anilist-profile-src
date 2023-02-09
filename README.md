@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 140 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:22, 09 February 2023)
 -   📖 Read chapter 1 - 88 of [Chainsaw Man](https://anilist.co/manga/105778) (06:05, 09 February 2023)
 -   📖 Read chapter 1 - 49 of [Got A Room?](https://anilist.co/manga/129808) (18:41, 08 February 2023)
 -   📖 Read chapter 1 - 37 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:06, 08 February 2023)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 59 of [Call of the Night](https://anilist.co/manga/111233) (06:21, 03 February 2023)
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:08, 03 February 2023)
 -   📖 Read chapter 1 - 57 of [Maybe Meant to Be](https://anilist.co/manga/146139) (22:47, 02 February 2023)
--   📖 Read chapter 1 - 139 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (17:12, 02 February 2023)
 -   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
 -   📖 Read chapter 16 - 49 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:06, 31 January 2023)
 -   📖 Read chapter 1 - 131 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:18, 31 January 2023)
