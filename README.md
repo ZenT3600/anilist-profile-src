@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 93 of [She Is Also Cute Today](https://anilist.co/manga/112378) (08:57, 09 February 2023)
 -   📖 Read chapter 1 - 140 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:22, 09 February 2023)
 -   📖 Read chapter 1 - 88 of [Chainsaw Man](https://anilist.co/manga/105778) (06:05, 09 February 2023)
 -   📖 Read chapter 1 - 49 of [Got A Room?](https://anilist.co/manga/129808) (18:41, 08 February 2023)
 -   📖 Read chapter 1 - 37 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:06, 08 February 2023)
--   📖 Read chapter 3 - 92 of [She Is Also Cute Today](https://anilist.co/manga/112378) (17:03, 07 February 2023)
 -   📖 Read chapter 1 - 96 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (11:30, 07 February 2023)
 -   📖 Read chapter 1 - 53 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (18:44, 06 February 2023)
 -   📖 Read chapter 1 - 118 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:17, 06 February 2023)
