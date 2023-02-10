@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 19 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (12:52, 10 February 2023)
 -   📖 Read chapter 3 - 96 of [She Is Also Cute Today](https://anilist.co/manga/112378) (09:03, 10 February 2023)
 -   📖 Read chapter 1 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (05:23, 10 February 2023)
 -   📖 Read chapter 1 - 26 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (20:28, 09 February 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Kimi to Picopico](https://anilist.co/manga/131287) (05:47, 18 January 2023)
 -   📖 Completed [Oh! Holy](https://anilist.co/manga/86703) (08:42, 17 January 2023)
 -   📖 Read chapter 1 - 140 of [Oh! Holy](https://anilist.co/manga/86703) (08:40, 17 January 2023)
--   📖 Read chapter 1 - 31 of [Citrus+](https://anilist.co/manga/103884) (09:53, 16 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
