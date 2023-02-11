@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:41, 11 February 2023)
 -   📖 Read chapter 1 - 24 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (16:02, 10 February 2023)
 -   📖 Read chapter 3 - 96 of [She Is Also Cute Today](https://anilist.co/manga/112378) (09:03, 10 February 2023)
 -   📖 Read chapter 1 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (05:23, 10 February 2023)
--   📖 Read chapter 1 - 26 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (20:28, 09 February 2023)
 -   📖 Read chapter 1 - 58 of [Maybe Meant to Be](https://anilist.co/manga/146139) (19:04, 09 February 2023)
 -   📖 Read chapter 1 - 141 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:59, 09 February 2023)
 -   📖 Read chapter 1 - 140 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:22, 09 February 2023)
