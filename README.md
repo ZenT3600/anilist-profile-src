@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 29 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:31, 11 February 2023)
+-   📖 Read chapter 1 - 38 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:45, 11 February 2023)
 -   📖 Read chapter 1 - 142 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:23, 11 February 2023)
 -   📖 Read chapter 1 - 430 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (09:20, 11 February 2023)
 -   📖 Read chapter 1 - 84 of [She's Hopeless](https://anilist.co/manga/126944) (05:17, 11 February 2023)
