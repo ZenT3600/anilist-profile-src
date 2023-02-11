@@ -1,12 +1,13 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 29 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:31, 11 February 2023)
+-   📖 Read chapter 1 - 142 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:23, 11 February 2023)
+-   📖 Read chapter 1 - 430 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (09:20, 11 February 2023)
 -   📖 Read chapter 1 - 84 of [She's Hopeless](https://anilist.co/manga/126944) (05:17, 11 February 2023)
 -   📖 Read chapter 1 - 27 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:41, 11 February 2023)
--   📖 Read chapter 1 - 24 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (16:02, 10 February 2023)
 -   📖 Read chapter 3 - 96 of [She Is Also Cute Today](https://anilist.co/manga/112378) (09:03, 10 February 2023)
 -   📖 Read chapter 1 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (05:23, 10 February 2023)
 -   📖 Read chapter 1 - 58 of [Maybe Meant to Be](https://anilist.co/manga/146139) (19:04, 09 February 2023)
--   📖 Read chapter 1 - 141 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:59, 09 February 2023)
 -   📖 Read chapter 1 - 140 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:22, 09 February 2023)
 -   📖 Read chapter 1 - 49 of [Got A Room?](https://anilist.co/manga/129808) (18:41, 08 February 2023)
 -   📖 Read chapter 1 - 37 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:06, 08 February 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 53 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (18:44, 06 February 2023)
 -   📖 Read chapter 1 - 118 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:17, 06 February 2023)
 -   📖 Read chapter 1 - 104 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:06, 06 February 2023)
--   📖 Read chapter 1 - 428 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:00, 06 February 2023)
 -   📖 Read chapter 56 - 64 of [One Room of Happiness](https://anilist.co/manga/100557) (10:06, 06 February 2023)
 -   📖 Read chapter 14 - 22 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (17:10, 05 February 2023)
 -   📺 Watched episode 1 - 6 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (04:52, 05 February 2023)
