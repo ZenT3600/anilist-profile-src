@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 99 of [She Is Also Cute Today](https://anilist.co/manga/112378) (14:41, 12 February 2023)
 -   📖 Read chapter 1 - 15 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (12:35, 12 February 2023)
 -   📖 Read chapter 1 - 142 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:28, 12 February 2023)
 -   📖 Read chapter 1 - 105 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:42, 12 February 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 142 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:23, 11 February 2023)
 -   📖 Read chapter 1 - 84 of [She's Hopeless](https://anilist.co/manga/126944) (05:17, 11 February 2023)
 -   📖 Read chapter 1 - 27 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:41, 11 February 2023)
--   📖 Read chapter 3 - 96 of [She Is Also Cute Today](https://anilist.co/manga/112378) (09:03, 10 February 2023)
 -   📖 Read chapter 1 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (05:23, 10 February 2023)
 -   📖 Read chapter 1 - 58 of [Maybe Meant to Be](https://anilist.co/manga/146139) (19:04, 09 February 2023)
 -   📖 Read chapter 1 - 140 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:22, 09 February 2023)
