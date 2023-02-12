@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 431 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:09, 12 February 2023)
 -   📖 Read chapter 1 - 94 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:15, 12 February 2023)
 -   📺 Watched episode 1 - 7 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (04:40, 12 February 2023)
 -   📖 Read chapter 1 - 38 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:45, 11 February 2023)
 -   📖 Read chapter 1 - 142 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:23, 11 February 2023)
--   📖 Read chapter 1 - 430 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (09:20, 11 February 2023)
 -   📖 Read chapter 1 - 84 of [She's Hopeless](https://anilist.co/manga/126944) (05:17, 11 February 2023)
 -   📖 Read chapter 1 - 27 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:41, 11 February 2023)
 -   📖 Read chapter 3 - 96 of [She Is Also Cute Today](https://anilist.co/manga/112378) (09:03, 10 February 2023)
