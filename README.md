@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 - 50 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:57, 13 February 2023)
+-   📖 Read chapter 16 - 52 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:27, 13 February 2023)
 -   📖 Read chapter 1 - 114 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:00, 13 February 2023)
 -   📖 Read chapter 3 - 99 of [She Is Also Cute Today](https://anilist.co/manga/112378) (14:41, 12 February 2023)
 -   📖 Read chapter 1 - 15 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (12:35, 12 February 2023)
