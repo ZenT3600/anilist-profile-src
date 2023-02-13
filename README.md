@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 50 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:57, 13 February 2023)
 -   📖 Read chapter 1 - 114 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:00, 13 February 2023)
 -   📖 Read chapter 3 - 99 of [She Is Also Cute Today](https://anilist.co/manga/112378) (14:41, 12 February 2023)
 -   📖 Read chapter 1 - 15 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (12:35, 12 February 2023)
@@ -24,7 +25,6 @@
 -   📖 Read chapter 1 - 59 of [Call of the Night](https://anilist.co/manga/111233) (06:21, 03 February 2023)
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:08, 03 February 2023)
 -   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
--   📖 Read chapter 16 - 49 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:06, 31 January 2023)
 -   📖 Read chapter 1 - 131 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:18, 31 January 2023)
 -   📖 Read chapter 1 - 19 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (18:05, 30 January 2023)
 -   📖 Read chapter 8 - 38 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (11:37, 30 January 2023)
