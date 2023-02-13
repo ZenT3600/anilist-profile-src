@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 114 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:00, 13 February 2023)
 -   📖 Read chapter 3 - 99 of [She Is Also Cute Today](https://anilist.co/manga/112378) (14:41, 12 February 2023)
 -   📖 Read chapter 1 - 15 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (12:35, 12 February 2023)
 -   📖 Read chapter 1 - 142 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:28, 12 February 2023)
--   📖 Read chapter 1 - 105 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:42, 12 February 2023)
 -   📖 Read chapter 1 - 431 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:09, 12 February 2023)
 -   📖 Read chapter 1 - 94 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:15, 12 February 2023)
 -   📺 Watched episode 1 - 7 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (04:40, 12 February 2023)
