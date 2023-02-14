@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 - 137 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:30, 14 February 2023)
 -   📖 Read chapter 1 - 132 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:50, 14 February 2023)
 -   📖 Read chapter 14 - 23 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:49, 14 February 2023)
 -   📖 Read chapter 16 - 52 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:27, 13 February 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (11:47, 21 January 2023)
 -   📖 Paused reading [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/manga/124374) (10:23, 19 January 2023)
 -   📖 Read chapter 1 - 88 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:59, 18 January 2023)
--   📖 Plans to read [Kimi to Picopico](https://anilist.co/manga/131287) (05:47, 18 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
