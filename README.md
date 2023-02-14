@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 102 of [She Is Also Cute Today](https://anilist.co/manga/112378) (08:44, 14 February 2023)
 -   📖 Read chapter 1 - 28 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:35, 14 February 2023)
 -   📖 Read chapter 110 - 143 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:37, 14 February 2023)
 -   📖 Read chapter 1 - 132 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:50, 14 February 2023)
 -   📖 Read chapter 14 - 23 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:49, 14 February 2023)
 -   📖 Read chapter 16 - 52 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:27, 13 February 2023)
 -   📖 Read chapter 1 - 114 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:00, 13 February 2023)
--   📖 Read chapter 3 - 99 of [She Is Also Cute Today](https://anilist.co/manga/112378) (14:41, 12 February 2023)
 -   📖 Read chapter 1 - 15 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (12:35, 12 February 2023)
 -   📖 Read chapter 1 - 142 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:28, 12 February 2023)
 -   📖 Read chapter 1 - 431 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:09, 12 February 2023)
