@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 - 72 of [The Way of the Househusband](https://anilist.co/manga/101233) (16:05, 16 February 2023)
 -   📖 Read chapter 3 - 106 of [She Is Also Cute Today](https://anilist.co/manga/112378) (15:01, 16 February 2023)
 -   📖 Read chapter 1 - 143 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:49, 16 February 2023)
 -   📖 Read chapter 1 - 141 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:46, 16 February 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 6 of [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (00:18, 22 January 2023)
 -   📖 Dropped [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (11:51, 21 January 2023)
 -   📖 Plans to read [Tsundere Yakuza and Chippai-chan Kowamoto Gokudo no Dekiai Shiiku](https://anilist.co/manga/132661) (11:47, 21 January 2023)
--   📖 Paused reading [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/manga/124374) (10:23, 19 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
