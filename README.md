@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 112 of [She Is Also Cute Today](https://anilist.co/manga/112378) (17:13, 16 February 2023)
 -   📖 Read chapter 9 - 72 of [The Way of the Househusband](https://anilist.co/manga/101233) (16:05, 16 February 2023)
--   📖 Read chapter 3 - 106 of [She Is Also Cute Today](https://anilist.co/manga/112378) (15:01, 16 February 2023)
 -   📖 Read chapter 1 - 143 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:49, 16 February 2023)
 -   📖 Read chapter 1 - 141 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:46, 16 February 2023)
 -   📖 Read chapter 5 - 31 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (04:21, 16 February 2023)
