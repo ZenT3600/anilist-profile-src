@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 67 of [To Not Die](https://anilist.co/manga/136099) (17:02, 17 February 2023)
+-   📖 Read chapter 1 - 72 of [To Not Die](https://anilist.co/manga/136099) (17:25, 17 February 2023)
 -   📖 Read chapter 1 - 29 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (16:55, 17 February 2023)
 -   📖 Read chapter 1 - 88 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:41, 17 February 2023)
 -   📖 Read chapter 1 - 59 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:36, 17 February 2023)
