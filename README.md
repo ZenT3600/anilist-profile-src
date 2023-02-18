@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 85 of [She's Hopeless](https://anilist.co/manga/126944) (07:12, 18 February 2023)
+-   📖 Read chapter 1 - 144 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:08, 18 February 2023)
 -   📖 Read chapter 1 - 432 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:04, 18 February 2023)
 -   📖 Read chapter 1 - 16 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:23, 18 February 2023)
 -   📖 Read chapter 1 - 158 of [One Piece](https://anilist.co/manga/30013) (20:19, 17 February 2023)
@@ -9,7 +11,6 @@
 -   📖 Read chapter 1 - 59 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:36, 17 February 2023)
 -   📖 Read chapter 3 - 112 of [She Is Also Cute Today](https://anilist.co/manga/112378) (17:13, 16 February 2023)
 -   📖 Read chapter 9 - 72 of [The Way of the Househusband](https://anilist.co/manga/101233) (16:05, 16 February 2023)
--   📖 Read chapter 1 - 143 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:49, 16 February 2023)
 -   📖 Read chapter 1 - 141 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:46, 16 February 2023)
 -   📖 Read chapter 5 - 31 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (04:21, 16 February 2023)
 -   📖 Read chapter 110 - 143 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:37, 14 February 2023)
@@ -21,7 +22,6 @@
 -   📖 Read chapter 1 - 94 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:15, 12 February 2023)
 -   📺 Watched episode 1 - 7 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (04:40, 12 February 2023)
 -   📖 Read chapter 1 - 38 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:45, 11 February 2023)
--   📖 Read chapter 1 - 84 of [She's Hopeless](https://anilist.co/manga/126944) (05:17, 11 February 2023)
 -   📖 Read chapter 1 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (05:23, 10 February 2023)
 -   📖 Read chapter 1 - 49 of [Got A Room?](https://anilist.co/manga/129808) (18:41, 08 February 2023)
 -   📖 Read chapter 1 - 37 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:06, 08 February 2023)
