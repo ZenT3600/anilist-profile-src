@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:53, 19 February 2023)
 -   📺 Watched episode 1 - 7 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (15:58, 19 February 2023)
 -   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:37, 19 February 2023)
 -   📖 Read chapter 1 - 63 of [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:34, 19 February 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 24 of [Mitsuishi-san](https://anilist.co/manga/126488) (05:30, 25 January 2023)
 -   📺 Rewatched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:17, 23 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
--   📖 Read chapter 1 - 28 of [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
