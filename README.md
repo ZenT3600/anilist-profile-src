@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 19 of [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:06, 19 February 2023)
+-   📖 Read chapter 1 - 61 of [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:31, 19 February 2023)
 -   📖 Plans to read [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (06:51, 19 February 2023)
 -   📖 Read chapter 1 - 433 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:20, 19 February 2023)
 -   📖 Completed [She Is Also Cute Today](https://anilist.co/manga/112378) (20:07, 18 February 2023)
