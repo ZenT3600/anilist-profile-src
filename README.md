@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 61 of [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:31, 19 February 2023)
+-   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:37, 19 February 2023)
+-   📖 Read chapter 1 - 63 of [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:34, 19 February 2023)
 -   📖 Plans to read [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (06:51, 19 February 2023)
 -   📖 Read chapter 1 - 433 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:20, 19 February 2023)
 -   📖 Completed [She Is Also Cute Today](https://anilist.co/manga/112378) (20:07, 18 February 2023)
@@ -49,6 +50,5 @@
 -   📺 Rewatched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:17, 23 January 2023)
 -   📖 Completed [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
 -   📖 Read chapter 1 - 28 of [Batsuichi de Nakimushi na Otonari-san Aratame](https://anilist.co/manga/149291) (03:34, 22 January 2023)
--   📖 Completed [Batsuichi de Nakimushi na Otonari-san](https://anilist.co/manga/139841) (02:54, 22 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
