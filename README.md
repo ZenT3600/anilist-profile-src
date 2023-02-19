@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:30, 19 February 2023)
 -   📖 Read chapter 1 - 8 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:17, 19 February 2023)
 -   📺 Watched episode 1 - 7 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (15:58, 19 February 2023)
 -   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:37, 19 February 2023)
@@ -22,7 +23,6 @@
 -   📖 Read chapter 5 - 31 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (04:21, 16 February 2023)
 -   📖 Read chapter 110 - 143 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:37, 14 February 2023)
 -   📖 Read chapter 1 - 132 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:50, 14 February 2023)
--   📖 Read chapter 16 - 52 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:27, 13 February 2023)
 -   📖 Read chapter 1 - 114 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:00, 13 February 2023)
 -   📖 Read chapter 1 - 142 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:28, 12 February 2023)
 -   📖 Read chapter 1 - 94 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:15, 12 February 2023)
