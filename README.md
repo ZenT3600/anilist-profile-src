@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 26 of [The Apothecary Diaries](https://anilist.co/manga/99022) (20:03, 20 February 2023)
 -   📖 Read chapter 1 - 133 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:25, 20 February 2023)
 -   📖 Read chapter 1 - 143 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:23, 20 February 2023)
 -   📖 Read chapter 1 - 105 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:29, 20 February 2023)
--   📖 Read chapter 1 - 21 of [The Apothecary Diaries](https://anilist.co/manga/99022) (08:39, 20 February 2023)
 -   📖 Read chapter 16 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:30, 19 February 2023)
 -   📺 Watched episode 1 - 7 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (15:58, 19 February 2023)
 -   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:37, 19 February 2023)
