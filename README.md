@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 133 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:25, 20 February 2023)
+-   📖 Read chapter 1 - 143 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:23, 20 February 2023)
 -   📖 Read chapter 1 - 105 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:29, 20 February 2023)
 -   📖 Read chapter 1 - 21 of [The Apothecary Diaries](https://anilist.co/manga/99022) (08:39, 20 February 2023)
 -   📖 Read chapter 16 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:30, 19 February 2023)
@@ -23,9 +25,7 @@
 -   📖 Read chapter 1 - 141 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:46, 16 February 2023)
 -   📖 Read chapter 5 - 31 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (04:21, 16 February 2023)
 -   📖 Read chapter 110 - 143 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:37, 14 February 2023)
--   📖 Read chapter 1 - 132 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:50, 14 February 2023)
 -   📖 Read chapter 1 - 114 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:00, 13 February 2023)
--   📖 Read chapter 1 - 142 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:28, 12 February 2023)
 -   📖 Read chapter 1 - 94 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:15, 12 February 2023)
 -   📖 Read chapter 1 - 38 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:45, 11 February 2023)
 -   📖 Read chapter 1 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (05:23, 10 February 2023)
