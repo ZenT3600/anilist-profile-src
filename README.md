@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 105 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:29, 20 February 2023)
 -   📖 Read chapter 1 - 21 of [The Apothecary Diaries](https://anilist.co/manga/99022) (08:39, 20 February 2023)
 -   📖 Read chapter 16 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:30, 19 February 2023)
 -   📺 Watched episode 1 - 7 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (15:58, 19 February 2023)
@@ -32,7 +33,6 @@
 -   📖 Read chapter 1 - 37 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:06, 08 February 2023)
 -   📖 Read chapter 1 - 53 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (18:44, 06 February 2023)
 -   📖 Read chapter 1 - 118 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:17, 06 February 2023)
--   📖 Read chapter 1 - 104 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:06, 06 February 2023)
 -   📖 Read chapter 56 - 64 of [One Room of Happiness](https://anilist.co/manga/100557) (10:06, 06 February 2023)
 -   📖 Read chapter 1 - 59 of [Call of the Night](https://anilist.co/manga/111233) (06:21, 03 February 2023)
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:08, 03 February 2023)
