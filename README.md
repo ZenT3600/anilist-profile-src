@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 142 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:54, 22 February 2023)
 -   📖 Read chapter 1 - 95 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (14:52, 21 February 2023)
 -   📖 Read chapter 1 - 32 of [The Apothecary Diaries](https://anilist.co/manga/99022) (14:32, 21 February 2023)
 -   📖 Read chapter 1 - 133 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:25, 20 February 2023)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 1 - 88 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:41, 17 February 2023)
 -   📖 Read chapter 1 - 59 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:36, 17 February 2023)
 -   📖 Read chapter 9 - 72 of [The Way of the Househusband](https://anilist.co/manga/101233) (16:05, 16 February 2023)
--   📖 Read chapter 1 - 141 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:46, 16 February 2023)
 -   📖 Read chapter 5 - 31 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (04:21, 16 February 2023)
 -   📖 Read chapter 110 - 143 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:37, 14 February 2023)
 -   📖 Read chapter 1 - 114 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:00, 13 February 2023)
