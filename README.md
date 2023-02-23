@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 38 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:14, 23 February 2023)
 -   📖 Read chapter 1 - 145 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:39, 23 February 2023)
 -   📖 Read chapter 1 - 36 of [The Apothecary Diaries](https://anilist.co/manga/99022) (09:43, 22 February 2023)
 -   📖 Read chapter 1 - 142 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:54, 22 February 2023)
@@ -30,7 +31,6 @@
 -   📖 Read chapter 1 - 38 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:45, 11 February 2023)
 -   📖 Read chapter 1 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (05:23, 10 February 2023)
 -   📖 Read chapter 1 - 49 of [Got A Room?](https://anilist.co/manga/129808) (18:41, 08 February 2023)
--   📖 Read chapter 1 - 37 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (09:06, 08 February 2023)
 -   📖 Read chapter 1 - 53 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (18:44, 06 February 2023)
 -   📖 Read chapter 1 - 118 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:17, 06 February 2023)
 -   📖 Read chapter 56 - 64 of [One Room of Happiness](https://anilist.co/manga/100557) (10:06, 06 February 2023)
