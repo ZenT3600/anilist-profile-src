@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 73 of [To Not Die](https://anilist.co/manga/136099) (06:36, 25 February 2023)
+-   📖 Read chapter 1 - 30 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:28, 25 February 2023)
 -   📖 Read chapter 14 - 25 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:54, 25 February 2023)
 -   📖 Read chapter 1 - 52 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:00, 24 February 2023)
 -   📖 Read chapter 1 - 38 of [The Apothecary Diaries](https://anilist.co/manga/99022) (05:22, 24 February 2023)
@@ -23,8 +25,6 @@
 -   📖 Read chapter 1 - 17 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (10:49, 18 February 2023)
 -   📖 Read chapter 1 - 85 of [She's Hopeless](https://anilist.co/manga/126944) (07:12, 18 February 2023)
 -   📖 Read chapter 1 - 158 of [One Piece](https://anilist.co/manga/30013) (20:19, 17 February 2023)
--   📖 Read chapter 1 - 72 of [To Not Die](https://anilist.co/manga/136099) (17:25, 17 February 2023)
--   📖 Read chapter 1 - 29 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (16:55, 17 February 2023)
 -   📖 Read chapter 1 - 88 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:41, 17 February 2023)
 -   📖 Read chapter 9 - 72 of [The Way of the Househusband](https://anilist.co/manga/101233) (16:05, 16 February 2023)
 -   📖 Read chapter 5 - 31 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (04:21, 16 February 2023)
