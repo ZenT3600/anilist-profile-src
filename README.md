@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 25 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:54, 25 February 2023)
 -   📖 Read chapter 1 - 52 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:00, 24 February 2023)
 -   📖 Read chapter 1 - 38 of [The Apothecary Diaries](https://anilist.co/manga/99022) (05:22, 24 February 2023)
 -   📖 Read chapter 1 - 54 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:07, 24 February 2023)
@@ -20,7 +21,6 @@
 -   📖 Completed [She Is Also Cute Today](https://anilist.co/manga/112378) (20:07, 18 February 2023)
 -   📖 Read chapter 3 - 124 of [She Is Also Cute Today](https://anilist.co/manga/112378) (20:06, 18 February 2023)
 -   📖 Read chapter 1 - 17 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (10:49, 18 February 2023)
--   📖 Read chapter 14 - 24 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (10:48, 18 February 2023)
 -   📖 Read chapter 1 - 85 of [She's Hopeless](https://anilist.co/manga/126944) (07:12, 18 February 2023)
 -   📖 Read chapter 1 - 158 of [One Piece](https://anilist.co/manga/30013) (20:19, 17 February 2023)
 -   📖 Read chapter 1 - 72 of [To Not Die](https://anilist.co/manga/136099) (17:25, 17 February 2023)
