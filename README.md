@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 53 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:31, 25 February 2023)
+-   📖 Read chapter 1 - 63 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:54, 25 February 2023)
 -   📖 Read chapter 1 - 86 of [She's Hopeless](https://anilist.co/manga/126944) (07:28, 25 February 2023)
 -   📖 Read chapter 1 - 73 of [To Not Die](https://anilist.co/manga/136099) (06:36, 25 February 2023)
 -   📖 Read chapter 1 - 30 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:28, 25 February 2023)
