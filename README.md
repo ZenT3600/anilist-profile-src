@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:54, 25 February 2023)
+-   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:53, 25 February 2023)
 -   📖 Completed [Aisei Tenshi Love Mary: Akusei Jutai](https://anilist.co/manga/113620) (16:16, 25 February 2023)
 -   📖 Read chapter 1 - 63 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:54, 25 February 2023)
 -   📖 Read chapter 1 - 86 of [She's Hopeless](https://anilist.co/manga/126944) (07:28, 25 February 2023)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [Got A Room?](https://anilist.co/manga/129808) (15:07, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:46, 25 January 2023)
 -   📖 Read chapter 1 - 90 of [Solo Leveling](https://anilist.co/manga/105398) (13:45, 25 January 2023)
--   📖 Read chapter 1 - 24 of [Mitsuishi-san](https://anilist.co/manga/126488) (05:30, 25 January 2023)
--   📺 Rewatched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:17, 23 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
