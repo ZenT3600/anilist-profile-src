@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 74 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (15:05, 26 February 2023)
+-   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
+-   📖 Read chapter 1 - 76 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (15:16, 26 February 2023)
 -   📖 Read chapter 1 - 119 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:43, 26 February 2023)
 -   📖 Read chapter 1 - 13 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (09:41, 26 February 2023)
 -   📖 Read chapter 1 - 146 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:01, 26 February 2023)
@@ -41,7 +42,6 @@
 -   📖 Read chapter 56 - 68 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:08, 03 February 2023)
 -   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
 -   📖 Read chapter 1 - 19 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (18:05, 30 January 2023)
--   📖 Read chapter 8 - 38 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (11:37, 30 January 2023)
 -   📖 Plans to read [Tokyo Aliens](https://anilist.co/manga/123657) (09:02, 30 January 2023)
 -   📺 Completed [Fight Song](https://anilist.co/anime/159110) (07:44, 30 January 2023)
 -   📺 Completed [How to Eat Life](https://anilist.co/anime/118857) (07:44, 30 January 2023)
