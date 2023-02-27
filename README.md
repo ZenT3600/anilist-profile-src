@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 134 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:16, 27 February 2023)
 -   📖 Read chapter 1 - 14 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:13, 27 February 2023)
 -   📖 Read chapter 1 - 78 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (05:36, 27 February 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 38 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:14, 23 February 2023)
 -   📖 Read chapter 1 - 142 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:54, 22 February 2023)
 -   📖 Read chapter 1 - 95 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (14:52, 21 February 2023)
--   📖 Read chapter 1 - 133 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:25, 20 February 2023)
 -   📖 Read chapter 1 - 143 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:23, 20 February 2023)
 -   📖 Read chapter 1 - 105 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:29, 20 February 2023)
 -   📖 Read chapter 16 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:30, 19 February 2023)
