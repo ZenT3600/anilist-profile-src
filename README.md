@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 78 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (05:36, 27 February 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
--   📖 Read chapter 1 - 76 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (15:16, 26 February 2023)
 -   📖 Read chapter 1 - 119 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:43, 26 February 2023)
 -   📖 Read chapter 1 - 13 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (09:41, 26 February 2023)
 -   📖 Read chapter 1 - 146 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:01, 26 February 2023)
