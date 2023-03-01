@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 85 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:05, 01 March 2023)
 -   📺 Watched episode 1 - 9 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (13:44, 28 February 2023)
--   📖 Read chapter 1 - 80 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (05:44, 28 February 2023)
 -   📖 Read chapter 1 - 134 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:16, 27 February 2023)
 -   📖 Read chapter 1 - 14 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:13, 27 February 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
