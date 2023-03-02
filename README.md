@@ -1,12 +1,13 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 147 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:08, 02 March 2023)
+-   📖 Read chapter 1 - 143 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:01, 02 March 2023)
 -   📖 Read chapter 1 - 85 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:05, 01 March 2023)
 -   📺 Watched episode 1 - 9 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (13:44, 28 February 2023)
 -   📖 Read chapter 1 - 134 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:16, 27 February 2023)
 -   📖 Read chapter 1 - 14 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:13, 27 February 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
 -   📖 Read chapter 1 - 119 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:43, 26 February 2023)
--   📖 Read chapter 1 - 146 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:01, 26 February 2023)
 -   📖 Read chapter 1 - 435 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:57, 26 February 2023)
 -   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:53, 25 February 2023)
 -   📖 Completed [Aisei Tenshi Love Mary: Akusei Jutai](https://anilist.co/manga/113620) (16:16, 25 February 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 54 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:07, 24 February 2023)
 -   📖 Read chapter 1 - 60 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:24, 24 February 2023)
 -   📖 Read chapter 1 - 38 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:14, 23 February 2023)
--   📖 Read chapter 1 - 142 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:54, 22 February 2023)
 -   📖 Read chapter 1 - 95 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (14:52, 21 February 2023)
 -   📖 Read chapter 1 - 143 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:23, 20 February 2023)
 -   📖 Read chapter 1 - 105 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:29, 20 February 2023)
