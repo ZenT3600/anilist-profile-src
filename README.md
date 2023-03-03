@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 18 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (17:33, 03 March 2023)
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📺 Plans to watch [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📖 Read chapter 1 - 74 of [To Not Die](https://anilist.co/manga/136099) (13:52, 03 March 2023)
@@ -30,7 +31,6 @@
 -   📖 Plans to read [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (06:51, 19 February 2023)
 -   📖 Completed [She Is Also Cute Today](https://anilist.co/manga/112378) (20:07, 18 February 2023)
 -   📖 Read chapter 3 - 124 of [She Is Also Cute Today](https://anilist.co/manga/112378) (20:06, 18 February 2023)
--   📖 Read chapter 1 - 17 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (10:49, 18 February 2023)
 -   📖 Read chapter 1 - 158 of [One Piece](https://anilist.co/manga/30013) (20:19, 17 February 2023)
 -   📖 Read chapter 1 - 88 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:41, 17 February 2023)
 -   📖 Read chapter 9 - 72 of [The Way of the Househusband](https://anilist.co/manga/101233) (16:05, 16 February 2023)
