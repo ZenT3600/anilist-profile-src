@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 74 of [To Not Die](https://anilist.co/manga/136099) (13:52, 03 March 2023)
 -   📖 Read chapter 1 - 61 of [Maybe Meant to Be](https://anilist.co/manga/146139) (11:48, 03 March 2023)
 -   📖 Read chapter 1 - 147 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:08, 02 March 2023)
 -   📖 Read chapter 1 - 143 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:01, 02 March 2023)
@@ -13,7 +14,6 @@
 -   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:53, 25 February 2023)
 -   📖 Completed [Aisei Tenshi Love Mary: Akusei Jutai](https://anilist.co/manga/113620) (16:16, 25 February 2023)
 -   📖 Read chapter 1 - 86 of [She's Hopeless](https://anilist.co/manga/126944) (07:28, 25 February 2023)
--   📖 Read chapter 1 - 73 of [To Not Die](https://anilist.co/manga/136099) (06:36, 25 February 2023)
 -   📖 Read chapter 1 - 30 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:28, 25 February 2023)
 -   📖 Read chapter 14 - 25 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:54, 25 February 2023)
 -   📖 Read chapter 1 - 38 of [The Apothecary Diaries](https://anilist.co/manga/99022) (05:22, 24 February 2023)
