@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 61 of [Maybe Meant to Be](https://anilist.co/manga/146139) (11:48, 03 March 2023)
 -   📖 Read chapter 1 - 147 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:08, 02 March 2023)
 -   📖 Read chapter 1 - 143 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:01, 02 March 2023)
 -   📖 Read chapter 1 - 85 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:05, 01 March 2023)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 14 - 25 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:54, 25 February 2023)
 -   📖 Read chapter 1 - 38 of [The Apothecary Diaries](https://anilist.co/manga/99022) (05:22, 24 February 2023)
 -   📖 Read chapter 1 - 54 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:07, 24 February 2023)
--   📖 Read chapter 1 - 60 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:24, 24 February 2023)
 -   📖 Read chapter 1 - 38 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:14, 23 February 2023)
 -   📖 Read chapter 1 - 95 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (14:52, 21 February 2023)
 -   📖 Read chapter 1 - 143 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:23, 20 February 2023)
