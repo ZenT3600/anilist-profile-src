@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
 -   📖 Read chapter 1 - 436 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:13, 05 March 2023)
 -   📺 Watched episode 1 - 10 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (05:45, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
@@ -49,6 +50,5 @@
 -   📺 Completed [How to Eat Life](https://anilist.co/anime/118857) (07:44, 30 January 2023)
 -   📖 Plans to read [She Is Also Cute Today](https://anilist.co/manga/112378) (04:57, 30 January 2023)
 -   📖 Read chapter 1 - 42 of [Sweet Home](https://anilist.co/manga/100954) (05:53, 28 January 2023)
--   📖 Plans to read [Got A Room?](https://anilist.co/manga/129808) (15:07, 25 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
