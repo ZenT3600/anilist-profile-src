@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (05:45, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
 -   📖 Read chapter 14 - 26 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (15:14, 04 March 2023)
 -   📖 Read chapter 1 - 87 of [She's Hopeless](https://anilist.co/manga/126944) (05:50, 04 March 2023)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 61 of [Maybe Meant to Be](https://anilist.co/manga/146139) (11:48, 03 March 2023)
 -   📖 Read chapter 1 - 143 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:01, 02 March 2023)
 -   📖 Read chapter 1 - 85 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:05, 01 March 2023)
--   📺 Watched episode 1 - 9 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (13:44, 28 February 2023)
 -   📖 Read chapter 1 - 134 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:16, 27 February 2023)
 -   📖 Read chapter 1 - 14 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:13, 27 February 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
