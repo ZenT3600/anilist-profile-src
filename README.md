@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 437 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:54, 06 March 2023)
+-   📖 Read chapter 56 - 76 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:53, 06 March 2023)
 -   📖 Plans to read [Kaka Kano: Kakawatte wa Ikenai Type no Musume ga Kanojo ni Natta](https://anilist.co/manga/153904) (16:54, 06 March 2023)
--   📖 Read chapter 56 - 74 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:10, 06 March 2023)
 -   📖 Read chapter 1 - 106 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:46, 06 March 2023)
 -   📖 Read chapter 1 - 15 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:13, 06 March 2023)
 -   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
--   📖 Read chapter 1 - 436 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:13, 05 March 2023)
 -   📺 Watched episode 1 - 10 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (05:45, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
 -   📖 Read chapter 14 - 26 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (15:14, 04 March 2023)
