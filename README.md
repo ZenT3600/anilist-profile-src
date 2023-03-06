@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 56 - 71 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:55, 06 March 2023)
+-   📖 Read chapter 56 - 74 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:10, 06 March 2023)
+-   📖 Read chapter 1 - 106 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:46, 06 March 2023)
 -   📖 Read chapter 1 - 15 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:13, 06 March 2023)
 -   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
 -   📖 Read chapter 1 - 436 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:13, 05 March 2023)
@@ -27,7 +28,6 @@
 -   📖 Read chapter 1 - 38 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:14, 23 February 2023)
 -   📖 Read chapter 1 - 95 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (14:52, 21 February 2023)
 -   📖 Read chapter 1 - 143 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:23, 20 February 2023)
--   📖 Read chapter 1 - 105 of [Love’s in Sight!](https://anilist.co/manga/107445) (12:29, 20 February 2023)
 -   📖 Read chapter 16 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:30, 19 February 2023)
 -   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:37, 19 February 2023)
 -   📖 Read chapter 1 - 63 of [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:34, 19 February 2023)
