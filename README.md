@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Tobioriyou to Shiteiru Joshikousei wo Tasuketara Dounaru no ka?](https://anilist.co/manga/141425) (13:50, 07 March 2023)
 -   📖 Read chapter 1 - 96 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (12:53, 07 March 2023)
 -   📖 Read chapter 1 - 144 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:31, 07 March 2023)
 -   📖 Read chapter 1 - 437 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (17:54, 06 March 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Tokyo Aliens](https://anilist.co/manga/123657) (09:02, 30 January 2023)
 -   📺 Completed [Fight Song](https://anilist.co/anime/159110) (07:44, 30 January 2023)
 -   📺 Completed [How to Eat Life](https://anilist.co/anime/118857) (07:44, 30 January 2023)
--   📖 Plans to read [She Is Also Cute Today](https://anilist.co/manga/112378) (04:57, 30 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
