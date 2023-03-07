@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [High School of the Dead](https://anilist.co/anime/8074) (19:01, 07 March 2023)
 -   📺 Plans to watch [High School of the Dead](https://anilist.co/anime/8074) (16:10, 07 March 2023)
 -   📖 Plans to read [Tobioriyou to Shiteiru Joshikousei wo Tasuketara Dounaru no ka?](https://anilist.co/manga/141425) (13:50, 07 March 2023)
 -   📖 Read chapter 1 - 96 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (12:53, 07 March 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
 -   📖 Read chapter 1 - 19 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (18:05, 30 January 2023)
 -   📖 Plans to read [Tokyo Aliens](https://anilist.co/manga/123657) (09:02, 30 January 2023)
--   📺 Completed [Fight Song](https://anilist.co/anime/159110) (07:44, 30 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
