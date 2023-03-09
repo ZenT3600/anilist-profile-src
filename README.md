@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 9 of [High School of the Dead](https://anilist.co/anime/8074) (13:23, 09 March 2023)
+-   📺 Watched episode 1 - 11 of [High School of the Dead](https://anilist.co/anime/8074) (17:34, 09 March 2023)
 -   📖 Read chapter 1 - 144 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:10, 09 March 2023)
 -   📖 Read chapter 1 - 149 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 09 March 2023)
 -   📖 Plans to read [I Am a Hero](https://anilist.co/manga/44440) (12:10, 08 March 2023)
