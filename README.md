@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [High School of the Dead](https://anilist.co/anime/8074) (17:52, 09 March 2023)
 -   📺 Watched episode 1 - 11 of [High School of the Dead](https://anilist.co/anime/8074) (17:34, 09 March 2023)
 -   📖 Read chapter 1 - 144 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:10, 09 March 2023)
 -   📖 Read chapter 1 - 149 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 09 March 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 56 - 64 of [One Room of Happiness](https://anilist.co/manga/100557) (10:06, 06 February 2023)
 -   📖 Read chapter 1 - 59 of [Call of the Night](https://anilist.co/manga/111233) (06:21, 03 February 2023)
 -   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
--   📖 Read chapter 1 - 19 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (18:05, 30 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
