@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 149 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 09 March 2023)
 -   📺 Watched episode 1 - 7 of [High School of the Dead](https://anilist.co/anime/8074) (17:32, 08 March 2023)
 -   📖 Plans to read [I Am a Hero](https://anilist.co/manga/44440) (12:10, 08 March 2023)
 -   📺 Plans to watch [High School of the Dead](https://anilist.co/anime/8074) (16:10, 07 March 2023)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
 -   📖 Read chapter 14 - 26 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (15:14, 04 March 2023)
 -   📖 Read chapter 1 - 87 of [She's Hopeless](https://anilist.co/manga/126944) (05:50, 04 March 2023)
--   📖 Read chapter 1 - 148 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:46, 04 March 2023)
 -   📖 Read chapter 1 - 31 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (20:10, 03 March 2023)
 -   📖 Read chapter 1 - 89 of [My Dress-Up Darling](https://anilist.co/manga/101583) (20:06, 03 March 2023)
 -   📖 Read chapter 1 - 18 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (17:33, 03 March 2023)
