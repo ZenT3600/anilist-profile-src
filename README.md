@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 144 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:10, 09 March 2023)
 -   📖 Read chapter 1 - 149 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 09 March 2023)
 -   📺 Watched episode 1 - 7 of [High School of the Dead](https://anilist.co/anime/8074) (17:32, 08 March 2023)
 -   📖 Plans to read [I Am a Hero](https://anilist.co/manga/44440) (12:10, 08 March 2023)
@@ -24,7 +25,6 @@
 -   📺 Plans to watch [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📖 Read chapter 1 - 74 of [To Not Die](https://anilist.co/manga/136099) (13:52, 03 March 2023)
 -   📖 Read chapter 1 - 61 of [Maybe Meant to Be](https://anilist.co/manga/146139) (11:48, 03 March 2023)
--   📖 Read chapter 1 - 143 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:01, 02 March 2023)
 -   📖 Read chapter 1 - 85 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:05, 01 March 2023)
 -   📖 Read chapter 1 - 134 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:16, 27 February 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
