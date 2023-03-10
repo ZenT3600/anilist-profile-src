@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:10, 10 March 2023)
 -   📖 Read chapter 1 - 75 of [To Not Die](https://anilist.co/manga/136099) (06:18, 10 March 2023)
 -   📖 Read chapter 1 - 19 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:08, 10 March 2023)
 -   📖 Read chapter 1 - 145 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:07, 10 March 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 49 of [Got A Room?](https://anilist.co/manga/129808) (18:41, 08 February 2023)
 -   📖 Read chapter 56 - 64 of [One Room of Happiness](https://anilist.co/manga/100557) (10:06, 06 February 2023)
 -   📖 Read chapter 1 - 59 of [Call of the Night](https://anilist.co/manga/111233) (06:21, 03 February 2023)
--   📖 Plans to read [Chainsaw Man](https://anilist.co/manga/105778) (19:44, 01 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
