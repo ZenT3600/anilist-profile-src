@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 75 of [To Not Die](https://anilist.co/manga/136099) (06:18, 10 March 2023)
 -   📖 Read chapter 1 - 19 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:08, 10 March 2023)
 -   📖 Read chapter 1 - 145 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:07, 10 March 2023)
 -   📖 Read chapter 1 - 62 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:38, 10 March 2023)
@@ -25,7 +26,6 @@
 -   📖 Read chapter 1 - 89 of [My Dress-Up Darling](https://anilist.co/manga/101583) (20:06, 03 March 2023)
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📺 Plans to watch [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
--   📖 Read chapter 1 - 74 of [To Not Die](https://anilist.co/manga/136099) (13:52, 03 March 2023)
 -   📖 Read chapter 1 - 85 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:05, 01 March 2023)
 -   📖 Read chapter 1 - 134 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:16, 27 February 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
