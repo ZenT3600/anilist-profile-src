@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (08:53, 11 March 2023)
 -   📖 Read chapter 1 - 88 of [She's Hopeless](https://anilist.co/manga/126944) (08:03, 11 March 2023)
 -   📖 Read chapter 1 - 150 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:59, 11 March 2023)
 -   📖 Read chapter 1 - 438 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:22, 11 March 2023)
 -   📖 Read chapter 1 - 20 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:10, 10 March 2023)
 -   📖 Read chapter 1 - 75 of [To Not Die](https://anilist.co/manga/136099) (06:18, 10 March 2023)
--   📖 Read chapter 1 - 19 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:08, 10 March 2023)
 -   📖 Read chapter 1 - 145 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:07, 10 March 2023)
 -   📖 Read chapter 1 - 62 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:38, 10 March 2023)
 -   📺 Completed [High School of the Dead](https://anilist.co/anime/8074) (17:52, 09 March 2023)
