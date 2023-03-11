@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 88 of [She's Hopeless](https://anilist.co/manga/126944) (08:03, 11 March 2023)
+-   📖 Read chapter 1 - 150 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:59, 11 March 2023)
 -   📖 Read chapter 1 - 438 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:22, 11 March 2023)
 -   📖 Read chapter 1 - 20 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:10, 10 March 2023)
 -   📖 Read chapter 1 - 75 of [To Not Die](https://anilist.co/manga/136099) (06:18, 10 March 2023)
@@ -9,7 +11,6 @@
 -   📺 Completed [High School of the Dead](https://anilist.co/anime/8074) (17:52, 09 March 2023)
 -   📺 Watched episode 1 - 11 of [High School of the Dead](https://anilist.co/anime/8074) (17:34, 09 March 2023)
 -   📖 Read chapter 1 - 144 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:10, 09 March 2023)
--   📖 Read chapter 1 - 149 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 09 March 2023)
 -   📖 Plans to read [I Am a Hero](https://anilist.co/manga/44440) (12:10, 08 March 2023)
 -   📺 Plans to watch [High School of the Dead](https://anilist.co/anime/8074) (16:10, 07 March 2023)
 -   📖 Plans to read [Tobioriyou to Shiteiru Joshikousei wo Tasuketara Dounaru no ka?](https://anilist.co/manga/141425) (13:50, 07 March 2023)
@@ -22,7 +23,6 @@
 -   📺 Watched episode 1 - 10 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (05:45, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
 -   📖 Read chapter 14 - 26 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (15:14, 04 March 2023)
--   📖 Read chapter 1 - 87 of [She's Hopeless](https://anilist.co/manga/126944) (05:50, 04 March 2023)
 -   📖 Read chapter 1 - 31 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (20:10, 03 March 2023)
 -   📖 Read chapter 1 - 89 of [My Dress-Up Darling](https://anilist.co/manga/101583) (20:06, 03 March 2023)
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
