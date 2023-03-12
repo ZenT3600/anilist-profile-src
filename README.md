@@ -1,12 +1,13 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
+-   📖 Read chapter 1 - 439 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📺 Watched episode 1 - 11 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (09:56, 12 March 2023)
 -   📖 Read chapter 14 - 27 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:30, 12 March 2023)
 -   📖 Read chapter 1 - 32 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (14:07, 11 March 2023)
 -   📖 Read chapter 1 - 20 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (08:53, 11 March 2023)
 -   📖 Read chapter 1 - 88 of [She's Hopeless](https://anilist.co/manga/126944) (08:03, 11 March 2023)
 -   📖 Read chapter 1 - 150 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:59, 11 March 2023)
--   📖 Read chapter 1 - 438 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:22, 11 March 2023)
 -   📖 Read chapter 1 - 20 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:10, 10 March 2023)
 -   📖 Read chapter 1 - 75 of [To Not Die](https://anilist.co/manga/136099) (06:18, 10 March 2023)
 -   📖 Read chapter 1 - 145 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:07, 10 March 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (05:23, 10 February 2023)
 -   📖 Read chapter 1 - 49 of [Got A Room?](https://anilist.co/manga/129808) (18:41, 08 February 2023)
 -   📖 Read chapter 56 - 64 of [One Room of Happiness](https://anilist.co/manga/100557) (10:06, 06 February 2023)
--   📖 Read chapter 1 - 59 of [Call of the Night](https://anilist.co/manga/111233) (06:21, 03 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
