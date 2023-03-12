@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (09:56, 12 March 2023)
 -   📖 Read chapter 14 - 27 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:30, 12 March 2023)
 -   📖 Read chapter 1 - 32 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (14:07, 11 March 2023)
 -   📖 Read chapter 1 - 20 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (08:53, 11 March 2023)
@@ -22,7 +23,6 @@
 -   📖 Read chapter 1 - 106 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:46, 06 March 2023)
 -   📖 Read chapter 1 - 15 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:13, 06 March 2023)
 -   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
--   📺 Watched episode 1 - 10 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (05:45, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
 -   📖 Read chapter 1 - 89 of [My Dress-Up Darling](https://anilist.co/manga/101583) (20:06, 03 March 2023)
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
