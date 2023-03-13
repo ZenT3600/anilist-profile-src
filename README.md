@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 135 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:09, 13 March 2023)
+-   📖 Read chapter 1 - 16 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:08, 13 March 2023)
 -   📖 Dropped [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📖 Read chapter 1 - 439 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📺 Watched episode 1 - 11 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (09:56, 12 March 2023)
@@ -22,14 +24,12 @@
 -   📖 Read chapter 56 - 76 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:53, 06 March 2023)
 -   📖 Plans to read [Kaka Kano: Kakawatte wa Ikenai Type no Musume ga Kanojo ni Natta](https://anilist.co/manga/153904) (16:54, 06 March 2023)
 -   📖 Read chapter 1 - 106 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:46, 06 March 2023)
--   📖 Read chapter 1 - 15 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:13, 06 March 2023)
 -   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
 -   📖 Read chapter 1 - 89 of [My Dress-Up Darling](https://anilist.co/manga/101583) (20:06, 03 March 2023)
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📺 Plans to watch [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📖 Read chapter 1 - 85 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:05, 01 March 2023)
--   📖 Read chapter 1 - 134 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:16, 27 February 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
 -   📖 Read chapter 1 - 119 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:43, 26 February 2023)
 -   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:53, 25 February 2023)
