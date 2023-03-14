@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 86 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (11:31, 14 March 2023)
 -   📖 Read chapter 1 - 39 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (10:37, 14 March 2023)
 -   📖 Read chapter 1 - 135 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:09, 13 March 2023)
 -   📖 Read chapter 1 - 16 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:08, 13 March 2023)
@@ -30,7 +31,6 @@
 -   📖 Read chapter 1 - 89 of [My Dress-Up Darling](https://anilist.co/manga/101583) (20:06, 03 March 2023)
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📺 Plans to watch [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
--   📖 Read chapter 1 - 85 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:05, 01 March 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
 -   📖 Read chapter 1 - 119 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:43, 26 February 2023)
 -   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:53, 25 February 2023)
