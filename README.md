@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 100 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:32, 15 March 2023)
+-   📖 Read chapter 1 - 104 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:42, 15 March 2023)
 -   📖 Read chapter 1 - 39 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (10:37, 14 March 2023)
 -   📖 Read chapter 1 - 135 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:09, 13 March 2023)
 -   📖 Read chapter 1 - 16 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:08, 13 March 2023)
