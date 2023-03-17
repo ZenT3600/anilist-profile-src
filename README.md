@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 90 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:14, 17 March 2023)
 -   📖 Read chapter 1 - 63 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:59, 17 March 2023)
 -   📖 Read chapter 1 - 151 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:41, 16 March 2023)
 -   📖 Read chapter 1 - 145 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:43, 16 March 2023)
@@ -28,7 +29,6 @@
 -   📖 Read chapter 1 - 106 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:46, 06 March 2023)
 -   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
--   📖 Read chapter 1 - 89 of [My Dress-Up Darling](https://anilist.co/manga/101583) (20:06, 03 March 2023)
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📺 Plans to watch [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
