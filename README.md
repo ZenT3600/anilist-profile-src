@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 76 of [To Not Die](https://anilist.co/manga/136099) (18:44, 17 March 2023)
 -   📖 Paused reading [Martial Peak](https://anilist.co/manga/104494) (14:01, 17 March 2023)
 -   📖 Read chapter 1 - 90 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:14, 17 March 2023)
 -   📖 Read chapter 1 - 63 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:59, 17 March 2023)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 20 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (08:53, 11 March 2023)
 -   📖 Read chapter 1 - 88 of [She's Hopeless](https://anilist.co/manga/126944) (08:03, 11 March 2023)
 -   📖 Read chapter 1 - 20 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:10, 10 March 2023)
--   📖 Read chapter 1 - 75 of [To Not Die](https://anilist.co/manga/136099) (06:18, 10 March 2023)
 -   📖 Read chapter 1 - 145 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:07, 10 March 2023)
 -   📺 Completed [High School of the Dead](https://anilist.co/anime/8074) (17:52, 09 March 2023)
 -   📺 Watched episode 1 - 11 of [High School of the Dead](https://anilist.co/anime/8074) (17:34, 09 March 2023)
