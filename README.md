@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
 -   📖 Read chapter 1 - 17 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (11:27, 20 March 2023)
 -   📖 Read chapter 1 - 33 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (18:36, 19 March 2023)
 -   📖 Read chapter 1 - 50 of [Got A Room?](https://anilist.co/manga/129808) (15:10, 19 March 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 5 - 31 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (04:21, 16 February 2023)
 -   📖 Read chapter 110 - 143 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:37, 14 February 2023)
 -   📖 Read chapter 1 - 114 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:00, 13 February 2023)
--   📖 Read chapter 1 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (05:23, 10 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
