@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Food Wars! Shokugeki no Soma](https://anilist.co/anime/20923) (11:40, 21 March 2023)
+-   📺 Dropped [Rosario + Vampire](https://anilist.co/anime/2993) (11:39, 21 March 2023)
 -   📖 Read chapter 1 - 136 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:05, 21 March 2023)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
 -   📖 Read chapter 1 - 17 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (11:27, 20 March 2023)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 158 of [One Piece](https://anilist.co/manga/30013) (20:19, 17 February 2023)
 -   📖 Read chapter 9 - 72 of [The Way of the Househusband](https://anilist.co/manga/101233) (16:05, 16 February 2023)
 -   📖 Read chapter 5 - 31 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (04:21, 16 February 2023)
--   📖 Read chapter 110 - 143 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:37, 14 February 2023)
--   📖 Read chapter 1 - 114 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (06:00, 13 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
