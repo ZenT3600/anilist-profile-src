@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 40 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:07, 22 March 2023)
+-   📖 Read chapter 1 - 107 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 22 March 2023)
 -   📺 Plans to watch [Food Wars! Shokugeki no Soma](https://anilist.co/anime/20923) (11:40, 21 March 2023)
 -   📺 Dropped [Rosario + Vampire](https://anilist.co/anime/2993) (11:39, 21 March 2023)
 -   📖 Read chapter 1 - 136 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:05, 21 March 2023)
@@ -16,7 +18,6 @@
 -   📖 Read chapter 1 - 63 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:59, 17 March 2023)
 -   📖 Read chapter 1 - 145 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:43, 16 March 2023)
 -   📖 Read chapter 1 - 104 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:42, 15 March 2023)
--   📖 Read chapter 1 - 39 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (10:37, 14 March 2023)
 -   📖 Dropped [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📖 Read chapter 1 - 439 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📺 Watched episode 1 - 11 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (09:56, 12 March 2023)
@@ -31,7 +32,6 @@
 -   📖 Read chapter 1 - 96 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (12:53, 07 March 2023)
 -   📖 Read chapter 56 - 76 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:53, 06 March 2023)
 -   📖 Plans to read [Kaka Kano: Kakawatte wa Ikenai Type no Musume ga Kanojo ni Natta](https://anilist.co/manga/153904) (16:54, 06 March 2023)
--   📖 Read chapter 1 - 106 of [Love’s in Sight!](https://anilist.co/manga/107445) (11:46, 06 March 2023)
 -   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
