@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 77 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:14, 22 March 2023)
 -   📖 Read chapter 1 - 40 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:07, 22 March 2023)
 -   📖 Read chapter 1 - 107 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 22 March 2023)
 -   📺 Plans to watch [Food Wars! Shokugeki no Soma](https://anilist.co/anime/20923) (11:40, 21 March 2023)
@@ -30,7 +31,6 @@
 -   📺 Plans to watch [High School of the Dead](https://anilist.co/anime/8074) (16:10, 07 March 2023)
 -   📖 Plans to read [Tobioriyou to Shiteiru Joshikousei wo Tasuketara Dounaru no ka?](https://anilist.co/manga/141425) (13:50, 07 March 2023)
 -   📖 Read chapter 1 - 96 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (12:53, 07 March 2023)
--   📖 Read chapter 56 - 76 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:53, 06 March 2023)
 -   📖 Plans to read [Kaka Kano: Kakawatte wa Ikenai Type no Musume ga Kanojo ni Natta](https://anilist.co/manga/153904) (16:54, 06 March 2023)
 -   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
