@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 146 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:11, 23 March 2023)
 -   📖 Read chapter 1 - 153 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:06, 23 March 2023)
 -   📖 Read chapter 1 - 120 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:02, 22 March 2023)
 -   📖 Read chapter 1 - 97 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:59, 22 March 2023)
@@ -19,7 +20,6 @@
 -   📖 Paused reading [Martial Peak](https://anilist.co/manga/104494) (14:01, 17 March 2023)
 -   📖 Read chapter 1 - 90 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:14, 17 March 2023)
 -   📖 Read chapter 1 - 63 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:59, 17 March 2023)
--   📖 Read chapter 1 - 145 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:43, 16 March 2023)
 -   📖 Read chapter 1 - 104 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:42, 15 March 2023)
 -   📖 Dropped [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📖 Read chapter 1 - 439 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
