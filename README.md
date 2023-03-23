@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 153 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:06, 23 March 2023)
 -   📖 Read chapter 1 - 120 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:02, 22 March 2023)
 -   📖 Read chapter 1 - 97 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:59, 22 March 2023)
 -   📖 Read chapter 56 - 77 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:14, 22 March 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 50 of [Got A Room?](https://anilist.co/manga/129808) (15:10, 19 March 2023)
 -   📖 Read chapter 14 - 28 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (20:52, 18 March 2023)
 -   📖 Read chapter 1 - 89 of [She's Hopeless](https://anilist.co/manga/126944) (05:58, 18 March 2023)
--   📖 Read chapter 1 - 152 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:56, 18 March 2023)
 -   📖 Read chapter 1 - 76 of [To Not Die](https://anilist.co/manga/136099) (18:44, 17 March 2023)
 -   📖 Paused reading [Martial Peak](https://anilist.co/manga/104494) (14:01, 17 March 2023)
 -   📖 Read chapter 1 - 90 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:14, 17 March 2023)
