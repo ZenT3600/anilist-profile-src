@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Promised Neverland Season 2](https://anilist.co/anime/108725) (11:32, 25 March 2023)
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://anilist.co/anime/163134) (11:02, 25 March 2023)
 -   📖 Read chapter 1 - 90 of [She's Hopeless](https://anilist.co/manga/126944) (05:28, 25 March 2023)
 -   📖 Read chapter 1 - 51 of [Got A Room?](https://anilist.co/manga/129808) (18:13, 24 March 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [She Is Also Cute Today](https://anilist.co/manga/112378) (20:07, 18 February 2023)
 -   📖 Read chapter 3 - 124 of [She Is Also Cute Today](https://anilist.co/manga/112378) (20:06, 18 February 2023)
 -   📖 Read chapter 1 - 158 of [One Piece](https://anilist.co/manga/30013) (20:19, 17 February 2023)
--   📖 Read chapter 9 - 72 of [The Way of the Househusband](https://anilist.co/manga/101233) (16:05, 16 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
