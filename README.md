@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 - 148 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:59, 26 March 2023)
+-   📖 Read chapter 1 - 21 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (05:55, 26 March 2023)
+-   📖 Read chapter 1 - 34 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:53, 26 March 2023)
 -   📖 Read chapter 1 - 154 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:16, 26 March 2023)
 -   📺 Plans to watch [The Promised Neverland Season 2](https://anilist.co/anime/108725) (11:32, 25 March 2023)
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://anilist.co/anime/163134) (11:02, 25 March 2023)
@@ -17,7 +20,6 @@
 -   📖 Read chapter 1 - 136 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:05, 21 March 2023)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
 -   📖 Read chapter 1 - 17 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (11:27, 20 March 2023)
--   📖 Read chapter 1 - 33 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (18:36, 19 March 2023)
 -   📖 Read chapter 14 - 28 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (20:52, 18 March 2023)
 -   📖 Paused reading [Martial Peak](https://anilist.co/manga/104494) (14:01, 17 March 2023)
 -   📖 Read chapter 1 - 90 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:14, 17 March 2023)
@@ -26,7 +28,6 @@
 -   📖 Dropped [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📖 Read chapter 1 - 439 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📺 Watched episode 1 - 11 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (09:56, 12 March 2023)
--   📖 Read chapter 1 - 20 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (08:53, 11 March 2023)
 -   📖 Read chapter 1 - 20 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:10, 10 March 2023)
 -   📖 Read chapter 1 - 145 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:07, 10 March 2023)
 -   📺 Completed [High School of the Dead](https://anilist.co/anime/8074) (17:52, 09 March 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (06:51, 19 February 2023)
 -   📖 Completed [She Is Also Cute Today](https://anilist.co/manga/112378) (20:07, 18 February 2023)
 -   📖 Read chapter 3 - 124 of [She Is Also Cute Today](https://anilist.co/manga/112378) (20:06, 18 February 2023)
--   📖 Read chapter 1 - 158 of [One Piece](https://anilist.co/manga/30013) (20:19, 17 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
