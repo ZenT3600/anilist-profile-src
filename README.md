@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 29 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (07:49, 26 March 2023)
 -   📖 Read chapter 110 - 148 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:59, 26 March 2023)
 -   📖 Read chapter 1 - 21 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (05:55, 26 March 2023)
 -   📖 Read chapter 1 - 34 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:53, 26 March 2023)
@@ -20,7 +21,6 @@
 -   📖 Read chapter 1 - 136 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:05, 21 March 2023)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
 -   📖 Read chapter 1 - 17 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (11:27, 20 March 2023)
--   📖 Read chapter 14 - 28 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (20:52, 18 March 2023)
 -   📖 Paused reading [Martial Peak](https://anilist.co/manga/104494) (14:01, 17 March 2023)
 -   📖 Read chapter 1 - 90 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:14, 17 March 2023)
 -   📖 Read chapter 1 - 63 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:59, 17 March 2023)
