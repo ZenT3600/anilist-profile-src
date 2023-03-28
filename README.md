@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (18:09, 28 March 2023)
 -   📖 Read chapter 1 - 18 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:40, 28 March 2023)
 -   📖 Read chapter 1 - 137 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:09, 28 March 2023)
 -   📖 Plans to read [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:09, 27 March 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 16 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:30, 19 February 2023)
 -   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san](https://anilist.co/manga/139465) (07:37, 19 February 2023)
 -   📖 Read chapter 1 - 63 of [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san](https://anilist.co/manga/139465) (07:34, 19 February 2023)
--   📖 Plans to read [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san](https://anilist.co/manga/139465) (06:51, 19 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
