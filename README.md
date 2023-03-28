@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 137 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:09, 28 March 2023)
 -   📖 Plans to read [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:09, 27 March 2023)
 -   📖 Read chapter 1 - 53 of [Sweet Home](https://anilist.co/manga/100954) (10:29, 26 March 2023)
 -   📖 Read chapter 14 - 29 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (07:49, 26 March 2023)
@@ -20,7 +21,6 @@
 -   📖 Read chapter 1 - 107 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 22 March 2023)
 -   📺 Plans to watch [Food Wars! Shokugeki no Soma](https://anilist.co/anime/20923) (11:40, 21 March 2023)
 -   📺 Dropped [Rosario + Vampire](https://anilist.co/anime/2993) (11:39, 21 March 2023)
--   📖 Read chapter 1 - 136 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:05, 21 March 2023)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
 -   📖 Read chapter 1 - 17 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (11:27, 20 March 2023)
 -   📖 Paused reading [Martial Peak](https://anilist.co/manga/104494) (14:01, 17 March 2023)
