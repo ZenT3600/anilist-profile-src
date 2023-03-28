@@ -47,8 +47,8 @@
 -   📖 Completed [Aisei Tenshi Love Mary: Akusei Jutai](https://anilist.co/manga/113620) (16:16, 25 February 2023)
 -   📖 Read chapter 1 - 54 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:07, 24 February 2023)
 -   📖 Read chapter 16 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:30, 19 February 2023)
--   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:37, 19 February 2023)
--   📖 Read chapter 1 - 63 of [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (07:34, 19 February 2023)
--   📖 Plans to read [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san  ](https://anilist.co/manga/139465) (06:51, 19 February 2023)
+-   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san](https://anilist.co/manga/139465) (07:37, 19 February 2023)
+-   📖 Read chapter 1 - 63 of [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san](https://anilist.co/manga/139465) (07:34, 19 February 2023)
+-   📖 Plans to read [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san](https://anilist.co/manga/139465) (06:51, 19 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
