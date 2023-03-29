@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (12:12, 29 March 2023)
+-   📖 Read chapter 1 - 21 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (12:16, 29 March 2023)
 -   📖 Read chapter 1 - 18 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:40, 28 March 2023)
 -   📖 Read chapter 1 - 137 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:09, 28 March 2023)
 -   📖 Plans to read [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:09, 27 March 2023)
