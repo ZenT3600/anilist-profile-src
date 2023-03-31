@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 78 of [To Not Die](https://anilist.co/manga/136099) (04:13, 31 March 2023)
 -   📖 Read chapter 1 - 147 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:48, 30 March 2023)
 -   📖 Read chapter 1 - 155 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:40, 30 March 2023)
 -   📖 Read chapter 1 - 21 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (12:16, 29 March 2023)
@@ -15,7 +16,6 @@
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://anilist.co/anime/163134) (11:02, 25 March 2023)
 -   📖 Read chapter 1 - 90 of [She's Hopeless](https://anilist.co/manga/126944) (05:28, 25 March 2023)
 -   📖 Read chapter 1 - 51 of [Got A Room?](https://anilist.co/manga/129808) (18:13, 24 March 2023)
--   📖 Read chapter 1 - 77 of [To Not Die](https://anilist.co/manga/136099) (17:56, 24 March 2023)
 -   📖 Read chapter 1 - 120 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:02, 22 March 2023)
 -   📖 Read chapter 1 - 97 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:59, 22 March 2023)
 -   📖 Read chapter 56 - 77 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:14, 22 March 2023)
