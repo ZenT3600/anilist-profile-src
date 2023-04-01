@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 22 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (18:25, 01 April 2023)
 -   📖 Plans to read [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (09:30, 01 April 2023)
 -   📖 Read chapter 1 - 91 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:29, 01 April 2023)
 -   📖 Read chapter 1 - 35 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:20, 01 April 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 53 of [Sweet Home](https://anilist.co/manga/100954) (10:29, 26 March 2023)
 -   📖 Read chapter 14 - 29 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (07:49, 26 March 2023)
 -   📖 Read chapter 110 - 148 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:59, 26 March 2023)
--   📖 Read chapter 1 - 21 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (05:55, 26 March 2023)
 -   📺 Plans to watch [The Promised Neverland Season 2](https://anilist.co/anime/108725) (11:32, 25 March 2023)
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://anilist.co/anime/163134) (11:02, 25 March 2023)
 -   📖 Read chapter 1 - 90 of [She's Hopeless](https://anilist.co/manga/126944) (05:28, 25 March 2023)
