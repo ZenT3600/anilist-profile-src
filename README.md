@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 55 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:54, 01 April 2023)
 -   📖 Read chapter 1 - 22 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (18:25, 01 April 2023)
 -   📖 Plans to read [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (09:30, 01 April 2023)
 -   📖 Read chapter 1 - 91 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:29, 01 April 2023)
@@ -48,7 +49,6 @@
 -   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:53, 25 February 2023)
 -   📖 Completed [Aisei Tenshi Love Mary: Akusei Jutai](https://anilist.co/manga/113620) (16:16, 25 February 2023)
 -   📖 Read chapter 1 - 54 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:07, 24 February 2023)
--   📖 Read chapter 16 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (20:30, 19 February 2023)
 -   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san](https://anilist.co/manga/139465) (07:37, 19 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
