@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 56 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (13:43, 02 April 2023)
 -   📖 Read chapter 1 of [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (05:20, 02 April 2023)
 -   📖 Read chapter 1 - 91 of [She's Hopeless](https://anilist.co/manga/126944) (03:58, 02 April 2023)
 -   📖 Read chapter 1 - 156 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:54, 02 April 2023)
--   📖 Read chapter 16 - 55 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:54, 01 April 2023)
 -   📖 Read chapter 1 - 22 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (18:25, 01 April 2023)
 -   📖 Plans to read [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (09:30, 01 April 2023)
 -   📖 Read chapter 1 - 91 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:29, 01 April 2023)
