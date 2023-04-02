@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 91 of [She's Hopeless](https://anilist.co/manga/126944) (03:58, 02 April 2023)
+-   📖 Read chapter 1 - 156 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:54, 02 April 2023)
 -   📖 Read chapter 16 - 55 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:54, 01 April 2023)
 -   📖 Read chapter 1 - 22 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (18:25, 01 April 2023)
 -   📖 Plans to read [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (09:30, 01 April 2023)
@@ -8,7 +10,6 @@
 -   📖 Read chapter 1 - 65 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:47, 31 March 2023)
 -   📖 Read chapter 1 - 78 of [To Not Die](https://anilist.co/manga/136099) (04:13, 31 March 2023)
 -   📖 Read chapter 1 - 147 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:48, 30 March 2023)
--   📖 Read chapter 1 - 155 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:40, 30 March 2023)
 -   📖 Read chapter 1 - 21 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (12:16, 29 March 2023)
 -   📖 Read chapter 1 - 18 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:40, 28 March 2023)
 -   📖 Read chapter 1 - 137 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:09, 28 March 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 110 - 148 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:59, 26 March 2023)
 -   📺 Plans to watch [The Promised Neverland Season 2](https://anilist.co/anime/108725) (11:32, 25 March 2023)
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://anilist.co/anime/163134) (11:02, 25 March 2023)
--   📖 Read chapter 1 - 90 of [She's Hopeless](https://anilist.co/manga/126944) (05:28, 25 March 2023)
 -   📖 Read chapter 1 - 51 of [Got A Room?](https://anilist.co/manga/129808) (18:13, 24 March 2023)
 -   📖 Read chapter 1 - 120 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:02, 22 March 2023)
 -   📖 Read chapter 1 - 97 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:59, 22 March 2023)
