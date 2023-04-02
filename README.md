@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (05:20, 02 April 2023)
 -   📖 Read chapter 1 - 91 of [She's Hopeless](https://anilist.co/manga/126944) (03:58, 02 April 2023)
 -   📖 Read chapter 1 - 156 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:54, 02 April 2023)
 -   📖 Read chapter 16 - 55 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:54, 01 April 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:53, 25 February 2023)
 -   📖 Completed [Aisei Tenshi Love Mary: Akusei Jutai](https://anilist.co/manga/113620) (16:16, 25 February 2023)
 -   📖 Read chapter 1 - 54 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:07, 24 February 2023)
--   📖 Completed [Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san](https://anilist.co/manga/139465) (07:37, 19 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
