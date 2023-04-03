@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 108 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:45, 03 April 2023)
 -   📖 Read chapter 16 - 56 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (13:43, 02 April 2023)
 -   📖 Read chapter 1 of [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (05:20, 02 April 2023)
 -   📖 Read chapter 1 - 91 of [She's Hopeless](https://anilist.co/manga/126944) (03:58, 02 April 2023)
@@ -25,7 +26,6 @@
 -   📖 Read chapter 1 - 97 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:59, 22 March 2023)
 -   📖 Read chapter 56 - 77 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:14, 22 March 2023)
 -   📖 Read chapter 1 - 40 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:07, 22 March 2023)
--   📖 Read chapter 1 - 107 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 22 March 2023)
 -   📺 Plans to watch [Food Wars! Shokugeki no Soma](https://anilist.co/anime/20923) (11:40, 21 March 2023)
 -   📺 Dropped [Rosario + Vampire](https://anilist.co/anime/2993) (11:39, 21 March 2023)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
