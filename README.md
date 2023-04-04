@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 78 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:31, 04 April 2023)
+-   📖 Read chapter 1 - 19 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:24, 04 April 2023)
 -   📖 Read chapter 1 - 108 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:45, 03 April 2023)
 -   📖 Read chapter 16 - 56 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (13:43, 02 April 2023)
 -   📖 Read chapter 1 of [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (05:20, 02 April 2023)
@@ -13,7 +15,6 @@
 -   📖 Read chapter 1 - 78 of [To Not Die](https://anilist.co/manga/136099) (04:13, 31 March 2023)
 -   📖 Read chapter 1 - 147 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:48, 30 March 2023)
 -   📖 Read chapter 1 - 21 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (12:16, 29 March 2023)
--   📖 Read chapter 1 - 18 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:40, 28 March 2023)
 -   📖 Read chapter 1 - 137 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:09, 28 March 2023)
 -   📖 Plans to read [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:09, 27 March 2023)
 -   📖 Read chapter 1 - 53 of [Sweet Home](https://anilist.co/manga/100954) (10:29, 26 March 2023)
@@ -24,7 +25,6 @@
 -   📖 Read chapter 1 - 51 of [Got A Room?](https://anilist.co/manga/129808) (18:13, 24 March 2023)
 -   📖 Read chapter 1 - 120 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:02, 22 March 2023)
 -   📖 Read chapter 1 - 97 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:59, 22 March 2023)
--   📖 Read chapter 56 - 77 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:14, 22 March 2023)
 -   📖 Read chapter 1 - 40 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:07, 22 March 2023)
 -   📺 Plans to watch [Food Wars! Shokugeki no Soma](https://anilist.co/anime/20923) (11:40, 21 March 2023)
 -   📺 Dropped [Rosario + Vampire](https://anilist.co/anime/2993) (11:39, 21 March 2023)
