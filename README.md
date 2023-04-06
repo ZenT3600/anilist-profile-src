@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 60 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (09:15, 06 April 2023)
 -   📖 Read chapter 1 - 157 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:26, 06 April 2023)
--   📖 Read chapter 16 - 57 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (18:39, 04 April 2023)
 -   📖 Read chapter 56 - 78 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:31, 04 April 2023)
 -   📖 Read chapter 1 - 19 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:24, 04 April 2023)
 -   📖 Read chapter 1 - 108 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:45, 03 April 2023)
