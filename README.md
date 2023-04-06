@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Ni no Kuni: Hikari no Koukeisha to Neko no Ouji](https://anilist.co/manga/118300) (12:30, 06 April 2023)
 -   📖 Read chapter 14 - 30 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (12:11, 06 April 2023)
 -   📖 Read chapter 1 - 148 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:10, 06 April 2023)
 -   📖 Read chapter 16 - 60 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (09:15, 06 April 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
 -   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:53, 25 February 2023)
 -   📖 Completed [Aisei Tenshi Love Mary: Akusei Jutai](https://anilist.co/manga/113620) (16:16, 25 February 2023)
--   📖 Read chapter 1 - 54 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:07, 24 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
