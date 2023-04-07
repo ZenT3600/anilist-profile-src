@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (20:00, 07 April 2023)
 -   📖 Read chapter 1 - 32 of [Citrus+](https://anilist.co/manga/103884) (15:56, 07 April 2023)
 -   📖 Read chapter 1 - 79 of [To Not Die](https://anilist.co/manga/136099) (12:50, 07 April 2023)
 -   📖 Read chapter 1 - 66 of [Maybe Meant to Be](https://anilist.co/manga/146139) (12:44, 07 April 2023)
@@ -49,6 +50,5 @@
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📺 Plans to watch [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 -   📖 Read chapter 8 - 39 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (15:24, 26 February 2023)
--   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:53, 25 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
