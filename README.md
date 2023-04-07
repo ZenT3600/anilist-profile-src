@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 79 of [To Not Die](https://anilist.co/manga/136099) (12:50, 07 April 2023)
 -   📖 Read chapter 1 - 66 of [Maybe Meant to Be](https://anilist.co/manga/146139) (12:44, 07 April 2023)
 -   📖 Plans to read [Ni no Kuni: Hikari no Koukeisha to Neko no Ouji](https://anilist.co/manga/118300) (12:30, 06 April 2023)
 -   📖 Read chapter 14 - 30 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (12:11, 06 April 2023)
@@ -15,7 +16,6 @@
 -   📖 Plans to read [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (09:30, 01 April 2023)
 -   📖 Read chapter 1 - 91 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:29, 01 April 2023)
 -   📖 Read chapter 1 - 35 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:20, 01 April 2023)
--   📖 Read chapter 1 - 78 of [To Not Die](https://anilist.co/manga/136099) (04:13, 31 March 2023)
 -   📖 Read chapter 1 - 21 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (12:16, 29 March 2023)
 -   📖 Read chapter 1 - 137 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:09, 28 March 2023)
 -   📖 Plans to read [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:09, 27 March 2023)
