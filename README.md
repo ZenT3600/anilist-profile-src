@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 56 - 67 of [One Room of Happiness](https://anilist.co/manga/100557) (18:59, 08 April 2023)
+-   📖 Completed [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
+-   📖 Read chapter 56 - 68 of [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 -   📖 Read chapter 1 - 158 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:10, 08 April 2023)
 -   📖 Read chapter 14 - 31 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (07:05, 08 April 2023)
 -   📺 Watched episode 1 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (20:00, 07 April 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
 -   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
--   📺 Plans to watch [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
