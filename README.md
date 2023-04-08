@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 158 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:10, 08 April 2023)
 -   📖 Read chapter 14 - 31 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (07:05, 08 April 2023)
 -   📺 Watched episode 1 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (20:00, 07 April 2023)
 -   📖 Read chapter 1 - 32 of [Citrus+](https://anilist.co/manga/103884) (15:56, 07 April 2023)
@@ -8,7 +9,6 @@
 -   📖 Plans to read [Ni no Kuni: Hikari no Koukeisha to Neko no Ouji](https://anilist.co/manga/118300) (12:30, 06 April 2023)
 -   📖 Read chapter 1 - 148 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:10, 06 April 2023)
 -   📖 Read chapter 16 - 60 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (09:15, 06 April 2023)
--   📖 Read chapter 1 - 157 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:26, 06 April 2023)
 -   📖 Read chapter 56 - 78 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:31, 04 April 2023)
 -   📖 Read chapter 1 - 19 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:24, 04 April 2023)
 -   📖 Read chapter 1 - 108 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:45, 03 April 2023)
