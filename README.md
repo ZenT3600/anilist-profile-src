@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:35, 10 April 2023)
 -   📖 Read chapter 1 - 23 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:37, 09 April 2023)
 -   📖 Completed [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 -   📖 Read chapter 56 - 68 of [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 148 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:10, 06 April 2023)
 -   📖 Read chapter 16 - 60 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (09:15, 06 April 2023)
 -   📖 Read chapter 56 - 78 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:31, 04 April 2023)
--   📖 Read chapter 1 - 19 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:24, 04 April 2023)
 -   📖 Read chapter 1 - 108 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:45, 03 April 2023)
 -   📖 Read chapter 1 of [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (05:20, 02 April 2023)
 -   📖 Read chapter 1 - 91 of [She's Hopeless](https://anilist.co/manga/126944) (03:58, 02 April 2023)
