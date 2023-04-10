@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 - 149 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (20:07, 10 April 2023)
 -   📖 Read chapter 1 - 20 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:35, 10 April 2023)
 -   📖 Read chapter 1 - 23 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:37, 09 April 2023)
 -   📖 Completed [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
@@ -24,7 +25,6 @@
 -   📖 Read chapter 1 - 137 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:09, 28 March 2023)
 -   📖 Plans to read [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:09, 27 March 2023)
 -   📖 Read chapter 1 - 53 of [Sweet Home](https://anilist.co/manga/100954) (10:29, 26 March 2023)
--   📖 Read chapter 110 - 148 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:59, 26 March 2023)
 -   📺 Plans to watch [The Promised Neverland Season 2](https://anilist.co/anime/108725) (11:32, 25 March 2023)
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://anilist.co/anime/163134) (11:02, 25 March 2023)
 -   📖 Read chapter 1 - 51 of [Got A Room?](https://anilist.co/manga/129808) (18:13, 24 March 2023)
