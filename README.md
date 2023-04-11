@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (17:20, 11 April 2023)
+-   📺 Watched episode 1 - 2 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (17:39, 11 April 2023)
 -   📖 Plans to read [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:44, 11 April 2023)
 -   📖 Read chapter 110 - 149 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (20:07, 10 April 2023)
 -   📖 Read chapter 1 - 20 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:35, 10 April 2023)
