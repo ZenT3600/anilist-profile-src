@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:44, 11 April 2023)
 -   📖 Read chapter 110 - 149 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (20:07, 10 April 2023)
 -   📖 Read chapter 1 - 20 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:35, 10 April 2023)
 -   📖 Read chapter 1 - 23 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:37, 09 April 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Kaka Kano: Kakawatte wa Ikenai Type no Musume ga Kanojo ni Natta](https://anilist.co/manga/153904) (16:54, 06 March 2023)
 -   📖 Completed [Kakyuu Majutsushi, Inmon ni Somaru](https://anilist.co/manga/153574) (11:09, 05 March 2023)
 -   📖 Read chapter 1 - 42 of [The Apothecary Diaries](https://anilist.co/manga/99022) (16:48, 04 March 2023)
--   📺 Completed [Mesudachi The Animation](https://anilist.co/anime/154076) (15:11, 03 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
