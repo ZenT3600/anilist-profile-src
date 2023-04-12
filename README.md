@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Takopi's Original Sin](https://anilist.co/manga/142568) (13:09, 12 April 2023)
 -   📖 Completed [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:02, 12 April 2023)
 -   📖 Read chapter 1 - 138 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (07:45, 12 April 2023)
 -   📺 Watched episode 1 - 2 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (17:39, 11 April 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [I Am a Hero](https://anilist.co/manga/44440) (12:10, 08 March 2023)
 -   📺 Plans to watch [High School of the Dead](https://anilist.co/anime/8074) (16:10, 07 March 2023)
 -   📖 Plans to read [Tobioriyou to Shiteiru Joshikousei wo Tasuketara Dounaru no ka?](https://anilist.co/manga/141425) (13:50, 07 March 2023)
--   📖 Plans to read [Kaka Kano: Kakawatte wa Ikenai Type no Musume ga Kanojo ni Natta](https://anilist.co/manga/153904) (16:54, 06 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
