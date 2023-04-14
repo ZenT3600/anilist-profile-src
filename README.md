@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 24 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:58, 14 April 2023)
 -   📖 Read chapter 1 - 52 of [Got A Room?](https://anilist.co/manga/129808) (14:44, 13 April 2023)
 -   📖 Read chapter 1 - 149 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:44, 13 April 2023)
 -   📖 Read chapter 1 - 36 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (12:40, 13 April 2023)
@@ -11,7 +12,6 @@
 -   📖 Plans to read [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:44, 11 April 2023)
 -   📖 Read chapter 110 - 149 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (20:07, 10 April 2023)
 -   📖 Read chapter 1 - 20 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:35, 10 April 2023)
--   📖 Read chapter 1 - 23 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:37, 09 April 2023)
 -   📖 Completed [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 -   📖 Read chapter 56 - 68 of [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 -   📖 Read chapter 14 - 31 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (07:05, 08 April 2023)
