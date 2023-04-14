@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 80 of [To Not Die](https://anilist.co/manga/136099) (17:11, 14 April 2023)
 -   📖 Read chapter 1 - 67 of [Maybe Meant to Be](https://anilist.co/manga/146139) (09:12, 14 April 2023)
 -   📖 Read chapter 1 - 121 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:09, 14 April 2023)
 -   📖 Read chapter 1 - 24 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:58, 14 April 2023)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 14 - 31 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (07:05, 08 April 2023)
 -   📺 Watched episode 1 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (20:00, 07 April 2023)
 -   📖 Read chapter 1 - 32 of [Citrus+](https://anilist.co/manga/103884) (15:56, 07 April 2023)
--   📖 Read chapter 1 - 79 of [To Not Die](https://anilist.co/manga/136099) (12:50, 07 April 2023)
 -   📖 Plans to read [Ni no Kuni: Hikari no Koukeisha to Neko no Ouji](https://anilist.co/manga/118300) (12:30, 06 April 2023)
 -   📖 Read chapter 16 - 60 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (09:15, 06 April 2023)
 -   📖 Read chapter 56 - 78 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:31, 04 April 2023)
