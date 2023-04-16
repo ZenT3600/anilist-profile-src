@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 114 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (15:33, 15 April 2023)
+-   📖 Read chapter 1 - 117 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:04, 16 April 2023)
 -   📖 Read chapter 1 - 93 of [She's Hopeless](https://anilist.co/manga/126944) (05:46, 15 April 2023)
 -   📖 Read chapter 1 - 160 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:39, 15 April 2023)
 -   📺 Watched episode 1 - 2 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (19:58, 14 April 2023)
