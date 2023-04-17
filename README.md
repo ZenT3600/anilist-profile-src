@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 32 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (17:45, 17 April 2023)
 -   📖 Read chapter 1 - 21 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:49, 17 April 2023)
 -   📖 Read chapter 1 - 122 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (10:46, 17 April 2023)
 -   📖 Read chapter 1 - 41 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (03:16, 17 April 2023)
@@ -21,7 +22,6 @@
 -   📖 Read chapter 110 - 149 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (20:07, 10 April 2023)
 -   📖 Completed [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 -   📖 Read chapter 56 - 68 of [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
--   📖 Read chapter 14 - 31 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (07:05, 08 April 2023)
 -   📖 Read chapter 1 - 32 of [Citrus+](https://anilist.co/manga/103884) (15:56, 07 April 2023)
 -   📖 Plans to read [Ni no Kuni: Hikari no Koukeisha to Neko no Ouji](https://anilist.co/manga/118300) (12:30, 06 April 2023)
 -   📖 Read chapter 16 - 60 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (09:15, 06 April 2023)
