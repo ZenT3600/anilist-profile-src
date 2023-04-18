@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 123 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (22:15, 18 April 2023)
 -   📖 Read chapter 14 - 32 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (17:45, 17 April 2023)
 -   📖 Read chapter 1 - 21 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:49, 17 April 2023)
--   📖 Read chapter 1 - 122 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (10:46, 17 April 2023)
 -   📖 Read chapter 1 - 41 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (03:16, 17 April 2023)
 -   📖 Read chapter 1 - 128 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:21, 16 April 2023)
 -   📖 Read chapter 1 - 93 of [She's Hopeless](https://anilist.co/manga/126944) (05:46, 15 April 2023)
