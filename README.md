@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 98 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:36, 19 April 2023)
 -   📖 Read chapter 1 - 123 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (22:15, 18 April 2023)
 -   📖 Read chapter 14 - 32 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (17:45, 17 April 2023)
 -   📖 Read chapter 1 - 21 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:49, 17 April 2023)
@@ -35,7 +36,6 @@
 -   📖 Read chapter 1 - 53 of [Sweet Home](https://anilist.co/manga/100954) (10:29, 26 March 2023)
 -   📺 Plans to watch [The Promised Neverland Season 2](https://anilist.co/anime/108725) (11:32, 25 March 2023)
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://anilist.co/anime/163134) (11:02, 25 March 2023)
--   📖 Read chapter 1 - 97 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:59, 22 March 2023)
 -   📺 Plans to watch [Food Wars! Shokugeki no Soma](https://anilist.co/anime/20923) (11:40, 21 March 2023)
 -   📺 Dropped [Rosario + Vampire](https://anilist.co/anime/2993) (11:39, 21 March 2023)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
