@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 97 of [Solo Leveling](https://anilist.co/manga/105398) (12:19, 19 April 2023)
 -   📖 Read chapter 1 - 98 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:36, 19 April 2023)
 -   📖 Read chapter 1 - 123 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (22:15, 18 April 2023)
 -   📖 Read chapter 14 - 32 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (17:45, 17 April 2023)
@@ -49,6 +50,5 @@
 -   📺 Watched episode 1 - 11 of [High School of the Dead](https://anilist.co/anime/8074) (17:34, 09 March 2023)
 -   📖 Plans to read [I Am a Hero](https://anilist.co/manga/44440) (12:10, 08 March 2023)
 -   📺 Plans to watch [High School of the Dead](https://anilist.co/anime/8074) (16:10, 07 March 2023)
--   📖 Plans to read [Tobioriyou to Shiteiru Joshikousei wo Tasuketara Dounaru no ka?](https://anilist.co/manga/141425) (13:50, 07 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
