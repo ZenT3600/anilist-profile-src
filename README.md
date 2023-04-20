@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 150 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:35, 20 April 2023)
 -   📖 Read chapter 1 - 161 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 20 April 2023)
 -   📖 Read chapter 1 - 97 of [Solo Leveling](https://anilist.co/manga/105398) (12:19, 19 April 2023)
 -   📖 Read chapter 1 - 98 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:36, 19 April 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 67 of [Maybe Meant to Be](https://anilist.co/manga/146139) (09:12, 14 April 2023)
 -   📖 Read chapter 1 - 24 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:58, 14 April 2023)
 -   📖 Read chapter 1 - 52 of [Got A Room?](https://anilist.co/manga/129808) (14:44, 13 April 2023)
--   📖 Read chapter 1 - 149 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:44, 13 April 2023)
 -   📖 Read chapter 1 - 36 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (12:40, 13 April 2023)
 -   📺 Watched episode 1 - 3 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (15:57, 12 April 2023)
 -   📖 Plans to read [Takopi's Original Sin](https://anilist.co/manga/142568) (13:09, 12 April 2023)
