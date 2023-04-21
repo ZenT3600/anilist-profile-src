@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (18:10, 21 April 2023)
 -   📖 Read chapter 1 - 81 of [To Not Die](https://anilist.co/manga/136099) (06:41, 21 April 2023)
 -   📖 Read chapter 1 - 68 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:35, 21 April 2023)
 -   📖 Read chapter 1 - 150 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:35, 20 April 2023)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 41 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (03:16, 17 April 2023)
 -   📖 Read chapter 1 - 128 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:21, 16 April 2023)
 -   📖 Read chapter 1 - 93 of [She's Hopeless](https://anilist.co/manga/126944) (05:46, 15 April 2023)
--   📺 Watched episode 1 - 2 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (19:58, 14 April 2023)
 -   📖 Read chapter 1 - 24 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:58, 14 April 2023)
 -   📖 Read chapter 1 - 52 of [Got A Room?](https://anilist.co/manga/129808) (14:44, 13 April 2023)
 -   📖 Read chapter 1 - 36 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (12:40, 13 April 2023)
