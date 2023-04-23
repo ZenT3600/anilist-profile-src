@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 152 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:52, 23 April 2023)
 -   📖 Read chapter 1 - 94 of [She's Hopeless](https://anilist.co/manga/126944) (19:27, 22 April 2023)
 -   📖 Read chapter 1 - 37 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (19:22, 22 April 2023)
--   📖 Read chapter 1 - 151 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (19:19, 22 April 2023)
 -   📖 Read chapter 16 - 62 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (19:09, 22 April 2023)
 -   📖 Read chapter 14 - 33 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (16:32, 22 April 2023)
 -   📖 Read chapter 1 - 162 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:52, 22 April 2023)
