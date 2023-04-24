@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 22 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:31, 24 April 2023)
 -   📖 Read chapter 1 - 152 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:52, 23 April 2023)
 -   📖 Read chapter 1 - 94 of [She's Hopeless](https://anilist.co/manga/126944) (19:27, 22 April 2023)
 -   📖 Read chapter 1 - 37 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (19:22, 22 April 2023)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 97 of [Solo Leveling](https://anilist.co/manga/105398) (12:19, 19 April 2023)
 -   📖 Read chapter 1 - 98 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:36, 19 April 2023)
 -   📖 Read chapter 1 - 123 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (22:15, 18 April 2023)
--   📖 Read chapter 1 - 21 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:49, 17 April 2023)
 -   📖 Read chapter 1 - 41 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (03:16, 17 April 2023)
 -   📖 Read chapter 1 - 128 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:21, 16 April 2023)
 -   📖 Read chapter 1 - 24 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:58, 14 April 2023)
