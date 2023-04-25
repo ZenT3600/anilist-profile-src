@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Tensei Shitara Slime Datta Ken 3rd Season](https://anilist.co/anime/156822) (08:38, 25 April 2023)
 -   📖 Plans to read [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:48, 24 April 2023)
 -   📖 Read chapter 1 - 22 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:31, 24 April 2023)
 -   📖 Read chapter 1 - 152 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:52, 23 April 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 20 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:10, 10 March 2023)
 -   📺 Completed [High School of the Dead](https://anilist.co/anime/8074) (17:52, 09 March 2023)
 -   📺 Watched episode 1 - 11 of [High School of the Dead](https://anilist.co/anime/8074) (17:34, 09 March 2023)
--   📖 Plans to read [I Am a Hero](https://anilist.co/manga/44440) (12:10, 08 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
