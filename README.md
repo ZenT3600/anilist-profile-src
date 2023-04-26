@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (13:19, 26 April 2023)
 -   📖 Completed [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
 -   📖 Read chapter 123 - 139 of [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
 -   📖 Read chapter 1 - 42 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (13:40, 25 April 2023)
@@ -49,6 +50,5 @@
 -   📖 Dropped [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📖 Read chapter 1 - 439 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 -   📺 Watched episode 1 - 11 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (09:56, 12 March 2023)
--   📖 Read chapter 1 - 20 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:10, 10 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
