@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 139 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:23, 26 April 2023)
 -   📖 Plans to read [The Boxer](https://anilist.co/manga/119174) (13:47, 26 April 2023)
 -   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (13:19, 26 April 2023)
 -   📖 Completed [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
@@ -27,7 +28,6 @@
 -   📺 Watched episode 1 - 3 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (15:57, 12 April 2023)
 -   📖 Plans to read [Takopi's Original Sin](https://anilist.co/manga/142568) (13:09, 12 April 2023)
 -   📖 Completed [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:02, 12 April 2023)
--   📖 Read chapter 1 - 138 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (07:45, 12 April 2023)
 -   📖 Plans to read [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:44, 11 April 2023)
 -   📖 Read chapter 110 - 149 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (20:07, 10 April 2023)
 -   📖 Completed [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
