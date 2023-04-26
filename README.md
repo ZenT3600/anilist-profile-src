@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 123 - 135 of [Attack on Titan](https://anilist.co/manga/53390) (08:10, 26 April 2023)
 -   📖 Read chapter 1 - 42 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (13:40, 25 April 2023)
 -   📺 Plans to watch [Tensei Shitara Slime Datta Ken 3rd Season](https://anilist.co/anime/156822) (08:38, 25 April 2023)
 -   📖 Plans to read [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:48, 24 April 2023)
@@ -49,6 +50,5 @@
 -   📺 Watched episode 1 - 11 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (09:56, 12 March 2023)
 -   📖 Read chapter 1 - 20 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:10, 10 March 2023)
 -   📺 Completed [High School of the Dead](https://anilist.co/anime/8074) (17:52, 09 March 2023)
--   📺 Watched episode 1 - 11 of [High School of the Dead](https://anilist.co/anime/8074) (17:34, 09 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
