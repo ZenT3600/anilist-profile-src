@@ -1,12 +1,13 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 51 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:10, 30 April 2023)
+-   📖 Read chapter 16 - 64 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (19:05, 30 April 2023)
 -   📖 Read chapter 56 - 79 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:50, 30 April 2023)
 -   📖 Read chapter 1 - 38 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (17:44, 30 April 2023)
 -   📖 Read chapter 1 - 95 of [She's Hopeless](https://anilist.co/manga/126944) (11:09, 29 April 2023)
 -   📖 Read chapter 1 - 164 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:04, 29 April 2023)
 -   📖 Read chapter 1 - 82 of [To Not Die](https://anilist.co/manga/136099) (11:00, 29 April 2023)
 -   📖 Read chapter 1 - 69 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:47, 29 April 2023)
--   📖 Read chapter 16 - 63 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (15:43, 28 April 2023)
 -   📖 Read chapter 1 - 151 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:58, 27 April 2023)
 -   📖 Read chapter 1 - 139 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:23, 26 April 2023)
 -   📖 Plans to read [The Boxer](https://anilist.co/manga/119174) (13:47, 26 April 2023)
@@ -49,6 +50,5 @@
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
 -   📖 Paused reading [Martial Peak](https://anilist.co/manga/104494) (14:01, 17 March 2023)
 -   📖 Dropped [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
--   📖 Read chapter 1 - 439 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 12 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
