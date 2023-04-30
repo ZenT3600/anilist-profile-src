@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 79 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:50, 30 April 2023)
+-   📖 Read chapter 1 - 38 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (17:44, 30 April 2023)
 -   📖 Read chapter 1 - 95 of [She's Hopeless](https://anilist.co/manga/126944) (11:09, 29 April 2023)
 -   📖 Read chapter 1 - 164 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:04, 29 April 2023)
 -   📖 Read chapter 1 - 82 of [To Not Die](https://anilist.co/manga/136099) (11:00, 29 April 2023)
@@ -16,7 +18,6 @@
 -   📖 Plans to read [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:48, 24 April 2023)
 -   📖 Read chapter 1 - 22 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:31, 24 April 2023)
 -   📖 Read chapter 1 - 152 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:52, 23 April 2023)
--   📖 Read chapter 1 - 37 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (19:22, 22 April 2023)
 -   📖 Read chapter 14 - 33 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (16:32, 22 April 2023)
 -   📺 Watched episode 1 - 3 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (18:10, 21 April 2023)
 -   📖 Read chapter 1 - 97 of [Solo Leveling](https://anilist.co/manga/105398) (12:19, 19 April 2023)
@@ -34,7 +35,6 @@
 -   📖 Read chapter 56 - 68 of [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 -   📖 Read chapter 1 - 32 of [Citrus+](https://anilist.co/manga/103884) (15:56, 07 April 2023)
 -   📖 Plans to read [Ni no Kuni: Hikari no Koukeisha to Neko no Ouji](https://anilist.co/manga/118300) (12:30, 06 April 2023)
--   📖 Read chapter 56 - 78 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:31, 04 April 2023)
 -   📖 Read chapter 1 - 108 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:45, 03 April 2023)
 -   📖 Read chapter 1 of [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (05:20, 02 April 2023)
 -   📖 Plans to read [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (09:30, 01 April 2023)
