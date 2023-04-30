@@ -23,7 +23,7 @@
 -   📖 Read chapter 1 - 98 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:36, 19 April 2023)
 -   📖 Read chapter 1 - 123 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (22:15, 18 April 2023)
 -   📖 Read chapter 1 - 128 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:21, 16 April 2023)
--   📖 Read chapter 1 - 24 of [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (06:58, 14 April 2023)
+-   📖 Read chapter 1 - 24 of [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:58, 14 April 2023)
 -   📖 Read chapter 1 - 52 of [Got A Room?](https://anilist.co/manga/129808) (14:44, 13 April 2023)
 -   📺 Watched episode 1 - 3 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (15:57, 12 April 2023)
 -   📖 Plans to read [Takopi's Original Sin](https://anilist.co/manga/142568) (13:09, 12 April 2023)
