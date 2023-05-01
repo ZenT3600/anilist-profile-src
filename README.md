@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 23 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:44, 01 May 2023)
 -   📖 Read chapter 1 - 51 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:10, 30 April 2023)
 -   📖 Read chapter 16 - 64 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (19:05, 30 April 2023)
 -   📖 Read chapter 56 - 79 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:50, 30 April 2023)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 42 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (13:40, 25 April 2023)
 -   📺 Plans to watch [Tensei Shitara Slime Datta Ken 3rd Season](https://anilist.co/anime/156822) (08:38, 25 April 2023)
 -   📖 Plans to read [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:48, 24 April 2023)
--   📖 Read chapter 1 - 22 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:31, 24 April 2023)
 -   📖 Read chapter 1 - 152 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:52, 23 April 2023)
 -   📖 Read chapter 14 - 33 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (16:32, 22 April 2023)
 -   📺 Watched episode 1 - 3 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (18:10, 21 April 2023)
