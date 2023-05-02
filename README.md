@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 43 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (15:31, 02 May 2023)
 -   📖 Read chapter 1 - 109 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:33, 02 May 2023)
 -   📖 Read chapter 1 - 23 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:44, 01 May 2023)
 -   📖 Read chapter 1 - 51 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:10, 30 April 2023)
@@ -16,7 +17,6 @@
 -   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (13:19, 26 April 2023)
 -   📖 Completed [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
 -   📖 Read chapter 123 - 139 of [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
--   📖 Read chapter 1 - 42 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (13:40, 25 April 2023)
 -   📺 Plans to watch [Tensei Shitara Slime Datta Ken 3rd Season](https://anilist.co/anime/156822) (08:38, 25 April 2023)
 -   📖 Plans to read [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:48, 24 April 2023)
 -   📖 Read chapter 1 - 152 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:52, 23 April 2023)
