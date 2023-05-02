@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 109 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:33, 02 May 2023)
 -   📖 Read chapter 1 - 23 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:44, 01 May 2023)
 -   📖 Read chapter 1 - 51 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:10, 30 April 2023)
 -   📖 Read chapter 16 - 64 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (19:05, 30 April 2023)
@@ -36,7 +37,6 @@
 -   📖 Read chapter 56 - 68 of [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 -   📖 Read chapter 1 - 32 of [Citrus+](https://anilist.co/manga/103884) (15:56, 07 April 2023)
 -   📖 Plans to read [Ni no Kuni: Hikari no Koukeisha to Neko no Ouji](https://anilist.co/manga/118300) (12:30, 06 April 2023)
--   📖 Read chapter 1 - 108 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:45, 03 April 2023)
 -   📖 Read chapter 1 of [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (05:20, 02 April 2023)
 -   📖 Plans to read [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (09:30, 01 April 2023)
 -   📖 Read chapter 1 - 91 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:29, 01 April 2023)
