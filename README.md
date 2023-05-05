@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 99 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:03, 05 May 2023)
 -   📖 Read chapter 1 - 70 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:31, 05 May 2023)
 -   📖 Read chapter 1 - 165 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 05 May 2023)
 -   📖 Read chapter 1 - 90 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:27, 04 May 2023)
@@ -24,7 +25,6 @@
 -   📖 Read chapter 14 - 33 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (16:32, 22 April 2023)
 -   📺 Watched episode 1 - 3 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (18:10, 21 April 2023)
 -   📖 Read chapter 1 - 97 of [Solo Leveling](https://anilist.co/manga/105398) (12:19, 19 April 2023)
--   📖 Read chapter 1 - 98 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:36, 19 April 2023)
 -   📖 Read chapter 1 - 123 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (22:15, 18 April 2023)
 -   📖 Read chapter 1 - 128 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:21, 16 April 2023)
 -   📖 Read chapter 1 - 24 of [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:58, 14 April 2023)
