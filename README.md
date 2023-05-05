@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 83 of [To Not Die](https://anilist.co/manga/136099) (07:08, 05 May 2023)
 -   📖 Read chapter 1 - 99 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:03, 05 May 2023)
 -   📖 Read chapter 1 - 70 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:31, 05 May 2023)
 -   📖 Read chapter 1 - 165 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 05 May 2023)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 56 - 79 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:50, 30 April 2023)
 -   📖 Read chapter 1 - 38 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (17:44, 30 April 2023)
 -   📖 Read chapter 1 - 95 of [She's Hopeless](https://anilist.co/manga/126944) (11:09, 29 April 2023)
--   📖 Read chapter 1 - 82 of [To Not Die](https://anilist.co/manga/136099) (11:00, 29 April 2023)
 -   📖 Read chapter 1 - 151 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:58, 27 April 2023)
 -   📖 Read chapter 1 - 139 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:23, 26 April 2023)
 -   📖 Plans to read [The Boxer](https://anilist.co/manga/119174) (13:47, 26 April 2023)
