@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 96 of [She's Hopeless](https://anilist.co/manga/126944) (10:00, 06 May 2023)
+-   📖 Read chapter 14 - 34 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:57, 06 May 2023)
 -   📖 Read chapter 1 - 91 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:59, 06 May 2023)
 -   📖 Read chapter 1 - 83 of [To Not Die](https://anilist.co/manga/136099) (07:08, 05 May 2023)
 -   📖 Read chapter 1 - 99 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:03, 05 May 2023)
@@ -12,7 +14,6 @@
 -   📖 Read chapter 16 - 64 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (19:05, 30 April 2023)
 -   📖 Read chapter 56 - 79 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:50, 30 April 2023)
 -   📖 Read chapter 1 - 38 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (17:44, 30 April 2023)
--   📖 Read chapter 1 - 95 of [She's Hopeless](https://anilist.co/manga/126944) (11:09, 29 April 2023)
 -   📖 Read chapter 1 - 151 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:58, 27 April 2023)
 -   📖 Read chapter 1 - 139 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:23, 26 April 2023)
 -   📖 Plans to read [The Boxer](https://anilist.co/manga/119174) (13:47, 26 April 2023)
@@ -22,7 +23,6 @@
 -   📺 Plans to watch [Tensei Shitara Slime Datta Ken 3rd Season](https://anilist.co/anime/156822) (08:38, 25 April 2023)
 -   📖 Plans to read [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:48, 24 April 2023)
 -   📖 Read chapter 1 - 152 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:52, 23 April 2023)
--   📖 Read chapter 14 - 33 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (16:32, 22 April 2023)
 -   📺 Watched episode 1 - 3 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (18:10, 21 April 2023)
 -   📖 Read chapter 1 - 97 of [Solo Leveling](https://anilist.co/manga/105398) (12:19, 19 April 2023)
 -   📖 Read chapter 1 - 123 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (22:15, 18 April 2023)
