@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 91 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:59, 06 May 2023)
 -   📖 Read chapter 1 - 83 of [To Not Die](https://anilist.co/manga/136099) (07:08, 05 May 2023)
 -   📖 Read chapter 1 - 99 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:03, 05 May 2023)
 -   📖 Read chapter 1 - 70 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:31, 05 May 2023)
 -   📖 Read chapter 1 - 165 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 05 May 2023)
--   📖 Read chapter 1 - 90 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:27, 04 May 2023)
 -   📖 Read chapter 1 - 43 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (15:31, 02 May 2023)
 -   📖 Read chapter 1 - 109 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:33, 02 May 2023)
 -   📖 Read chapter 1 - 23 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:44, 01 May 2023)
