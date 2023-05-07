@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 93 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:54, 07 May 2023)
 -   📺 Watched episode 1 - 4 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (13:35, 07 May 2023)
 -   📖 Read chapter 1 - 21 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (13:16, 07 May 2023)
--   📖 Read chapter 1 - 92 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (00:45, 07 May 2023)
 -   📖 Read chapter 1 - 52 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (16:32, 06 May 2023)
 -   📖 Read chapter 1 - 96 of [She's Hopeless](https://anilist.co/manga/126944) (10:00, 06 May 2023)
 -   📖 Read chapter 14 - 34 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:57, 06 May 2023)
