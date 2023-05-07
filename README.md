@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 21 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (13:16, 07 May 2023)
 -   📖 Read chapter 1 - 92 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (00:45, 07 May 2023)
 -   📖 Read chapter 1 - 52 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (16:32, 06 May 2023)
 -   📖 Read chapter 1 - 96 of [She's Hopeless](https://anilist.co/manga/126944) (10:00, 06 May 2023)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Food Wars! Shokugeki no Soma](https://anilist.co/anime/20923) (11:40, 21 March 2023)
 -   📺 Dropped [Rosario + Vampire](https://anilist.co/anime/2993) (11:39, 21 March 2023)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
--   📖 Paused reading [Martial Peak](https://anilist.co/manga/104494) (14:01, 17 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
