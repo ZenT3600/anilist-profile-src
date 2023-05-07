@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 92 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (00:45, 07 May 2023)
 -   📖 Read chapter 1 - 52 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (16:32, 06 May 2023)
 -   📖 Read chapter 1 - 96 of [She's Hopeless](https://anilist.co/manga/126944) (10:00, 06 May 2023)
 -   📖 Read chapter 14 - 34 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:57, 06 May 2023)
--   📖 Read chapter 1 - 91 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (05:59, 06 May 2023)
 -   📖 Read chapter 1 - 83 of [To Not Die](https://anilist.co/manga/136099) (07:08, 05 May 2023)
 -   📖 Read chapter 1 - 99 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:03, 05 May 2023)
 -   📖 Read chapter 1 - 70 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:31, 05 May 2023)
