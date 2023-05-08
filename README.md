@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 53 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (18:51, 08 May 2023)
 -   📖 Read chapter 1 - 24 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:37, 08 May 2023)
 -   📖 Completed [Takopi's Original Sin](https://anilist.co/manga/142568) (09:50, 08 May 2023)
 -   📖 Read chapter 1 - 110 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:02, 08 May 2023)
 -   📖 Read chapter 1 - 93 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:54, 07 May 2023)
 -   📺 Watched episode 1 - 4 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (13:35, 07 May 2023)
 -   📖 Read chapter 1 - 21 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (13:16, 07 May 2023)
--   📖 Read chapter 1 - 52 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (16:32, 06 May 2023)
 -   📖 Read chapter 1 - 96 of [She's Hopeless](https://anilist.co/manga/126944) (10:00, 06 May 2023)
 -   📖 Read chapter 14 - 34 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:57, 06 May 2023)
 -   📖 Read chapter 1 - 83 of [To Not Die](https://anilist.co/manga/136099) (07:08, 05 May 2023)
