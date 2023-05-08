@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 110 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:02, 08 May 2023)
 -   📖 Read chapter 1 - 93 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:54, 07 May 2023)
 -   📺 Watched episode 1 - 4 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (13:35, 07 May 2023)
 -   📖 Read chapter 1 - 21 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (13:16, 07 May 2023)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 70 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:31, 05 May 2023)
 -   📖 Read chapter 1 - 165 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 05 May 2023)
 -   📖 Read chapter 1 - 43 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (15:31, 02 May 2023)
--   📖 Read chapter 1 - 109 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:33, 02 May 2023)
 -   📖 Read chapter 1 - 23 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:44, 01 May 2023)
 -   📖 Read chapter 16 - 64 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (19:05, 30 April 2023)
 -   📖 Read chapter 56 - 79 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:50, 30 April 2023)
