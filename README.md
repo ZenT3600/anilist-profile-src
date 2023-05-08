@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Takopi's Original Sin](https://anilist.co/manga/142568) (09:50, 08 May 2023)
 -   📖 Read chapter 1 - 110 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:02, 08 May 2023)
 -   📖 Read chapter 1 - 93 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:54, 07 May 2023)
 -   📺 Watched episode 1 - 4 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (13:35, 07 May 2023)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://anilist.co/anime/163134) (11:02, 25 March 2023)
 -   📺 Plans to watch [Food Wars! Shokugeki no Soma](https://anilist.co/anime/20923) (11:40, 21 March 2023)
 -   📺 Dropped [Rosario + Vampire](https://anilist.co/anime/2993) (11:39, 21 March 2023)
--   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:36, 20 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
