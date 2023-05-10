@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Girls' Last Tour](https://anilist.co/manga/85412) (14:22, 10 May 2023)
 -   📖 Read chapter 1 - 40 of [Girls' Last Tour](https://anilist.co/manga/85412) (13:55, 10 May 2023)
 -   📖 Read chapter 7 - 26 of [Boys Run The Riot](https://anilist.co/manga/114972) (08:04, 10 May 2023)
 -   📖 Read chapter 1 - 130 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:11, 10 May 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 21 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (12:16, 29 March 2023)
 -   📖 Plans to read [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:09, 27 March 2023)
 -   📖 Read chapter 1 - 53 of [Sweet Home](https://anilist.co/manga/100954) (10:29, 26 March 2023)
--   📺 Plans to watch [The Promised Neverland Season 2](https://anilist.co/anime/108725) (11:32, 25 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
