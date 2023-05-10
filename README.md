@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 128 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:08, 10 May 2023)
+-   📖 Read chapter 1 - 130 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:11, 10 May 2023)
 -   📖 Read chapter 7 - 16 of [Boys Run The Riot](https://anilist.co/manga/114972) (05:23, 10 May 2023)
 -   📺 Watched episode 1 - 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (11:13, 09 May 2023)
 -   📖 Plans to read [Boys Run The Riot](https://anilist.co/manga/114972) (08:55, 09 May 2023)
