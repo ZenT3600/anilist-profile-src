@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 - 16 of [Boys Run The Riot](https://anilist.co/manga/114972) (05:23, 10 May 2023)
 -   📺 Watched episode 1 - 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (11:13, 09 May 2023)
--   📖 Read chapter 7 of [Boys Run The Riot](https://anilist.co/manga/114972) (09:25, 09 May 2023)
 -   📖 Plans to read [Boys Run The Riot](https://anilist.co/manga/114972) (08:55, 09 May 2023)
 -   📖 Read chapter 1 - 53 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (18:51, 08 May 2023)
 -   📖 Read chapter 1 - 24 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:37, 08 May 2023)
