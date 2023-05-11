@@ -1,11 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
+-   📖 Read chapter 7 - 37 of [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
 -   📖 Plans to read [Kanojo no Tokutouseki](https://anilist.co/manga/101791) (08:51, 11 May 2023)
 -   📖 Plans to read [Ruri Dragon](https://anilist.co/manga/127750) (08:51, 11 May 2023)
 -   📖 Read chapter 1 - 140 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:07, 11 May 2023)
 -   📖 Completed [Girls' Last Tour](https://anilist.co/manga/85412) (14:22, 10 May 2023)
 -   📖 Read chapter 1 - 40 of [Girls' Last Tour](https://anilist.co/manga/85412) (13:55, 10 May 2023)
--   📖 Read chapter 7 - 26 of [Boys Run The Riot](https://anilist.co/manga/114972) (08:04, 10 May 2023)
 -   📖 Read chapter 1 - 130 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:11, 10 May 2023)
 -   📺 Watched episode 1 - 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (11:13, 09 May 2023)
 -   📖 Plans to read [Boys Run The Riot](https://anilist.co/manga/114972) (08:55, 09 May 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 of [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (05:20, 02 April 2023)
 -   📖 Plans to read [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (09:30, 01 April 2023)
 -   📖 Read chapter 1 - 91 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:29, 01 April 2023)
--   📖 Read chapter 1 - 21 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (12:16, 29 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
