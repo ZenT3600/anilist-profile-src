@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 140 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:07, 11 May 2023)
 -   📖 Completed [Girls' Last Tour](https://anilist.co/manga/85412) (14:22, 10 May 2023)
 -   📖 Read chapter 1 - 40 of [Girls' Last Tour](https://anilist.co/manga/85412) (13:55, 10 May 2023)
 -   📖 Read chapter 7 - 26 of [Boys Run The Riot](https://anilist.co/manga/114972) (08:04, 10 May 2023)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 56 - 79 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:50, 30 April 2023)
 -   📖 Read chapter 1 - 38 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (17:44, 30 April 2023)
 -   📖 Read chapter 1 - 151 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:58, 27 April 2023)
--   📖 Read chapter 1 - 139 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (20:23, 26 April 2023)
 -   📖 Plans to read [The Boxer](https://anilist.co/manga/119174) (13:47, 26 April 2023)
 -   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (13:19, 26 April 2023)
 -   📖 Completed [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
