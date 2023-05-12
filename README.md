@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 62 - 349 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:59, 12 May 2023)
+-   📖 Read chapter 62 - 363 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:22, 12 May 2023)
 -   📖 Read chapter 9 - 81 of [The Way of the Househusband](https://anilist.co/manga/101233) (08:37, 12 May 2023)
 -   📖 Read chapter 1 - 54 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (06:18, 12 May 2023)
 -   📖 Completed [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
