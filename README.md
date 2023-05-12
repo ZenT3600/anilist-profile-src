@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 54 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (06:18, 12 May 2023)
 -   📖 Completed [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
 -   📖 Read chapter 7 - 37 of [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
 -   📖 Plans to read [Kanojo no Tokutouseki](https://anilist.co/manga/101791) (08:51, 11 May 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 130 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:11, 10 May 2023)
 -   📺 Watched episode 1 - 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (11:13, 09 May 2023)
 -   📖 Plans to read [Boys Run The Riot](https://anilist.co/manga/114972) (08:55, 09 May 2023)
--   📖 Read chapter 1 - 53 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (18:51, 08 May 2023)
 -   📖 Read chapter 1 - 24 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:37, 08 May 2023)
 -   📖 Completed [Takopi's Original Sin](https://anilist.co/manga/142568) (09:50, 08 May 2023)
 -   📖 Read chapter 1 - 110 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:02, 08 May 2023)
