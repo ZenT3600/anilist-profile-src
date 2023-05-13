@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 47 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:18, 13 May 2023)
 -   📖 Read chapter 1 - 97 of [She's Hopeless](https://anilist.co/manga/126944) (10:47, 13 May 2023)
 -   📖 Read chapter 1 - 84 of [To Not Die](https://anilist.co/manga/136099) (10:43, 13 May 2023)
 -   📖 Read chapter 1 - 71 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:21, 13 May 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 -   📖 Read chapter 56 - 68 of [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 -   📖 Read chapter 1 - 32 of [Citrus+](https://anilist.co/manga/103884) (15:56, 07 April 2023)
--   📖 Plans to read [Ni no Kuni: Hikari no Koukeisha to Neko no Ouji](https://anilist.co/manga/118300) (12:30, 06 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
