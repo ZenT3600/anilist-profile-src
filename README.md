@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 47 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:18, 13 May 2023)
+-   📖 Read chapter 1 - 53 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:54, 13 May 2023)
 -   📖 Read chapter 1 - 97 of [She's Hopeless](https://anilist.co/manga/126944) (10:47, 13 May 2023)
 -   📖 Read chapter 1 - 84 of [To Not Die](https://anilist.co/manga/136099) (10:43, 13 May 2023)
 -   📖 Read chapter 1 - 71 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:21, 13 May 2023)
