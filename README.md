@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 80 of [SPY x FAMILY](https://anilist.co/manga/108556) (21:28, 14 May 2023)
 -   📖 Read chapter 1 - 111 of [Get Schooled](https://anilist.co/manga/128521) (05:13, 14 May 2023)
 -   📖 Read chapter 14 - 35 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 14 May 2023)
 -   📖 Completed [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (14:57, 13 May 2023)
@@ -32,7 +33,6 @@
 -   📖 Read chapter 1 - 99 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:03, 05 May 2023)
 -   📖 Read chapter 1 - 43 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (15:31, 02 May 2023)
 -   📖 Read chapter 16 - 64 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (19:05, 30 April 2023)
--   📖 Read chapter 56 - 79 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:50, 30 April 2023)
 -   📖 Read chapter 1 - 38 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (17:44, 30 April 2023)
 -   📖 Plans to read [The Boxer](https://anilist.co/manga/119174) (13:47, 26 April 2023)
 -   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (13:19, 26 April 2023)
