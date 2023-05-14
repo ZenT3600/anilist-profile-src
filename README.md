@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 111 of [Get Schooled](https://anilist.co/manga/128521) (05:13, 14 May 2023)
+-   📖 Read chapter 14 - 35 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 14 May 2023)
 -   📖 Completed [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (14:57, 13 May 2023)
 -   📖 Completed [Nihikime no Kingyo](https://anilist.co/manga/101983) (14:19, 13 May 2023)
 -   📖 Read chapter 1 - 53 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:54, 13 May 2023)
@@ -27,7 +29,6 @@
 -   📖 Read chapter 1 - 110 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:02, 08 May 2023)
 -   📖 Read chapter 1 - 93 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:54, 07 May 2023)
 -   📖 Read chapter 1 - 21 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (13:16, 07 May 2023)
--   📖 Read chapter 14 - 34 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:57, 06 May 2023)
 -   📖 Read chapter 1 - 99 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:03, 05 May 2023)
 -   📖 Read chapter 1 - 43 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (15:31, 02 May 2023)
 -   📖 Read chapter 16 - 64 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (19:05, 30 April 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:02, 12 April 2023)
 -   📖 Plans to read [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:44, 11 April 2023)
 -   📖 Read chapter 110 - 149 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (20:07, 10 April 2023)
--   📖 Completed [One Room of Happiness](https://anilist.co/manga/100557) (19:04, 08 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
