@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 31 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (17:17, 16 May 2023)
 -   📖 Read chapter 1 - 25 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 16 May 2023)
 -   📖 Read chapter 56 - 80 of [SPY x FAMILY](https://anilist.co/manga/108556) (21:28, 14 May 2023)
 -   📖 Read chapter 1 - 111 of [Get Schooled](https://anilist.co/manga/128521) (05:13, 14 May 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Takopi's Original Sin](https://anilist.co/manga/142568) (13:09, 12 April 2023)
 -   📖 Completed [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:02, 12 April 2023)
 -   📖 Plans to read [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:44, 11 April 2023)
--   📖 Read chapter 110 - 149 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (20:07, 10 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
