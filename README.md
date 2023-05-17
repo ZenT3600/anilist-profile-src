@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 43 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (07:27, 17 May 2023)
 -   📖 Read chapter 1 - 95 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:41, 16 May 2023)
--   📖 Read chapter 5 - 31 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (17:17, 16 May 2023)
 -   📖 Read chapter 1 - 25 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 16 May 2023)
 -   📖 Read chapter 56 - 80 of [SPY x FAMILY](https://anilist.co/manga/108556) (21:28, 14 May 2023)
 -   📖 Read chapter 1 - 111 of [Get Schooled](https://anilist.co/manga/128521) (05:13, 14 May 2023)
