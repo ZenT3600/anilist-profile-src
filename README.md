@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 132 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:06, 18 May 2023)
+-   📖 Read chapter 1 - 153 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:01, 18 May 2023)
 -   📖 Read chapter 1 - 169 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:24, 18 May 2023)
 -   📖 Read chapter 5 - 43 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (07:27, 17 May 2023)
 -   📖 Read chapter 1 - 95 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:41, 16 May 2023)
@@ -13,8 +15,6 @@
 -   📖 Read chapter 1 - 97 of [She's Hopeless](https://anilist.co/manga/126944) (10:47, 13 May 2023)
 -   📖 Read chapter 1 - 84 of [To Not Die](https://anilist.co/manga/136099) (10:43, 13 May 2023)
 -   📖 Read chapter 1 - 71 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:21, 13 May 2023)
--   📖 Read chapter 1 - 152 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:16, 13 May 2023)
--   📖 Read chapter 1 - 131 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:12, 13 May 2023)
 -   📖 Plans to read [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (09:39, 12 May 2023)
 -   📖 Read chapter 62 - 363 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:22, 12 May 2023)
 -   📖 Read chapter 9 - 81 of [The Way of the Househusband](https://anilist.co/manga/101233) (08:37, 12 May 2023)
