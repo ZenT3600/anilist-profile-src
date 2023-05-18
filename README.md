@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 49 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (15:58, 18 May 2023)
 -   📖 Read chapter 1 - 132 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:06, 18 May 2023)
 -   📖 Read chapter 1 - 153 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:01, 18 May 2023)
 -   📖 Read chapter 1 - 169 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:24, 18 May 2023)
--   📖 Read chapter 5 - 43 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (07:27, 17 May 2023)
 -   📖 Read chapter 1 - 95 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:41, 16 May 2023)
 -   📖 Read chapter 1 - 25 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 16 May 2023)
 -   📖 Read chapter 56 - 80 of [SPY x FAMILY](https://anilist.co/manga/108556) (21:28, 14 May 2023)
