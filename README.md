@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 15 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (12:44, 19 May 2023)
 -   📖 Read chapter 1 - 85 of [To Not Die](https://anilist.co/manga/136099) (05:13, 19 May 2023)
 -   📖 Read chapter 1 - 72 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:07, 19 May 2023)
 -   📖 Read chapter 1 - 55 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (17:08, 18 May 2023)
@@ -49,6 +50,5 @@
 -   📺 Watched episode 1 - 3 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (15:57, 12 April 2023)
 -   📖 Plans to read [Takopi's Original Sin](https://anilist.co/manga/142568) (13:09, 12 April 2023)
 -   📖 Completed [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:02, 12 April 2023)
--   📖 Plans to read [Naitatte E ni Naru ne](https://anilist.co/manga/115347) (08:44, 11 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
