@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 85 of [To Not Die](https://anilist.co/manga/136099) (05:13, 19 May 2023)
+-   📖 Read chapter 1 - 72 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:07, 19 May 2023)
 -   📖 Read chapter 1 - 55 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (17:08, 18 May 2023)
 -   📖 Read chapter 5 - 49 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (15:58, 18 May 2023)
 -   📖 Read chapter 1 - 132 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:06, 18 May 2023)
@@ -14,8 +16,6 @@
 -   📖 Completed [Nihikime no Kingyo](https://anilist.co/manga/101983) (14:19, 13 May 2023)
 -   📖 Read chapter 1 - 53 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:54, 13 May 2023)
 -   📖 Read chapter 1 - 97 of [She's Hopeless](https://anilist.co/manga/126944) (10:47, 13 May 2023)
--   📖 Read chapter 1 - 84 of [To Not Die](https://anilist.co/manga/136099) (10:43, 13 May 2023)
--   📖 Read chapter 1 - 71 of [Maybe Meant to Be](https://anilist.co/manga/146139) (06:21, 13 May 2023)
 -   📖 Plans to read [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (09:39, 12 May 2023)
 -   📖 Read chapter 62 - 363 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:22, 12 May 2023)
 -   📖 Read chapter 9 - 81 of [The Way of the Househusband](https://anilist.co/manga/101233) (08:37, 12 May 2023)
