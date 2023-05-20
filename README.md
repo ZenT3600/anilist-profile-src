@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 98 of [She's Hopeless](https://anilist.co/manga/126944) (05:12, 20 May 2023)
 -   📖 Read chapter 1 - 170 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:06, 20 May 2023)
 -   📺 Watched episode 15 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (12:44, 19 May 2023)
 -   📖 Read chapter 1 - 85 of [To Not Die](https://anilist.co/manga/136099) (05:13, 19 May 2023)
@@ -16,7 +17,6 @@
 -   📖 Completed [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (14:57, 13 May 2023)
 -   📖 Completed [Nihikime no Kingyo](https://anilist.co/manga/101983) (14:19, 13 May 2023)
 -   📖 Read chapter 1 - 53 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:54, 13 May 2023)
--   📖 Read chapter 1 - 97 of [She's Hopeless](https://anilist.co/manga/126944) (10:47, 13 May 2023)
 -   📖 Plans to read [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (09:39, 12 May 2023)
 -   📖 Read chapter 62 - 363 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:22, 12 May 2023)
 -   📖 Read chapter 9 - 81 of [The Way of the Househusband](https://anilist.co/manga/101233) (08:37, 12 May 2023)
