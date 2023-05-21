@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 36 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (03:45, 21 May 2023)
 -   📖 Read chapter 1 - 98 of [She's Hopeless](https://anilist.co/manga/126944) (05:12, 20 May 2023)
 -   📖 Read chapter 1 - 170 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:06, 20 May 2023)
 -   📺 Watched episode 15 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (12:44, 19 May 2023)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 25 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 16 May 2023)
 -   📖 Read chapter 56 - 80 of [SPY x FAMILY](https://anilist.co/manga/108556) (21:28, 14 May 2023)
 -   📖 Read chapter 1 - 111 of [Get Schooled](https://anilist.co/manga/128521) (05:13, 14 May 2023)
--   📖 Read chapter 14 - 35 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 14 May 2023)
 -   📖 Completed [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (14:57, 13 May 2023)
 -   📖 Completed [Nihikime no Kingyo](https://anilist.co/manga/101983) (14:19, 13 May 2023)
 -   📖 Read chapter 1 - 53 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:54, 13 May 2023)
