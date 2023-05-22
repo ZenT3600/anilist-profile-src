@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 111 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:47, 22 May 2023)
 -   📖 Read chapter 14 - 36 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (03:45, 21 May 2023)
 -   📖 Read chapter 1 - 98 of [She's Hopeless](https://anilist.co/manga/126944) (05:12, 20 May 2023)
 -   📖 Read chapter 1 - 170 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:06, 20 May 2023)
@@ -30,7 +31,6 @@
 -   📺 Watched episode 1 - 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (11:13, 09 May 2023)
 -   📖 Plans to read [Boys Run The Riot](https://anilist.co/manga/114972) (08:55, 09 May 2023)
 -   📖 Completed [Takopi's Original Sin](https://anilist.co/manga/142568) (09:50, 08 May 2023)
--   📖 Read chapter 1 - 110 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:02, 08 May 2023)
 -   📖 Read chapter 1 - 21 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (13:16, 07 May 2023)
 -   📖 Read chapter 1 - 99 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:03, 05 May 2023)
 -   📖 Read chapter 1 - 43 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (15:31, 02 May 2023)
