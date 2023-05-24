@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 130 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (15:05, 24 May 2023)
+-   📖 Read chapter 1 - 133 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (15:13, 24 May 2023)
 -   📖 Read chapter 1 - 39 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 23 May 2023)
 -   📖 Read chapter 1 - 26 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:55, 23 May 2023)
 -   📖 Read chapter 1 - 111 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:47, 22 May 2023)
