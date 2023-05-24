@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 141 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:50, 24 May 2023)
 -   📖 Read chapter 1 - 133 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (15:13, 24 May 2023)
 -   📖 Read chapter 1 - 39 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 23 May 2023)
 -   📖 Read chapter 1 - 26 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:55, 23 May 2023)
@@ -27,7 +28,6 @@
 -   📖 Read chapter 7 - 37 of [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
 -   📖 Plans to read [Kanojo no Tokutouseki](https://anilist.co/manga/101791) (08:51, 11 May 2023)
 -   📖 Plans to read [Ruri Dragon](https://anilist.co/manga/127750) (08:51, 11 May 2023)
--   📖 Read chapter 1 - 140 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:07, 11 May 2023)
 -   📖 Completed [Girls' Last Tour](https://anilist.co/manga/85412) (14:22, 10 May 2023)
 -   📖 Read chapter 1 - 40 of [Girls' Last Tour](https://anilist.co/manga/85412) (13:55, 10 May 2023)
 -   📺 Watched episode 1 - 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (11:13, 09 May 2023)
