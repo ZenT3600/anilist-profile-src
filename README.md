@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 154 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (13:31, 26 May 2023)
+-   📖 Read chapter 1 - 133 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:27, 26 May 2023)
 -   📖 Read chapter 1 - 65 of [Sweet Home](https://anilist.co/manga/100954) (07:18, 25 May 2023)
 -   📖 Read chapter 1 - 141 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:50, 24 May 2023)
 -   📖 Read chapter 1 - 133 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (15:13, 24 May 2023)
@@ -14,8 +16,6 @@
 -   📖 Read chapter 1 - 72 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:07, 19 May 2023)
 -   📖 Read chapter 1 - 55 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (17:08, 18 May 2023)
 -   📖 Read chapter 5 - 49 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (15:58, 18 May 2023)
--   📖 Read chapter 1 - 132 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (15:06, 18 May 2023)
--   📖 Read chapter 1 - 153 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:01, 18 May 2023)
 -   📖 Read chapter 1 - 95 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:41, 16 May 2023)
 -   📖 Read chapter 56 - 80 of [SPY x FAMILY](https://anilist.co/manga/108556) (21:28, 14 May 2023)
 -   📖 Read chapter 1 - 111 of [Get Schooled](https://anilist.co/manga/128521) (05:13, 14 May 2023)
