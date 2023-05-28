@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 141 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:31, 28 May 2023)
 -   📖 Read chapter 1 - 86 of [To Not Die](https://anilist.co/manga/136099) (04:39, 27 May 2023)
 -   📖 Read chapter 1 - 99 of [She's Hopeless](https://anilist.co/manga/126944) (04:33, 27 May 2023)
 -   📖 Read chapter 1 - 171 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 27 May 2023)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 133 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:27, 26 May 2023)
 -   📖 Read chapter 1 - 65 of [Sweet Home](https://anilist.co/manga/100954) (07:18, 25 May 2023)
 -   📖 Read chapter 1 - 141 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:50, 24 May 2023)
--   📖 Read chapter 1 - 133 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (15:13, 24 May 2023)
 -   📖 Read chapter 1 - 39 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 23 May 2023)
 -   📖 Read chapter 1 - 26 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:55, 23 May 2023)
 -   📖 Read chapter 1 - 111 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:47, 22 May 2023)
