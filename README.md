@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:48, 29 May 2023)
 -   📖 Read chapter 1 - 153 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (08:01, 28 May 2023)
 -   📖 Read chapter 1 - 86 of [To Not Die](https://anilist.co/manga/136099) (04:39, 27 May 2023)
 -   📖 Read chapter 1 - 99 of [She's Hopeless](https://anilist.co/manga/126944) (04:33, 27 May 2023)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 1 - 65 of [Sweet Home](https://anilist.co/manga/100954) (07:18, 25 May 2023)
 -   📖 Read chapter 1 - 141 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:50, 24 May 2023)
 -   📖 Read chapter 1 - 39 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 23 May 2023)
--   📖 Read chapter 1 - 26 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:55, 23 May 2023)
 -   📖 Read chapter 1 - 111 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:47, 22 May 2023)
 -   📖 Read chapter 14 - 36 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (03:45, 21 May 2023)
 -   📺 Watched episode 15 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (12:44, 19 May 2023)
