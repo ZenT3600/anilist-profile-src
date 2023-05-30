@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
+-   📖 Read chapter 1 - 33 of [Springtime For Blossom](https://anilist.co/manga/112265) (00:29, 30 May 2023)
+-   📖 Plans to read [Springtime For Blossom](https://anilist.co/manga/112265) (23:32, 29 May 2023)
 -   📖 Read chapter 14 - 37 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (21:48, 29 May 2023)
 -   📖 Read chapter 1 - 27 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:48, 29 May 2023)
 -   📖 Read chapter 1 - 153 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (08:01, 28 May 2023)
@@ -47,8 +50,5 @@
 -   📖 Read chapter 1 - 152 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:52, 23 April 2023)
 -   📖 Read chapter 1 - 97 of [Solo Leveling](https://anilist.co/manga/105398) (12:19, 19 April 2023)
 -   📖 Read chapter 1 - 24 of [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:58, 14 April 2023)
--   📖 Read chapter 1 - 52 of [Got A Room?](https://anilist.co/manga/129808) (14:44, 13 April 2023)
--   📺 Watched episode 1 - 3 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (15:57, 12 April 2023)
--   📖 Plans to read [Takopi's Original Sin](https://anilist.co/manga/142568) (13:09, 12 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
