@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 154 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (05:04, 31 May 2023)
+-   📖 Read chapter 1 - 159 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (05:19, 31 May 2023)
 -   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
 -   📖 Read chapter 1 - 33 of [Springtime For Blossom](https://anilist.co/manga/112265) (00:29, 30 May 2023)
 -   📖 Plans to read [Springtime For Blossom](https://anilist.co/manga/112265) (23:32, 29 May 2023)
