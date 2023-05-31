@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 57 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:53, 31 May 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
 -   📖 Read chapter 56 - 81 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:00, 31 May 2023)
 -   📖 Read chapter 1 - 172 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:56, 31 May 2023)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 1 - 111 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:47, 22 May 2023)
 -   📺 Watched episode 15 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (12:44, 19 May 2023)
 -   📖 Read chapter 1 - 72 of [Maybe Meant to Be](https://anilist.co/manga/146139) (05:07, 19 May 2023)
--   📖 Read chapter 1 - 55 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (17:08, 18 May 2023)
 -   📖 Read chapter 1 - 95 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:41, 16 May 2023)
 -   📖 Read chapter 1 - 111 of [Get Schooled](https://anilist.co/manga/128521) (05:13, 14 May 2023)
 -   📖 Completed [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (14:57, 13 May 2023)
