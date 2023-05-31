@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 154 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (05:04, 31 May 2023)
 -   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
 -   📖 Read chapter 1 - 33 of [Springtime For Blossom](https://anilist.co/manga/112265) (00:29, 30 May 2023)
 -   📖 Plans to read [Springtime For Blossom](https://anilist.co/manga/112265) (23:32, 29 May 2023)
 -   📖 Read chapter 14 - 37 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (21:48, 29 May 2023)
 -   📖 Read chapter 1 - 27 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:48, 29 May 2023)
--   📖 Read chapter 1 - 153 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (08:01, 28 May 2023)
 -   📖 Read chapter 1 - 86 of [To Not Die](https://anilist.co/manga/136099) (04:39, 27 May 2023)
 -   📖 Read chapter 1 - 99 of [She's Hopeless](https://anilist.co/manga/126944) (04:33, 27 May 2023)
 -   📖 Read chapter 1 - 171 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:27, 27 May 2023)
