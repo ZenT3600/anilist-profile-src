@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 15 - 17 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (14:44, 01 June 2023)
+-   📺 Watched episode 15 - 19 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:35, 01 June 2023)
 -   📖 Read chapter 1 - 155 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:04, 01 June 2023)
 -   📖 Read chapter 1 - 142 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:00, 01 June 2023)
 -   📖 Read chapter 1 - 173 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:57, 01 June 2023)
