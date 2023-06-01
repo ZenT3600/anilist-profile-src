@@ -1,9 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 155 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:04, 01 June 2023)
+-   📖 Read chapter 1 - 142 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:00, 01 June 2023)
+-   📖 Read chapter 1 - 173 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:57, 01 June 2023)
 -   📖 Read chapter 1 - 57 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:53, 31 May 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
 -   📖 Read chapter 56 - 81 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:00, 31 May 2023)
--   📖 Read chapter 1 - 172 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:56, 31 May 2023)
 -   📖 Read chapter 1 - 159 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (05:19, 31 May 2023)
 -   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
 -   📖 Read chapter 1 - 33 of [Springtime For Blossom](https://anilist.co/manga/112265) (00:29, 30 May 2023)
@@ -12,10 +14,8 @@
 -   📖 Read chapter 1 - 27 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:48, 29 May 2023)
 -   📖 Read chapter 1 - 86 of [To Not Die](https://anilist.co/manga/136099) (04:39, 27 May 2023)
 -   📖 Read chapter 1 - 99 of [She's Hopeless](https://anilist.co/manga/126944) (04:33, 27 May 2023)
--   📖 Read chapter 1 - 154 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (13:31, 26 May 2023)
 -   📖 Read chapter 1 - 133 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:27, 26 May 2023)
 -   📖 Read chapter 1 - 65 of [Sweet Home](https://anilist.co/manga/100954) (07:18, 25 May 2023)
--   📖 Read chapter 1 - 141 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:50, 24 May 2023)
 -   📖 Read chapter 1 - 39 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 23 May 2023)
 -   📖 Read chapter 1 - 111 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:47, 22 May 2023)
 -   📺 Watched episode 15 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (12:44, 19 May 2023)
