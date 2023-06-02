@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 87 of [To Not Die](https://anilist.co/manga/136099) (06:06, 02 June 2023)
+-   📖 Read chapter 1 - 134 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:00, 02 June 2023)
 -   📖 Read chapter 1 - 74 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:18, 01 June 2023)
 -   📺 Watched episode 15 - 19 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:35, 01 June 2023)
 -   📖 Read chapter 1 - 155 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:04, 01 June 2023)
@@ -14,9 +16,7 @@
 -   📖 Plans to read [Springtime For Blossom](https://anilist.co/manga/112265) (23:32, 29 May 2023)
 -   📖 Read chapter 14 - 37 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (21:48, 29 May 2023)
 -   📖 Read chapter 1 - 27 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:48, 29 May 2023)
--   📖 Read chapter 1 - 86 of [To Not Die](https://anilist.co/manga/136099) (04:39, 27 May 2023)
 -   📖 Read chapter 1 - 99 of [She's Hopeless](https://anilist.co/manga/126944) (04:33, 27 May 2023)
--   📖 Read chapter 1 - 133 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:27, 26 May 2023)
 -   📖 Read chapter 1 - 65 of [Sweet Home](https://anilist.co/manga/100954) (07:18, 25 May 2023)
 -   📖 Read chapter 1 - 39 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 23 May 2023)
 -   📖 Read chapter 1 - 111 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:47, 22 May 2023)
