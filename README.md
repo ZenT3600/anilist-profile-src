@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:59, 03 June 2023)
+-   📖 Read chapter 1 - 174 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:58, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [She's Hopeless](https://anilist.co/manga/126944) (04:22, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
 -   📖 Read chapter 1 - 87 of [To Not Die](https://anilist.co/manga/136099) (06:06, 02 June 2023)
@@ -8,11 +10,9 @@
 -   📺 Watched episode 15 - 19 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:35, 01 June 2023)
 -   📖 Read chapter 1 - 155 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:04, 01 June 2023)
 -   📖 Read chapter 1 - 142 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:00, 01 June 2023)
--   📖 Read chapter 1 - 173 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:57, 01 June 2023)
 -   📖 Read chapter 1 - 57 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:53, 31 May 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
 -   📖 Read chapter 56 - 81 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:00, 31 May 2023)
--   📖 Read chapter 1 - 159 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (05:19, 31 May 2023)
 -   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
 -   📖 Read chapter 1 - 33 of [Springtime For Blossom](https://anilist.co/manga/112265) (00:29, 30 May 2023)
 -   📖 Plans to read [Springtime For Blossom](https://anilist.co/manga/112265) (23:32, 29 May 2023)
