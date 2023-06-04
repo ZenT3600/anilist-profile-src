@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 170 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (04:31, 04 June 2023)
 -   📖 Read chapter 14 - 38 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (03:15, 04 June 2023)
--   📖 Read chapter 1 - 167 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (11:20, 03 June 2023)
 -   📖 Read chapter 1 - 174 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:58, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [She's Hopeless](https://anilist.co/manga/126944) (04:22, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
