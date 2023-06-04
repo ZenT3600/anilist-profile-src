@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 38 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (03:15, 04 June 2023)
 -   📖 Read chapter 1 - 167 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (11:20, 03 June 2023)
 -   📖 Read chapter 1 - 174 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:58, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [She's Hopeless](https://anilist.co/manga/126944) (04:22, 03 June 2023)
@@ -16,7 +17,6 @@
 -   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
 -   📖 Read chapter 1 - 33 of [Springtime For Blossom](https://anilist.co/manga/112265) (00:29, 30 May 2023)
 -   📖 Plans to read [Springtime For Blossom](https://anilist.co/manga/112265) (23:32, 29 May 2023)
--   📖 Read chapter 14 - 37 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (21:48, 29 May 2023)
 -   📖 Read chapter 1 - 27 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:48, 29 May 2023)
 -   📖 Read chapter 1 - 65 of [Sweet Home](https://anilist.co/manga/100954) (07:18, 25 May 2023)
 -   📖 Read chapter 1 - 39 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 23 May 2023)
