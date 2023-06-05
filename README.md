@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 112 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:23, 05 June 2023)
 -   📖 Read chapter 1 - 44 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:44, 05 June 2023)
 -   📖 Read chapter 1 - 28 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:43, 05 June 2023)
 -   📖 Read chapter 1 - 41 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (21:57, 04 June 2023)
@@ -21,7 +22,6 @@
 -   📖 Read chapter 1 - 33 of [Springtime For Blossom](https://anilist.co/manga/112265) (00:29, 30 May 2023)
 -   📖 Plans to read [Springtime For Blossom](https://anilist.co/manga/112265) (23:32, 29 May 2023)
 -   📖 Read chapter 1 - 65 of [Sweet Home](https://anilist.co/manga/100954) (07:18, 25 May 2023)
--   📖 Read chapter 1 - 111 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:47, 22 May 2023)
 -   📖 Read chapter 1 - 95 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (19:41, 16 May 2023)
 -   📖 Read chapter 1 - 111 of [Get Schooled](https://anilist.co/manga/128521) (05:13, 14 May 2023)
 -   📖 Completed [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (14:57, 13 May 2023)
