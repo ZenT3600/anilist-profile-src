@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 184 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (11:27, 05 June 2023)
 -   📖 Read chapter 1 - 112 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:23, 05 June 2023)
 -   📖 Read chapter 1 - 44 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:44, 05 June 2023)
 -   📖 Read chapter 1 - 28 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:43, 05 June 2023)
 -   📖 Read chapter 1 - 41 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (21:57, 04 June 2023)
--   📖 Read chapter 1 - 177 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (05:10, 04 June 2023)
 -   📖 Read chapter 14 - 38 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (03:15, 04 June 2023)
 -   📖 Read chapter 1 - 174 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:58, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [She's Hopeless](https://anilist.co/manga/126944) (04:22, 03 June 2023)
