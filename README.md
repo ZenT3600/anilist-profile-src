@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 217 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (04:32, 08 June 2023)
+-   📖 Read chapter 1 - 226 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (04:53, 08 June 2023)
 -   📖 Plans to read [Guyabano Holiday](https://anilist.co/manga/105580) (16:07, 07 June 2023)
 -   📖 Read chapter 1 - 112 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:23, 05 June 2023)
 -   📖 Read chapter 1 - 44 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:44, 05 June 2023)
