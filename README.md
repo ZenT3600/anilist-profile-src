@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 240 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (08:08, 08 June 2023)
+-   📖 Read chapter 1 - 249 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (08:30, 08 June 2023)
 -   📖 Read chapter 1 - 156 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:55, 08 June 2023)
 -   📖 Read chapter 1 - 175 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:51, 08 June 2023)
 -   📖 Plans to read [Guyabano Holiday](https://anilist.co/manga/105580) (16:07, 07 June 2023)
