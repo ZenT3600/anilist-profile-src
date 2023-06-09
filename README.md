@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 286 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:31, 09 June 2023)
+-   📖 Read chapter 1 - 297 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:52, 09 June 2023)
 -   📖 Read chapter 1 - 135 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (18:02, 09 June 2023)
 -   📖 Read chapter 1 - 88 of [To Not Die](https://anilist.co/manga/136099) (05:44, 09 June 2023)
 -   📖 Read chapter 1 - 156 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:55, 08 June 2023)
