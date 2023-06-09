@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 276 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:06, 09 June 2023)
+-   📖 Read chapter 1 - 278 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:08, 09 June 2023)
+-   📖 Read chapter 1 - 135 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (18:02, 09 June 2023)
 -   📖 Read chapter 1 - 88 of [To Not Die](https://anilist.co/manga/136099) (05:44, 09 June 2023)
 -   📖 Read chapter 1 - 156 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:55, 08 June 2023)
 -   📖 Read chapter 1 - 175 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:51, 08 June 2023)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 14 - 38 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (03:15, 04 June 2023)
 -   📖 Read chapter 1 - 100 of [She's Hopeless](https://anilist.co/manga/126944) (04:22, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
--   📖 Read chapter 1 - 134 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:00, 02 June 2023)
 -   📖 Read chapter 1 - 74 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:18, 01 June 2023)
 -   📺 Watched episode 15 - 19 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:35, 01 June 2023)
 -   📖 Read chapter 1 - 142 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:00, 01 June 2023)
