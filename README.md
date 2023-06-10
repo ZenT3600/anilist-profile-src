@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 379 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:02, 10 June 2023)
+-   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
+-   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
 -   📖 Read chapter 1 - 176 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:31, 10 June 2023)
 -   📖 Read chapter 1 - 42 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:28, 10 June 2023)
 -   📖 Read chapter 14 - 39 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:25, 10 June 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 123 - 139 of [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
 -   📺 Plans to watch [Tensei Shitara Slime Datta Ken 3rd Season](https://anilist.co/anime/156822) (08:38, 25 April 2023)
 -   📖 Plans to read [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:48, 24 April 2023)
--   📖 Read chapter 1 - 152 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:52, 23 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
