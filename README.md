@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 309 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:55, 10 June 2023)
+-   📖 Read chapter 1 - 315 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:31, 10 June 2023)
 -   📖 Read chapter 1 - 176 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:31, 10 June 2023)
 -   📖 Read chapter 1 - 42 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:28, 10 June 2023)
 -   📖 Read chapter 14 - 39 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:25, 10 June 2023)
