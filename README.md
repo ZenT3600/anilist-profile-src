@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 309 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:55, 10 June 2023)
 -   📖 Read chapter 1 - 176 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:31, 10 June 2023)
 -   📖 Read chapter 1 - 42 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:28, 10 June 2023)
 -   📖 Read chapter 14 - 39 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:25, 10 June 2023)
 -   📺 Completed [Joshi Luck!](https://anilist.co/anime/109326) (22:11, 09 June 2023)
--   📖 Read chapter 1 - 297 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:52, 09 June 2023)
 -   📖 Read chapter 1 - 135 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (18:02, 09 June 2023)
 -   📖 Read chapter 1 - 88 of [To Not Die](https://anilist.co/manga/136099) (05:44, 09 June 2023)
 -   📖 Read chapter 1 - 156 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:55, 08 June 2023)
