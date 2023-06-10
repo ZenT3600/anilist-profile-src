@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
 -   📖 Read chapter 1 - 176 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:31, 10 June 2023)
@@ -43,7 +44,6 @@
 -   📖 Plans to read [Boys Run The Riot](https://anilist.co/manga/114972) (08:55, 09 May 2023)
 -   📖 Completed [Takopi's Original Sin](https://anilist.co/manga/142568) (09:50, 08 May 2023)
 -   📖 Read chapter 1 - 21 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (13:16, 07 May 2023)
--   📖 Read chapter 16 - 64 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (19:05, 30 April 2023)
 -   📖 Plans to read [The Boxer](https://anilist.co/manga/119174) (13:47, 26 April 2023)
 -   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (13:19, 26 April 2023)
 -   📖 Completed [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
