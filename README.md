@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 15 - 21 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:33, 11 June 2023)
 -   📖 Read chapter 1 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (05:27, 11 June 2023)
 -   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 100 of [She's Hopeless](https://anilist.co/manga/126944) (04:22, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
 -   📖 Read chapter 1 - 74 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:18, 01 June 2023)
--   📺 Watched episode 15 - 19 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:35, 01 June 2023)
 -   📖 Read chapter 1 - 142 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:00, 01 June 2023)
 -   📖 Read chapter 1 - 57 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:53, 31 May 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
