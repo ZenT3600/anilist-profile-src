@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (05:27, 11 June 2023)
 -   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
 -   📖 Read chapter 123 - 139 of [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
 -   📺 Plans to watch [Tensei Shitara Slime Datta Ken 3rd Season](https://anilist.co/anime/156822) (08:38, 25 April 2023)
--   📖 Plans to read [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:48, 24 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
