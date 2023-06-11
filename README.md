@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (16:32, 11 June 2023)
 -   📺 Watched episode 15 - 21 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:33, 11 June 2023)
--   📖 Read chapter 1 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (05:27, 11 June 2023)
 -   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
