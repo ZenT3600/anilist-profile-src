@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
+-   📺 Watched episode 15 - 25 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 -   📖 Read chapter 1 - 67 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (10:20, 13 June 2023)
 -   📖 Read chapter 1 - 157 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (10:04, 13 June 2023)
--   📺 Watched episode 15 - 23 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (12:35, 12 June 2023)
 -   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (05:16, 12 June 2023)
 -   📖 Read chapter 56 - 82 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:22, 11 June 2023)
 -   📖 Read chapter 1 - 96 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:05, 11 June 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 21 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (13:16, 07 May 2023)
 -   📖 Plans to read [The Boxer](https://anilist.co/manga/119174) (13:47, 26 April 2023)
 -   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (13:19, 26 April 2023)
--   📖 Completed [Attack on Titan](https://anilist.co/manga/53390) (08:30, 26 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
