@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 60 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (07:03, 13 June 2023)
+-   📖 Read chapter 1 - 61 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (07:06, 13 June 2023)
 -   📺 Watched episode 15 - 23 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (12:35, 12 June 2023)
 -   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (05:16, 12 June 2023)
 -   📖 Read chapter 56 - 82 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:22, 11 June 2023)
