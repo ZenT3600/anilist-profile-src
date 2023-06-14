@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 70 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (04:25, 14 June 2023)
 -   📺 Completed [Love Me: Kaede and Suzu THE ANIMATION](https://anilist.co/anime/135513) (18:11, 13 June 2023)
 -   📺 Completed [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 -   📺 Watched episode 15 - 25 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
--   📖 Read chapter 1 - 67 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (10:20, 13 June 2023)
 -   📖 Read chapter 1 - 157 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (10:04, 13 June 2023)
 -   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (05:16, 12 June 2023)
 -   📖 Read chapter 56 - 82 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:22, 11 June 2023)
