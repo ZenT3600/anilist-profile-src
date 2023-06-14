@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 70 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (04:25, 14 June 2023)
+-   📖 Read chapter 1 - 72 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (06:59, 14 June 2023)
 -   📺 Completed [Love Me: Kaede and Suzu THE ANIMATION](https://anilist.co/anime/135513) (18:11, 13 June 2023)
 -   📺 Completed [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 -   📺 Watched episode 15 - 25 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
