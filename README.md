@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 97 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (17:00, 14 June 2023)
+-   📖 Read chapter 1 - 143 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:59, 14 June 2023)
+-   📺 Completed [Shinsei Futanari Idol: Dekatama Kei!](https://anilist.co/anime/21582) (16:58, 14 June 2023)
 -   📺 Completed [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (15:03, 14 June 2023)
 -   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (13:06, 14 June 2023)
 -   📺 Completed [Mako-chan Kaihatsu Nikki](https://anilist.co/anime/130692) (12:38, 14 June 2023)
@@ -10,7 +13,6 @@
 -   📖 Read chapter 1 - 157 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (10:04, 13 June 2023)
 -   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (05:16, 12 June 2023)
 -   📖 Read chapter 56 - 82 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:22, 11 June 2023)
--   📖 Read chapter 1 - 96 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (18:05, 11 June 2023)
 -   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
@@ -28,7 +30,6 @@
 -   📖 Read chapter 1 - 100 of [She's Hopeless](https://anilist.co/manga/126944) (04:22, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
 -   📖 Read chapter 1 - 74 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:18, 01 June 2023)
--   📖 Read chapter 1 - 142 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:00, 01 June 2023)
 -   📖 Read chapter 1 - 57 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:53, 31 May 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
 -   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Girls' Last Tour](https://anilist.co/manga/85412) (14:22, 10 May 2023)
 -   📖 Read chapter 1 - 40 of [Girls' Last Tour](https://anilist.co/manga/85412) (13:55, 10 May 2023)
 -   📺 Watched episode 1 - 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (11:13, 09 May 2023)
--   📖 Plans to read [Boys Run The Riot](https://anilist.co/manga/114972) (08:55, 09 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
