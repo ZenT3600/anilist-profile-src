@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (13:06, 14 June 2023)
 -   📺 Completed [Mako-chan Kaihatsu Nikki](https://anilist.co/anime/130692) (12:38, 14 June 2023)
 -   📖 Read chapter 1 - 74 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (07:21, 14 June 2023)
 -   📺 Completed [Love Me: Kaede and Suzu THE ANIMATION](https://anilist.co/anime/135513) (18:11, 13 June 2023)
@@ -49,6 +50,5 @@
 -   📺 Watched episode 1 - 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (11:13, 09 May 2023)
 -   📖 Plans to read [Boys Run The Riot](https://anilist.co/manga/114972) (08:55, 09 May 2023)
 -   📖 Completed [Takopi's Original Sin](https://anilist.co/manga/142568) (09:50, 08 May 2023)
--   📖 Read chapter 1 - 21 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (13:16, 07 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
