@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (05:53, 15 June 2023)
+-   📖 Read chapter 1 - 177 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:33, 15 June 2023)
 -   📖 Read chapter 1 - 97 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (17:00, 14 June 2023)
 -   📖 Read chapter 1 - 143 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:59, 14 June 2023)
 -   📺 Completed [Shinsei Futanari Idol: Dekatama Kei!](https://anilist.co/anime/21582) (16:58, 14 June 2023)
@@ -16,7 +18,6 @@
 -   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
--   📖 Read chapter 1 - 176 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:31, 10 June 2023)
 -   📖 Read chapter 1 - 42 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:28, 10 June 2023)
 -   📖 Read chapter 14 - 39 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:25, 10 June 2023)
 -   📺 Completed [Joshi Luck!](https://anilist.co/anime/109326) (22:11, 09 June 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Ruri Dragon](https://anilist.co/manga/127750) (08:51, 11 May 2023)
 -   📖 Completed [Girls' Last Tour](https://anilist.co/manga/85412) (14:22, 10 May 2023)
 -   📖 Read chapter 1 - 40 of [Girls' Last Tour](https://anilist.co/manga/85412) (13:55, 10 May 2023)
--   📺 Watched episode 1 - 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (11:13, 09 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
