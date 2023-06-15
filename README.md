@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (10:07, 15 June 2023)
 -   📺 Plans to watch [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (05:53, 15 June 2023)
 -   📖 Read chapter 1 - 177 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:33, 15 June 2023)
 -   📖 Read chapter 1 - 97 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (17:00, 14 June 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Kanojo no Tokutouseki](https://anilist.co/manga/101791) (08:51, 11 May 2023)
 -   📖 Plans to read [Ruri Dragon](https://anilist.co/manga/127750) (08:51, 11 May 2023)
 -   📖 Completed [Girls' Last Tour](https://anilist.co/manga/85412) (14:22, 10 May 2023)
--   📖 Read chapter 1 - 40 of [Girls' Last Tour](https://anilist.co/manga/85412) (13:55, 10 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
