@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 89 of [To Not Die](https://anilist.co/manga/136099) (04:38, 16 June 2023)
+-   📖 Read chapter 1 - 75 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:32, 16 June 2023)
 -   📖 Read chapter 1 - 157 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:49, 15 June 2023)
 -   📺 Plans to watch [Akira](https://anilist.co/anime/47) (14:07, 15 June 2023)
 -   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (10:07, 15 June 2023)
@@ -25,14 +27,12 @@
 -   📖 Read chapter 14 - 39 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:25, 10 June 2023)
 -   📺 Completed [Joshi Luck!](https://anilist.co/anime/109326) (22:11, 09 June 2023)
 -   📖 Read chapter 1 - 135 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (18:02, 09 June 2023)
--   📖 Read chapter 1 - 88 of [To Not Die](https://anilist.co/manga/136099) (05:44, 09 June 2023)
 -   📖 Plans to read [Guyabano Holiday](https://anilist.co/manga/105580) (16:07, 07 June 2023)
 -   📖 Read chapter 1 - 112 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:23, 05 June 2023)
 -   📖 Read chapter 1 - 44 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:44, 05 June 2023)
 -   📖 Read chapter 1 - 28 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:43, 05 June 2023)
 -   📖 Read chapter 1 - 100 of [She's Hopeless](https://anilist.co/manga/126944) (04:22, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
--   📖 Read chapter 1 - 74 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:18, 01 June 2023)
 -   📖 Read chapter 1 - 57 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:53, 31 May 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
 -   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
