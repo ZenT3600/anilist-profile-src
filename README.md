@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Nano Machine](https://anilist.co/manga/120980) (14:28, 16 June 2023)
+-   📖 Read chapter 1 - 28 of [Nano Machine](https://anilist.co/manga/120980) (15:01, 16 June 2023)
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
 -   📖 Read chapter 1 - 89 of [To Not Die](https://anilist.co/manga/136099) (04:38, 16 June 2023)
 -   📖 Read chapter 1 - 75 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:32, 16 June 2023)
