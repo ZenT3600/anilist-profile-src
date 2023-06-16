@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 49 of [Nano Machine](https://anilist.co/manga/120980) (22:00, 16 June 2023)
 -   📖 Read chapter 1 - 98 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (20:50, 16 June 2023)
--   📖 Read chapter 1 - 45 of [Nano Machine](https://anilist.co/manga/120980) (19:40, 16 June 2023)
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
 -   📖 Read chapter 1 - 89 of [To Not Die](https://anilist.co/manga/136099) (04:38, 16 June 2023)
 -   📖 Read chapter 1 - 75 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:32, 16 June 2023)
