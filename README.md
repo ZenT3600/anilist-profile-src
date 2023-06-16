@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Nano Machine](https://anilist.co/manga/120980) (08:07, 16 June 2023)
+-   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
 -   📖 Read chapter 1 - 89 of [To Not Die](https://anilist.co/manga/136099) (04:38, 16 June 2023)
 -   📖 Read chapter 1 - 75 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:32, 16 June 2023)
 -   📖 Read chapter 1 - 157 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:49, 15 June 2023)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 9 - 81 of [The Way of the Househusband](https://anilist.co/manga/101233) (08:37, 12 May 2023)
 -   📖 Completed [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
 -   📖 Read chapter 7 - 37 of [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
--   📖 Plans to read [Kanojo no Tokutouseki](https://anilist.co/manga/101791) (08:51, 11 May 2023)
--   📖 Plans to read [Ruri Dragon](https://anilist.co/manga/127750) (08:51, 11 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
