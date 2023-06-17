@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 40 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:43, 17 June 2023)
 -   📖 Read chapter 1 - 49 of [Nano Machine](https://anilist.co/manga/120980) (22:00, 16 June 2023)
 -   📖 Read chapter 1 - 98 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (20:50, 16 June 2023)
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
@@ -26,7 +27,6 @@
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
 -   📖 Read chapter 1 - 42 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:28, 10 June 2023)
--   📖 Read chapter 14 - 39 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:25, 10 June 2023)
 -   📺 Completed [Joshi Luck!](https://anilist.co/anime/109326) (22:11, 09 June 2023)
 -   📖 Read chapter 1 - 135 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (18:02, 09 June 2023)
 -   📖 Plans to read [Guyabano Holiday](https://anilist.co/manga/105580) (16:07, 07 June 2023)
