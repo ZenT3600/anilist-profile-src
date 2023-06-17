@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 102 of [She's Hopeless](https://anilist.co/manga/126944) (07:22, 17 June 2023)
 -   📖 Read chapter 14 - 40 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:43, 17 June 2023)
 -   📖 Read chapter 1 - 49 of [Nano Machine](https://anilist.co/manga/120980) (22:00, 16 June 2023)
 -   📖 Read chapter 1 - 98 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (20:50, 16 June 2023)
@@ -33,7 +34,6 @@
 -   📖 Read chapter 1 - 112 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:23, 05 June 2023)
 -   📖 Read chapter 1 - 44 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:44, 05 June 2023)
 -   📖 Read chapter 1 - 28 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:43, 05 June 2023)
--   📖 Read chapter 1 - 100 of [She's Hopeless](https://anilist.co/manga/126944) (04:22, 03 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
 -   📖 Read chapter 1 - 57 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:53, 31 May 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
