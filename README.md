@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 178 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:02, 17 June 2023)
 -   📖 Read chapter 1 - 53 of [Nano Machine](https://anilist.co/manga/120980) (09:39, 17 June 2023)
 -   📖 Read chapter 1 - 102 of [She's Hopeless](https://anilist.co/manga/126944) (07:22, 17 June 2023)
 -   📖 Read chapter 14 - 40 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:43, 17 June 2023)
@@ -11,7 +12,6 @@
 -   📺 Plans to watch [Akira](https://anilist.co/anime/47) (14:07, 15 June 2023)
 -   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (10:07, 15 June 2023)
 -   📺 Plans to watch [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (05:53, 15 June 2023)
--   📖 Read chapter 1 - 177 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:33, 15 June 2023)
 -   📖 Read chapter 1 - 143 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:59, 14 June 2023)
 -   📺 Completed [Shinsei Futanari Idol: Dekatama Kei!](https://anilist.co/anime/21582) (16:58, 14 June 2023)
 -   📺 Completed [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (15:03, 14 June 2023)
