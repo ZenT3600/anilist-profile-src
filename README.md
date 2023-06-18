@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch 0 of [Megalobox](https://anilist.co/anime/100298) (19:50, 18 June 2023)
+-   📺 Plans to watch 0 of [Death Parade](https://anilist.co/anime/20931) (19:50, 18 June 2023)
 -   📖 Read chapter 1 - 100 of [Nano Machine](https://anilist.co/manga/120980) (12:59, 18 June 2023)
 -   📖 Read chapter 1 - 59 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (02:03, 18 June 2023)
 -   📖 Read chapter 8 - 45 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (01:57, 18 June 2023)
@@ -48,7 +50,5 @@
 -   📖 Read chapter 1 - 53 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:54, 13 May 2023)
 -   📖 Plans to read [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (09:39, 12 May 2023)
 -   📖 Read chapter 62 - 363 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:22, 12 May 2023)
--   📖 Read chapter 9 - 81 of [The Way of the Househusband](https://anilist.co/manga/101233) (08:37, 12 May 2023)
--   📖 Completed [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
