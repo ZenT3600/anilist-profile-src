@@ -1,6 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 65 of [Nano Machine](https://anilist.co/manga/120980) (00:45, 18 June 2023)
+-   📖 Read chapter 1 - 59 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (02:03, 18 June 2023)
+-   📖 Read chapter 8 - 45 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (01:57, 18 June 2023)
+-   📖 Read chapter 1 - 71 of [Nano Machine](https://anilist.co/manga/120980) (01:22, 18 June 2023)
 -   📖 Read chapter 1 - 178 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:02, 17 June 2023)
 -   📖 Read chapter 1 - 102 of [She's Hopeless](https://anilist.co/manga/126944) (07:22, 17 June 2023)
 -   📖 Read chapter 14 - 40 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:43, 17 June 2023)
@@ -35,7 +37,6 @@
 -   📖 Read chapter 1 - 44 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:44, 05 June 2023)
 -   📖 Read chapter 1 - 28 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:43, 05 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
--   📖 Read chapter 1 - 57 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:53, 31 May 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
 -   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
 -   📖 Read chapter 1 - 33 of [Springtime For Blossom](https://anilist.co/manga/112265) (00:29, 30 May 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 62 - 363 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:22, 12 May 2023)
 -   📖 Read chapter 9 - 81 of [The Way of the Househusband](https://anilist.co/manga/101233) (08:37, 12 May 2023)
 -   📖 Completed [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
--   📖 Read chapter 7 - 37 of [Boys Run The Riot](https://anilist.co/manga/114972) (15:54, 11 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
