@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 29 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:19, 19 June 2023)
 -   📖 Read chapter 1 - 118 of [Nano Machine](https://anilist.co/manga/120980) (15:42, 19 June 2023)
 -   📺 Plans to watch 0 of [Megalobox](https://anilist.co/anime/100298) (19:50, 18 June 2023)
 -   📺 Plans to watch 0 of [Death Parade](https://anilist.co/anime/20931) (19:50, 18 June 2023)
@@ -37,7 +38,6 @@
 -   📖 Plans to read [Guyabano Holiday](https://anilist.co/manga/105580) (16:07, 07 June 2023)
 -   📖 Read chapter 1 - 112 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:23, 05 June 2023)
 -   📖 Read chapter 1 - 44 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:44, 05 June 2023)
--   📖 Read chapter 1 - 28 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:43, 05 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
 -   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
