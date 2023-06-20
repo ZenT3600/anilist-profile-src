@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 120 of [Nano Machine](https://anilist.co/manga/120980) (05:02, 20 June 2023)
 -   📖 Read chapter 1 - 29 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:19, 19 June 2023)
--   📖 Read chapter 1 - 118 of [Nano Machine](https://anilist.co/manga/120980) (15:42, 19 June 2023)
 -   📺 Plans to watch 0 of [Megalobox](https://anilist.co/anime/100298) (19:50, 18 June 2023)
 -   📺 Plans to watch 0 of [Death Parade](https://anilist.co/anime/20931) (19:50, 18 June 2023)
 -   📖 Read chapter 1 - 59 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (02:03, 18 June 2023)
