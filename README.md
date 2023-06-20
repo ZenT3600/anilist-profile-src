@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 99 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (14:09, 20 June 2023)
 -   📖 Read chapter 1 - 43 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:49, 20 June 2023)
 -   📖 Read chapter 1 - 120 of [Nano Machine](https://anilist.co/manga/120980) (05:02, 20 June 2023)
 -   📖 Read chapter 1 - 29 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:19, 19 June 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 178 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:02, 17 June 2023)
 -   📖 Read chapter 1 - 102 of [She's Hopeless](https://anilist.co/manga/126944) (07:22, 17 June 2023)
 -   📖 Read chapter 14 - 40 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:43, 17 June 2023)
--   📖 Read chapter 1 - 98 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (20:50, 16 June 2023)
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
 -   📖 Read chapter 1 - 89 of [To Not Die](https://anilist.co/manga/136099) (04:38, 16 June 2023)
 -   📖 Read chapter 1 - 75 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:32, 16 June 2023)
