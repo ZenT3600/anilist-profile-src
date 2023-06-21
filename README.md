@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 144 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:12, 21 June 2023)
 -   📖 Read chapter 1 - 113 of [Love’s in Sight!](https://anilist.co/manga/107445) (15:01, 21 June 2023)
 -   📖 Read chapter 1 - 103 of [Solo Leveling](https://anilist.co/manga/105398) (13:12, 21 June 2023)
 -   📖 Read chapter 1 - 136 of [Nano Machine](https://anilist.co/manga/120980) (06:34, 21 June 2023)
@@ -20,7 +21,6 @@
 -   📺 Plans to watch [Akira](https://anilist.co/anime/47) (14:07, 15 June 2023)
 -   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (10:07, 15 June 2023)
 -   📺 Plans to watch [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (05:53, 15 June 2023)
--   📖 Read chapter 1 - 143 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:59, 14 June 2023)
 -   📺 Completed [Shinsei Futanari Idol: Dekatama Kei!](https://anilist.co/anime/21582) (16:58, 14 June 2023)
 -   📺 Completed [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (15:03, 14 June 2023)
 -   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (13:06, 14 June 2023)
