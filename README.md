@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 140 of [Nano Machine](https://anilist.co/manga/120980) (14:22, 22 June 2023)
 -   📖 Read chapter 1 - 136 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (11:27, 22 June 2023)
 -   📖 Read chapter 1 - 179 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:23, 22 June 2023)
 -   📖 Read chapter 1 - 33 of [Citrus+](https://anilist.co/manga/103884) (11:18, 22 June 2023)
 -   📖 Read chapter 1 - 158 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:38, 22 June 2023)
--   📖 Read chapter 1 - 139 of [Nano Machine](https://anilist.co/manga/120980) (05:08, 22 June 2023)
 -   📖 Read chapter 1 - 144 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:12, 21 June 2023)
 -   📖 Read chapter 1 - 113 of [Love’s in Sight!](https://anilist.co/manga/107445) (15:01, 21 June 2023)
 -   📖 Read chapter 1 - 103 of [Solo Leveling](https://anilist.co/manga/105398) (13:12, 21 June 2023)
