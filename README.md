@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 138 of [Nano Machine](https://anilist.co/manga/120980) (04:58, 22 June 2023)
 -   📖 Read chapter 1 - 144 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:12, 21 June 2023)
 -   📖 Read chapter 1 - 113 of [Love’s in Sight!](https://anilist.co/manga/107445) (15:01, 21 June 2023)
 -   📖 Read chapter 1 - 103 of [Solo Leveling](https://anilist.co/manga/105398) (13:12, 21 June 2023)
--   📖 Read chapter 1 - 136 of [Nano Machine](https://anilist.co/manga/120980) (06:34, 21 June 2023)
 -   📖 Read chapter 1 - 99 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (14:09, 20 June 2023)
 -   📖 Read chapter 1 - 43 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:49, 20 June 2023)
 -   📖 Read chapter 1 - 29 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:19, 19 June 2023)
