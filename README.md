@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 76 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:13, 22 June 2023)
 -   📖 Read chapter 1 - 140 of [Nano Machine](https://anilist.co/manga/120980) (14:22, 22 June 2023)
 -   📖 Read chapter 1 - 136 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (11:27, 22 June 2023)
 -   📖 Read chapter 1 - 179 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:23, 22 June 2023)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 14 - 40 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:43, 17 June 2023)
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
 -   📖 Read chapter 1 - 89 of [To Not Die](https://anilist.co/manga/136099) (04:38, 16 June 2023)
--   📖 Read chapter 1 - 75 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:32, 16 June 2023)
 -   📺 Plans to watch [Akira](https://anilist.co/anime/47) (14:07, 15 June 2023)
 -   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (10:07, 15 June 2023)
 -   📺 Plans to watch [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (05:53, 15 June 2023)
