@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 136 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (11:27, 22 June 2023)
+-   📖 Read chapter 1 - 179 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:23, 22 June 2023)
+-   📖 Read chapter 1 - 33 of [Citrus+](https://anilist.co/manga/103884) (11:18, 22 June 2023)
 -   📖 Read chapter 1 - 158 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:38, 22 June 2023)
 -   📖 Read chapter 1 - 139 of [Nano Machine](https://anilist.co/manga/120980) (05:08, 22 June 2023)
 -   📖 Read chapter 1 - 144 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:12, 21 June 2023)
@@ -12,7 +15,6 @@
 -   📺 Plans to watch 0 of [Death Parade](https://anilist.co/anime/20931) (19:50, 18 June 2023)
 -   📖 Read chapter 1 - 59 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (02:03, 18 June 2023)
 -   📖 Read chapter 8 - 45 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (01:57, 18 June 2023)
--   📖 Read chapter 1 - 178 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:02, 17 June 2023)
 -   📖 Read chapter 1 - 102 of [She's Hopeless](https://anilist.co/manga/126944) (07:22, 17 June 2023)
 -   📖 Read chapter 14 - 40 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:43, 17 June 2023)
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
@@ -36,7 +38,6 @@
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
 -   📺 Completed [Joshi Luck!](https://anilist.co/anime/109326) (22:11, 09 June 2023)
--   📖 Read chapter 1 - 135 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (18:02, 09 June 2023)
 -   📖 Plans to read [Guyabano Holiday](https://anilist.co/manga/105580) (16:07, 07 June 2023)
 -   📖 Read chapter 1 - 44 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:44, 05 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Omusubi no Korogaru Machi](https://anilist.co/manga/129980) (14:57, 13 May 2023)
 -   📖 Completed [Nihikime no Kingyo](https://anilist.co/manga/101983) (14:19, 13 May 2023)
 -   📖 Read chapter 1 - 53 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:54, 13 May 2023)
--   📖 Plans to read [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (09:39, 12 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
