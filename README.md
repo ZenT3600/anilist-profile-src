@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 141 of [Nano Machine](https://anilist.co/manga/120980) (06:37, 23 June 2023)
 -   📖 Read chapter 1 - 90 of [To Not Die](https://anilist.co/manga/136099) (06:00, 23 June 2023)
 -   📖 Read chapter 1 - 76 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:13, 22 June 2023)
--   📖 Read chapter 1 - 140 of [Nano Machine](https://anilist.co/manga/120980) (14:22, 22 June 2023)
 -   📖 Read chapter 1 - 136 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (11:27, 22 June 2023)
 -   📖 Read chapter 1 - 179 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:23, 22 June 2023)
 -   📖 Read chapter 1 - 33 of [Citrus+](https://anilist.co/manga/103884) (11:18, 22 June 2023)
