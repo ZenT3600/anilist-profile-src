@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Zhizhu Si](https://anilist.co/manga/161716) (08:12, 24 June 2023)
+-   📖 Read chapter 1 - 16 of [Zhizhu Si](https://anilist.co/manga/161716) (08:44, 24 June 2023)
 -   📖 Read chapter 1 - 180 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:22, 24 June 2023)
 -   📖 Plans to read [Zhizhu Si](https://anilist.co/manga/161716) (09:41, 23 June 2023)
 -   📖 Read chapter 1 - 159 of [Nano Machine](https://anilist.co/manga/120980) (08:37, 23 June 2023)
