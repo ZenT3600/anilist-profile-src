@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 76 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (07:02, 25 June 2023)
 -   📖 Read chapter 1 - 100 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:45, 24 June 2023)
 -   📖 Read chapter 1 - 45 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:44, 24 June 2023)
 -   📖 Plans to read [Zom 100: Bucket List of the Dead](https://anilist.co/manga/104660) (10:50, 24 June 2023)
@@ -31,7 +32,6 @@
 -   📺 Completed [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (15:03, 14 June 2023)
 -   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (13:06, 14 June 2023)
 -   📺 Completed [Mako-chan Kaihatsu Nikki](https://anilist.co/anime/130692) (12:38, 14 June 2023)
--   📖 Read chapter 1 - 74 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (07:21, 14 June 2023)
 -   📺 Completed [Love Me: Kaede and Suzu THE ANIMATION](https://anilist.co/anime/135513) (18:11, 13 June 2023)
 -   📺 Completed [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 -   📺 Watched episode 15 - 25 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
