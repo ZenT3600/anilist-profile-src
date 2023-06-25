@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 23 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:07, 25 June 2023)
+-   📖 Read chapter 1 - 29 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:28, 25 June 2023)
 -   📖 Read chapter 1 - 36 of [Last Word of the World](https://anilist.co/manga/120692) (09:23, 25 June 2023)
 -   📖 Read chapter 1 - 76 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (07:02, 25 June 2023)
 -   📖 Read chapter 1 - 100 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:45, 24 June 2023)
