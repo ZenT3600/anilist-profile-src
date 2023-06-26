@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 26 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:10, 26 June 2023)
+-   📖 Read chapter 1 - 30 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:04, 26 June 2023)
 -   📖 Paused reading [Mitsuishi-san](https://anilist.co/manga/126488) (06:10, 26 June 2023)
 -   📖 Dropped [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:08, 26 June 2023)
 -   📖 Read chapter 1 - 159 of [One Piece](https://anilist.co/manga/30013) (06:07, 26 June 2023)
