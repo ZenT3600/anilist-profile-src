@@ -1,8 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [Mitsuishi-san](https://anilist.co/manga/126488) (06:10, 26 June 2023)
+-   📖 Dropped [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:08, 26 June 2023)
+-   📖 Read chapter 1 - 159 of [One Piece](https://anilist.co/manga/30013) (06:07, 26 June 2023)
+-   📖 Read chapter 1 - 77 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (05:59, 26 June 2023)
+-   📖 Read chapter 56 - 83 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:53, 26 June 2023)
 -   📖 Read chapter 1 - 29 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:28, 25 June 2023)
 -   📖 Read chapter 1 - 36 of [Last Word of the World](https://anilist.co/manga/120692) (09:23, 25 June 2023)
--   📖 Read chapter 1 - 76 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (07:02, 25 June 2023)
 -   📖 Read chapter 1 - 100 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:45, 24 June 2023)
 -   📖 Read chapter 1 - 45 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:44, 24 June 2023)
 -   📖 Plans to read [Zom 100: Bucket List of the Dead](https://anilist.co/manga/104660) (10:50, 24 June 2023)
@@ -39,7 +43,6 @@
 -   📺 Watched episode 15 - 25 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 -   📖 Read chapter 1 - 157 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (10:04, 13 June 2023)
 -   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (05:16, 12 June 2023)
--   📖 Read chapter 56 - 82 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:22, 11 June 2023)
 -   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
@@ -47,8 +50,5 @@
 -   📖 Plans to read [Guyabano Holiday](https://anilist.co/manga/105580) (16:07, 07 June 2023)
 -   📖 Read chapter 1 - 100 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:17, 03 June 2023)
 -   📖 Read chapter 5 - 54 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (13:33, 31 May 2023)
--   📖 Completed [Springtime For Blossom](https://anilist.co/manga/112265) (00:31, 30 May 2023)
--   📖 Read chapter 1 - 33 of [Springtime For Blossom](https://anilist.co/manga/112265) (00:29, 30 May 2023)
--   📖 Plans to read [Springtime For Blossom](https://anilist.co/manga/112265) (23:32, 29 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
