@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 83 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:05, 28 June 2023)
 -   📖 Read chapter 1 - 61 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (12:25, 28 June 2023)
 -   📖 Plans to read [Ashita Niji ga Denakute mo](https://anilist.co/manga/130983) (08:05, 28 June 2023)
--   📖 Read chapter 1 - 82 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:21, 28 June 2023)
 -   📖 Plans to read [True Beauty](https://anilist.co/manga/103995) (13:58, 27 June 2023)
 -   📖 Paused reading [Mitsuishi-san](https://anilist.co/manga/126488) (06:10, 26 June 2023)
 -   📖 Dropped [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:08, 26 June 2023)
