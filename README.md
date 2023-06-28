@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Ashita Niji ga Denakute mo](https://anilist.co/manga/130983) (08:05, 28 June 2023)
 -   📖 Read chapter 1 - 82 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:21, 28 June 2023)
 -   📖 Plans to read [True Beauty](https://anilist.co/manga/103995) (13:58, 27 June 2023)
 -   📖 Paused reading [Mitsuishi-san](https://anilist.co/manga/126488) (06:10, 26 June 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
 -   📺 Completed [Joshi Luck!](https://anilist.co/anime/109326) (22:11, 09 June 2023)
--   📖 Plans to read [Guyabano Holiday](https://anilist.co/manga/105580) (16:07, 07 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
