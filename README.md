@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 68 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:10, 28 June 2023)
+-   📖 Read chapter 1 - 76 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:33, 28 June 2023)
 -   📖 Plans to read [True Beauty](https://anilist.co/manga/103995) (13:58, 27 June 2023)
 -   📖 Paused reading [Mitsuishi-san](https://anilist.co/manga/126488) (06:10, 26 June 2023)
 -   📖 Dropped [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:08, 26 June 2023)
