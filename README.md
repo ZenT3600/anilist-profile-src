@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 101 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:12, 29 June 2023)
 -   📖 Read chapter 1 - 181 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:39, 29 June 2023)
 -   📖 Read chapter 1 - 159 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:36, 29 June 2023)
 -   📖 Read chapter 1 - 97 of [Teenage Mercenary](https://anilist.co/manga/126297) (23:58, 28 June 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 56 - 83 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:53, 26 June 2023)
 -   📖 Read chapter 1 - 29 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:28, 25 June 2023)
 -   📖 Read chapter 1 - 36 of [Last Word of the World](https://anilist.co/manga/120692) (09:23, 25 June 2023)
--   📖 Read chapter 1 - 100 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (16:45, 24 June 2023)
 -   📖 Read chapter 1 - 45 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:44, 24 June 2023)
 -   📖 Plans to read [Zom 100: Bucket List of the Dead](https://anilist.co/manga/104660) (10:50, 24 June 2023)
 -   📖 Read chapter 1 - 16 of [Zhizhu Si](https://anilist.co/manga/161716) (08:44, 24 June 2023)
