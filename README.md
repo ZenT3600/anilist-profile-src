@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 97 of [Teenage Mercenary](https://anilist.co/manga/126297) (23:58, 28 June 2023)
 -   📖 Read chapter 1 - 145 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (22:34, 28 June 2023)
--   📖 Read chapter 1 - 88 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:24, 28 June 2023)
 -   📖 Read chapter 1 - 61 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (12:25, 28 June 2023)
 -   📖 Plans to read [Ashita Niji ga Denakute mo](https://anilist.co/manga/130983) (08:05, 28 June 2023)
 -   📖 Plans to read [True Beauty](https://anilist.co/manga/103995) (13:58, 27 June 2023)
