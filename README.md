@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 181 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:39, 29 June 2023)
+-   📖 Read chapter 1 - 159 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:36, 29 June 2023)
 -   📖 Read chapter 1 - 97 of [Teenage Mercenary](https://anilist.co/manga/126297) (23:58, 28 June 2023)
 -   📖 Read chapter 1 - 145 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (22:34, 28 June 2023)
 -   📖 Read chapter 1 - 61 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (12:25, 28 June 2023)
@@ -16,14 +18,12 @@
 -   📖 Read chapter 1 - 45 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:44, 24 June 2023)
 -   📖 Plans to read [Zom 100: Bucket List of the Dead](https://anilist.co/manga/104660) (10:50, 24 June 2023)
 -   📖 Read chapter 1 - 16 of [Zhizhu Si](https://anilist.co/manga/161716) (08:44, 24 June 2023)
--   📖 Read chapter 1 - 180 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:22, 24 June 2023)
 -   📖 Plans to read [Zhizhu Si](https://anilist.co/manga/161716) (09:41, 23 June 2023)
 -   📖 Read chapter 1 - 159 of [Nano Machine](https://anilist.co/manga/120980) (08:37, 23 June 2023)
 -   📖 Read chapter 1 - 90 of [To Not Die](https://anilist.co/manga/136099) (06:00, 23 June 2023)
 -   📖 Read chapter 1 - 76 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:13, 22 June 2023)
 -   📖 Read chapter 1 - 136 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (11:27, 22 June 2023)
 -   📖 Read chapter 1 - 33 of [Citrus+](https://anilist.co/manga/103884) (11:18, 22 June 2023)
--   📖 Read chapter 1 - 158 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:38, 22 June 2023)
 -   📖 Read chapter 1 - 113 of [Love’s in Sight!](https://anilist.co/manga/107445) (15:01, 21 June 2023)
 -   📖 Read chapter 1 - 103 of [Solo Leveling](https://anilist.co/manga/105398) (13:12, 21 June 2023)
 -   📖 Read chapter 1 - 43 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:49, 20 June 2023)
