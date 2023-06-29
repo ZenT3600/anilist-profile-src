@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [Nano Machine](https://anilist.co/manga/120980) (17:30, 29 June 2023)
+-   📖 Read chapter 1 - 77 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:27, 29 June 2023)
 -   📖 Read chapter 1 - 101 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:12, 29 June 2023)
 -   📖 Read chapter 1 - 181 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:39, 29 June 2023)
 -   📖 Read chapter 1 - 159 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:36, 29 June 2023)
@@ -19,9 +21,7 @@
 -   📖 Plans to read [Zom 100: Bucket List of the Dead](https://anilist.co/manga/104660) (10:50, 24 June 2023)
 -   📖 Read chapter 1 - 16 of [Zhizhu Si](https://anilist.co/manga/161716) (08:44, 24 June 2023)
 -   📖 Plans to read [Zhizhu Si](https://anilist.co/manga/161716) (09:41, 23 June 2023)
--   📖 Read chapter 1 - 159 of [Nano Machine](https://anilist.co/manga/120980) (08:37, 23 June 2023)
 -   📖 Read chapter 1 - 90 of [To Not Die](https://anilist.co/manga/136099) (06:00, 23 June 2023)
--   📖 Read chapter 1 - 76 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:13, 22 June 2023)
 -   📖 Read chapter 1 - 136 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (11:27, 22 June 2023)
 -   📖 Read chapter 1 - 33 of [Citrus+](https://anilist.co/manga/103884) (11:18, 22 June 2023)
 -   📖 Read chapter 1 - 113 of [Love’s in Sight!](https://anilist.co/manga/107445) (15:01, 21 June 2023)
