@@ -1,11 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 99 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:56, 30 June 2023)
+-   📖 Read chapter 1 - 101 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:50, 30 June 2023)
 -   📖 Read chapter 1 - 160 of [Nano Machine](https://anilist.co/manga/120980) (17:30, 29 June 2023)
 -   📖 Read chapter 1 - 77 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:27, 29 June 2023)
 -   📖 Read chapter 1 - 101 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:12, 29 June 2023)
 -   📖 Read chapter 1 - 181 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:39, 29 June 2023)
 -   📖 Read chapter 1 - 159 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:36, 29 June 2023)
--   📖 Read chapter 1 - 97 of [Teenage Mercenary](https://anilist.co/manga/126297) (23:58, 28 June 2023)
 -   📖 Read chapter 1 - 145 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (22:34, 28 June 2023)
 -   📖 Read chapter 1 - 61 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (12:25, 28 June 2023)
 -   📖 Plans to read [Ashita Niji ga Denakute mo](https://anilist.co/manga/130983) (08:05, 28 June 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
 -   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
--   📺 Completed [Joshi Luck!](https://anilist.co/anime/109326) (22:11, 09 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
