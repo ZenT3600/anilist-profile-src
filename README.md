@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
 -   📖 Read chapter 1 - 182 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:49, 01 July 2023)
 -   📖 Read chapter 1 - 137 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (19:23, 30 June 2023)
 -   📖 Read chapter 1 - 91 of [To Not Die](https://anilist.co/manga/136099) (11:04, 30 June 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (05:16, 12 June 2023)
 -   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:31, 10 June 2023)
--   📖 Read chapter 1 - 387 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 10 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
