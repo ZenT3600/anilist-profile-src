@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 182 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:49, 01 July 2023)
 -   📖 Read chapter 1 - 137 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (19:23, 30 June 2023)
 -   📖 Read chapter 1 - 91 of [To Not Die](https://anilist.co/manga/136099) (11:04, 30 June 2023)
 -   📖 Read chapter 1 - 99 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:56, 30 June 2023)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 160 of [Nano Machine](https://anilist.co/manga/120980) (17:30, 29 June 2023)
 -   📖 Read chapter 1 - 77 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:27, 29 June 2023)
 -   📖 Read chapter 1 - 101 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:12, 29 June 2023)
--   📖 Read chapter 1 - 181 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:39, 29 June 2023)
 -   📖 Read chapter 1 - 159 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:36, 29 June 2023)
 -   📖 Read chapter 1 - 145 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (22:34, 28 June 2023)
 -   📖 Read chapter 1 - 61 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (12:25, 28 June 2023)
