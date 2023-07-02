@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 41 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:16, 02 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
 -   📖 Read chapter 1 - 182 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:49, 01 July 2023)
 -   📖 Read chapter 1 - 137 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (19:23, 30 June 2023)
@@ -34,7 +35,6 @@
 -   📺 Plans to watch 0 of [Death Parade](https://anilist.co/anime/20931) (19:50, 18 June 2023)
 -   📖 Read chapter 8 - 45 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (01:57, 18 June 2023)
 -   📖 Read chapter 1 - 102 of [She's Hopeless](https://anilist.co/manga/126944) (07:22, 17 June 2023)
--   📖 Read chapter 14 - 40 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (06:43, 17 June 2023)
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
 -   📺 Plans to watch [Akira](https://anilist.co/anime/47) (14:07, 15 June 2023)
 -   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (10:07, 15 June 2023)
