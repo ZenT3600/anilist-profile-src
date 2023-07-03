@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 43 of [Who Made Me a Princess](https://anilist.co/manga/107521) (19:27, 02 July 2023)
+-   📖 Read chapter 1 - 50 of [Who Made Me a Princess](https://anilist.co/manga/107521) (05:32, 03 July 2023)
 -   📖 Read chapter 14 - 41 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:16, 02 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
 -   📖 Read chapter 1 - 182 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:49, 01 July 2023)
