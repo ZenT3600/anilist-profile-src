@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 85 of [Who Made Me a Princess](https://anilist.co/manga/107521) (12:26, 04 July 2023)
+-   📖 Read chapter 1 - 90 of [Who Made Me a Princess](https://anilist.co/manga/107521) (17:59, 04 July 2023)
+-   📖 Read chapter 1 - 30 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (17:35, 04 July 2023)
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
 -   📖 Read chapter 1 - 44 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (03:43, 04 July 2023)
 -   📖 Read chapter 14 - 41 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:16, 02 July 2023)
@@ -31,7 +32,6 @@
 -   📖 Plans to read [Zhizhu Si](https://anilist.co/manga/161716) (09:41, 23 June 2023)
 -   📖 Read chapter 1 - 33 of [Citrus+](https://anilist.co/manga/103884) (11:18, 22 June 2023)
 -   📖 Read chapter 1 - 103 of [Solo Leveling](https://anilist.co/manga/105398) (13:12, 21 June 2023)
--   📖 Read chapter 1 - 29 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (21:19, 19 June 2023)
 -   📺 Plans to watch 0 of [Megalobox](https://anilist.co/anime/100298) (19:50, 18 June 2023)
 -   📺 Plans to watch 0 of [Death Parade](https://anilist.co/anime/20931) (19:50, 18 June 2023)
 -   📖 Read chapter 8 - 45 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (01:57, 18 June 2023)
