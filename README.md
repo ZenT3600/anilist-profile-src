@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 85 of [Who Made Me a Princess](https://anilist.co/manga/107521) (12:26, 04 July 2023)
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
 -   📖 Read chapter 1 - 44 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (03:43, 04 July 2023)
--   📖 Read chapter 1 - 84 of [Who Made Me a Princess](https://anilist.co/manga/107521) (18:01, 03 July 2023)
 -   📖 Read chapter 14 - 41 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:16, 02 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
 -   📖 Read chapter 1 - 182 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:49, 01 July 2023)
