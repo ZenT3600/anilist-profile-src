@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 06 July 2023)
 -   📖 Read chapter 1 - 113 of [Who Made Me a Princess](https://anilist.co/manga/107521) (04:29, 06 July 2023)
 -   📖 Read chapter 1 - 158 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:18, 06 July 2023)
 -   📖 Read chapter 1 - 30 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (17:35, 04 July 2023)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 160 of [Nano Machine](https://anilist.co/manga/120980) (17:30, 29 June 2023)
 -   📖 Read chapter 1 - 77 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:27, 29 June 2023)
 -   📖 Read chapter 1 - 101 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:12, 29 June 2023)
--   📖 Read chapter 1 - 159 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:36, 29 June 2023)
 -   📖 Read chapter 1 - 145 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (22:34, 28 June 2023)
 -   📖 Read chapter 1 - 61 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (12:25, 28 June 2023)
 -   📖 Plans to read [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (08:05, 28 June 2023)
