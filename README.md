@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 158 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:18, 06 July 2023)
 -   📖 Read chapter 1 - 109 of [Who Made Me a Princess](https://anilist.co/manga/107521) (13:13, 05 July 2023)
 -   📖 Read chapter 1 - 30 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (17:35, 04 July 2023)
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
@@ -47,7 +48,6 @@
 -   📺 Completed [Love Me: Kaede and Suzu THE ANIMATION](https://anilist.co/anime/135513) (18:11, 13 June 2023)
 -   📺 Completed [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 -   📺 Watched episode 15 - 25 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
--   📖 Read chapter 1 - 157 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (10:04, 13 June 2023)
 -   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (05:16, 12 June 2023)
 -   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 
