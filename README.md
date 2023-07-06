@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 14 of [Classroom of the Elite](https://anilist.co/manga/94970) (17:27, 06 July 2023)
 -   📖 Read chapter 1 - 160 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 06 July 2023)
 -   📖 Read chapter 1 - 113 of [Who Made Me a Princess](https://anilist.co/manga/107521) (04:29, 06 July 2023)
 -   📖 Read chapter 1 - 158 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:18, 06 July 2023)
@@ -49,6 +50,5 @@
 -   📺 Completed [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 -   📺 Watched episode 15 - 25 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 -   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (05:16, 12 June 2023)
--   📖 Read chapter 16 - 70 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (17:04, 10 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
