@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 159 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:07, 07 July 2023)
 -   📖 Read chapter 1 - 138 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (01:54, 07 July 2023)
 -   📖 Read chapter 1 - 78 of [Maybe Meant to Be](https://anilist.co/manga/146139) (01:51, 07 July 2023)
 -   📖 Read chapter 1 - 183 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (01:47, 07 July 2023)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 2 - 14 of [Classroom of the Elite](https://anilist.co/manga/94970) (17:27, 06 July 2023)
 -   📖 Read chapter 1 - 160 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 06 July 2023)
 -   📖 Read chapter 1 - 113 of [Who Made Me a Princess](https://anilist.co/manga/107521) (04:29, 06 July 2023)
--   📖 Read chapter 1 - 158 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (03:18, 06 July 2023)
 -   📖 Read chapter 1 - 30 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (17:35, 04 July 2023)
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
 -   📖 Read chapter 1 - 44 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (03:43, 04 July 2023)
