@@ -1,5 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 138 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (01:54, 07 July 2023)
+-   📖 Read chapter 1 - 78 of [Maybe Meant to Be](https://anilist.co/manga/146139) (01:51, 07 July 2023)
+-   📖 Read chapter 1 - 183 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (01:47, 07 July 2023)
+-   📖 Read chapter 1 - 161 of [Nano Machine](https://anilist.co/manga/120980) (01:44, 07 July 2023)
 -   📖 Read chapter 2 - 14 of [Classroom of the Elite](https://anilist.co/manga/94970) (17:27, 06 July 2023)
 -   📖 Read chapter 1 - 160 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 06 July 2023)
 -   📖 Read chapter 1 - 113 of [Who Made Me a Princess](https://anilist.co/manga/107521) (04:29, 06 July 2023)
@@ -9,13 +13,9 @@
 -   📖 Read chapter 1 - 44 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (03:43, 04 July 2023)
 -   📖 Read chapter 14 - 41 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:16, 02 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
--   📖 Read chapter 1 - 182 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:49, 01 July 2023)
--   📖 Read chapter 1 - 137 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (19:23, 30 June 2023)
 -   📖 Read chapter 1 - 91 of [To Not Die](https://anilist.co/manga/136099) (11:04, 30 June 2023)
 -   📖 Read chapter 1 - 99 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:56, 30 June 2023)
 -   📖 Read chapter 1 - 101 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:50, 30 June 2023)
--   📖 Read chapter 1 - 160 of [Nano Machine](https://anilist.co/manga/120980) (17:30, 29 June 2023)
--   📖 Read chapter 1 - 77 of [Maybe Meant to Be](https://anilist.co/manga/146139) (17:27, 29 June 2023)
 -   📖 Read chapter 1 - 101 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:12, 29 June 2023)
 -   📖 Read chapter 1 - 145 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (22:34, 28 June 2023)
 -   📖 Read chapter 1 - 61 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (12:25, 28 June 2023)
