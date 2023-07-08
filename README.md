@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 123 of [Who Made Me a Princess](https://anilist.co/manga/107521) (07:05, 08 July 2023)
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
 -   📖 Read chapter 1 - 92 of [To Not Die](https://anilist.co/manga/136099) (04:13, 07 July 2023)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 1 - 183 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (01:47, 07 July 2023)
 -   📖 Read chapter 1 - 161 of [Nano Machine](https://anilist.co/manga/120980) (01:44, 07 July 2023)
 -   📖 Read chapter 1 - 160 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 06 July 2023)
--   📖 Read chapter 1 - 113 of [Who Made Me a Princess](https://anilist.co/manga/107521) (04:29, 06 July 2023)
 -   📖 Read chapter 1 - 30 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (17:35, 04 July 2023)
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
 -   📖 Read chapter 1 - 44 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (03:43, 04 July 2023)
