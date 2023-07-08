@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 123 of [Who Made Me a Princess](https://anilist.co/manga/107521) (07:05, 08 July 2023)
+-   📖 Completed [Who Made Me a Princess](https://anilist.co/manga/107521) (07:10, 08 July 2023)
+-   📖 Read chapter 1 - 124 of [Who Made Me a Princess](https://anilist.co/manga/107521) (07:07, 08 July 2023)
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
 -   📖 Read chapter 1 - 92 of [To Not Die](https://anilist.co/manga/136099) (04:13, 07 July 2023)
@@ -49,6 +50,5 @@
 -   📺 Completed [Mako-chan Kaihatsu Nikki](https://anilist.co/anime/130692) (12:38, 14 June 2023)
 -   📺 Completed [Love Me: Kaede and Suzu THE ANIMATION](https://anilist.co/anime/135513) (18:11, 13 June 2023)
 -   📺 Completed [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
--   📺 Watched episode 15 - 25 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
