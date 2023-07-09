@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [She's Hopeless](https://anilist.co/manga/126944) (05:47, 09 July 2023)
 -   📖 Read chapter 1 - 160 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:13, 09 July 2023)
 -   📖 Read chapter 1 - 184 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:17, 08 July 2023)
 -   📖 Read chapter 14 - 42 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (10:06, 08 July 2023)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (13:06, 14 June 2023)
 -   📺 Completed [Mako-chan Kaihatsu Nikki](https://anilist.co/anime/130692) (12:38, 14 June 2023)
 -   📺 Completed [Love Me: Kaede and Suzu THE ANIMATION](https://anilist.co/anime/135513) (18:11, 13 June 2023)
--   📺 Completed [Neon Genesis Evangelion](https://anilist.co/anime/30) (15:04, 13 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
