@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:13, 09 July 2023)
 -   📖 Read chapter 1 - 184 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:17, 08 July 2023)
 -   📖 Read chapter 14 - 42 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (10:06, 08 July 2023)
 -   📖 Completed [Who Made Me a Princess](https://anilist.co/manga/107521) (07:10, 08 July 2023)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
 -   📖 Read chapter 1 - 92 of [To Not Die](https://anilist.co/manga/136099) (04:13, 07 July 2023)
--   📖 Read chapter 1 - 159 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:07, 07 July 2023)
 -   📖 Read chapter 1 - 138 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (01:54, 07 July 2023)
 -   📖 Read chapter 1 - 78 of [Maybe Meant to Be](https://anilist.co/manga/146139) (01:51, 07 July 2023)
 -   📖 Read chapter 1 - 161 of [Nano Machine](https://anilist.co/manga/120980) (01:44, 07 July 2023)
