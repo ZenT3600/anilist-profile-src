@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 100 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:45, 09 July 2023)
 -   📖 Completed [She's Hopeless](https://anilist.co/manga/126944) (05:47, 09 July 2023)
 -   📖 Read chapter 1 - 160 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:13, 09 July 2023)
 -   📖 Read chapter 1 - 184 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:17, 08 July 2023)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
 -   📖 Read chapter 1 - 44 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (03:43, 04 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
--   📖 Read chapter 1 - 99 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:56, 30 June 2023)
 -   📖 Read chapter 1 - 101 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:50, 30 June 2023)
 -   📖 Read chapter 1 - 101 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:12, 29 June 2023)
 -   📖 Read chapter 1 - 145 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (22:34, 28 June 2023)
