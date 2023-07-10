@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 100 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:45, 09 July 2023)
+-   📖 Read chapter 56 - 84 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:33, 10 July 2023)
+-   📖 Read chapter 1 - 100 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:27, 10 July 2023)
 -   📖 Completed [She's Hopeless](https://anilist.co/manga/126944) (05:47, 09 July 2023)
 -   📖 Read chapter 1 - 160 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:13, 09 July 2023)
 -   📖 Read chapter 1 - 184 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:17, 08 July 2023)
@@ -28,7 +29,6 @@
 -   📖 Dropped [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:08, 26 June 2023)
 -   📖 Read chapter 1 - 159 of [One Piece](https://anilist.co/manga/30013) (06:07, 26 June 2023)
 -   📖 Read chapter 1 - 77 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (05:59, 26 June 2023)
--   📖 Read chapter 56 - 83 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:53, 26 June 2023)
 -   📖 Read chapter 1 - 29 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:28, 25 June 2023)
 -   📖 Read chapter 1 - 36 of [Last Word of the World](https://anilist.co/manga/120692) (09:23, 25 June 2023)
 -   📖 Read chapter 1 - 45 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:44, 24 June 2023)
