@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:59, 11 July 2023)
 -   📖 Read chapter 1 - 144 of [Teenage Mercenary](https://anilist.co/manga/126297) (14:51, 11 July 2023)
 -   📺 Watched episode 1 - 2 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (09:29, 11 July 2023)
 -   📖 Read chapter 1 - 161 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:47, 11 July 2023)
@@ -49,6 +50,5 @@
 -   📺 Completed [Shinsei Futanari Idol: Dekatama Kei!](https://anilist.co/anime/21582) (16:58, 14 June 2023)
 -   📺 Completed [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (15:03, 14 June 2023)
 -   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (13:06, 14 June 2023)
--   📺 Completed [Mako-chan Kaihatsu Nikki](https://anilist.co/anime/130692) (12:38, 14 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
