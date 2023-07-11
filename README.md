@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 125 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:31, 11 July 2023)
+-   📖 Read chapter 1 - 133 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:54, 11 July 2023)
 -   📖 Read chapter 1 - 161 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:47, 11 July 2023)
 -   📖 Read chapter 56 - 84 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:33, 10 July 2023)
 -   📖 Completed [She's Hopeless](https://anilist.co/manga/126944) (05:47, 09 July 2023)
