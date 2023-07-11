@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 161 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:47, 11 July 2023)
 -   📖 Read chapter 1 - 120 of [Teenage Mercenary](https://anilist.co/manga/126297) (13:26, 10 July 2023)
 -   📖 Read chapter 56 - 84 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:33, 10 July 2023)
 -   📖 Completed [She's Hopeless](https://anilist.co/manga/126944) (05:47, 09 July 2023)
--   📖 Read chapter 1 - 160 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:13, 09 July 2023)
 -   📖 Read chapter 1 - 184 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:17, 08 July 2023)
 -   📖 Read chapter 14 - 42 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (10:06, 08 July 2023)
 -   📖 Completed [Who Made Me a Princess](https://anilist.co/manga/107521) (07:10, 08 July 2023)
