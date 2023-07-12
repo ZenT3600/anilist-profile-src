@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 49 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (14:06, 12 July 2023)
+-   📖 Read chapter 1 - 56 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (14:23, 12 July 2023)
 -   📖 Read chapter 1 - 144 of [Teenage Mercenary](https://anilist.co/manga/126297) (14:51, 11 July 2023)
 -   📺 Watched episode 1 - 2 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (09:29, 11 July 2023)
 -   📖 Read chapter 1 - 161 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:47, 11 July 2023)
