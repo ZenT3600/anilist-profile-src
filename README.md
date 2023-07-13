@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 67 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:32, 13 July 2023)
+-   📖 Read chapter 1 - 69 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:38, 13 July 2023)
 -   📖 Read chapter 1 - 102 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:26, 13 July 2023)
 -   📖 Read chapter 1 - 185 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:16, 13 July 2023)
 -   📖 Read chapter 1 - 161 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:47, 13 July 2023)
