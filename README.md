@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 66 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (09:36, 13 July 2023)
+-   📖 Read chapter 1 - 67 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:32, 13 July 2023)
+-   📖 Read chapter 1 - 102 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:26, 13 July 2023)
 -   📖 Read chapter 1 - 185 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:16, 13 July 2023)
 -   📖 Read chapter 1 - 161 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:47, 13 July 2023)
 -   📖 Read chapter 1 - 45 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 13 July 2023)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
 -   📖 Read chapter 1 - 101 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:50, 30 June 2023)
--   📖 Read chapter 1 - 101 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:12, 29 June 2023)
 -   📖 Read chapter 1 - 61 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (12:25, 28 June 2023)
 -   📖 Plans to read [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (08:05, 28 June 2023)
 -   📖 Plans to read [True Beauty](https://anilist.co/manga/103995) (13:58, 27 June 2023)
