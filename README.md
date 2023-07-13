@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
 -   📖 Read chapter 1 - 69 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:38, 13 July 2023)
 -   📖 Read chapter 1 - 102 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:26, 13 July 2023)
 -   📖 Read chapter 1 - 185 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:16, 13 July 2023)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (05:53, 15 June 2023)
 -   📺 Completed [Shinsei Futanari Idol: Dekatama Kei!](https://anilist.co/anime/21582) (16:58, 14 June 2023)
 -   📺 Completed [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (15:03, 14 June 2023)
--   📺 Plans to watch [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (13:06, 14 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
