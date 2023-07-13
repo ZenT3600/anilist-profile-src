@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 63 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (09:32, 13 July 2023)
+-   📖 Read chapter 1 - 66 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (09:36, 13 July 2023)
 -   📖 Read chapter 1 - 185 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:16, 13 July 2023)
 -   📖 Read chapter 1 - 161 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:47, 13 July 2023)
 -   📖 Read chapter 1 - 45 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 13 July 2023)
