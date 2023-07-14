@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 93 of [To Not Die](https://anilist.co/manga/136099) (15:06, 14 July 2023)
 -   📖 Read chapter 1 - 139 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:40, 14 July 2023)
 -   📖 Read chapter 1 - 56 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (13:36, 14 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
@@ -21,7 +22,6 @@
 -   📖 Read chapter 1 - 124 of [Who Made Me a Princess](https://anilist.co/manga/107521) (07:07, 08 July 2023)
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
--   📖 Read chapter 1 - 92 of [To Not Die](https://anilist.co/manga/136099) (04:13, 07 July 2023)
 -   📖 Read chapter 1 - 78 of [Maybe Meant to Be](https://anilist.co/manga/146139) (01:51, 07 July 2023)
 -   📖 Read chapter 1 - 30 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (17:35, 04 July 2023)
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
