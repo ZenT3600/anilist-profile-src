@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 139 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:40, 14 July 2023)
+-   📖 Read chapter 1 - 56 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (13:36, 14 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
 -   📖 Read chapter 1 - 69 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:38, 13 July 2023)
@@ -20,7 +22,6 @@
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
 -   📖 Read chapter 1 - 92 of [To Not Die](https://anilist.co/manga/136099) (04:13, 07 July 2023)
--   📖 Read chapter 1 - 138 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (01:54, 07 July 2023)
 -   📖 Read chapter 1 - 78 of [Maybe Meant to Be](https://anilist.co/manga/146139) (01:51, 07 July 2023)
 -   📖 Read chapter 1 - 30 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (17:35, 04 July 2023)
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Akira](https://anilist.co/anime/47) (14:07, 15 June 2023)
 -   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (10:07, 15 June 2023)
 -   📺 Plans to watch [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (05:53, 15 June 2023)
--   📺 Completed [Shinsei Futanari Idol: Dekatama Kei!](https://anilist.co/anime/21582) (16:58, 14 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
