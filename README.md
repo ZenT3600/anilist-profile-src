@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 72 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (06:19, 15 July 2023)
 -   📖 Read chapter 1 - 186 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 15 July 2023)
 -   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
 -   📖 Read chapter 1 - 46 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:51, 15 July 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 56 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (13:36, 14 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
--   📖 Read chapter 1 - 69 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:38, 13 July 2023)
 -   📖 Read chapter 1 - 102 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:26, 13 July 2023)
 -   📖 Read chapter 1 - 161 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:47, 13 July 2023)
 -   📖 Read chapter 1 - 162 of [Nano Machine](https://anilist.co/manga/120980) (05:41, 13 July 2023)
