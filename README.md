@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 77 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (08:08, 15 July 2023)
+-   📖 Read chapter 1 - 82 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (08:20, 15 July 2023)
 -   📖 Read chapter 1 - 58 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (07:57, 15 July 2023)
 -   📖 Read chapter 1 - 186 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 15 July 2023)
 -   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
