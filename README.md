@@ -1,5 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 186 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 15 July 2023)
+-   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
+-   📖 Read chapter 1 - 46 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:51, 15 July 2023)
+-   📖 Read chapter 14 - 43 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:45, 15 July 2023)
 -   📖 Read chapter 1 - 79 of [Maybe Meant to Be](https://anilist.co/manga/146139) (15:11, 14 July 2023)
 -   📖 Read chapter 1 - 93 of [To Not Die](https://anilist.co/manga/136099) (15:06, 14 July 2023)
 -   📖 Read chapter 1 - 139 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:40, 14 July 2023)
@@ -8,9 +12,7 @@
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
 -   📖 Read chapter 1 - 69 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:38, 13 July 2023)
 -   📖 Read chapter 1 - 102 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:26, 13 July 2023)
--   📖 Read chapter 1 - 185 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:16, 13 July 2023)
 -   📖 Read chapter 1 - 161 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:47, 13 July 2023)
--   📖 Read chapter 1 - 45 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 13 July 2023)
 -   📖 Read chapter 1 - 162 of [Nano Machine](https://anilist.co/manga/120980) (05:41, 13 July 2023)
 -   📖 Read chapter 1 - 146 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (02:02, 13 July 2023)
 -   📖 Read chapter 1 - 162 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:59, 13 July 2023)
@@ -18,7 +20,6 @@
 -   📺 Watched episode 1 - 2 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (09:29, 11 July 2023)
 -   📖 Read chapter 56 - 84 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:33, 10 July 2023)
 -   📖 Completed [She's Hopeless](https://anilist.co/manga/126944) (05:47, 09 July 2023)
--   📖 Read chapter 14 - 42 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (10:06, 08 July 2023)
 -   📖 Completed [Who Made Me a Princess](https://anilist.co/manga/107521) (07:10, 08 July 2023)
 -   📖 Read chapter 1 - 124 of [Who Made Me a Princess](https://anilist.co/manga/107521) (07:07, 08 July 2023)
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
 -   📺 Plans to watch [Akira](https://anilist.co/anime/47) (14:07, 15 June 2023)
 -   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (10:07, 15 June 2023)
--   📺 Plans to watch [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (05:53, 15 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
