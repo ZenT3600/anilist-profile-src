@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (10:59, 15 July 2023)
 -   📖 Read chapter 1 - 82 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (08:20, 15 July 2023)
 -   📖 Read chapter 1 - 58 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (07:57, 15 July 2023)
 -   📖 Read chapter 1 - 186 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 15 July 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 102 of [She's Hopeless](https://anilist.co/manga/126944) (07:22, 17 June 2023)
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
 -   📺 Plans to watch [Akira](https://anilist.co/anime/47) (14:07, 15 June 2023)
--   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (10:07, 15 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
