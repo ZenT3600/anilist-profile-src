@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:46, 16 July 2023)
+-   📖 Read chapter 1 - 8 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (13:10, 16 July 2023)
 -   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:12, 16 July 2023)
 -   📖 Read chapter 1 - 93 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (05:16, 16 July 2023)
 -   📖 Read chapter 1 - 61 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:16, 16 July 2023)
