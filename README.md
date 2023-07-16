@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 103 of [Chainsaw Man](https://anilist.co/manga/105778) (04:23, 16 July 2023)
 -   📖 Read chapter 1 - 87 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (13:23, 15 July 2023)
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (10:59, 15 July 2023)
 -   📖 Read chapter 1 - 58 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (07:57, 15 July 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 8 - 45 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (01:57, 18 June 2023)
 -   📖 Read chapter 1 - 102 of [She's Hopeless](https://anilist.co/manga/126944) (07:22, 17 June 2023)
 -   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
--   📺 Plans to watch [Akira](https://anilist.co/anime/47) (14:07, 15 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
