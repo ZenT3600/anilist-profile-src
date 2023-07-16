@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:12, 16 July 2023)
 -   📖 Read chapter 1 - 93 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (05:16, 16 July 2023)
 -   📖 Read chapter 1 - 61 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:16, 16 July 2023)
 -   📖 Read chapter 1 - 103 of [Chainsaw Man](https://anilist.co/manga/105778) (04:23, 16 July 2023)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch 0 of [Death Parade](https://anilist.co/anime/20931) (19:50, 18 June 2023)
 -   📖 Read chapter 8 - 45 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (01:57, 18 June 2023)
 -   📖 Read chapter 1 - 102 of [She's Hopeless](https://anilist.co/manga/126944) (07:22, 17 June 2023)
--   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (07:38, 16 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
