@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 11 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (03:39, 17 July 2023)
+-   📖 Read chapter 1 - 14 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (03:48, 17 July 2023)
 -   📖 Read chapter 1 - 103 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:52, 17 July 2023)
 -   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:12, 16 July 2023)
 -   📖 Read chapter 1 - 93 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (05:16, 16 July 2023)
