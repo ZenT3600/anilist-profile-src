@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 103 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:52, 17 July 2023)
 -   📖 Read chapter 1 - 8 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (13:10, 16 July 2023)
 -   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:12, 16 July 2023)
 -   📖 Read chapter 1 - 93 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (05:16, 16 July 2023)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 139 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:40, 14 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
--   📖 Read chapter 1 - 102 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:26, 13 July 2023)
 -   📖 Read chapter 1 - 161 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:47, 13 July 2023)
 -   📖 Read chapter 1 - 162 of [Nano Machine](https://anilist.co/manga/120980) (05:41, 13 July 2023)
 -   📖 Read chapter 1 - 146 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (02:02, 13 July 2023)
