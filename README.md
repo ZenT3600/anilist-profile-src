@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 112 of [Get Schooled](https://anilist.co/manga/128521) (04:02, 19 July 2023)
+-   📖 Read chapter 1 - 116 of [Get Schooled](https://anilist.co/manga/128521) (04:24, 19 July 2023)
 -   📖 Read chapter 1 - 64 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (03:57, 19 July 2023)
 -   📖 Read chapter 1 - 46 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:35, 18 July 2023)
 -   📖 Read chapter 1 - 10 of [Guyabano Holiday](https://anilist.co/manga/105580) (10:46, 18 July 2023)
