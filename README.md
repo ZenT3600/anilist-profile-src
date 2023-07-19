@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 104 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:38, 19 July 2023)
 -   📖 Read chapter 1 - 116 of [Get Schooled](https://anilist.co/manga/128521) (04:24, 19 July 2023)
 -   📖 Read chapter 1 - 64 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (03:57, 19 July 2023)
 -   📖 Read chapter 1 - 46 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:35, 18 July 2023)
 -   📖 Read chapter 1 - 10 of [Guyabano Holiday](https://anilist.co/manga/105580) (10:46, 18 July 2023)
 -   📖 Completed [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
 -   📖 Read chapter 1 - 39 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
--   📖 Read chapter 1 - 103 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (02:52, 17 July 2023)
 -   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:12, 16 July 2023)
 -   📖 Read chapter 1 - 93 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (05:16, 16 July 2023)
 -   📖 Read chapter 1 - 103 of [Chainsaw Man](https://anilist.co/manga/105778) (04:23, 16 July 2023)
