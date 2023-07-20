@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [1 Plus 1](https://anilist.co/manga/114592) (15:28, 20 July 2023)
 -   📺 Rewatched episode 1 - 3 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (09:44, 20 July 2023)
 -   📖 Read chapter 1 - 113 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (03:13, 20 July 2023)
 -   📖 Read chapter 1 - 147 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:25, 19 July 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Zom 100: Bucket List of the Dead](https://anilist.co/manga/104660) (10:50, 24 June 2023)
 -   📖 Read chapter 1 - 16 of [Zhizhu Si](https://anilist.co/manga/161716) (08:44, 24 June 2023)
 -   📖 Plans to read [Zhizhu Si](https://anilist.co/manga/161716) (09:41, 23 June 2023)
--   📖 Read chapter 1 - 33 of [Citrus+](https://anilist.co/manga/103884) (11:18, 22 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
