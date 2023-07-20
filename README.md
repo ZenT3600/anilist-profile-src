@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 109 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (03:07, 20 July 2023)
+-   📖 Read chapter 1 - 113 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (03:13, 20 July 2023)
 -   📖 Read chapter 1 - 147 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:25, 19 July 2023)
 -   📖 Read chapter 1 - 163 of [Nano Machine](https://anilist.co/manga/120980) (19:22, 19 July 2023)
 -   📖 Read chapter 1 - 104 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:38, 19 July 2023)
