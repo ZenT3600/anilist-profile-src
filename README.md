@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 97 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (02:42, 20 July 2023)
 -   📖 Read chapter 1 - 147 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:25, 19 July 2023)
 -   📖 Read chapter 1 - 163 of [Nano Machine](https://anilist.co/manga/120980) (19:22, 19 July 2023)
 -   📖 Read chapter 1 - 104 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:38, 19 July 2023)
@@ -10,7 +11,6 @@
 -   📖 Completed [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
 -   📖 Read chapter 1 - 39 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
 -   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:12, 16 July 2023)
--   📖 Read chapter 1 - 93 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (05:16, 16 July 2023)
 -   📖 Read chapter 1 - 103 of [Chainsaw Man](https://anilist.co/manga/105778) (04:23, 16 July 2023)
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (10:59, 15 July 2023)
 -   📖 Read chapter 1 - 186 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 15 July 2023)
