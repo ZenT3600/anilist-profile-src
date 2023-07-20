@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 187 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:49, 20 July 2023)
+-   📖 Read chapter 1 - 162 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:47, 20 July 2023)
 -   📖 Plans to read [1 Plus 1](https://anilist.co/manga/114592) (15:28, 20 July 2023)
 -   📺 Rewatched episode 1 - 3 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (09:44, 20 July 2023)
 -   📖 Read chapter 1 - 113 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (03:13, 20 July 2023)
@@ -15,7 +17,6 @@
 -   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:12, 16 July 2023)
 -   📖 Read chapter 1 - 103 of [Chainsaw Man](https://anilist.co/manga/105778) (04:23, 16 July 2023)
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (10:59, 15 July 2023)
--   📖 Read chapter 1 - 186 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:55, 15 July 2023)
 -   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
 -   📖 Read chapter 1 - 46 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:51, 15 July 2023)
 -   📖 Read chapter 14 - 43 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:45, 15 July 2023)
@@ -24,7 +25,6 @@
 -   📖 Read chapter 1 - 139 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:40, 14 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
--   📖 Read chapter 1 - 161 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:47, 13 July 2023)
 -   📖 Read chapter 1 - 162 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:59, 13 July 2023)
 -   📖 Read chapter 1 - 144 of [Teenage Mercenary](https://anilist.co/manga/126297) (14:51, 11 July 2023)
 -   📺 Watched episode 1 - 2 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (09:29, 11 July 2023)
