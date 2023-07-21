@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 94 of [To Not Die](https://anilist.co/manga/136099) (05:00, 21 July 2023)
+-   📖 Read chapter 1 - 140 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:54, 21 July 2023)
+-   📖 Read chapter 1 - 80 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:50, 21 July 2023)
 -   📖 Read chapter 1 - 187 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:49, 20 July 2023)
 -   📖 Read chapter 1 - 162 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:47, 20 July 2023)
 -   📖 Plans to read [1 Plus 1](https://anilist.co/manga/114592) (15:28, 20 July 2023)
@@ -20,9 +23,6 @@
 -   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
 -   📖 Read chapter 1 - 46 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:51, 15 July 2023)
 -   📖 Read chapter 14 - 43 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:45, 15 July 2023)
--   📖 Read chapter 1 - 79 of [Maybe Meant to Be](https://anilist.co/manga/146139) (15:11, 14 July 2023)
--   📖 Read chapter 1 - 93 of [To Not Die](https://anilist.co/manga/136099) (15:06, 14 July 2023)
--   📖 Read chapter 1 - 139 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (13:40, 14 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
 -   📖 Read chapter 1 - 162 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:59, 13 July 2023)
