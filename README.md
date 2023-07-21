@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 119 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (16:07, 21 July 2023)
+-   📖 Read chapter 1 - 31 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:34, 21 July 2023)
 -   📖 Read chapter 1 - 34 of [Citrus+](https://anilist.co/manga/103884) (15:31, 21 July 2023)
 -   📖 Read chapter 1 - 94 of [To Not Die](https://anilist.co/manga/136099) (05:00, 21 July 2023)
 -   📖 Read chapter 1 - 140 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:54, 21 July 2023)
@@ -8,7 +10,6 @@
 -   📖 Read chapter 1 - 162 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:47, 20 July 2023)
 -   📖 Plans to read [1 Plus 1](https://anilist.co/manga/114592) (15:28, 20 July 2023)
 -   📺 Rewatched episode 1 - 3 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (09:44, 20 July 2023)
--   📖 Read chapter 1 - 113 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (03:13, 20 July 2023)
 -   📖 Read chapter 1 - 147 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:25, 19 July 2023)
 -   📖 Read chapter 1 - 163 of [Nano Machine](https://anilist.co/manga/120980) (19:22, 19 July 2023)
 -   📖 Read chapter 1 - 104 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:38, 19 July 2023)
@@ -35,7 +36,6 @@
 -   📖 Read chapter 1 - 124 of [Who Made Me a Princess](https://anilist.co/manga/107521) (07:07, 08 July 2023)
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
--   📖 Read chapter 1 - 30 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (17:35, 04 July 2023)
 -   📖 Read chapter 1 - 114 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:15, 04 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
 -   📖 Read chapter 1 - 101 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:50, 30 June 2023)
