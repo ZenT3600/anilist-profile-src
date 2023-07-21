@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 119 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (16:07, 21 July 2023)
+-   📖 Read chapter 1 - 131 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (16:25, 21 July 2023)
 -   📖 Read chapter 1 - 31 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:34, 21 July 2023)
 -   📖 Read chapter 1 - 34 of [Citrus+](https://anilist.co/manga/103884) (15:31, 21 July 2023)
 -   📖 Read chapter 1 - 94 of [To Not Die](https://anilist.co/manga/136099) (05:00, 21 July 2023)
