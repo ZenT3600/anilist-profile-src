@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 28 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (09:45, 22 July 2023)
 -   📖 Completed [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (07:54, 22 July 2023)
 -   📖 Completed [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:29, 22 July 2023)
 -   📖 Read chapter 1 - 144 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:28, 22 July 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 159 of [One Piece](https://anilist.co/manga/30013) (06:07, 26 June 2023)
 -   📖 Read chapter 1 - 77 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (05:59, 26 June 2023)
 -   📖 Read chapter 1 - 29 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:28, 25 June 2023)
--   📖 Read chapter 1 - 36 of [Last Word of the World](https://anilist.co/manga/120692) (09:23, 25 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
