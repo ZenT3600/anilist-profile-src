@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 44 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (01:44, 22 July 2023)
 -   📖 Read chapter 1 - 131 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (16:25, 21 July 2023)
 -   📖 Read chapter 1 - 31 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:34, 21 July 2023)
 -   📖 Read chapter 1 - 34 of [Citrus+](https://anilist.co/manga/103884) (15:31, 21 July 2023)
@@ -24,7 +25,6 @@
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (10:59, 15 July 2023)
 -   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
 -   📖 Read chapter 1 - 46 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:51, 15 July 2023)
--   📖 Read chapter 14 - 43 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:45, 15 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
 -   📖 Read chapter 1 - 162 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:59, 13 July 2023)
