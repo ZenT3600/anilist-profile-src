@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [1 Plus 1](https://anilist.co/manga/114592) (17:24, 22 July 2023)
+-   📖 Read chapter 1 - 188 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:15, 22 July 2023)
 -   📖 Read chapter 1 - 105 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:02, 22 July 2023)
 -   📖 Plans to read [Astral Pet Store](https://anilist.co/manga/160143) (13:11, 22 July 2023)
 -   📖 Read chapter 1 - 28 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (09:45, 22 July 2023)
@@ -12,7 +14,6 @@
 -   📖 Read chapter 1 - 94 of [To Not Die](https://anilist.co/manga/136099) (05:00, 21 July 2023)
 -   📖 Read chapter 1 - 140 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:54, 21 July 2023)
 -   📖 Read chapter 1 - 80 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:50, 21 July 2023)
--   📖 Read chapter 1 - 187 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:49, 20 July 2023)
 -   📖 Read chapter 1 - 162 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:47, 20 July 2023)
 -   📖 Plans to read [1 Plus 1](https://anilist.co/manga/114592) (15:28, 20 July 2023)
 -   📺 Rewatched episode 1 - 3 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (09:44, 20 July 2023)
@@ -49,6 +50,5 @@
 -   📖 Paused reading [Mitsuishi-san](https://anilist.co/manga/126488) (06:10, 26 June 2023)
 -   📖 Dropped [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:08, 26 June 2023)
 -   📖 Read chapter 1 - 159 of [One Piece](https://anilist.co/manga/30013) (06:07, 26 June 2023)
--   📖 Read chapter 1 - 77 of [GTO: Great Teacher Onizuka](https://anilist.co/manga/30336) (05:59, 26 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
