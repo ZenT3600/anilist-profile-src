@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 105 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:02, 22 July 2023)
 -   📖 Plans to read [Astral Pet Store](https://anilist.co/manga/160143) (13:11, 22 July 2023)
 -   📖 Read chapter 1 - 28 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (09:45, 22 July 2023)
 -   📖 Completed [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (07:54, 22 July 2023)
@@ -17,7 +18,6 @@
 -   📺 Rewatched episode 1 - 3 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (09:44, 20 July 2023)
 -   📖 Read chapter 1 - 147 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:25, 19 July 2023)
 -   📖 Read chapter 1 - 163 of [Nano Machine](https://anilist.co/manga/120980) (19:22, 19 July 2023)
--   📖 Read chapter 1 - 104 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (11:38, 19 July 2023)
 -   📖 Read chapter 1 - 116 of [Get Schooled](https://anilist.co/manga/128521) (04:24, 19 July 2023)
 -   📖 Read chapter 1 - 64 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (03:57, 19 July 2023)
 -   📖 Read chapter 1 - 46 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:35, 18 July 2023)
