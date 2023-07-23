@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [1 Plus 1](https://anilist.co/manga/114592) (17:24, 22 July 2023)
+-   📖 Read chapter 1 - 6 of [1 Plus 1](https://anilist.co/manga/114592) (05:26, 23 July 2023)
 -   📖 Read chapter 1 - 188 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:15, 22 July 2023)
 -   📖 Read chapter 1 - 105 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:02, 22 July 2023)
 -   📖 Plans to read [Astral Pet Store](https://anilist.co/manga/160143) (13:11, 22 July 2023)
