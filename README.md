@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
+-   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
 -   📖 Read chapter 1 - 6 of [1 Plus 1](https://anilist.co/manga/114592) (05:26, 23 July 2023)
 -   📖 Read chapter 1 - 188 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:15, 22 July 2023)
 -   📖 Read chapter 1 - 105 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:02, 22 July 2023)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (08:05, 28 June 2023)
 -   📖 Plans to read [True Beauty](https://anilist.co/manga/103995) (13:58, 27 June 2023)
 -   📖 Paused reading [Mitsuishi-san](https://anilist.co/manga/126488) (06:10, 26 June 2023)
--   📖 Dropped [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (06:08, 26 June 2023)
--   📖 Read chapter 1 - 159 of [One Piece](https://anilist.co/manga/30013) (06:07, 26 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
