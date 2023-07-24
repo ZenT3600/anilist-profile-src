@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 47 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:42, 24 July 2023)
 -   📖 Read chapter 1 - 145 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:52, 24 July 2023)
 -   📖 Read chapter 56 - 85 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:47, 24 July 2023)
 -   📖 Read chapter 1 - 163 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:44, 24 July 2023)
@@ -28,7 +29,6 @@
 -   📖 Read chapter 1 - 163 of [Nano Machine](https://anilist.co/manga/120980) (19:22, 19 July 2023)
 -   📖 Read chapter 1 - 116 of [Get Schooled](https://anilist.co/manga/128521) (04:24, 19 July 2023)
 -   📖 Read chapter 1 - 64 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (03:57, 19 July 2023)
--   📖 Read chapter 1 - 46 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:35, 18 July 2023)
 -   📖 Read chapter 1 - 10 of [Guyabano Holiday](https://anilist.co/manga/105580) (10:46, 18 July 2023)
 -   📖 Completed [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
 -   📖 Read chapter 1 - 39 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
