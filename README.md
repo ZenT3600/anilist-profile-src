@@ -1,5 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 145 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:52, 24 July 2023)
+-   📖 Read chapter 56 - 85 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:47, 24 July 2023)
+-   📖 Read chapter 1 - 163 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:44, 24 July 2023)
+-   📖 Read chapter 1 - 47 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 24 July 2023)
 -   📖 Read chapter 1 - 64 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:01, 23 July 2023)
 -   📖 Read chapter 1 - 29 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (18:36, 23 July 2023)
 -   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
@@ -32,13 +36,9 @@
 -   📖 Read chapter 1 - 103 of [Chainsaw Man](https://anilist.co/manga/105778) (04:23, 16 July 2023)
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (10:59, 15 July 2023)
 -   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
--   📖 Read chapter 1 - 46 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:51, 15 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
--   📖 Read chapter 1 - 162 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:59, 13 July 2023)
--   📖 Read chapter 1 - 144 of [Teenage Mercenary](https://anilist.co/manga/126297) (14:51, 11 July 2023)
 -   📺 Watched episode 1 - 2 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (09:29, 11 July 2023)
--   📖 Read chapter 56 - 84 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:33, 10 July 2023)
 -   📖 Completed [She's Hopeless](https://anilist.co/manga/126944) (05:47, 09 July 2023)
 -   📖 Completed [Who Made Me a Princess](https://anilist.co/manga/107521) (07:10, 08 July 2023)
 -   📖 Read chapter 1 - 124 of [Who Made Me a Princess](https://anilist.co/manga/107521) (07:07, 08 July 2023)
