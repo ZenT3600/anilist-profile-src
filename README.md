@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 164 of [Nano Machine](https://anilist.co/manga/120980) (05:30, 27 July 2023)
+-   📖 Read chapter 1 - 30 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (05:24, 27 July 2023)
 -   📖 Read chapter 1 - 118 of [Get Schooled](https://anilist.co/manga/128521) (06:55, 26 July 2023)
 -   📖 Read chapter 1 - 115 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:20, 25 July 2023)
 -   📖 Read chapter 1 - 164 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:14, 25 July 2023)
@@ -8,7 +10,6 @@
 -   📖 Read chapter 56 - 85 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:47, 24 July 2023)
 -   📖 Read chapter 1 - 47 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 24 July 2023)
 -   📖 Read chapter 1 - 64 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:01, 23 July 2023)
--   📖 Read chapter 1 - 29 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (18:36, 23 July 2023)
 -   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
 -   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
 -   📖 Read chapter 1 - 6 of [1 Plus 1](https://anilist.co/manga/114592) (05:26, 23 July 2023)
@@ -28,7 +29,6 @@
 -   📖 Plans to read [1 Plus 1](https://anilist.co/manga/114592) (15:28, 20 July 2023)
 -   📺 Rewatched episode 1 - 3 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (09:44, 20 July 2023)
 -   📖 Read chapter 1 - 147 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:25, 19 July 2023)
--   📖 Read chapter 1 - 163 of [Nano Machine](https://anilist.co/manga/120980) (19:22, 19 July 2023)
 -   📖 Read chapter 1 - 64 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (03:57, 19 July 2023)
 -   📖 Read chapter 1 - 10 of [Guyabano Holiday](https://anilist.co/manga/105580) (10:46, 18 July 2023)
 -   📖 Completed [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
