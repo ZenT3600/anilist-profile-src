@@ -1,10 +1,14 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 163 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:46, 28 July 2023)
+-   📖 Read chapter 1 - 102 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:42, 28 July 2023)
+-   📖 Read chapter 1 - 148 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (09:36, 28 July 2023)
+-   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
+-   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
 -   📖 Read chapter 1 - 164 of [Nano Machine](https://anilist.co/manga/120980) (05:30, 27 July 2023)
 -   📖 Read chapter 1 - 30 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (05:24, 27 July 2023)
 -   📖 Read chapter 1 - 118 of [Get Schooled](https://anilist.co/manga/128521) (06:55, 26 July 2023)
 -   📖 Read chapter 1 - 115 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:20, 25 July 2023)
--   📖 Read chapter 1 - 164 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:14, 25 July 2023)
 -   📖 Read chapter 1 - 47 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:42, 24 July 2023)
 -   📖 Read chapter 1 - 145 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:52, 24 July 2023)
 -   📖 Read chapter 56 - 85 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:47, 24 July 2023)
@@ -25,10 +29,8 @@
 -   📖 Read chapter 1 - 94 of [To Not Die](https://anilist.co/manga/136099) (05:00, 21 July 2023)
 -   📖 Read chapter 1 - 140 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:54, 21 July 2023)
 -   📖 Read chapter 1 - 80 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:50, 21 July 2023)
--   📖 Read chapter 1 - 162 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (15:47, 20 July 2023)
 -   📖 Plans to read [1 Plus 1](https://anilist.co/manga/114592) (15:28, 20 July 2023)
 -   📺 Rewatched episode 1 - 3 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (09:44, 20 July 2023)
--   📖 Read chapter 1 - 147 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:25, 19 July 2023)
 -   📖 Read chapter 1 - 64 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (03:57, 19 July 2023)
 -   📖 Read chapter 1 - 10 of [Guyabano Holiday](https://anilist.co/manga/105580) (10:46, 18 July 2023)
 -   📖 Completed [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
@@ -46,9 +48,7 @@
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
--   📖 Read chapter 1 - 101 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (04:50, 30 June 2023)
 -   📖 Plans to read [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (08:05, 28 June 2023)
 -   📖 Plans to read [True Beauty](https://anilist.co/manga/103995) (13:58, 27 June 2023)
--   📖 Paused reading [Mitsuishi-san](https://anilist.co/manga/126488) (06:10, 26 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
