@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 95 of [To Not Die](https://anilist.co/manga/136099) (18:31, 29 July 2023)
 -   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
 -   📖 Read chapter 1 - 146 of [Teenage Mercenary](https://anilist.co/manga/126297) (12:25, 29 July 2023)
 -   📖 Read chapter 1 - 190 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:19, 29 July 2023)
@@ -28,7 +29,6 @@
 -   📖 Read chapter 1 - 144 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:28, 22 July 2023)
 -   📖 Read chapter 1 - 31 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:34, 21 July 2023)
 -   📖 Read chapter 1 - 34 of [Citrus+](https://anilist.co/manga/103884) (15:31, 21 July 2023)
--   📖 Read chapter 1 - 94 of [To Not Die](https://anilist.co/manga/136099) (05:00, 21 July 2023)
 -   📖 Read chapter 1 - 140 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:54, 21 July 2023)
 -   📖 Read chapter 1 - 80 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:50, 21 July 2023)
 -   📖 Plans to read [1 Plus 1](https://anilist.co/manga/114592) (15:28, 20 July 2023)
