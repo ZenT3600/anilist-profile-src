@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
 -   📖 Read chapter 1 - 189 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:41, 28 July 2023)
 -   📖 Read chapter 1 - 31 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (17:31, 28 July 2023)
 -   📖 Read chapter 1 - 163 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:46, 28 July 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
 -   📖 Plans to read [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (08:05, 28 June 2023)
--   📖 Plans to read [True Beauty](https://anilist.co/manga/103995) (13:58, 27 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
