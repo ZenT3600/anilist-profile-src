@@ -1,8 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
+-   📖 Read chapter 1 - 146 of [Teenage Mercenary](https://anilist.co/manga/126297) (12:25, 29 July 2023)
+-   📖 Read chapter 1 - 190 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:19, 29 July 2023)
 -   📖 Read chapter 14 - 45 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (08:42, 29 July 2023)
 -   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
--   📖 Read chapter 1 - 189 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:41, 28 July 2023)
 -   📖 Read chapter 1 - 31 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (17:31, 28 July 2023)
 -   📖 Read chapter 1 - 163 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:46, 28 July 2023)
 -   📖 Read chapter 1 - 102 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:42, 28 July 2023)
@@ -13,7 +15,6 @@
 -   📖 Read chapter 1 - 118 of [Get Schooled](https://anilist.co/manga/128521) (06:55, 26 July 2023)
 -   📖 Read chapter 1 - 115 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:20, 25 July 2023)
 -   📖 Read chapter 1 - 47 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:42, 24 July 2023)
--   📖 Read chapter 1 - 145 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:52, 24 July 2023)
 -   📖 Read chapter 56 - 85 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:47, 24 July 2023)
 -   📖 Read chapter 1 - 47 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 24 July 2023)
 -   📖 Read chapter 1 - 64 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:01, 23 July 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
 -   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
--   📖 Plans to read [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (08:05, 28 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
