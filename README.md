@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 32 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:56, 31 July 2023)
 -   📖 Read chapter 1 - 119 of [Get Schooled](https://anilist.co/manga/128521) (05:56, 31 July 2023)
 -   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
 -   📖 Read chapter 1 - 147 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:23, 30 July 2023)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 1 - 190 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:19, 29 July 2023)
 -   📖 Read chapter 14 - 45 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (08:42, 29 July 2023)
 -   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
--   📖 Read chapter 1 - 31 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (17:31, 28 July 2023)
 -   📖 Read chapter 1 - 163 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:46, 28 July 2023)
 -   📖 Read chapter 1 - 102 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:42, 28 July 2023)
 -   📖 Read chapter 1 - 148 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (09:36, 28 July 2023)
