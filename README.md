@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 119 of [Get Schooled](https://anilist.co/manga/128521) (05:56, 31 July 2023)
+-   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
 -   📖 Read chapter 1 - 147 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:23, 30 July 2023)
 -   📖 Read chapter 1 - 65 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (11:19, 30 July 2023)
 -   📖 Read chapter 1 - 95 of [To Not Die](https://anilist.co/manga/136099) (18:31, 29 July 2023)
@@ -14,7 +16,6 @@
 -   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
 -   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
 -   📖 Read chapter 1 - 164 of [Nano Machine](https://anilist.co/manga/120980) (05:30, 27 July 2023)
--   📖 Read chapter 1 - 118 of [Get Schooled](https://anilist.co/manga/128521) (06:55, 26 July 2023)
 -   📖 Read chapter 1 - 115 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:20, 25 July 2023)
 -   📖 Read chapter 1 - 47 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:42, 24 July 2023)
 -   📖 Read chapter 56 - 85 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:47, 24 July 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 124 of [Who Made Me a Princess](https://anilist.co/manga/107521) (07:07, 08 July 2023)
 -   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
 -   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
--   📖 Read chapter 9 of [My Hero](https://anilist.co/manga/165423) (14:14, 01 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
