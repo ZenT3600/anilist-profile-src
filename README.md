@@ -1,6 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 25 of [1 Plus 1](https://anilist.co/manga/114592) (18:51, 31 July 2023)
+-   📖 Read chapter 1 - 2 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (20:04, 31 July 2023)
+-   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
+-   📖 Read chapter 1 - 26 of [1 Plus 1](https://anilist.co/manga/114592) (19:55, 31 July 2023)
 -   📖 Read chapter 1 - 32 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:56, 31 July 2023)
 -   📖 Read chapter 1 - 119 of [Get Schooled](https://anilist.co/manga/128521) (05:56, 31 July 2023)
 -   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
@@ -48,7 +50,5 @@
 -   📖 Completed [She's Hopeless](https://anilist.co/manga/126944) (05:47, 09 July 2023)
 -   📖 Completed [Who Made Me a Princess](https://anilist.co/manga/107521) (07:10, 08 July 2023)
 -   📖 Read chapter 1 - 124 of [Who Made Me a Princess](https://anilist.co/manga/107521) (07:07, 08 July 2023)
--   📖 Read chapter 16 - 73 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (01:44, 08 July 2023)
--   📖 Read chapter 2 - 15 of [Classroom of the Elite](https://anilist.co/manga/94970) (04:47, 07 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
