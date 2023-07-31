@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [1 Plus 1](https://anilist.co/manga/114592) (13:48, 31 July 2023)
 -   📖 Read chapter 1 - 32 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:56, 31 July 2023)
 -   📖 Read chapter 1 - 119 of [Get Schooled](https://anilist.co/manga/128521) (05:56, 31 July 2023)
 -   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 1 - 64 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:01, 23 July 2023)
 -   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
 -   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
--   📖 Read chapter 1 - 6 of [1 Plus 1](https://anilist.co/manga/114592) (05:26, 23 July 2023)
 -   📖 Read chapter 1 - 105 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:02, 22 July 2023)
 -   📖 Plans to read [Astral Pet Store](https://anilist.co/manga/160143) (13:11, 22 July 2023)
 -   📖 Completed [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (07:54, 22 July 2023)
