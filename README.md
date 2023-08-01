@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 30 of [1 Plus 1](https://anilist.co/manga/114592) (12:09, 01 August 2023)
+-   📖 Read chapter 1 - 40 of [1 Plus 1](https://anilist.co/manga/114592) (15:06, 01 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
 -   📖 Read chapter 1 - 32 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:56, 31 July 2023)
