@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 30 of [1 Plus 1](https://anilist.co/manga/114592) (12:09, 01 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
--   📖 Read chapter 1 - 26 of [1 Plus 1](https://anilist.co/manga/114592) (19:55, 31 July 2023)
 -   📖 Read chapter 1 - 32 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:56, 31 July 2023)
 -   📖 Read chapter 1 - 119 of [Get Schooled](https://anilist.co/manga/128521) (05:56, 31 July 2023)
 -   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
