@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 48 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (11:23, 02 August 2023)
+-   📖 Read chapter 1 - 48 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:18, 02 August 2023)
 -   📖 Read chapter 1 - 46 of [1 Plus 1](https://anilist.co/manga/114592) (15:27, 01 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
@@ -20,9 +22,7 @@
 -   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
 -   📖 Read chapter 1 - 164 of [Nano Machine](https://anilist.co/manga/120980) (05:30, 27 July 2023)
 -   📖 Read chapter 1 - 115 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:20, 25 July 2023)
--   📖 Read chapter 1 - 47 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:42, 24 July 2023)
 -   📖 Read chapter 56 - 85 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:47, 24 July 2023)
--   📖 Read chapter 1 - 47 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 24 July 2023)
 -   📖 Read chapter 1 - 64 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:01, 23 July 2023)
 -   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
 -   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
