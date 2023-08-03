@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 48 of [1 Plus 1](https://anilist.co/manga/114592) (10:29, 03 August 2023)
+-   📖 Read chapter 1 - 49 of [1 Plus 1](https://anilist.co/manga/114592) (10:37, 03 August 2023)
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
 -   📖 Read chapter 1 - 164 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:15, 03 August 2023)
 -   📖 Read chapter 1 - 191 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:08, 03 August 2023)
