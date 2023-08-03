@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 191 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:08, 03 August 2023)
 -   📖 Read chapter 1 - 165 of [Nano Machine](https://anilist.co/manga/120980) (16:44, 02 August 2023)
 -   📖 Read chapter 1 - 149 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:41, 02 August 2023)
 -   📖 Read chapter 1 - 48 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (11:23, 02 August 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 65 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (11:19, 30 July 2023)
 -   📖 Read chapter 1 - 95 of [To Not Die](https://anilist.co/manga/136099) (18:31, 29 July 2023)
 -   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
--   📖 Read chapter 1 - 190 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:19, 29 July 2023)
 -   📖 Read chapter 14 - 45 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (08:42, 29 July 2023)
 -   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
 -   📖 Read chapter 1 - 163 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:46, 28 July 2023)
