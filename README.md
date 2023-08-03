@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 164 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:15, 03 August 2023)
 -   📖 Read chapter 1 - 191 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:08, 03 August 2023)
 -   📖 Read chapter 1 - 165 of [Nano Machine](https://anilist.co/manga/120980) (16:44, 02 August 2023)
 -   📖 Read chapter 1 - 149 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:41, 02 August 2023)
@@ -17,7 +18,6 @@
 -   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
 -   📖 Read chapter 14 - 45 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (08:42, 29 July 2023)
 -   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
--   📖 Read chapter 1 - 163 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:46, 28 July 2023)
 -   📖 Read chapter 1 - 102 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:42, 28 July 2023)
 -   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
 -   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
