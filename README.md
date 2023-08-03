@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 48 of [1 Plus 1](https://anilist.co/manga/114592) (10:29, 03 August 2023)
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
 -   📖 Read chapter 1 - 164 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:15, 03 August 2023)
 -   📖 Read chapter 1 - 191 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:08, 03 August 2023)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 149 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (16:41, 02 August 2023)
 -   📖 Read chapter 1 - 48 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (11:23, 02 August 2023)
 -   📖 Read chapter 1 - 48 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:18, 02 August 2023)
--   📖 Read chapter 1 - 46 of [1 Plus 1](https://anilist.co/manga/114592) (15:27, 01 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
 -   📖 Read chapter 1 - 32 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:56, 31 July 2023)
