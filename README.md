@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 33 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (14:25, 04 August 2023)
 -   📖 Read chapter 1 - 96 of [To Not Die](https://anilist.co/manga/136099) (11:47, 04 August 2023)
 -   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
 -   📖 Read chapter 1 - 51 of [1 Plus 1](https://anilist.co/manga/114592) (14:57, 03 August 2023)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 48 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:18, 02 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
--   📖 Read chapter 1 - 32 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:56, 31 July 2023)
 -   📖 Read chapter 1 - 119 of [Get Schooled](https://anilist.co/manga/128521) (05:56, 31 July 2023)
 -   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
 -   📖 Read chapter 1 - 147 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:23, 30 July 2023)
