@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 96 of [To Not Die](https://anilist.co/manga/136099) (11:47, 04 August 2023)
 -   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
 -   📖 Read chapter 1 - 51 of [1 Plus 1](https://anilist.co/manga/114592) (14:57, 03 August 2023)
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
@@ -16,7 +17,6 @@
 -   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
 -   📖 Read chapter 1 - 147 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:23, 30 July 2023)
 -   📖 Read chapter 1 - 65 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (11:19, 30 July 2023)
--   📖 Read chapter 1 - 95 of [To Not Die](https://anilist.co/manga/136099) (18:31, 29 July 2023)
 -   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
 -   📖 Read chapter 14 - 45 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (08:42, 29 July 2023)
 -   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
