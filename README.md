@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (08:06, 05 August 2023)
 -   📖 Read chapter 1 - 192 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:00, 05 August 2023)
 -   📖 Read chapter 1 - 166 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:41, 05 August 2023)
 -   📖 Read chapter 1 - 33 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (14:25, 04 August 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
 -   📺 Watched episode 1 - 2 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (09:29, 11 July 2023)
--   📖 Completed [She's Hopeless](https://anilist.co/manga/126944) (05:47, 09 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
