@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (08:06, 05 August 2023)
+-   📖 Read chapter 1 - 5 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (08:12, 05 August 2023)
 -   📖 Read chapter 1 - 192 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:00, 05 August 2023)
 -   📖 Read chapter 1 - 166 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:41, 05 August 2023)
 -   📖 Read chapter 1 - 33 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (14:25, 04 August 2023)
