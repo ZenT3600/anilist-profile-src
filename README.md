@@ -1,9 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 25 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:53, 08 August 2023)
+-   📖 Read chapter 1 - 32 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:50, 08 August 2023)
 -   📖 Read chapter 1 - 49 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:11, 07 August 2023)
 -   📖 Read chapter 56 - 86 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:10, 07 August 2023)
 -   📖 Read chapter 1 - 148 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:46, 06 August 2023)
--   📖 Read chapter 1 - 24 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:48, 06 August 2023)
 -   📖 Read chapter 14 - 46 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (14:26, 05 August 2023)
 -   📖 Read chapter 1 - 192 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:00, 05 August 2023)
 -   📖 Read chapter 1 - 166 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:41, 05 August 2023)
@@ -34,7 +35,6 @@
 -   📖 Completed [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (07:54, 22 July 2023)
 -   📖 Completed [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:29, 22 July 2023)
 -   📖 Read chapter 1 - 144 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:28, 22 July 2023)
--   📖 Read chapter 1 - 31 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:34, 21 July 2023)
 -   📖 Read chapter 1 - 34 of [Citrus+](https://anilist.co/manga/103884) (15:31, 21 July 2023)
 -   📖 Read chapter 1 - 140 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:54, 21 July 2023)
 -   📖 Read chapter 1 - 80 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:50, 21 July 2023)
