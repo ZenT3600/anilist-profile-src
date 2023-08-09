@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 25 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:53, 08 August 2023)
+-   📖 Read chapter 1 - 34 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:05, 09 August 2023)
 -   📖 Read chapter 1 - 32 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:50, 08 August 2023)
 -   📖 Read chapter 1 - 49 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:11, 07 August 2023)
 -   📖 Read chapter 56 - 86 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:10, 07 August 2023)
