@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 34 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (10:52, 09 August 2023)
 -   📖 Read chapter 1 - 34 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:05, 09 August 2023)
 -   📖 Read chapter 1 - 32 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:50, 08 August 2023)
 -   📖 Read chapter 1 - 49 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:11, 07 August 2023)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 14 - 46 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (14:26, 05 August 2023)
 -   📖 Read chapter 1 - 192 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:00, 05 August 2023)
 -   📖 Read chapter 1 - 166 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:41, 05 August 2023)
--   📖 Read chapter 1 - 33 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (14:25, 04 August 2023)
 -   📖 Read chapter 1 - 96 of [To Not Die](https://anilist.co/manga/136099) (11:47, 04 August 2023)
 -   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
 -   📖 Read chapter 1 - 51 of [1 Plus 1](https://anilist.co/manga/114592) (14:57, 03 August 2023)
