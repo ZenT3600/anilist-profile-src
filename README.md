@@ -1,11 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 166 of [Nano Machine](https://anilist.co/manga/120980) (05:03, 11 August 2023)
+-   📖 Read chapter 1 - 50 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:55, 11 August 2023)
 -   📖 Read chapter 1 - 103 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (10:07, 10 August 2023)
 -   📖 Read chapter 1 - 150 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:23, 10 August 2023)
 -   📖 Read chapter 1 - 34 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (10:52, 09 August 2023)
 -   📖 Read chapter 1 - 34 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:05, 09 August 2023)
 -   📖 Read chapter 1 - 32 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:50, 08 August 2023)
--   📖 Read chapter 1 - 49 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:11, 07 August 2023)
 -   📖 Read chapter 56 - 86 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:10, 07 August 2023)
 -   📖 Read chapter 1 - 148 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:46, 06 August 2023)
 -   📖 Read chapter 14 - 46 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (14:26, 05 August 2023)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 51 of [1 Plus 1](https://anilist.co/manga/114592) (14:57, 03 August 2023)
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
 -   📖 Read chapter 1 - 164 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:15, 03 August 2023)
--   📖 Read chapter 1 - 165 of [Nano Machine](https://anilist.co/manga/120980) (16:44, 02 August 2023)
 -   📖 Read chapter 1 - 48 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (11:23, 02 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
