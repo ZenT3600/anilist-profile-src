@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 50 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:56, 12 August 2023)
 -   📖 Read chapter 1 - 97 of [To Not Die](https://anilist.co/manga/136099) (05:30, 12 August 2023)
 -   📖 Read chapter 1 - 193 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:07, 11 August 2023)
 -   📖 Read chapter 1 - 166 of [Nano Machine](https://anilist.co/manga/120980) (05:03, 11 August 2023)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 103 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (10:07, 10 August 2023)
 -   📖 Read chapter 1 - 150 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:23, 10 August 2023)
 -   📖 Read chapter 1 - 34 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (10:52, 09 August 2023)
--   📖 Read chapter 1 - 34 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:05, 09 August 2023)
 -   📖 Read chapter 1 - 32 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:50, 08 August 2023)
 -   📖 Read chapter 56 - 86 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:10, 07 August 2023)
 -   📖 Read chapter 1 - 148 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:46, 06 August 2023)
