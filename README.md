@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 52 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:10, 14 August 2023)
+-   📖 Read chapter 1 - 116 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 14 August 2023)
 -   📖 Read chapter 1 - 149 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:58, 13 August 2023)
 -   📖 Read chapter 1 - 194 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:54, 13 August 2023)
--   📖 Read chapter 1 - 50 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:56, 12 August 2023)
 -   📖 Read chapter 1 - 97 of [To Not Die](https://anilist.co/manga/136099) (05:30, 12 August 2023)
 -   📖 Read chapter 1 - 166 of [Nano Machine](https://anilist.co/manga/120980) (05:03, 11 August 2023)
 -   📖 Read chapter 1 - 50 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:55, 11 August 2023)
@@ -26,7 +27,6 @@
 -   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
 -   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
 -   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
--   📖 Read chapter 1 - 115 of [Love’s in Sight!](https://anilist.co/manga/107445) (07:20, 25 July 2023)
 -   📖 Read chapter 1 - 64 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:01, 23 July 2023)
 -   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
 -   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
