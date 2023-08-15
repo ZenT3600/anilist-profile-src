@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 59 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:06, 15 August 2023)
 -   📖 Read chapter 1 - 35 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (18:02, 14 August 2023)
--   📖 Read chapter 1 - 52 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:10, 14 August 2023)
 -   📖 Read chapter 1 - 116 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 14 August 2023)
 -   📖 Read chapter 1 - 149 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:58, 13 August 2023)
 -   📖 Read chapter 1 - 194 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:54, 13 August 2023)
