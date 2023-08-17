@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 165 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:09, 17 August 2023)
 -   📖 Read chapter 1 - 167 of [Nano Machine](https://anilist.co/manga/120980) (03:52, 17 August 2023)
 -   📖 Read chapter 1 - 75 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:28, 16 August 2023)
 -   📖 Read chapter 1 - 35 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (18:02, 14 August 2023)
@@ -17,7 +18,6 @@
 -   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
 -   📖 Read chapter 1 - 51 of [1 Plus 1](https://anilist.co/manga/114592) (14:57, 03 August 2023)
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
--   📖 Read chapter 1 - 164 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:15, 03 August 2023)
 -   📖 Read chapter 1 - 48 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (11:23, 02 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
