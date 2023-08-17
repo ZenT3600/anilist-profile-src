@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 195 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:00, 17 August 2023)
 -   📖 Read chapter 1 - 165 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:09, 17 August 2023)
 -   📖 Read chapter 1 - 167 of [Nano Machine](https://anilist.co/manga/120980) (03:52, 17 August 2023)
 -   📖 Read chapter 1 - 75 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:28, 16 August 2023)
 -   📖 Read chapter 1 - 35 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (18:02, 14 August 2023)
 -   📖 Read chapter 1 - 116 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 14 August 2023)
 -   📖 Read chapter 1 - 149 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:58, 13 August 2023)
--   📖 Read chapter 1 - 194 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:54, 13 August 2023)
 -   📖 Read chapter 1 - 97 of [To Not Die](https://anilist.co/manga/136099) (05:30, 12 August 2023)
 -   📖 Read chapter 1 - 50 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:55, 11 August 2023)
 -   📖 Read chapter 1 - 103 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (10:07, 10 August 2023)
