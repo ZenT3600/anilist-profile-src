@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 78 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:30, 18 August 2023)
+-   📖 Read chapter 1 - 84 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:39, 18 August 2023)
 -   📖 Read chapter 1 - 195 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:00, 17 August 2023)
 -   📖 Read chapter 1 - 165 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:09, 17 August 2023)
 -   📖 Read chapter 1 - 167 of [Nano Machine](https://anilist.co/manga/120980) (03:52, 17 August 2023)
