@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 - 151 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:02, 19 August 2023)
 -   📖 Read chapter 1 - 102 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (07:45, 19 August 2023)
 -   📖 Read chapter 14 - 47 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:27, 18 August 2023)
 -   📖 Read chapter 1 - 195 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:00, 17 August 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 -   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
--   📺 Watched episode 1 - 2 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (09:29, 11 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
