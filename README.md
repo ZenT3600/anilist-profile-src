@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 36 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:54, 20 August 2023)
+-   📖 Completed [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:52, 20 August 2023)
+-   📖 Read chapter 1 - 106 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:51, 20 August 2023)
 -   📖 Read chapter 1 - 150 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:31, 20 August 2023)
 -   📖 Read chapter 1 - 98 of [To Not Die](https://anilist.co/manga/136099) (07:28, 20 August 2023)
 -   📖 Read chapter 1 - 196 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:09, 20 August 2023)
@@ -8,7 +11,6 @@
 -   📖 Read chapter 14 - 47 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:27, 18 August 2023)
 -   📖 Read chapter 1 - 165 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:09, 17 August 2023)
 -   📖 Read chapter 1 - 167 of [Nano Machine](https://anilist.co/manga/120980) (03:52, 17 August 2023)
--   📖 Read chapter 1 - 35 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (18:02, 14 August 2023)
 -   📖 Read chapter 1 - 116 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 14 August 2023)
 -   📖 Read chapter 1 - 50 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:55, 11 August 2023)
 -   📖 Read chapter 1 - 103 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (10:07, 10 August 2023)
@@ -31,7 +33,6 @@
 -   📖 Read chapter 1 - 64 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:01, 23 July 2023)
 -   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
 -   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
--   📖 Read chapter 1 - 105 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (15:02, 22 July 2023)
 -   📖 Plans to read [Astral Pet Store](https://anilist.co/manga/160143) (13:11, 22 July 2023)
 -   📖 Completed [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (07:54, 22 July 2023)
 -   📖 Completed [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:29, 22 July 2023)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (10:59, 15 July 2023)
 -   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
 -   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
--   📺 Completed [Seika Jogakuin Kounin Sao Oji-san](https://anilist.co/anime/147578) (20:44, 13 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
