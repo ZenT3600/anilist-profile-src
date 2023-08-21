@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 112 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:01, 21 August 2023)
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (03:33, 21 August 2023)
 -   📖 Plans to read [Sakana Shakai](https://anilist.co/manga/138520) (03:32, 21 August 2023)
 -   📖 Read chapter 1 - 33 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:27, 20 August 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 98 of [To Not Die](https://anilist.co/manga/136099) (07:28, 20 August 2023)
 -   📖 Read chapter 1 - 196 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:09, 20 August 2023)
 -   📖 Read chapter 110 - 151 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:02, 19 August 2023)
--   📖 Read chapter 1 - 102 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (07:45, 19 August 2023)
 -   📖 Read chapter 14 - 47 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:27, 18 August 2023)
 -   📖 Read chapter 1 - 165 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:09, 17 August 2023)
 -   📖 Read chapter 1 - 167 of [Nano Machine](https://anilist.co/manga/120980) (03:52, 17 August 2023)
