@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (03:33, 21 August 2023)
+-   📖 Plans to read [Sakana Shakai](https://anilist.co/manga/138520) (03:32, 21 August 2023)
 -   📖 Read chapter 1 - 33 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:27, 20 August 2023)
 -   📖 Read chapter 1 - 36 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:54, 20 August 2023)
 -   📖 Completed [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:52, 20 August 2023)
@@ -48,7 +50,5 @@
 -   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:12, 16 July 2023)
 -   📖 Read chapter 1 - 103 of [Chainsaw Man](https://anilist.co/manga/105778) (04:23, 16 July 2023)
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (10:59, 15 July 2023)
--   📖 Plans to read [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (04:52, 15 July 2023)
--   📖 Plans to read [Tabi](https://anilist.co/manga/146235) (09:05, 14 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
