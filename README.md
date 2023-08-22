@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 - 152 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (01:04, 22 August 2023)
+-   📖 Read chapter 1 - 167 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:03, 22 August 2023)
 -   📖 Read chapter 1 - 119 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (10:55, 21 August 2023)
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (03:33, 21 August 2023)
 -   📖 Plans to read [Sakana Shakai](https://anilist.co/manga/138520) (03:32, 21 August 2023)
@@ -10,7 +12,6 @@
 -   📖 Read chapter 1 - 150 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:31, 20 August 2023)
 -   📖 Read chapter 1 - 98 of [To Not Die](https://anilist.co/manga/136099) (07:28, 20 August 2023)
 -   📖 Read chapter 1 - 196 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:09, 20 August 2023)
--   📖 Read chapter 110 - 151 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:02, 19 August 2023)
 -   📖 Read chapter 14 - 47 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:27, 18 August 2023)
 -   📖 Read chapter 1 - 165 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:09, 17 August 2023)
 -   📖 Read chapter 1 - 167 of [Nano Machine](https://anilist.co/manga/120980) (03:52, 17 August 2023)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 1 - 103 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (10:07, 10 August 2023)
 -   📖 Read chapter 1 - 150 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:23, 10 August 2023)
 -   📖 Read chapter 56 - 86 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:10, 07 August 2023)
--   📖 Read chapter 1 - 166 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:41, 05 August 2023)
 -   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
 -   📖 Read chapter 1 - 51 of [1 Plus 1](https://anilist.co/manga/114592) (14:57, 03 August 2023)
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
