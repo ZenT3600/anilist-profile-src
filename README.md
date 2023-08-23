@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 168 of [Nano Machine](https://anilist.co/manga/120980) (21:31, 23 August 2023)
 -   📖 Read chapter 1 - 124 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:02, 22 August 2023)
 -   📖 Read chapter 110 - 152 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (01:04, 22 August 2023)
 -   📖 Read chapter 1 - 167 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:03, 22 August 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 196 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:09, 20 August 2023)
 -   📖 Read chapter 14 - 47 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:27, 18 August 2023)
 -   📖 Read chapter 1 - 165 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:09, 17 August 2023)
--   📖 Read chapter 1 - 167 of [Nano Machine](https://anilist.co/manga/120980) (03:52, 17 August 2023)
 -   📖 Read chapter 1 - 116 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 14 August 2023)
 -   📖 Read chapter 1 - 50 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:55, 11 August 2023)
 -   📖 Read chapter 1 - 103 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (10:07, 10 August 2023)
