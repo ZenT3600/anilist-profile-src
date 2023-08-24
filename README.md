@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 130 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:18, 24 August 2023)
 -   📖 Read chapter 1 - 197 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:05, 24 August 2023)
 -   📖 Read chapter 1 - 168 of [Nano Machine](https://anilist.co/manga/120980) (21:31, 23 August 2023)
--   📖 Read chapter 1 - 124 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:02, 22 August 2023)
 -   📖 Read chapter 110 - 152 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (01:04, 22 August 2023)
 -   📖 Read chapter 1 - 167 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:03, 22 August 2023)
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (03:33, 21 August 2023)
