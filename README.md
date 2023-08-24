@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 65 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (09:41, 24 August 2023)
 -   📖 Read chapter 1 - 198 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:24, 24 August 2023)
 -   📖 Read chapter 1 - 166 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:21, 24 August 2023)
 -   📖 Read chapter 1 - 130 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:18, 24 August 2023)
@@ -32,7 +33,6 @@
 -   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
 -   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
 -   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
--   📖 Read chapter 1 - 64 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (19:01, 23 July 2023)
 -   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
 -   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
 -   📖 Plans to read [Astral Pet Store](https://anilist.co/manga/160143) (13:11, 22 July 2023)
