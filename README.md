@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 51 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:34, 25 August 2023)
 -   📖 Read chapter 1 - 138 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:56, 25 August 2023)
 -   📖 Read chapter 1 - 104 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (22:19, 24 August 2023)
 -   📖 Read chapter 1 - 199 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:03, 24 August 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 98 of [To Not Die](https://anilist.co/manga/136099) (07:28, 20 August 2023)
 -   📖 Read chapter 14 - 47 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:27, 18 August 2023)
 -   📖 Read chapter 1 - 116 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 14 August 2023)
--   📖 Read chapter 1 - 50 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:55, 11 August 2023)
 -   📖 Read chapter 1 - 150 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:23, 10 August 2023)
 -   📖 Read chapter 56 - 86 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:10, 07 August 2023)
 -   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
