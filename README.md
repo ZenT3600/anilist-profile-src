@@ -1,14 +1,14 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 200 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:41, 25 August 2023)
+-   📖 Read chapter 110 - 153 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:38, 25 August 2023)
 -   📖 Read chapter 1 - 110 of [Solo Leveling](https://anilist.co/manga/105398) (15:33, 25 August 2023)
 -   📖 Read chapter 1 - 51 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:34, 25 August 2023)
 -   📖 Read chapter 1 - 138 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:56, 25 August 2023)
 -   📖 Read chapter 1 - 104 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (22:19, 24 August 2023)
--   📖 Read chapter 1 - 199 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:03, 24 August 2023)
 -   📖 Read chapter 1 - 65 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (09:41, 24 August 2023)
 -   📖 Read chapter 1 - 166 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:21, 24 August 2023)
 -   📖 Read chapter 1 - 168 of [Nano Machine](https://anilist.co/manga/120980) (21:31, 23 August 2023)
--   📖 Read chapter 110 - 152 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (01:04, 22 August 2023)
 -   📖 Read chapter 1 - 167 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:03, 22 August 2023)
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (03:33, 21 August 2023)
 -   📖 Plans to read [Sakana Shakai](https://anilist.co/manga/138520) (03:32, 21 August 2023)
