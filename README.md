@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 48 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:31, 26 August 2023)
 -   📖 Read chapter 1 - 200 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:41, 25 August 2023)
 -   📖 Read chapter 110 - 153 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:38, 25 August 2023)
 -   📖 Read chapter 1 - 110 of [Solo Leveling](https://anilist.co/manga/105398) (15:33, 25 August 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 106 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:51, 20 August 2023)
 -   📖 Read chapter 1 - 150 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:31, 20 August 2023)
 -   📖 Read chapter 1 - 98 of [To Not Die](https://anilist.co/manga/136099) (07:28, 20 August 2023)
--   📖 Read chapter 14 - 47 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (09:27, 18 August 2023)
 -   📖 Read chapter 1 - 116 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 14 August 2023)
 -   📖 Read chapter 1 - 150 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:23, 10 August 2023)
 -   📖 Read chapter 56 - 86 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:10, 07 August 2023)
