@@ -1,7 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 201 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:38, 26 August 2023)
+-   📖 Read chapter 1 - 49 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:35, 26 August 2023)
 -   📖 Read chapter 14 - 48 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:31, 26 August 2023)
--   📖 Read chapter 1 - 200 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (18:41, 25 August 2023)
 -   📖 Read chapter 110 - 153 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:38, 25 August 2023)
 -   📖 Read chapter 1 - 110 of [Solo Leveling](https://anilist.co/manga/105398) (15:33, 25 August 2023)
 -   📖 Read chapter 1 - 51 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:34, 25 August 2023)
@@ -25,7 +26,6 @@
 -   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
 -   📖 Read chapter 1 - 51 of [1 Plus 1](https://anilist.co/manga/114592) (14:57, 03 August 2023)
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
--   📖 Read chapter 1 - 48 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (11:23, 02 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
 -   📖 Read chapter 1 - 119 of [Get Schooled](https://anilist.co/manga/128521) (05:56, 31 July 2023)
