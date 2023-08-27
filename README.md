@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (05:43, 27 August 2023)
 -   📖 Read chapter 1 - 151 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:03, 27 August 2023)
 -   📖 Read chapter 1 - 201 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:38, 26 August 2023)
 -   📖 Read chapter 1 - 49 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:35, 26 August 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
 -   📖 Read chapter 1 - 39 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
 -   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (12:12, 16 July 2023)
--   📖 Read chapter 1 - 103 of [Chainsaw Man](https://anilist.co/manga/105778) (04:23, 16 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
