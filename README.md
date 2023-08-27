@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 18 of [Fire Punch](https://anilist.co/manga/87170) (13:29, 27 August 2023)
 -   📖 Read chapter 1 - 37 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (11:38, 27 August 2023)
--   📖 Read chapter 8 of [Fire Punch](https://anilist.co/manga/87170) (08:45, 27 August 2023)
 -   📖 Read chapter 1 - 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (05:43, 27 August 2023)
 -   📖 Read chapter 1 - 151 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:03, 27 August 2023)
 -   📖 Read chapter 1 - 201 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:38, 26 August 2023)
