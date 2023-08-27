@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 151 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:03, 27 August 2023)
 -   📖 Read chapter 1 - 201 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:38, 26 August 2023)
 -   📖 Read chapter 1 - 49 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:35, 26 August 2023)
 -   📖 Read chapter 14 - 48 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:31, 26 August 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 36 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (12:54, 20 August 2023)
 -   📖 Completed [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:52, 20 August 2023)
 -   📖 Read chapter 1 - 106 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:51, 20 August 2023)
--   📖 Read chapter 1 - 150 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:31, 20 August 2023)
 -   📖 Read chapter 1 - 98 of [To Not Die](https://anilist.co/manga/136099) (07:28, 20 August 2023)
 -   📖 Read chapter 1 - 116 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 14 August 2023)
 -   📖 Read chapter 1 - 150 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:23, 10 August 2023)
