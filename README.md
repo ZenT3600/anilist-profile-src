@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 117 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:21, 28 August 2023)
 -   📖 Read chapter 8 - 39 of [Fire Punch](https://anilist.co/manga/87170) (15:06, 27 August 2023)
 -   📖 Read chapter 1 - 37 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (11:38, 27 August 2023)
 -   📖 Read chapter 1 - 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (05:43, 27 August 2023)
@@ -22,7 +23,6 @@
 -   📖 Completed [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:52, 20 August 2023)
 -   📖 Read chapter 1 - 106 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:51, 20 August 2023)
 -   📖 Read chapter 1 - 98 of [To Not Die](https://anilist.co/manga/136099) (07:28, 20 August 2023)
--   📖 Read chapter 1 - 116 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:06, 14 August 2023)
 -   📖 Read chapter 1 - 150 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:23, 10 August 2023)
 -   📖 Read chapter 56 - 86 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:10, 07 August 2023)
 -   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
