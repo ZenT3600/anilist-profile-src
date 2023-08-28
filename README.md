@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 49 of [Fire Punch](https://anilist.co/manga/87170) (04:25, 28 August 2023)
+-   📖 Read chapter 8 - 60 of [Fire Punch](https://anilist.co/manga/87170) (04:42, 28 August 2023)
 -   📖 Read chapter 1 - 117 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:21, 28 August 2023)
 -   📖 Read chapter 1 - 37 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (11:38, 27 August 2023)
 -   📖 Read chapter 1 - 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (05:43, 27 August 2023)
