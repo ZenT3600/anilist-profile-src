@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [The Summer of You](https://anilist.co/manga/100052) (15:06, 29 August 2023)
 -   📖 Read chapter 3 of [The Summer of You](https://anilist.co/manga/100052) (10:46, 29 August 2023)
 -   📖 Plans to read [The Summer With You](https://anilist.co/manga/104203) (10:09, 29 August 2023)
 -   📖 Plans to read [The Summer of You](https://anilist.co/manga/100052) (10:09, 29 August 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 34 of [Citrus+](https://anilist.co/manga/103884) (15:31, 21 July 2023)
 -   📖 Read chapter 1 - 140 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:54, 21 July 2023)
 -   📖 Read chapter 1 - 80 of [Maybe Meant to Be](https://anilist.co/manga/146139) (04:50, 21 July 2023)
--   📖 Plans to read [1 Plus 1](https://anilist.co/manga/114592) (15:28, 20 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
