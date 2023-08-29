@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Fire Punch](https://anilist.co/manga/87170) (04:58, 29 August 2023)
 -   📖 Read chapter 8 - 71 of [Fire Punch](https://anilist.co/manga/87170) (15:03, 28 August 2023)
 -   📖 Read chapter 1 - 117 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:21, 28 August 2023)
 -   📖 Read chapter 1 - 37 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (11:38, 27 August 2023)
@@ -49,6 +50,5 @@
 -   📺 Rewatched episode 1 - 3 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (09:44, 20 July 2023)
 -   📖 Read chapter 1 - 10 of [Guyabano Holiday](https://anilist.co/manga/105580) (10:46, 18 July 2023)
 -   📖 Completed [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
--   📖 Read chapter 1 - 39 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (04:23, 18 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
