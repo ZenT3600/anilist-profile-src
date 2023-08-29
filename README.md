@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 168 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:39, 29 August 2023)
 -   📖 Completed [Fire Punch](https://anilist.co/manga/87170) (04:58, 29 August 2023)
 -   📖 Read chapter 8 - 71 of [Fire Punch](https://anilist.co/manga/87170) (15:03, 28 August 2023)
 -   📖 Read chapter 1 - 117 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:21, 28 August 2023)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 65 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (09:41, 24 August 2023)
 -   📖 Read chapter 1 - 166 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:21, 24 August 2023)
 -   📖 Read chapter 1 - 168 of [Nano Machine](https://anilist.co/manga/120980) (21:31, 23 August 2023)
--   📖 Read chapter 1 - 167 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (01:03, 22 August 2023)
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (03:33, 21 August 2023)
 -   📖 Plans to read [Sakana Shakai](https://anilist.co/manga/138520) (03:32, 21 August 2023)
 -   📖 Read chapter 1 - 33 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:27, 20 August 2023)
