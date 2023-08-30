@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Two Lions](https://anilist.co/manga/109791) (11:48, 30 August 2023)
 -   📖 Read chapter 1 - 10 of [Rosen Blood](https://anilist.co/manga/103030) (08:43, 30 August 2023)
 -   📖 Completed [The Summer With You](https://anilist.co/manga/104203) (16:27, 29 August 2023)
 -   📖 Completed [The Summer of You](https://anilist.co/manga/100052) (15:06, 29 August 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (07:54, 22 July 2023)
 -   📖 Completed [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:29, 22 July 2023)
 -   📖 Read chapter 1 - 144 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:28, 22 July 2023)
--   📖 Read chapter 1 - 34 of [Citrus+](https://anilist.co/manga/103884) (15:31, 21 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
