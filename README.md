@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Rosen Blood](https://anilist.co/manga/103030) (08:20, 30 August 2023)
+-   📖 Read chapter 1 - 10 of [Rosen Blood](https://anilist.co/manga/103030) (08:43, 30 August 2023)
 -   📖 Completed [The Summer With You](https://anilist.co/manga/104203) (16:27, 29 August 2023)
 -   📖 Completed [The Summer of You](https://anilist.co/manga/100052) (15:06, 29 August 2023)
 -   📖 Read chapter 3 of [The Summer of You](https://anilist.co/manga/100052) (10:46, 29 August 2023)
