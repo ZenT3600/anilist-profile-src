@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Rosen Blood](https://anilist.co/manga/103030) (08:17, 31 August 2023)
+-   📖 Completed [Rosen Blood](https://anilist.co/manga/103030) (08:51, 31 August 2023)
+-   📖 Read chapter 1 - 26 of [Rosen Blood](https://anilist.co/manga/103030) (08:51, 31 August 2023)
 -   📖 Read chapter 1 - 99 of [To Not Die](https://anilist.co/manga/136099) (04:29, 31 August 2023)
 -   📖 Read chapter 1 - 169 of [Nano Machine](https://anilist.co/manga/120980) (04:25, 31 August 2023)
 -   📖 Read chapter 1 - 151 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:21, 31 August 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
 -   📖 Plans to read [Astral Pet Store](https://anilist.co/manga/160143) (13:11, 22 July 2023)
 -   📖 Completed [Even if There's No Rainbow Tomorrow](https://anilist.co/manga/130983) (07:54, 22 July 2023)
--   📖 Completed [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:29, 22 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
