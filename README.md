@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 59 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (08:14, 01 September 2023)
 -   📖 Completed [Bokura no Tsuzuki](https://anilist.co/manga/121364) (06:04, 01 September 2023)
 -   📖 Read chapter 1 - 202 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:40, 31 August 2023)
 -   📖 Completed [Rosen Blood](https://anilist.co/manga/103030) (08:51, 31 August 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
 -   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
 -   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
--   📖 Plans to read [Astral Pet Store](https://anilist.co/manga/160143) (13:11, 22 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
