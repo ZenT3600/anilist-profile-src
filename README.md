@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Gugure! Kokkuri-san](https://anilist.co/anime/20656) (08:46, 01 September 2023)
 -   📖 Read chapter 5 - 59 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (08:14, 01 September 2023)
 -   📖 Completed [Bokura no Tsuzuki](https://anilist.co/manga/121364) (06:04, 01 September 2023)
 -   📖 Read chapter 1 - 202 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:40, 31 August 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
 -   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
 -   📖 Read chapter 14 - 17 of [Doubutsutachi](https://anilist.co/manga/101984) (12:51, 23 July 2023)
--   📖 Plans to read [Bokura no Tsuzuki](https://anilist.co/manga/121364) (12:50, 23 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
