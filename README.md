@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 49 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (00:56, 02 September 2023)
 -   📖 Read chapter 1 - 100 of [To Not Die](https://anilist.co/manga/136099) (12:18, 01 September 2023)
 -   📺 Plans to watch [Gugure! Kokkuri-san](https://anilist.co/anime/20656) (08:46, 01 September 2023)
 -   📖 Read chapter 5 - 59 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (08:14, 01 September 2023)
@@ -25,7 +26,6 @@
 -   📖 Read chapter 1 - 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (05:43, 27 August 2023)
 -   📖 Read chapter 1 - 151 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:03, 27 August 2023)
 -   📖 Read chapter 1 - 49 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:35, 26 August 2023)
--   📖 Read chapter 14 - 48 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (04:31, 26 August 2023)
 -   📖 Read chapter 110 - 153 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:38, 25 August 2023)
 -   📖 Read chapter 1 - 110 of [Solo Leveling](https://anilist.co/manga/105398) (15:33, 25 August 2023)
 -   📖 Read chapter 1 - 51 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:34, 25 August 2023)
