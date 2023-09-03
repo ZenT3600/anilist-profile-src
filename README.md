@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 121 of [Get Schooled](https://anilist.co/manga/128521) (16:29, 03 September 2023)
 -   📖 Read chapter 1 - 28 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (14:29, 03 September 2023)
 -   📖 Read chapter 1 - 152 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:01, 03 September 2023)
 -   📖 Read chapter 1 - 203 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:57, 02 September 2023)
@@ -44,7 +45,6 @@
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
--   📖 Read chapter 1 - 119 of [Get Schooled](https://anilist.co/manga/128521) (05:56, 31 July 2023)
 -   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
 -   📖 Read chapter 1 - 65 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (11:19, 30 July 2023)
 -   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
