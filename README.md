@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 23 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (10:45, 03 September 2023)
+-   📖 Read chapter 1 - 28 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (14:29, 03 September 2023)
 -   📖 Read chapter 1 - 152 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:01, 03 September 2023)
 -   📖 Read chapter 1 - 203 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:57, 02 September 2023)
 -   📖 Read chapter 1 - 50 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:52, 02 September 2023)
