@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 29 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:28, 04 September 2023)
+-   📖 Read chapter 1 - 31 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:36, 04 September 2023)
 -   📖 Read chapter 56 - 87 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:22, 04 September 2023)
 -   📖 Read chapter 1 - 123 of [Get Schooled](https://anilist.co/manga/128521) (16:38, 03 September 2023)
 -   📖 Read chapter 1 - 152 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:01, 03 September 2023)
