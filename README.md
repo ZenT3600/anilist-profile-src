@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 173 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:36, 04 September 2023)
 -   📖 Read chapter 1 - 31 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:36, 04 September 2023)
 -   📖 Read chapter 56 - 87 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:22, 04 September 2023)
 -   📖 Read chapter 1 - 123 of [Get Schooled](https://anilist.co/manga/128521) (16:38, 03 September 2023)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 3 of [The Summer of You](https://anilist.co/manga/100052) (10:46, 29 August 2023)
 -   📖 Plans to read [The Summer With You](https://anilist.co/manga/104203) (10:09, 29 August 2023)
 -   📖 Plans to read [The Summer of You](https://anilist.co/manga/100052) (10:09, 29 August 2023)
--   📖 Read chapter 1 - 168 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:39, 29 August 2023)
 -   📖 Completed [Fire Punch](https://anilist.co/manga/87170) (04:58, 29 August 2023)
 -   📖 Read chapter 8 - 71 of [Fire Punch](https://anilist.co/manga/87170) (15:03, 28 August 2023)
 -   📖 Read chapter 1 - 117 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:21, 28 August 2023)
