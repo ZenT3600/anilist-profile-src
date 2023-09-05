@@ -1,7 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 42 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:05, 05 September 2023)
+-   📖 Read chapter 110 - 154 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:43, 05 September 2023)
 -   📖 Read chapter 1 - 34 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (03:05, 05 September 2023)
--   📖 Read chapter 1 - 35 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (16:07, 04 September 2023)
 -   📖 Read chapter 1 - 173 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:36, 04 September 2023)
 -   📖 Read chapter 56 - 87 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:22, 04 September 2023)
 -   📖 Read chapter 1 - 123 of [Get Schooled](https://anilist.co/manga/128521) (16:38, 03 September 2023)
@@ -30,7 +31,6 @@
 -   📖 Read chapter 1 - 117 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:21, 28 August 2023)
 -   📖 Read chapter 1 - 37 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (11:38, 27 August 2023)
 -   📖 Read chapter 1 - 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (05:43, 27 August 2023)
--   📖 Read chapter 110 - 153 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:38, 25 August 2023)
 -   📖 Read chapter 1 - 110 of [Solo Leveling](https://anilist.co/manga/105398) (15:33, 25 August 2023)
 -   📖 Read chapter 1 - 51 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:34, 25 August 2023)
 -   📖 Read chapter 1 - 138 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:56, 25 August 2023)
