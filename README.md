@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 42 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:05, 05 September 2023)
+-   📖 Read chapter 1 - 46 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (16:02, 05 September 2023)
 -   📖 Read chapter 110 - 154 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:43, 05 September 2023)
 -   📖 Read chapter 1 - 34 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (03:05, 05 September 2023)
 -   📖 Read chapter 1 - 173 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:36, 04 September 2023)
