@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 66 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:07, 06 September 2023)
+-   📖 Read chapter 1 - 67 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:09, 06 September 2023)
 -   📖 Read chapter 1 - 52 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:26, 05 September 2023)
 -   📖 Read chapter 110 - 154 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:43, 05 September 2023)
 -   📖 Read chapter 1 - 34 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (03:05, 05 September 2023)
