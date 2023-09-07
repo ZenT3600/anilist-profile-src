@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 168 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:53, 07 September 2023)
 -   📖 Read chapter 1 - 152 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:39, 06 September 2023)
 -   📖 Read chapter 1 - 67 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:09, 06 September 2023)
 -   📖 Read chapter 1 - 52 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:26, 05 September 2023)
@@ -19,7 +20,6 @@
 -   📖 Completed [Rosen Blood](https://anilist.co/manga/103030) (08:51, 31 August 2023)
 -   📖 Read chapter 1 - 26 of [Rosen Blood](https://anilist.co/manga/103030) (08:51, 31 August 2023)
 -   📖 Read chapter 1 - 169 of [Nano Machine](https://anilist.co/manga/120980) (04:25, 31 August 2023)
--   📖 Read chapter 1 - 167 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:19, 31 August 2023)
 -   📖 Completed [The Two Lions](https://anilist.co/manga/109791) (17:01, 30 August 2023)
 -   📖 Plans to read [The Two Lions](https://anilist.co/manga/109791) (11:48, 30 August 2023)
 -   📖 Completed [The Summer With You](https://anilist.co/manga/104203) (16:27, 29 August 2023)
