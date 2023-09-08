@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 80 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:02, 08 September 2023)
 -   📖 Read chapter 1 - 204 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:13, 08 September 2023)
--   📖 Read chapter 1 - 73 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:16, 07 September 2023)
 -   📖 Read chapter 1 - 170 of [Nano Machine](https://anilist.co/manga/120980) (05:37, 07 September 2023)
 -   📖 Read chapter 1 - 168 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:53, 07 September 2023)
 -   📖 Read chapter 1 - 152 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:39, 06 September 2023)
