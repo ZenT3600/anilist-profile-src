@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 101 of [To Not Die](https://anilist.co/manga/136099) (15:23, 08 September 2023)
 -   📖 Read chapter 1 - 88 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:17, 08 September 2023)
 -   📖 Read chapter 1 - 204 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:13, 08 September 2023)
 -   📖 Read chapter 1 - 170 of [Nano Machine](https://anilist.co/manga/120980) (05:37, 07 September 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 152 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:01, 03 September 2023)
 -   📖 Read chapter 1 - 50 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:52, 02 September 2023)
 -   📖 Read chapter 14 - 49 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (00:56, 02 September 2023)
--   📖 Read chapter 1 - 100 of [To Not Die](https://anilist.co/manga/136099) (12:18, 01 September 2023)
 -   📺 Plans to watch [Gugure! Kokkuri-san](https://anilist.co/anime/20656) (08:46, 01 September 2023)
 -   📖 Read chapter 5 - 59 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (08:14, 01 September 2023)
 -   📖 Completed [Bokura no Tsuzuki](https://anilist.co/manga/121364) (06:04, 01 September 2023)
