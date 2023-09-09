@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
+-   📖 Read chapter 14 - 50 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 1 - 51 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:04, 09 September 2023)
 -   📖 Read chapter 1 - 101 of [To Not Die](https://anilist.co/manga/136099) (15:23, 08 September 2023)
 -   📖 Read chapter 1 - 88 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:17, 08 September 2023)
@@ -14,7 +16,6 @@
 -   📖 Read chapter 56 - 87 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:22, 04 September 2023)
 -   📖 Read chapter 1 - 123 of [Get Schooled](https://anilist.co/manga/128521) (16:38, 03 September 2023)
 -   📖 Read chapter 1 - 152 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:01, 03 September 2023)
--   📖 Read chapter 14 - 49 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (00:56, 02 September 2023)
 -   📺 Plans to watch [Gugure! Kokkuri-san](https://anilist.co/anime/20656) (08:46, 01 September 2023)
 -   📖 Read chapter 5 - 59 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (08:14, 01 September 2023)
 -   📖 Completed [Bokura no Tsuzuki](https://anilist.co/manga/121364) (06:04, 01 September 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 65 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (11:19, 30 July 2023)
 -   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
 -   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
--   📖 Read chapter 1 - 165 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (09:32, 28 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
