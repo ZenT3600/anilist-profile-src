@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 90 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:34, 09 September 2023)
 -   📖 Read chapter 1 - 205 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:46, 09 September 2023)
 -   📖 Completed [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 14 - 50 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 1 - 51 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:04, 09 September 2023)
 -   📖 Read chapter 1 - 101 of [To Not Die](https://anilist.co/manga/136099) (15:23, 08 September 2023)
--   📖 Read chapter 1 - 88 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:17, 08 September 2023)
 -   📖 Read chapter 1 - 170 of [Nano Machine](https://anilist.co/manga/120980) (05:37, 07 September 2023)
 -   📖 Read chapter 1 - 168 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:53, 07 September 2023)
 -   📖 Read chapter 1 - 152 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:39, 06 September 2023)
