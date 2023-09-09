@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 69 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (21:29, 09 September 2023)
+-   📖 Read chapter 1 - 153 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:05, 09 September 2023)
 -   📖 Read chapter 1 - 90 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:34, 09 September 2023)
 -   📖 Read chapter 1 - 205 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:46, 09 September 2023)
 -   📖 Completed [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
@@ -15,7 +17,6 @@
 -   📖 Read chapter 1 - 173 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:36, 04 September 2023)
 -   📖 Read chapter 56 - 87 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:22, 04 September 2023)
 -   📖 Read chapter 1 - 123 of [Get Schooled](https://anilist.co/manga/128521) (16:38, 03 September 2023)
--   📖 Read chapter 1 - 152 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:01, 03 September 2023)
 -   📺 Plans to watch [Gugure! Kokkuri-san](https://anilist.co/anime/20656) (08:46, 01 September 2023)
 -   📖 Read chapter 5 - 59 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (08:14, 01 September 2023)
 -   📖 Completed [Bokura no Tsuzuki](https://anilist.co/manga/121364) (06:04, 01 September 2023)
@@ -36,7 +37,6 @@
 -   📖 Read chapter 1 - 110 of [Solo Leveling](https://anilist.co/manga/105398) (15:33, 25 August 2023)
 -   📖 Read chapter 1 - 138 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:56, 25 August 2023)
 -   📖 Read chapter 1 - 104 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (22:19, 24 August 2023)
--   📖 Read chapter 1 - 65 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (09:41, 24 August 2023)
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (03:33, 21 August 2023)
 -   📖 Plans to read [Sakana Shakai](https://anilist.co/manga/138520) (03:32, 21 August 2023)
 -   📖 Completed [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:52, 20 August 2023)
