@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 143 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:04, 11 September 2023)
+-   📖 Read chapter 1 - 150 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:21, 11 September 2023)
 -   📖 Read chapter 1 - 110 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (18:20, 10 September 2023)
 -   📖 Read chapter 1 - 71 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (21:35, 09 September 2023)
 -   📖 Read chapter 1 - 153 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:05, 09 September 2023)
