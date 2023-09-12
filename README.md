@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 118 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:57, 12 September 2023)
 -   📖 Read chapter 1 - 117 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:14, 11 September 2023)
 -   📖 Read chapter 1 - 150 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:21, 11 September 2023)
 -   📖 Read chapter 1 - 71 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (21:35, 09 September 2023)
@@ -32,7 +33,6 @@
 -   📖 Plans to read [The Summer of You](https://anilist.co/manga/100052) (10:09, 29 August 2023)
 -   📖 Completed [Fire Punch](https://anilist.co/manga/87170) (04:58, 29 August 2023)
 -   📖 Read chapter 8 - 71 of [Fire Punch](https://anilist.co/manga/87170) (15:03, 28 August 2023)
--   📖 Read chapter 1 - 117 of [Love’s in Sight!](https://anilist.co/manga/107445) (03:21, 28 August 2023)
 -   📖 Read chapter 1 - 37 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (11:38, 27 August 2023)
 -   📖 Read chapter 1 - 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (05:43, 27 August 2023)
 -   📖 Read chapter 1 - 110 of [Solo Leveling](https://anilist.co/manga/105398) (15:33, 25 August 2023)
