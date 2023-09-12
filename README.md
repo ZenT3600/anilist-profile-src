@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 76 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (12:42, 12 September 2023)
 -   📖 Read chapter 1 - 118 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:57, 12 September 2023)
 -   📖 Read chapter 1 - 117 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:14, 11 September 2023)
 -   📖 Read chapter 1 - 150 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:21, 11 September 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
 -   📖 Read chapter 1 - 65 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (11:19, 30 July 2023)
 -   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
--   📖 Completed [10000 Kounen Sougankyou](https://anilist.co/manga/155112) (03:47, 29 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
