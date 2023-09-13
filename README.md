@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Nichiyoubi no Ichigo-chan](https://anilist.co/manga/150264) (07:01, 13 September 2023)
 -   📖 Read chapter 1 - 131 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:05, 13 September 2023)
 -   📖 Read chapter 16 - 79 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (12:55, 12 September 2023)
 -   📖 Read chapter 1 - 118 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:57, 12 September 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
 -   📖 Completed [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (05:51, 31 July 2023)
 -   📖 Read chapter 1 - 65 of [Metsuki Warui Ko Kawaii Ko](https://anilist.co/manga/143936) (11:19, 30 July 2023)
--   📖 Completed [5 years later](https://anilist.co/manga/125581) (12:29, 29 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
