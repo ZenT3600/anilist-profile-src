@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 132 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:12, 13 September 2023)
+-   📖 Read chapter 1 - 133 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (18:02, 13 September 2023)
+-   📖 Read chapter 1 - 153 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (17:59, 13 September 2023)
 -   📖 Plans to read [Nichiyoubi no Ichigo-chan](https://anilist.co/manga/150264) (07:01, 13 September 2023)
 -   📖 Read chapter 16 - 79 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (12:55, 12 September 2023)
 -   📖 Read chapter 1 - 118 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:57, 12 September 2023)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 101 of [To Not Die](https://anilist.co/manga/136099) (15:23, 08 September 2023)
 -   📖 Read chapter 1 - 170 of [Nano Machine](https://anilist.co/manga/120980) (05:37, 07 September 2023)
 -   📖 Read chapter 1 - 168 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:53, 07 September 2023)
--   📖 Read chapter 1 - 152 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (18:39, 06 September 2023)
 -   📖 Read chapter 1 - 52 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:26, 05 September 2023)
 -   📖 Read chapter 110 - 154 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:43, 05 September 2023)
 -   📖 Read chapter 1 - 34 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (03:05, 05 September 2023)
