@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 171 of [Nano Machine](https://anilist.co/manga/120980) (04:14, 14 September 2023)
+-   📖 Read chapter 1 - 174 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:11, 14 September 2023)
 -   📖 Read chapter 1 - 133 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (18:02, 13 September 2023)
 -   📖 Read chapter 1 - 153 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (17:59, 13 September 2023)
 -   📖 Plans to read [Nichiyoubi no Ichigo-chan](https://anilist.co/manga/150264) (07:01, 13 September 2023)
@@ -13,12 +15,10 @@
 -   📖 Read chapter 14 - 50 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 1 - 51 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:04, 09 September 2023)
 -   📖 Read chapter 1 - 101 of [To Not Die](https://anilist.co/manga/136099) (15:23, 08 September 2023)
--   📖 Read chapter 1 - 170 of [Nano Machine](https://anilist.co/manga/120980) (05:37, 07 September 2023)
 -   📖 Read chapter 1 - 168 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:53, 07 September 2023)
 -   📖 Read chapter 1 - 52 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:26, 05 September 2023)
 -   📖 Read chapter 110 - 154 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:43, 05 September 2023)
 -   📖 Read chapter 1 - 34 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (03:05, 05 September 2023)
--   📖 Read chapter 1 - 173 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:36, 04 September 2023)
 -   📖 Read chapter 56 - 87 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:22, 04 September 2023)
 -   📖 Read chapter 1 - 123 of [Get Schooled](https://anilist.co/manga/128521) (16:38, 03 September 2023)
 -   📺 Plans to watch [Gugure! Kokkuri-san](https://anilist.co/anime/20656) (08:46, 01 September 2023)
