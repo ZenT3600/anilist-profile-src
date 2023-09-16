@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (19:30, 16 September 2023)
 -   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:40, 16 September 2023)
 -   📖 Read chapter 1 - 6 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (04:46, 16 September 2023)
 -   📖 Read chapter 1 - 155 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:54, 15 September 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 51 of [1 Plus 1](https://anilist.co/manga/114592) (14:57, 03 August 2023)
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
 -   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
--   📖 Plans to read ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:58, 31 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
