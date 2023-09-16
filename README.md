@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (04:28, 16 September 2023)
+-   📖 Read chapter 1 - 6 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (04:46, 16 September 2023)
 -   📖 Read chapter 1 - 155 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:54, 15 September 2023)
 -   📖 Read chapter 1 - 169 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:04, 14 September 2023)
 -   📖 Read chapter 1 - 171 of [Nano Machine](https://anilist.co/manga/120980) (04:14, 14 September 2023)
