@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 21 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (17:04, 17 September 2023)
 -   📖 Read chapter 1 - 207 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:01, 17 September 2023)
 -   📖 Completed [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (05:53, 17 September 2023)
--   📖 Read chapter 1 - 13 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (19:58, 16 September 2023)
 -   📖 Plans to read [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (19:30, 16 September 2023)
 -   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:40, 16 September 2023)
 -   📖 Read chapter 1 - 155 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:54, 15 September 2023)
