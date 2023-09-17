@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 207 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:01, 17 September 2023)
+-   📖 Completed [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (05:53, 17 September 2023)
 -   📖 Read chapter 1 - 13 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (19:58, 16 September 2023)
 -   📖 Plans to read [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (19:30, 16 September 2023)
 -   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:40, 16 September 2023)
@@ -14,7 +16,6 @@
 -   📖 Read chapter 1 - 150 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:21, 11 September 2023)
 -   📖 Read chapter 1 - 71 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (21:35, 09 September 2023)
 -   📖 Read chapter 1 - 153 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:05, 09 September 2023)
--   📖 Read chapter 1 - 205 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:46, 09 September 2023)
 -   📖 Completed [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 14 - 50 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 1 - 51 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:04, 09 September 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
 -   📖 Read chapter 1 - 51 of [1 Plus 1](https://anilist.co/manga/114592) (14:57, 03 August 2023)
 -   📖 Plans to read [Love at First Bite](https://anilist.co/manga/164448) (09:18, 03 August 2023)
--   📖 Read chapter 1 - 12 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (09:54, 01 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
