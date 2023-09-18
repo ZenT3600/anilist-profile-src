@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 154 of [Teenage Mercenary](https://anilist.co/manga/126297) (10:00, 18 September 2023)
 -   📖 Read chapter 1 - 35 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (09:24, 18 September 2023)
 -   📖 Read chapter 1 - 52 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (09:23, 18 September 2023)
 -   📖 Read chapter 1 - 21 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (17:04, 17 September 2023)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 118 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:57, 12 September 2023)
 -   📖 Read chapter 1 - 150 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (05:21, 11 September 2023)
 -   📖 Read chapter 1 - 71 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (21:35, 09 September 2023)
--   📖 Read chapter 1 - 153 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:05, 09 September 2023)
 -   📖 Completed [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 14 - 50 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 1 - 101 of [To Not Die](https://anilist.co/manga/136099) (15:23, 08 September 2023)
