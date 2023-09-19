@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 31 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:32, 19 September 2023)
+-   📖 Read chapter 1 - 36 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:47, 19 September 2023)
 -   📖 Read chapter 1 - 154 of [Teenage Mercenary](https://anilist.co/manga/126297) (10:00, 18 September 2023)
 -   📖 Read chapter 1 - 35 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (09:24, 18 September 2023)
 -   📖 Read chapter 1 - 52 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (09:23, 18 September 2023)
