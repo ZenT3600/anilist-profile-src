@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 51 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (04:20, 20 September 2023)
+-   📖 Read chapter 1 - 54 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:21, 20 September 2023)
+-   📖 Read chapter 1 - 52 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:15, 20 September 2023)
 -   📖 Read chapter 1 - 22 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:15, 19 September 2023)
 -   📖 Completed [Silver Rock](https://anilist.co/manga/167758) (11:26, 19 September 2023)
 -   📖 Read chapter 1 - 154 of [Teenage Mercenary](https://anilist.co/manga/126297) (10:00, 18 September 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Sakana Shakai](https://anilist.co/manga/138520) (03:32, 21 August 2023)
 -   📖 Completed [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:52, 20 August 2023)
 -   📖 Read chapter 1 - 106 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:51, 20 August 2023)
--   📖 Completed [1 Plus 1](https://anilist.co/manga/114592) (15:01, 03 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
