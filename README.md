@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 208 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:39, 21 September 2023)
+-   📖 Read chapter 1 - 172 of [Nano Machine](https://anilist.co/manga/120980) (14:35, 21 September 2023)
 -   📖 Read chapter 1 - 170 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:31, 21 September 2023)
 -   📖 Read chapter 1 - 105 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (14:30, 21 September 2023)
 -   📖 Read chapter 1 - 154 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:36, 21 September 2023)
@@ -10,12 +12,10 @@
 -   📖 Read chapter 1 - 154 of [Teenage Mercenary](https://anilist.co/manga/126297) (10:00, 18 September 2023)
 -   📖 Read chapter 1 - 35 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (09:24, 18 September 2023)
 -   📖 Read chapter 1 - 52 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (09:23, 18 September 2023)
--   📖 Read chapter 1 - 207 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:01, 17 September 2023)
 -   📖 Completed [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (05:53, 17 September 2023)
 -   📖 Plans to read [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (19:30, 16 September 2023)
 -   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:40, 16 September 2023)
 -   📖 Read chapter 1 - 155 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:54, 15 September 2023)
--   📖 Read chapter 1 - 171 of [Nano Machine](https://anilist.co/manga/120980) (04:14, 14 September 2023)
 -   📖 Read chapter 1 - 174 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:11, 14 September 2023)
 -   📖 Plans to read [Nichiyoubi no Ichigo-chan](https://anilist.co/manga/150264) (07:01, 13 September 2023)
 -   📖 Read chapter 16 - 79 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (12:55, 12 September 2023)
