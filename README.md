@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 56 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (06:30, 23 September 2023)
 -   📖 Read chapter 1 - 103 of [To Not Die](https://anilist.co/manga/136099) (16:20, 22 September 2023)
 -   📖 Read chapter 1 - 208 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (14:39, 21 September 2023)
 -   📖 Read chapter 1 - 172 of [Nano Machine](https://anilist.co/manga/120980) (14:35, 21 September 2023)
 -   📖 Read chapter 1 - 170 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:31, 21 September 2023)
 -   📖 Read chapter 1 - 105 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (14:30, 21 September 2023)
 -   📖 Read chapter 1 - 154 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:36, 21 September 2023)
--   📖 Read chapter 1 - 54 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:21, 20 September 2023)
 -   📖 Read chapter 1 - 52 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:15, 20 September 2023)
 -   📖 Read chapter 1 - 22 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:15, 19 September 2023)
 -   📖 Completed [Silver Rock](https://anilist.co/manga/167758) (11:26, 19 September 2023)
