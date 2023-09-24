@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 155 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:42, 24 September 2023)
 -   📖 Read chapter 1 - 209 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:54, 23 September 2023)
 -   📖 Read chapter 1 - 56 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (06:30, 23 September 2023)
 -   📖 Read chapter 1 - 103 of [To Not Die](https://anilist.co/manga/136099) (16:20, 22 September 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 52 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:15, 20 September 2023)
 -   📖 Read chapter 1 - 22 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:15, 19 September 2023)
 -   📖 Completed [Silver Rock](https://anilist.co/manga/167758) (11:26, 19 September 2023)
--   📖 Read chapter 1 - 154 of [Teenage Mercenary](https://anilist.co/manga/126297) (10:00, 18 September 2023)
 -   📖 Read chapter 1 - 35 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (09:24, 18 September 2023)
 -   📖 Read chapter 1 - 52 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (09:23, 18 September 2023)
 -   📖 Completed [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (05:53, 17 September 2023)
