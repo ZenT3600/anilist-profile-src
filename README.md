@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 60 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (06:08, 25 September 2023)
 -   📖 Read chapter 1 - 155 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:42, 24 September 2023)
 -   📖 Read chapter 1 - 209 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:54, 23 September 2023)
--   📖 Read chapter 1 - 56 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (06:30, 23 September 2023)
 -   📖 Read chapter 1 - 103 of [To Not Die](https://anilist.co/manga/136099) (16:20, 22 September 2023)
 -   📖 Read chapter 1 - 172 of [Nano Machine](https://anilist.co/manga/120980) (14:35, 21 September 2023)
 -   📖 Read chapter 1 - 170 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:31, 21 September 2023)
