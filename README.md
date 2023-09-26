@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 66 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (15:02, 26 September 2023)
 -   📖 Read chapter 1 - 175 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (08:53, 26 September 2023)
 -   📖 Read chapter 110 - 155 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:50, 26 September 2023)
--   📖 Read chapter 1 - 65 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (09:55, 25 September 2023)
 -   📖 Read chapter 1 - 155 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:42, 24 September 2023)
 -   📖 Read chapter 1 - 209 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:54, 23 September 2023)
 -   📖 Read chapter 1 - 103 of [To Not Die](https://anilist.co/manga/136099) (16:20, 22 September 2023)
