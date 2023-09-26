@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 175 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (08:53, 26 September 2023)
 -   📖 Read chapter 110 - 155 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:50, 26 September 2023)
 -   📖 Read chapter 1 - 65 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (09:55, 25 September 2023)
 -   📖 Read chapter 1 - 155 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:42, 24 September 2023)
@@ -18,7 +19,6 @@
 -   📖 Plans to read [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (19:30, 16 September 2023)
 -   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:40, 16 September 2023)
 -   📖 Read chapter 1 - 155 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:54, 15 September 2023)
--   📖 Read chapter 1 - 174 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:11, 14 September 2023)
 -   📖 Plans to read [Nichiyoubi no Ichigo-chan](https://anilist.co/manga/150264) (07:01, 13 September 2023)
 -   📖 Read chapter 16 - 79 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (12:55, 12 September 2023)
 -   📖 Read chapter 1 - 118 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:57, 12 September 2023)
