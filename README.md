@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 70 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:15, 28 September 2023)
+-   📖 Read chapter 1 - 74 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (17:21, 28 September 2023)
 -   📖 Read chapter 1 - 173 of [Nano Machine](https://anilist.co/manga/120980) (08:12, 28 September 2023)
 -   📖 Read chapter 1 - 171 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:07, 28 September 2023)
 -   📖 Read chapter 1 - 176 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:07, 28 September 2023)
