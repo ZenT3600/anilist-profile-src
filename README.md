@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 79 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (09:30, 01 October 2023)
+-   📖 Read chapter 1 - 83 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (09:43, 01 October 2023)
 -   📖 Read chapter 1 - 156 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:53, 01 October 2023)
 -   📖 Read chapter 1 - 211 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:19, 30 September 2023)
 -   📖 Read chapter 16 - 80 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:13, 29 September 2023)
