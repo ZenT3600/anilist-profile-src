@@ -1,14 +1,14 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 77 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (06:07, 01 October 2023)
+-   📖 Read chapter 1 - 156 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:53, 01 October 2023)
 -   📖 Read chapter 1 - 211 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:19, 30 September 2023)
 -   📖 Read chapter 16 - 80 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:13, 29 September 2023)
 -   📖 Read chapter 1 - 74 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (11:09, 29 September 2023)
--   📖 Read chapter 1 - 74 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (17:21, 28 September 2023)
 -   📖 Read chapter 1 - 173 of [Nano Machine](https://anilist.co/manga/120980) (08:12, 28 September 2023)
 -   📖 Read chapter 1 - 171 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:07, 28 September 2023)
 -   📖 Read chapter 1 - 176 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:07, 28 September 2023)
 -   📖 Read chapter 110 - 155 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:50, 26 September 2023)
--   📖 Read chapter 1 - 155 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:42, 24 September 2023)
 -   📖 Read chapter 1 - 103 of [To Not Die](https://anilist.co/manga/136099) (16:20, 22 September 2023)
 -   📖 Read chapter 1 - 105 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (14:30, 21 September 2023)
 -   📖 Read chapter 1 - 154 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:36, 21 September 2023)
