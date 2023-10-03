@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 53 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 03 October 2023)
 -   📖 Read chapter 1 - 87 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (09:07, 02 October 2023)
 -   📖 Read chapter 1 - 157 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:01, 02 October 2023)
 -   📖 Read chapter 1 - 36 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 02 October 2023)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 52 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:15, 20 September 2023)
 -   📖 Read chapter 1 - 22 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:15, 19 September 2023)
 -   📖 Completed [Silver Rock](https://anilist.co/manga/167758) (11:26, 19 September 2023)
--   📖 Read chapter 1 - 52 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (09:23, 18 September 2023)
 -   📖 Completed [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (05:53, 17 September 2023)
 -   📖 Plans to read [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (19:30, 16 September 2023)
 -   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:40, 16 September 2023)
