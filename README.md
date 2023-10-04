@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 112 of [Chainsaw Man](https://anilist.co/manga/105778) (08:45, 04 October 2023)
 -   📖 Read chapter 1 - 104 of [To Not Die](https://anilist.co/manga/136099) (07:49, 04 October 2023)
 -   📖 Read chapter 1 - 53 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 03 October 2023)
 -   📖 Read chapter 1 - 87 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (09:07, 02 October 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (03:33, 21 August 2023)
 -   📖 Plans to read [Sakana Shakai](https://anilist.co/manga/138520) (03:32, 21 August 2023)
 -   📖 Completed [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:52, 20 August 2023)
--   📖 Read chapter 1 - 106 of [1-nichi Goto ni Tsun ga Hetteku Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Joshi](https://anilist.co/manga/152855) (12:51, 20 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
