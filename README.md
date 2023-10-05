@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 172 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:46, 05 October 2023)
+-   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
+-   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
 -   📖 Read chapter 1 - 174 of [Nano Machine](https://anilist.co/manga/120980) (04:28, 05 October 2023)
 -   📖 Read chapter 1 - 155 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:20, 05 October 2023)
 -   📖 Read chapter 13 of [True Beauty](https://anilist.co/manga/103995) (15:39, 04 October 2023)
@@ -10,10 +13,8 @@
 -   📖 Read chapter 1 - 157 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:01, 02 October 2023)
 -   📖 Read chapter 1 - 36 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 02 October 2023)
 -   📖 Read chapter 1 - 156 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:53, 01 October 2023)
--   📖 Read chapter 1 - 211 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:19, 30 September 2023)
 -   📖 Read chapter 16 - 80 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:13, 29 September 2023)
 -   📖 Read chapter 1 - 74 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (11:09, 29 September 2023)
--   📖 Read chapter 1 - 171 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:07, 28 September 2023)
 -   📖 Read chapter 1 - 176 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:07, 28 September 2023)
 -   📖 Read chapter 110 - 155 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:50, 26 September 2023)
 -   📖 Read chapter 1 - 105 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (14:30, 21 September 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (05:43, 27 August 2023)
 -   📖 Read chapter 1 - 110 of [Solo Leveling](https://anilist.co/manga/105398) (15:33, 25 August 2023)
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (03:33, 21 August 2023)
--   📖 Plans to read [Sakana Shakai](https://anilist.co/manga/138520) (03:32, 21 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
