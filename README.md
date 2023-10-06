@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 105 of [To Not Die](https://anilist.co/manga/136099) (04:46, 06 October 2023)
 -   📖 Read chapter 13 - 26 of [True Beauty](https://anilist.co/manga/103995) (16:36, 05 October 2023)
 -   📖 Read chapter 1 - 172 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:46, 05 October 2023)
 -   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 174 of [Nano Machine](https://anilist.co/manga/120980) (04:28, 05 October 2023)
 -   📖 Read chapter 1 - 155 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:20, 05 October 2023)
 -   📖 Read chapter 1 - 112 of [Chainsaw Man](https://anilist.co/manga/105778) (08:45, 04 October 2023)
--   📖 Read chapter 1 - 104 of [To Not Die](https://anilist.co/manga/136099) (07:49, 04 October 2023)
 -   📖 Read chapter 1 - 53 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:59, 03 October 2023)
 -   📖 Read chapter 1 - 87 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (09:07, 02 October 2023)
 -   📖 Read chapter 1 - 157 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:01, 02 October 2023)
