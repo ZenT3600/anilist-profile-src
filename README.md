@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 91 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (05:04, 07 October 2023)
+-   📖 Read chapter 1 - 94 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (05:14, 07 October 2023)
 -   📖 Read chapter 1 - 105 of [To Not Die](https://anilist.co/manga/136099) (04:46, 06 October 2023)
 -   📖 Read chapter 13 - 26 of [True Beauty](https://anilist.co/manga/103995) (16:36, 05 October 2023)
 -   📖 Read chapter 1 - 172 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:46, 05 October 2023)
