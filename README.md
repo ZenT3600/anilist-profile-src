@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 157 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:06, 08 October 2023)
 -   📖 Read chapter 1 - 54 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (16:43, 07 October 2023)
 -   📖 Read chapter 1 - 94 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (05:14, 07 October 2023)
 -   📖 Read chapter 1 - 105 of [To Not Die](https://anilist.co/manga/136099) (04:46, 06 October 2023)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 112 of [Chainsaw Man](https://anilist.co/manga/105778) (08:45, 04 October 2023)
 -   📖 Read chapter 1 - 157 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:01, 02 October 2023)
 -   📖 Read chapter 1 - 36 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 02 October 2023)
--   📖 Read chapter 1 - 156 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:53, 01 October 2023)
 -   📖 Read chapter 16 - 80 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:13, 29 September 2023)
 -   📖 Read chapter 1 - 74 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (11:09, 29 September 2023)
 -   📖 Read chapter 1 - 176 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:07, 28 September 2023)
