@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 - 23 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (16:01, 09 October 2023)
 -   📖 Read chapter 1 - 119 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:46, 09 October 2023)
--   📖 Read chapter 12 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (19:35, 08 October 2023)
 -   📖 Read chapter 1 - 213 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:26, 08 October 2023)
 -   📖 Read chapter 1 - 157 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:06, 08 October 2023)
 -   📖 Read chapter 1 - 54 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (16:43, 07 October 2023)
