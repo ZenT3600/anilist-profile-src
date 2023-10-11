@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 99 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (12:18, 10 October 2023)
+-   📖 Read chapter 1 - 100 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (09:21, 11 October 2023)
 -   📖 Read chapter 12 - 23 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (16:01, 09 October 2023)
 -   📖 Read chapter 1 - 119 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:46, 09 October 2023)
 -   📖 Read chapter 1 - 213 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:26, 08 October 2023)
