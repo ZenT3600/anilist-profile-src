@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 107 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (15:30, 12 October 2023)
+-   📖 Read chapter 1 - 108 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (15:32, 12 October 2023)
 -   📖 Read chapter 1 - 173 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:10, 12 October 2023)
 -   📖 Read chapter 1 - 156 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (09:08, 12 October 2023)
 -   📖 Read chapter 1 - 175 of [Nano Machine](https://anilist.co/manga/120980) (09:07, 12 October 2023)
