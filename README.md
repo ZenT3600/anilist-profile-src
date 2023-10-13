@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 143 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (16:35, 13 October 2023)
+-   📖 Read chapter 1 - 148 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (16:45, 13 October 2023)
 -   📖 Read chapter 1 - 214 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:29, 13 October 2023)
 -   📖 Read chapter 1 - 106 of [To Not Die](https://anilist.co/manga/136099) (05:47, 13 October 2023)
 -   📖 Read chapter 1 - 173 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:10, 12 October 2023)
