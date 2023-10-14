@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:32, 14 October 2023)
+-   📖 Read chapter 1 - 100 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:48, 14 October 2023)
 -   📖 Completed [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:39, 14 October 2023)
 -   📖 Read chapter 1 - 166 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:36, 14 October 2023)
 -   📖 Read chapter 1 - 214 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:29, 13 October 2023)
