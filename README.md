@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 164 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:31, 14 October 2023)
+-   📖 Completed [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:39, 14 October 2023)
+-   📖 Read chapter 1 - 166 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:36, 14 October 2023)
 -   📖 Read chapter 1 - 214 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:29, 13 October 2023)
 -   📖 Read chapter 1 - 106 of [To Not Die](https://anilist.co/manga/136099) (05:47, 13 October 2023)
 -   📖 Read chapter 1 - 173 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:10, 12 October 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 8 - 71 of [Fire Punch](https://anilist.co/manga/87170) (15:03, 28 August 2023)
 -   📖 Read chapter 1 - 37 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (11:38, 27 August 2023)
 -   📖 Read chapter 1 - 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (05:43, 27 August 2023)
--   📖 Read chapter 1 - 110 of [Solo Leveling](https://anilist.co/manga/105398) (15:33, 25 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
