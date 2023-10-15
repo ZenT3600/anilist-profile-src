@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [One Piece](https://anilist.co/manga/30013) (14:24, 15 October 2023)
 -   📖 Read chapter 1 - 158 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:32, 15 October 2023)
 -   📖 Read chapter 1 - 55 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:31, 15 October 2023)
 -   📖 Read chapter 1 - 23 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:53, 15 October 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [The Summer of You](https://anilist.co/manga/100052) (10:09, 29 August 2023)
 -   📖 Completed [Fire Punch](https://anilist.co/manga/87170) (04:58, 29 August 2023)
 -   📖 Read chapter 8 - 71 of [Fire Punch](https://anilist.co/manga/87170) (15:03, 28 August 2023)
--   📖 Read chapter 1 - 37 of [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (11:38, 27 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
