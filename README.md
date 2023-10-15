@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 158 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:32, 15 October 2023)
 -   📖 Read chapter 1 - 55 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:31, 15 October 2023)
 -   📖 Read chapter 1 - 23 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:53, 15 October 2023)
 -   📖 Read chapter 1 - 159 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (15:46, 14 October 2023)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 175 of [Nano Machine](https://anilist.co/manga/120980) (09:07, 12 October 2023)
 -   📖 Read chapter 12 - 23 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (16:01, 09 October 2023)
 -   📖 Read chapter 1 - 119 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:46, 09 October 2023)
--   📖 Read chapter 1 - 157 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:06, 08 October 2023)
 -   📖 Read chapter 13 - 26 of [True Beauty](https://anilist.co/manga/103995) (16:36, 05 October 2023)
 -   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
 -   📖 Read chapter 1 - 112 of [Chainsaw Man](https://anilist.co/manga/105778) (08:45, 04 October 2023)
