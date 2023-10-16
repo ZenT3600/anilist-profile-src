@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 88 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:54, 16 October 2023)
 -   📖 Read chapter 13 - 38 of [True Beauty](https://anilist.co/manga/103995) (15:32, 15 October 2023)
 -   📖 Read chapter 1 - 160 of [One Piece](https://anilist.co/manga/30013) (14:24, 15 October 2023)
 -   📖 Read chapter 1 - 158 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:32, 15 October 2023)
@@ -34,7 +35,6 @@
 -   📖 Completed [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 14 - 50 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 1 - 52 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:26, 05 September 2023)
--   📖 Read chapter 56 - 87 of [SPY x FAMILY](https://anilist.co/manga/108556) (04:22, 04 September 2023)
 -   📖 Read chapter 1 - 123 of [Get Schooled](https://anilist.co/manga/128521) (16:38, 03 September 2023)
 -   📺 Plans to watch [Gugure! Kokkuri-san](https://anilist.co/anime/20656) (08:46, 01 September 2023)
 -   📖 Read chapter 5 - 59 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (08:14, 01 September 2023)
