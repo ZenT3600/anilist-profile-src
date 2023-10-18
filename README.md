@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
 -   📖 Read chapter 1 - 442 of [Martial Peak](https://anilist.co/manga/104494) (16:13, 17 October 2023)
 -   📖 Read chapter 56 - 88 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:54, 16 October 2023)
 -   📖 Read chapter 13 - 38 of [True Beauty](https://anilist.co/manga/103995) (15:32, 15 October 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 12 - 23 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (16:01, 09 October 2023)
 -   📖 Read chapter 1 - 119 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:46, 09 October 2023)
 -   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
--   📖 Read chapter 1 - 112 of [Chainsaw Man](https://anilist.co/manga/105778) (08:45, 04 October 2023)
 -   📖 Read chapter 1 - 157 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:01, 02 October 2023)
 -   📖 Read chapter 1 - 36 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 02 October 2023)
 -   📖 Read chapter 16 - 80 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:13, 29 September 2023)
