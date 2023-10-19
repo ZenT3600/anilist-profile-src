@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 176 of [Nano Machine](https://anilist.co/manga/120980) (04:39, 19 October 2023)
+-   📖 Read chapter 1 - 174 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:33, 19 October 2023)
 -   📖 Read chapter 1 - 24 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:29, 19 October 2023)
 -   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
 -   📖 Read chapter 1 - 442 of [Martial Peak](https://anilist.co/manga/104494) (16:13, 17 October 2023)
@@ -13,9 +15,7 @@
 -   📖 Completed [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:39, 14 October 2023)
 -   📖 Read chapter 1 - 166 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:36, 14 October 2023)
 -   📖 Read chapter 1 - 106 of [To Not Die](https://anilist.co/manga/136099) (05:47, 13 October 2023)
--   📖 Read chapter 1 - 173 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (09:10, 12 October 2023)
 -   📖 Read chapter 1 - 156 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (09:08, 12 October 2023)
--   📖 Read chapter 1 - 175 of [Nano Machine](https://anilist.co/manga/120980) (09:07, 12 October 2023)
 -   📖 Read chapter 12 - 23 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (16:01, 09 October 2023)
 -   📖 Read chapter 1 - 119 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:46, 09 October 2023)
 -   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
