@@ -1,10 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
+-   📖 Read chapter 1 - 463 of [Martial Peak](https://anilist.co/manga/104494) (07:59, 19 October 2023)
 -   📖 Read chapter 1 - 176 of [Nano Machine](https://anilist.co/manga/120980) (04:39, 19 October 2023)
 -   📖 Read chapter 1 - 174 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:33, 19 October 2023)
 -   📖 Read chapter 1 - 24 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:29, 19 October 2023)
 -   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
--   📖 Read chapter 1 - 442 of [Martial Peak](https://anilist.co/manga/104494) (16:13, 17 October 2023)
 -   📖 Read chapter 56 - 88 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:54, 16 October 2023)
 -   📖 Read chapter 13 - 38 of [True Beauty](https://anilist.co/manga/103995) (15:32, 15 October 2023)
 -   📖 Read chapter 1 - 160 of [One Piece](https://anilist.co/manga/30013) (14:24, 15 October 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 3 of [The Summer of You](https://anilist.co/manga/100052) (10:46, 29 August 2023)
 -   📖 Plans to read [The Summer With You](https://anilist.co/manga/104203) (10:09, 29 August 2023)
 -   📖 Plans to read [The Summer of You](https://anilist.co/manga/100052) (10:09, 29 August 2023)
--   📖 Completed [Fire Punch](https://anilist.co/manga/87170) (04:58, 29 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
