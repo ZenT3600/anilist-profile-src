@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 478 of [Martial Peak](https://anilist.co/manga/104494) (13:00, 20 October 2023)
 -   📖 Read chapter 8 - 46 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:48, 20 October 2023)
 -   📖 Read chapter 1 - 107 of [To Not Die](https://anilist.co/manga/136099) (06:07, 20 October 2023)
 -   📖 Read chapter 1 - 216 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:02, 20 October 2023)
 -   📖 Read chapter 1 - 106 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:54, 20 October 2023)
 -   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
--   📖 Read chapter 1 - 463 of [Martial Peak](https://anilist.co/manga/104494) (07:59, 19 October 2023)
 -   📖 Read chapter 1 - 176 of [Nano Machine](https://anilist.co/manga/120980) (04:39, 19 October 2023)
 -   📖 Read chapter 1 - 174 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:33, 19 October 2023)
 -   📖 Read chapter 1 - 24 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:29, 19 October 2023)
