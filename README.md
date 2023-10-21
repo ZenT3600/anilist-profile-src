@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
 -   📖 Read chapter 1 - 478 of [Martial Peak](https://anilist.co/manga/104494) (13:00, 20 October 2023)
 -   📖 Read chapter 8 - 46 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:48, 20 October 2023)
 -   📖 Read chapter 1 - 107 of [To Not Die](https://anilist.co/manga/136099) (06:07, 20 October 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [The Summer With You](https://anilist.co/manga/104203) (16:27, 29 August 2023)
 -   📖 Completed [The Summer of You](https://anilist.co/manga/100052) (15:06, 29 August 2023)
 -   📖 Read chapter 3 of [The Summer of You](https://anilist.co/manga/100052) (10:46, 29 August 2023)
--   📖 Plans to read [The Summer With You](https://anilist.co/manga/104203) (10:09, 29 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
