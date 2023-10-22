@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 34 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:29, 22 October 2023)
+-   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Read chapter 1 - 159 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:53, 21 October 2023)
 -   📖 Read chapter 1 - 217 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:54, 21 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
@@ -48,7 +50,5 @@
 -   📖 Completed [The Two Lions](https://anilist.co/manga/109791) (17:01, 30 August 2023)
 -   📖 Plans to read [The Two Lions](https://anilist.co/manga/109791) (11:48, 30 August 2023)
 -   📖 Completed [The Summer With You](https://anilist.co/manga/104203) (16:27, 29 August 2023)
--   📖 Completed [The Summer of You](https://anilist.co/manga/100052) (15:06, 29 August 2023)
--   📖 Read chapter 3 of [The Summer of You](https://anilist.co/manga/100052) (10:46, 29 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
