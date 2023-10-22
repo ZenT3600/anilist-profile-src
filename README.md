@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 34 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:29, 22 October 2023)
+-   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Read chapter 1 - 159 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:53, 21 October 2023)
 -   📖 Read chapter 1 - 217 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:54, 21 October 2023)
