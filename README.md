@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (06:07, 22 October 2023)
 -   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Read chapter 1 - 159 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:53, 21 October 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 26 of [Rosen Blood](https://anilist.co/manga/103030) (08:51, 31 August 2023)
 -   📖 Completed [The Two Lions](https://anilist.co/manga/109791) (17:01, 30 August 2023)
 -   📖 Plans to read [The Two Lions](https://anilist.co/manga/109791) (11:48, 30 August 2023)
--   📖 Completed [The Summer With You](https://anilist.co/manga/104203) (16:27, 29 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
