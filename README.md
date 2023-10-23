@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 16 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (06:58, 23 October 2023)
 -   📖 Read chapter 1 - 120 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:39, 23 October 2023)
--   📖 Read chapter 8 - 12 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (16:19, 22 October 2023)
 -   📖 Read chapter 1 - 54 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (10:44, 22 October 2023)
 -   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
