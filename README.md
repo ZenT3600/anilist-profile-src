@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 120 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:39, 23 October 2023)
 -   📖 Read chapter 8 - 12 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (16:19, 22 October 2023)
 -   📖 Read chapter 1 - 54 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (10:44, 22 October 2023)
 -   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
@@ -25,7 +26,6 @@
 -   📖 Read chapter 1 - 166 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:36, 14 October 2023)
 -   📖 Read chapter 1 - 156 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (09:08, 12 October 2023)
 -   📖 Read chapter 12 - 23 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (16:01, 09 October 2023)
--   📖 Read chapter 1 - 119 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:46, 09 October 2023)
 -   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
 -   📖 Read chapter 1 - 157 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:01, 02 October 2023)
 -   📖 Read chapter 1 - 36 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 02 October 2023)
