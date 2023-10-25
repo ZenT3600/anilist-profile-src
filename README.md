@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 - 81 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (10:29, 25 October 2023)
+-   📖 Read chapter 16 - 83 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (10:40, 25 October 2023)
 -   📖 Read chapter 8 - 47 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:25, 25 October 2023)
 -   📖 Read chapter 1 - 22 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (05:12, 25 October 2023)
 -   📖 Read chapter 8 - 16 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (06:58, 23 October 2023)
