@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 157 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (17:53, 25 October 2023)
+-   📖 Read chapter 1 - 177 of [Nano Machine](https://anilist.co/manga/120980) (17:51, 25 October 2023)
 -   📖 Read chapter 16 - 83 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (10:40, 25 October 2023)
 -   📖 Read chapter 8 - 47 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:25, 25 October 2023)
 -   📖 Read chapter 1 - 22 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (05:12, 25 October 2023)
@@ -15,7 +17,6 @@
 -   📖 Read chapter 1 - 107 of [To Not Die](https://anilist.co/manga/136099) (06:07, 20 October 2023)
 -   📖 Read chapter 1 - 106 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:54, 20 October 2023)
 -   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
--   📖 Read chapter 1 - 176 of [Nano Machine](https://anilist.co/manga/120980) (04:39, 19 October 2023)
 -   📖 Read chapter 1 - 174 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:33, 19 October 2023)
 -   📖 Read chapter 1 - 24 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:29, 19 October 2023)
 -   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
@@ -26,7 +27,6 @@
 -   📖 Read chapter 1 - 159 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (15:46, 14 October 2023)
 -   📖 Completed [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:39, 14 October 2023)
 -   📖 Read chapter 1 - 166 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:36, 14 October 2023)
--   📖 Read chapter 1 - 156 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (09:08, 12 October 2023)
 -   📖 Read chapter 12 - 23 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (16:01, 09 October 2023)
 -   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
 -   📖 Read chapter 1 - 157 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:01, 02 October 2023)
