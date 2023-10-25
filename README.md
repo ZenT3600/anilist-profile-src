@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 81 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (10:29, 25 October 2023)
+-   📖 Read chapter 8 - 47 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:25, 25 October 2023)
 -   📖 Read chapter 1 - 22 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (05:12, 25 October 2023)
 -   📖 Read chapter 8 - 16 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (06:58, 23 October 2023)
 -   📖 Read chapter 1 - 120 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:39, 23 October 2023)
@@ -10,7 +12,6 @@
 -   📖 Read chapter 1 - 217 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:54, 21 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
 -   📖 Read chapter 1 - 478 of [Martial Peak](https://anilist.co/manga/104494) (13:00, 20 October 2023)
--   📖 Read chapter 8 - 46 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:48, 20 October 2023)
 -   📖 Read chapter 1 - 107 of [To Not Die](https://anilist.co/manga/136099) (06:07, 20 October 2023)
 -   📖 Read chapter 1 - 106 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:54, 20 October 2023)
 -   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
@@ -30,7 +31,6 @@
 -   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
 -   📖 Read chapter 1 - 157 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:01, 02 October 2023)
 -   📖 Read chapter 1 - 36 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 02 October 2023)
--   📖 Read chapter 16 - 80 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:13, 29 September 2023)
 -   📖 Read chapter 1 - 74 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (11:09, 29 September 2023)
 -   📖 Read chapter 1 - 176 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:07, 28 September 2023)
 -   📖 Read chapter 110 - 155 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:50, 26 September 2023)
