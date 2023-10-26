@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 175 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:42, 26 October 2023)
+-   📖 Read chapter 1 - 218 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:39, 26 October 2023)
 -   📖 Read chapter 1 - 157 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (17:53, 25 October 2023)
 -   📖 Read chapter 1 - 177 of [Nano Machine](https://anilist.co/manga/120980) (17:51, 25 October 2023)
 -   📖 Read chapter 16 - 83 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (10:40, 25 October 2023)
@@ -11,13 +13,11 @@
 -   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Read chapter 1 - 159 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:53, 21 October 2023)
--   📖 Read chapter 1 - 217 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:54, 21 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
 -   📖 Read chapter 1 - 478 of [Martial Peak](https://anilist.co/manga/104494) (13:00, 20 October 2023)
 -   📖 Read chapter 1 - 107 of [To Not Die](https://anilist.co/manga/136099) (06:07, 20 October 2023)
 -   📖 Read chapter 1 - 106 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:54, 20 October 2023)
 -   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
--   📖 Read chapter 1 - 174 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:33, 19 October 2023)
 -   📖 Read chapter 1 - 24 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:29, 19 October 2023)
 -   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
 -   📖 Read chapter 56 - 88 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:54, 16 October 2023)
