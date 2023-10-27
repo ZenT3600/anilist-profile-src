@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 177 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:03, 27 October 2023)
 -   📖 Completed [My Ultramarine Sky](https://anilist.co/manga/87432) (16:54, 27 October 2023)
 -   📖 Read chapter 21 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (15:14, 27 October 2023)
 -   📖 Read chapter 2 of [My Ultramarine Sky](https://anilist.co/manga/87432) (08:26, 27 October 2023)
@@ -36,7 +37,6 @@
 -   📖 Read chapter 1 - 157 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:01, 02 October 2023)
 -   📖 Read chapter 1 - 36 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 02 October 2023)
 -   📖 Read chapter 1 - 74 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (11:09, 29 September 2023)
--   📖 Read chapter 1 - 176 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:07, 28 September 2023)
 -   📖 Read chapter 110 - 155 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:50, 26 September 2023)
 -   📖 Read chapter 1 - 52 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:15, 20 September 2023)
 -   📖 Completed [Silver Rock](https://anilist.co/manga/167758) (11:26, 19 September 2023)
