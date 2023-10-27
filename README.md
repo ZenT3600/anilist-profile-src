@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [My Ultramarine Sky](https://anilist.co/manga/87432) (08:08, 27 October 2023)
 -   📖 Read chapter 1 - 486 of [Martial Peak](https://anilist.co/manga/104494) (05:17, 27 October 2023)
 -   📖 Read chapter 1 - 175 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:42, 26 October 2023)
 -   📖 Read chapter 1 - 218 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:39, 26 October 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [Bokura no Tsuzuki](https://anilist.co/manga/121364) (06:04, 01 September 2023)
 -   📖 Completed [Rosen Blood](https://anilist.co/manga/103030) (08:51, 31 August 2023)
 -   📖 Read chapter 1 - 26 of [Rosen Blood](https://anilist.co/manga/103030) (08:51, 31 August 2023)
--   📖 Completed [The Two Lions](https://anilist.co/manga/109791) (17:01, 30 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
