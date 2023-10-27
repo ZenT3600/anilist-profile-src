@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [My Ultramarine Sky](https://anilist.co/manga/87432) (16:54, 27 October 2023)
 -   📖 Read chapter 21 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (15:14, 27 October 2023)
 -   📖 Read chapter 2 of [My Ultramarine Sky](https://anilist.co/manga/87432) (08:26, 27 October 2023)
 -   📖 Plans to read [My Ultramarine Sky](https://anilist.co/manga/87432) (08:08, 27 October 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 123 of [Get Schooled](https://anilist.co/manga/128521) (16:38, 03 September 2023)
 -   📺 Plans to watch [Gugure! Kokkuri-san](https://anilist.co/anime/20656) (08:46, 01 September 2023)
 -   📖 Read chapter 5 - 59 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (08:14, 01 September 2023)
--   📖 Completed [Bokura no Tsuzuki](https://anilist.co/manga/121364) (06:04, 01 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
