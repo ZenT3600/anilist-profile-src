@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 28 of [Zhizhu Si](https://anilist.co/manga/161716) (05:44, 28 October 2023)
 -   📖 Read chapter 1 - 56 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:22, 28 October 2023)
 -   📖 Read chapter 1 - 177 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:03, 27 October 2023)
 -   📖 Completed [My Ultramarine Sky](https://anilist.co/manga/87432) (16:54, 27 October 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 14 - 50 of [Jimoto ni Kaettekitara Osananajimi ga Kowareteta](https://anilist.co/manga/150890) (05:07, 09 September 2023)
 -   📖 Read chapter 1 - 123 of [Get Schooled](https://anilist.co/manga/128521) (16:38, 03 September 2023)
 -   📺 Plans to watch [Gugure! Kokkuri-san](https://anilist.co/anime/20656) (08:46, 01 September 2023)
--   📖 Read chapter 5 - 59 of [The Melancholy of Haruhi Suzumiya](https://anilist.co/manga/31345) (08:14, 01 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
