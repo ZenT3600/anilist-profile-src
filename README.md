@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:09, 29 October 2023)
 -   📖 Read chapter 13 - 63 of [True Beauty](https://anilist.co/manga/103995) (15:41, 28 October 2023)
 -   📖 Read chapter 1 - 28 of [Zhizhu Si](https://anilist.co/manga/161716) (05:44, 28 October 2023)
 -   📖 Read chapter 1 - 56 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:22, 28 October 2023)
@@ -21,7 +22,6 @@
 -   📖 Read chapter 1 - 54 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (10:44, 22 October 2023)
 -   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
--   📖 Read chapter 1 - 159 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:53, 21 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
 -   📖 Read chapter 1 - 107 of [To Not Die](https://anilist.co/manga/136099) (06:07, 20 October 2023)
 -   📖 Read chapter 1 - 106 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:54, 20 October 2023)
