@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 13 - 79 of [True Beauty](https://anilist.co/manga/103995) (06:30, 29 October 2023)
 -   📖 Read chapter 21 - 22 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:03, 29 October 2023)
 -   📖 Read chapter 1 - 219 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:02, 29 October 2023)
 -   📖 Read chapter 1 - 160 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:09, 29 October 2023)
--   📖 Read chapter 13 - 63 of [True Beauty](https://anilist.co/manga/103995) (15:41, 28 October 2023)
 -   📖 Read chapter 1 - 28 of [Zhizhu Si](https://anilist.co/manga/161716) (05:44, 28 October 2023)
 -   📖 Read chapter 1 - 56 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:22, 28 October 2023)
 -   📖 Read chapter 1 - 177 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:03, 27 October 2023)
