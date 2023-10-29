@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 - 79 of [True Beauty](https://anilist.co/manga/103995) (06:30, 29 October 2023)
+-   📖 Read chapter 13 - 95 of [True Beauty](https://anilist.co/manga/103995) (08:23, 29 October 2023)
 -   📖 Read chapter 21 - 22 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:03, 29 October 2023)
 -   📖 Read chapter 1 - 219 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:02, 29 October 2023)
 -   📖 Read chapter 1 - 160 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:09, 29 October 2023)
