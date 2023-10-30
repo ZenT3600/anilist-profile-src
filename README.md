@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 108 of [To Not Die](https://anilist.co/manga/136099) (11:13, 30 October 2023)
+-   📖 Read chapter 56 - 89 of [SPY x FAMILY](https://anilist.co/manga/108556) (11:08, 30 October 2023)
 -   📖 Read chapter 1 - 97 of [Toradora!](https://anilist.co/manga/34368) (17:16, 29 October 2023)
 -   📖 Read chapter 13 - 95 of [True Beauty](https://anilist.co/manga/103995) (08:23, 29 October 2023)
 -   📖 Read chapter 21 - 22 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:03, 29 October 2023)
@@ -24,12 +26,10 @@
 -   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
--   📖 Read chapter 1 - 107 of [To Not Die](https://anilist.co/manga/136099) (06:07, 20 October 2023)
 -   📖 Read chapter 1 - 106 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:54, 20 October 2023)
 -   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
 -   📖 Read chapter 1 - 24 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:29, 19 October 2023)
 -   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
--   📖 Read chapter 56 - 88 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:54, 16 October 2023)
 -   📖 Read chapter 1 - 160 of [One Piece](https://anilist.co/manga/30013) (14:24, 15 October 2023)
 -   📖 Read chapter 1 - 159 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (15:46, 14 October 2023)
 -   📖 Completed [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:39, 14 October 2023)
