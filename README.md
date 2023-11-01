@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 - 23 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (21:23, 01 November 2023)
 -   📖 Read chapter 1 - 97 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:57, 01 November 2023)
 -   📖 Read chapter 1 - 13 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:03, 31 October 2023)
 -   📖 Read chapter 9 - 90 of [The Way of the Househusband](https://anilist.co/manga/101233) (17:58, 30 October 2023)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 56 - 89 of [SPY x FAMILY](https://anilist.co/manga/108556) (11:08, 30 October 2023)
 -   📖 Read chapter 1 - 97 of [Toradora!](https://anilist.co/manga/34368) (17:16, 29 October 2023)
 -   📖 Read chapter 13 - 95 of [True Beauty](https://anilist.co/manga/103995) (08:23, 29 October 2023)
--   📖 Read chapter 21 - 22 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:03, 29 October 2023)
 -   📖 Read chapter 1 - 219 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:02, 29 October 2023)
 -   📖 Read chapter 1 - 160 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:09, 29 October 2023)
 -   📖 Read chapter 1 - 28 of [Zhizhu Si](https://anilist.co/manga/161716) (05:44, 28 October 2023)
