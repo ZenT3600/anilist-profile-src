@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 107 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:04, 02 November 2023)
 -   📖 Read chapter 21 - 23 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (21:23, 01 November 2023)
 -   📖 Read chapter 1 - 97 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:57, 01 November 2023)
 -   📖 Read chapter 1 - 13 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:03, 31 October 2023)
@@ -29,7 +30,6 @@
 -   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
--   📖 Read chapter 1 - 106 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:54, 20 October 2023)
 -   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
 -   📖 Read chapter 1 - 24 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:29, 19 October 2023)
 -   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
