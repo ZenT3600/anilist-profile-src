@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:53, 05 November 2023)
 -   📺 Watched episode 1 - 9 of [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:30, 05 November 2023)
 -   📖 Read chapter 1 - 55 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:43, 05 November 2023)
 -   📖 Read chapter 1 - 221 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:17, 05 November 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 52 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:15, 20 September 2023)
 -   📖 Completed [Silver Rock](https://anilist.co/manga/167758) (11:26, 19 September 2023)
 -   📖 Completed [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117) (05:53, 17 September 2023)
--   📖 Plans to read [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (19:30, 16 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
