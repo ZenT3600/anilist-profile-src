@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 - 24 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:44, 05 November 2023)
 -   📺 Watched episode 1 - 2 of [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (22:14, 03 November 2023)
 -   📺 Plans to watch [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (21:25, 03 November 2023)
 -   📖 Read chapter 1 - 220 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:04, 03 November 2023)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 178 of [Nano Machine](https://anilist.co/manga/120980) (07:13, 02 November 2023)
 -   📖 Read chapter 1 - 176 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:08, 02 November 2023)
 -   📖 Read chapter 1 - 107 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:04, 02 November 2023)
--   📖 Read chapter 21 - 23 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (21:23, 01 November 2023)
 -   📖 Read chapter 1 - 97 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:57, 01 November 2023)
 -   📖 Read chapter 1 - 13 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:03, 31 October 2023)
 -   📖 Read chapter 9 - 90 of [The Way of the Househusband](https://anilist.co/manga/101233) (17:58, 30 October 2023)
