@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 25 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 06 November 2023)
 -   📖 Read chapter 1 - 28 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (18:06, 05 November 2023)
 -   📺 Plans to watch [Fire Force](https://anilist.co/anime/105310) (17:13, 05 November 2023)
 -   📺 Completed [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:53, 05 November 2023)
@@ -37,7 +38,6 @@
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
 -   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
--   📖 Read chapter 1 - 24 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (04:29, 19 October 2023)
 -   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
 -   📖 Read chapter 1 - 160 of [One Piece](https://anilist.co/manga/30013) (14:24, 15 October 2023)
 -   📖 Read chapter 1 - 159 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (15:46, 14 October 2023)
