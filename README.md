@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 65 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:28, 08 November 2023)
 -   📖 Read chapter 21 - 25 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (05:49, 08 November 2023)
--   📖 Read chapter 1 - 60 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (19:48, 07 November 2023)
 -   📖 Read chapter 1 - 25 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 06 November 2023)
 -   📺 Plans to watch [Fire Force](https://anilist.co/anime/105310) (17:13, 05 November 2023)
 -   📺 Completed [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:53, 05 November 2023)
