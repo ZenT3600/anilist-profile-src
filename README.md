@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 of [Berserk](https://anilist.co/manga/30002) (10:48, 09 November 2023)
 -   📖 Read chapter 1 - 177 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:45, 09 November 2023)
 -   📖 Read chapter 1 - 179 of [Nano Machine](https://anilist.co/manga/120980) (05:40, 09 November 2023)
 -   📖 Read chapter 1 - 158 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 09 November 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 36 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 02 October 2023)
 -   📖 Read chapter 1 - 74 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (11:09, 29 September 2023)
 -   📖 Read chapter 110 - 155 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:50, 26 September 2023)
--   📖 Read chapter 1 - 52 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (08:15, 20 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
