@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 177 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:45, 09 November 2023)
+-   📖 Read chapter 1 - 179 of [Nano Machine](https://anilist.co/manga/120980) (05:40, 09 November 2023)
 -   📖 Read chapter 1 - 158 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 09 November 2023)
 -   📖 Read chapter 1 - 65 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:28, 08 November 2023)
 -   📖 Read chapter 21 - 25 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (05:49, 08 November 2023)
@@ -11,8 +13,6 @@
 -   📖 Read chapter 1 - 221 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:17, 05 November 2023)
 -   📺 Plans to watch [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (21:25, 03 November 2023)
 -   📖 Read chapter 5 - 35 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (16:46, 02 November 2023)
--   📖 Read chapter 1 - 178 of [Nano Machine](https://anilist.co/manga/120980) (07:13, 02 November 2023)
--   📖 Read chapter 1 - 176 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:08, 02 November 2023)
 -   📖 Read chapter 1 - 107 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:04, 02 November 2023)
 -   📖 Read chapter 1 - 97 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:57, 01 November 2023)
 -   📖 Read chapter 1 - 13 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:03, 31 October 2023)
