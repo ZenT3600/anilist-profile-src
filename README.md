@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 158 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 09 November 2023)
 -   📖 Read chapter 1 - 65 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:28, 08 November 2023)
 -   📖 Read chapter 21 - 25 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (05:49, 08 November 2023)
 -   📖 Read chapter 1 - 25 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 06 November 2023)
@@ -28,7 +29,6 @@
 -   📖 Read chapter 2 of [My Ultramarine Sky](https://anilist.co/manga/87432) (08:26, 27 October 2023)
 -   📖 Plans to read [My Ultramarine Sky](https://anilist.co/manga/87432) (08:08, 27 October 2023)
 -   📖 Read chapter 1 - 486 of [Martial Peak](https://anilist.co/manga/104494) (05:17, 27 October 2023)
--   📖 Read chapter 1 - 157 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (17:53, 25 October 2023)
 -   📖 Read chapter 16 - 83 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (10:40, 25 October 2023)
 -   📖 Read chapter 8 - 47 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:25, 25 October 2023)
 -   📖 Read chapter 1 - 22 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (05:12, 25 October 2023)
