@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (12:53, 10 November 2023)
 -   📖 Read chapter 1 - 110 of [To Not Die](https://anilist.co/manga/136099) (11:58, 10 November 2023)
 -   📖 Read chapter 2 - 3 of [Berserk](https://anilist.co/manga/30002) (06:35, 10 November 2023)
 -   📖 Read chapter 1 - 222 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:18, 10 November 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 166 of [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:36, 14 October 2023)
 -   📖 Read chapter 12 - 23 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (16:01, 09 October 2023)
 -   📖 Read chapter 1 - 212 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:44, 05 October 2023)
--   📖 Read chapter 1 - 36 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (04:29, 02 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
