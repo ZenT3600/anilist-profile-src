@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 3 of [Berserk](https://anilist.co/manga/30002) (06:35, 10 November 2023)
 -   📖 Read chapter 1 - 222 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:18, 10 November 2023)
 -   📖 Read chapter 1 - 158 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:27, 10 November 2023)
 -   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
 -   📖 Read chapter 1 - 80 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:30, 09 November 2023)
--   📖 Read chapter 2 of [Berserk](https://anilist.co/manga/30002) (10:48, 09 November 2023)
 -   📖 Read chapter 1 - 177 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:45, 09 November 2023)
 -   📖 Read chapter 1 - 179 of [Nano Machine](https://anilist.co/manga/120980) (05:40, 09 November 2023)
 -   📖 Read chapter 1 - 158 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 09 November 2023)
