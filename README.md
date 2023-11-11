@@ -1,10 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 223 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:21, 11 November 2023)
+-   📖 Read chapter 1 - 57 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:18, 11 November 2023)
 -   📖 Read chapter 4 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (13:16, 10 November 2023)
 -   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (12:53, 10 November 2023)
 -   📖 Read chapter 1 - 110 of [To Not Die](https://anilist.co/manga/136099) (11:58, 10 November 2023)
 -   📖 Read chapter 2 - 3 of [Berserk](https://anilist.co/manga/30002) (06:35, 10 November 2023)
--   📖 Read chapter 1 - 222 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:18, 10 November 2023)
 -   📖 Read chapter 1 - 158 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:27, 10 November 2023)
 -   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
@@ -30,7 +31,6 @@
 -   📖 Read chapter 13 - 95 of [True Beauty](https://anilist.co/manga/103995) (08:23, 29 October 2023)
 -   📖 Read chapter 1 - 160 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:09, 29 October 2023)
 -   📖 Read chapter 1 - 28 of [Zhizhu Si](https://anilist.co/manga/161716) (05:44, 28 October 2023)
--   📖 Read chapter 1 - 56 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:22, 28 October 2023)
 -   📖 Read chapter 1 - 177 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:03, 27 October 2023)
 -   📖 Completed [My Ultramarine Sky](https://anilist.co/manga/87432) (16:54, 27 October 2023)
 -   📖 Read chapter 2 of [My Ultramarine Sky](https://anilist.co/manga/87432) (08:26, 27 October 2023)
