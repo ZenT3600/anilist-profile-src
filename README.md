@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (09:08, 12 November 2023)
+-   📖 Read chapter 1 - 6 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (16:13, 12 November 2023)
 -   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
 -   📖 Read chapter 1 - 223 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:21, 11 November 2023)
 -   📖 Read chapter 1 - 57 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:18, 11 November 2023)
