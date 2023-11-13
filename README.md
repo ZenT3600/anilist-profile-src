@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 121 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:40, 13 November 2023)
 -   📖 Read chapter 56 - 90 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:01, 12 November 2023)
 -   📖 Read chapter 1 - 6 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (16:13, 12 November 2023)
 -   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
@@ -41,7 +42,6 @@
 -   📖 Read chapter 8 - 47 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:25, 25 October 2023)
 -   📖 Read chapter 1 - 22 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (05:12, 25 October 2023)
 -   📖 Read chapter 8 - 16 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (06:58, 23 October 2023)
--   📖 Read chapter 1 - 120 of [Love’s in Sight!](https://anilist.co/manga/107445) (04:39, 23 October 2023)
 -   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
