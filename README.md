@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (08:55, 13 November 2023)
+-   📖 Read chapter 1 - 37 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (08:50, 13 November 2023)
 -   📖 Read chapter 1 - 121 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:40, 13 November 2023)
 -   📖 Read chapter 56 - 90 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:01, 12 November 2023)
--   📖 Read chapter 1 - 6 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (16:13, 12 November 2023)
 -   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
 -   📖 Read chapter 1 - 223 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:21, 11 November 2023)
 -   📖 Read chapter 1 - 57 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:18, 11 November 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
 -   📖 Read chapter 1 - 160 of [One Piece](https://anilist.co/manga/30013) (14:24, 15 October 2023)
 -   📖 Read chapter 1 - 159 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (15:46, 14 October 2023)
--   📖 Completed [Hatsukoi Zombie](https://anilist.co/manga/86737) (07:39, 14 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
