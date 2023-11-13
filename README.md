@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 8 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (18:03, 13 November 2023)
 -   📖 Read chapter 1 - 12 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (13:20, 13 November 2023)
 -   📖 Read chapter 1 - 37 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (08:50, 13 November 2023)
 -   📖 Read chapter 1 - 121 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:40, 13 November 2023)
@@ -7,7 +8,6 @@
 -   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
 -   📖 Read chapter 1 - 223 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:21, 11 November 2023)
 -   📖 Read chapter 1 - 57 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:18, 11 November 2023)
--   📖 Read chapter 4 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (13:16, 10 November 2023)
 -   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (12:53, 10 November 2023)
 -   📖 Read chapter 1 - 110 of [To Not Die](https://anilist.co/manga/136099) (11:58, 10 November 2023)
 -   📖 Read chapter 2 - 3 of [Berserk](https://anilist.co/manga/30002) (06:35, 10 November 2023)
