@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (09:03, 15 November 2023)
+-   📖 Read chapter 1 - 21 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (09:08, 15 November 2023)
 -   📖 Read chapter 4 - 8 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (18:03, 13 November 2023)
 -   📖 Read chapter 1 - 37 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (08:50, 13 November 2023)
 -   📖 Read chapter 1 - 121 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:40, 13 November 2023)
