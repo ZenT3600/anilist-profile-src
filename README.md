@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (13:38, 16 November 2023)
 -   📖 Read chapter 1 - 178 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:46, 16 November 2023)
 -   📖 Read chapter 1 - 180 of [Nano Machine](https://anilist.co/manga/120980) (05:25, 16 November 2023)
 -   📖 Read chapter 1 - 108 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:12, 16 November 2023)
 -   📖 Read chapter 1 - 38 of [Zhizhu Si](https://anilist.co/manga/161716) (14:48, 15 November 2023)
--   📖 Read chapter 1 - 26 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (09:47, 15 November 2023)
 -   📖 Read chapter 4 - 8 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (18:03, 13 November 2023)
 -   📖 Read chapter 1 - 37 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (08:50, 13 November 2023)
 -   📖 Read chapter 1 - 121 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:40, 13 November 2023)
