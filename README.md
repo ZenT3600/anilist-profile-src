@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 178 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:46, 16 November 2023)
 -   📖 Read chapter 1 - 180 of [Nano Machine](https://anilist.co/manga/120980) (05:25, 16 November 2023)
 -   📖 Read chapter 1 - 108 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:12, 16 November 2023)
 -   📖 Read chapter 1 - 38 of [Zhizhu Si](https://anilist.co/manga/161716) (14:48, 15 November 2023)
@@ -18,7 +19,6 @@
 -   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
 -   📖 Read chapter 1 - 80 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:30, 09 November 2023)
--   📖 Read chapter 1 - 177 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:45, 09 November 2023)
 -   📖 Read chapter 1 - 158 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 09 November 2023)
 -   📖 Read chapter 1 - 65 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:28, 08 November 2023)
 -   📖 Read chapter 21 - 25 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (05:49, 08 November 2023)
