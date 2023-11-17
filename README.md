@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 98 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:42, 17 November 2023)
 -   📖 Read chapter 1 - 27 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (13:38, 16 November 2023)
 -   📖 Read chapter 1 - 178 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:46, 16 November 2023)
 -   📖 Read chapter 1 - 180 of [Nano Machine](https://anilist.co/manga/120980) (05:25, 16 November 2023)
@@ -29,7 +30,6 @@
 -   📖 Read chapter 1 - 55 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (11:43, 05 November 2023)
 -   📺 Plans to watch [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (21:25, 03 November 2023)
 -   📖 Read chapter 5 - 35 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (16:46, 02 November 2023)
--   📖 Read chapter 1 - 97 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:57, 01 November 2023)
 -   📖 Read chapter 1 - 13 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:03, 31 October 2023)
 -   📖 Read chapter 9 - 90 of [The Way of the Househusband](https://anilist.co/manga/101233) (17:58, 30 October 2023)
 -   📖 Read chapter 1 - 97 of [Toradora!](https://anilist.co/manga/34368) (17:16, 29 October 2023)
