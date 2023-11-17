@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
 -   📖 Read chapter 1 - 98 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:42, 17 November 2023)
 -   📖 Read chapter 1 - 27 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (13:38, 16 November 2023)
 -   📖 Read chapter 1 - 178 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:46, 16 November 2023)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
 -   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
 -   📖 Read chapter 1 - 160 of [One Piece](https://anilist.co/manga/30013) (14:24, 15 October 2023)
--   📖 Read chapter 1 - 159 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (15:46, 14 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
