@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 32 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (07:27, 18 November 2023)
 -   📖 Read chapter 1 - 56 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:25, 17 November 2023)
--   📖 Read chapter 1 - 29 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (13:07, 17 November 2023)
 -   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
 -   📖 Read chapter 1 - 98 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:42, 17 November 2023)
 -   📖 Read chapter 1 - 178 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:46, 16 November 2023)
