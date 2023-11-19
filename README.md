@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 66 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (16:01, 19 November 2023)
 -   📖 Completed [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:14, 18 November 2023)
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
 -   📖 Read chapter 1 - 56 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:25, 17 November 2023)
@@ -24,7 +25,6 @@
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
 -   📖 Read chapter 1 - 80 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:30, 09 November 2023)
 -   📖 Read chapter 1 - 158 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 09 November 2023)
--   📖 Read chapter 1 - 65 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:28, 08 November 2023)
 -   📖 Read chapter 21 - 25 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (05:49, 08 November 2023)
 -   📖 Read chapter 1 - 25 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 06 November 2023)
 -   📺 Plans to watch [Fire Force](https://anilist.co/anime/105310) (17:13, 05 November 2023)
