@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 4 of [Berserk](https://anilist.co/manga/30002) (16:36, 21 November 2023)
+-   📖 Read chapter 1 - 178 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (16:13, 21 November 2023)
 -   📖 Read chapter 1 - 66 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (16:01, 19 November 2023)
 -   📖 Completed [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:14, 18 November 2023)
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
@@ -19,7 +21,6 @@
 -   📖 Read chapter 1 - 57 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:18, 11 November 2023)
 -   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (12:53, 10 November 2023)
 -   📖 Read chapter 1 - 110 of [To Not Die](https://anilist.co/manga/136099) (11:58, 10 November 2023)
--   📖 Read chapter 2 - 3 of [Berserk](https://anilist.co/manga/30002) (06:35, 10 November 2023)
 -   📖 Read chapter 1 - 158 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:27, 10 November 2023)
 -   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
@@ -37,7 +38,6 @@
 -   📖 Read chapter 1 - 97 of [Toradora!](https://anilist.co/manga/34368) (17:16, 29 October 2023)
 -   📖 Read chapter 13 - 95 of [True Beauty](https://anilist.co/manga/103995) (08:23, 29 October 2023)
 -   📖 Read chapter 1 - 160 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:09, 29 October 2023)
--   📖 Read chapter 1 - 177 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (18:03, 27 October 2023)
 -   📖 Completed [My Ultramarine Sky](https://anilist.co/manga/87432) (16:54, 27 October 2023)
 -   📖 Read chapter 2 of [My Ultramarine Sky](https://anilist.co/manga/87432) (08:26, 27 October 2023)
 -   📖 Plans to read [My Ultramarine Sky](https://anilist.co/manga/87432) (08:08, 27 October 2023)
