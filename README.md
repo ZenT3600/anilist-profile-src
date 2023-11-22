@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 179 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:48, 22 November 2023)
 -   📖 Read chapter 1 - 179 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:11, 22 November 2023)
 -   📖 Read chapter 2 - 4 of [Berserk](https://anilist.co/manga/30002) (16:36, 21 November 2023)
 -   📖 Read chapter 1 - 66 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (16:01, 19 November 2023)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 56 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (16:25, 17 November 2023)
 -   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
 -   📖 Read chapter 1 - 98 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:42, 17 November 2023)
--   📖 Read chapter 1 - 178 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:46, 16 November 2023)
 -   📖 Read chapter 1 - 180 of [Nano Machine](https://anilist.co/manga/120980) (05:25, 16 November 2023)
 -   📖 Read chapter 1 - 108 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:12, 16 November 2023)
 -   📖 Read chapter 1 - 38 of [Zhizhu Si](https://anilist.co/manga/161716) (14:48, 15 November 2023)
