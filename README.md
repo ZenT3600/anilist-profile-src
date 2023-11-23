@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 6 of [Berserk](https://anilist.co/manga/30002) (17:10, 23 November 2023)
+-   📖 Read chapter 2 - 7 of [Berserk](https://anilist.co/manga/30002) (17:34, 23 November 2023)
 -   📖 Read chapter 1 - 111 of [To Not Die](https://anilist.co/manga/136099) (12:37, 23 November 2023)
 -   📖 Read chapter 1 - 181 of [Nano Machine](https://anilist.co/manga/120980) (07:00, 23 November 2023)
 -   📖 Read chapter 1 - 179 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:48, 22 November 2023)
