@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 7 of [Berserk](https://anilist.co/manga/30002) (17:34, 23 November 2023)
+-   📖 Read chapter 2 - 8 of [Berserk](https://anilist.co/manga/30002) (06:59, 24 November 2023)
+-   📖 Read chapter 1 - 226 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:41, 24 November 2023)
 -   📖 Read chapter 1 - 111 of [To Not Die](https://anilist.co/manga/136099) (12:37, 23 November 2023)
 -   📖 Read chapter 1 - 181 of [Nano Machine](https://anilist.co/manga/120980) (07:00, 23 November 2023)
 -   📖 Read chapter 1 - 179 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:48, 22 November 2023)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 121 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:40, 13 November 2023)
 -   📖 Read chapter 56 - 90 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:01, 12 November 2023)
 -   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
--   📖 Read chapter 1 - 223 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:21, 11 November 2023)
 -   📖 Read chapter 1 - 57 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:18, 11 November 2023)
 -   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (12:53, 10 November 2023)
 -   📖 Read chapter 1 - 158 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:27, 10 November 2023)
