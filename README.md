@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 13 of [Berserk](https://anilist.co/manga/30002) (06:42, 26 November 2023)
+-   📖 Read chapter 2 - 91 of [Berserk](https://anilist.co/manga/30002) (08:47, 26 November 2023)
 -   📖 Read chapter 1 - 181 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:28, 26 November 2023)
 -   📖 Read chapter 1 - 227 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:47, 25 November 2023)
 -   📖 Read chapter 1 - 111 of [To Not Die](https://anilist.co/manga/136099) (12:37, 23 November 2023)
