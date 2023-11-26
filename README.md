@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 181 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:28, 26 November 2023)
 -   📖 Read chapter 2 - 12 of [Berserk](https://anilist.co/manga/30002) (06:18, 25 November 2023)
 -   📖 Read chapter 1 - 227 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:47, 25 November 2023)
--   📖 Read chapter 1 - 180 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (08:07, 24 November 2023)
 -   📖 Read chapter 1 - 111 of [To Not Die](https://anilist.co/manga/136099) (12:37, 23 November 2023)
 -   📖 Read chapter 1 - 181 of [Nano Machine](https://anilist.co/manga/120980) (07:00, 23 November 2023)
 -   📖 Read chapter 1 - 179 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:48, 22 November 2023)
