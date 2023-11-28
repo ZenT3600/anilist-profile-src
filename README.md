@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 183 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (21:01, 28 November 2023)
 -   📖 Read chapter 1 - 14 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (12:18, 28 November 2023)
 -   📖 Read chapter 1 - 122 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:37, 28 November 2023)
--   📖 Read chapter 1 - 182 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:35, 28 November 2023)
 -   📖 Read chapter 1 - 38 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:43, 27 November 2023)
 -   📖 Read chapter 1 - 57 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:26, 27 November 2023)
 -   📖 Read chapter 1 - 58 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:24, 27 November 2023)
