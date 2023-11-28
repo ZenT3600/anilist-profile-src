@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 14 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (12:18, 28 November 2023)
 -   📖 Read chapter 1 - 122 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:37, 28 November 2023)
 -   📖 Read chapter 1 - 182 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:35, 28 November 2023)
 -   📖 Read chapter 1 - 38 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:43, 27 November 2023)
@@ -34,7 +35,6 @@
 -   📺 Watched episode 1 - 9 of [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:30, 05 November 2023)
 -   📺 Plans to watch [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (21:25, 03 November 2023)
 -   📖 Read chapter 5 - 35 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (16:46, 02 November 2023)
--   📖 Read chapter 1 - 13 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:03, 31 October 2023)
 -   📖 Read chapter 9 - 90 of [The Way of the Househusband](https://anilist.co/manga/101233) (17:58, 30 October 2023)
 -   📖 Read chapter 1 - 97 of [Toradora!](https://anilist.co/manga/34368) (17:16, 29 October 2023)
 -   📖 Read chapter 13 - 95 of [True Beauty](https://anilist.co/manga/103995) (08:23, 29 October 2023)
