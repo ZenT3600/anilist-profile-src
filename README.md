@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 159 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:10, 30 November 2023)
 -   📖 Read chapter 1 - 182 of [Nano Machine](https://anilist.co/manga/120980) (17:36, 29 November 2023)
 -   📖 Read chapter 2 - 121 of [Berserk](https://anilist.co/manga/30002) (08:05, 29 November 2023)
 -   📖 Read chapter 1 - 183 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (21:01, 28 November 2023)
@@ -27,7 +28,6 @@
 -   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
 -   📖 Read chapter 1 - 80 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:30, 09 November 2023)
--   📖 Read chapter 1 - 158 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 09 November 2023)
 -   📖 Read chapter 21 - 25 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (05:49, 08 November 2023)
 -   📖 Read chapter 1 - 25 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 06 November 2023)
 -   📺 Plans to watch [Fire Force](https://anilist.co/anime/105310) (17:13, 05 November 2023)
