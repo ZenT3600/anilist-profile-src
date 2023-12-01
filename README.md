@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 154 of [Berserk](https://anilist.co/manga/30002) (07:29, 01 December 2023)
+-   📖 Read chapter 2 - 176 of [Berserk](https://anilist.co/manga/30002) (09:45, 01 December 2023)
 -   📖 Read chapter 1 - 180 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:55, 30 November 2023)
 -   📖 Read chapter 1 - 159 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:10, 30 November 2023)
 -   📖 Read chapter 1 - 182 of [Nano Machine](https://anilist.co/manga/120980) (17:36, 29 November 2023)
