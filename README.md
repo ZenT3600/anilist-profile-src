@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 228 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:48, 01 December 2023)
 -   📖 Read chapter 2 - 176 of [Berserk](https://anilist.co/manga/30002) (09:45, 01 December 2023)
 -   📖 Read chapter 1 - 180 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:55, 30 November 2023)
 -   📖 Read chapter 1 - 159 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:10, 30 November 2023)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 58 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:24, 27 November 2023)
 -   📖 Read chapter 1 - 164 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:52, 26 November 2023)
 -   📖 Read chapter 1 - 67 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (16:41, 26 November 2023)
--   📖 Read chapter 1 - 227 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:47, 25 November 2023)
 -   📖 Read chapter 1 - 111 of [To Not Die](https://anilist.co/manga/136099) (12:37, 23 November 2023)
 -   📖 Completed [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:14, 18 November 2023)
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
