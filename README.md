@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 159 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (19:39, 04 December 2023)
 -   📖 Read chapter 2 - 196 of [Berserk](https://anilist.co/manga/30002) (09:19, 04 December 2023)
 -   📖 Read chapter 1 - 165 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:03, 04 December 2023)
 -   📖 Read chapter 1 - 68 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (06:55, 04 December 2023)
@@ -25,7 +26,6 @@
 -   📖 Read chapter 56 - 90 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:01, 12 November 2023)
 -   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
 -   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (12:53, 10 November 2023)
--   📖 Read chapter 1 - 158 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:27, 10 November 2023)
 -   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
 -   📖 Read chapter 1 - 80 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:30, 09 November 2023)
