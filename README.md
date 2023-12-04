@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 165 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:03, 04 December 2023)
+-   📖 Read chapter 1 - 68 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (06:55, 04 December 2023)
 -   📖 Read chapter 1 - 229 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:45, 03 December 2023)
 -   📖 Read chapter 1 - 112 of [To Not Die](https://anilist.co/manga/136099) (17:44, 02 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
@@ -13,8 +15,6 @@
 -   📖 Read chapter 1 - 38 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:43, 27 November 2023)
 -   📖 Read chapter 1 - 57 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:26, 27 November 2023)
 -   📖 Read chapter 1 - 58 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:24, 27 November 2023)
--   📖 Read chapter 1 - 164 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:52, 26 November 2023)
--   📖 Read chapter 1 - 67 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (16:41, 26 November 2023)
 -   📖 Completed [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:14, 18 November 2023)
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
 -   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
