@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 206 of [Berserk](https://anilist.co/manga/30002) (09:32, 05 December 2023)
 -   📖 Read chapter 1 - 159 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (19:39, 04 December 2023)
--   📖 Read chapter 2 - 196 of [Berserk](https://anilist.co/manga/30002) (09:19, 04 December 2023)
 -   📖 Read chapter 1 - 165 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:03, 04 December 2023)
 -   📖 Read chapter 1 - 68 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (06:55, 04 December 2023)
 -   📖 Read chapter 1 - 229 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:45, 03 December 2023)
