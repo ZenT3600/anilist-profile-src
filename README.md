@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:05, 06 December 2023)
 -   📖 Read chapter 1 - 113 of [To Not Die](https://anilist.co/manga/136099) (15:47, 06 December 2023)
 -   📖 Read chapter 2 - 206 of [Berserk](https://anilist.co/manga/30002) (09:32, 05 December 2023)
 -   📖 Read chapter 1 - 159 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (19:39, 04 December 2023)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 229 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:45, 03 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
 -   📖 Read chapter 1 - 180 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:55, 30 November 2023)
--   📖 Read chapter 1 - 159 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:10, 30 November 2023)
 -   📖 Read chapter 1 - 182 of [Nano Machine](https://anilist.co/manga/120980) (17:36, 29 November 2023)
 -   📖 Read chapter 1 - 183 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (21:01, 28 November 2023)
 -   📖 Read chapter 1 - 14 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (12:18, 28 November 2023)
