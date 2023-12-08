@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 226 of [Berserk](https://anilist.co/manga/30002) (06:31, 08 December 2023)
 -   📖 Read chapter 1 - 160 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:05, 06 December 2023)
 -   📖 Read chapter 1 - 113 of [To Not Die](https://anilist.co/manga/136099) (15:47, 06 December 2023)
--   📖 Read chapter 2 - 206 of [Berserk](https://anilist.co/manga/30002) (09:32, 05 December 2023)
 -   📖 Read chapter 1 - 159 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (19:39, 04 December 2023)
 -   📖 Read chapter 1 - 165 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:03, 04 December 2023)
 -   📖 Read chapter 1 - 68 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (06:55, 04 December 2023)
