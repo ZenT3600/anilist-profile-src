@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 59 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:09, 09 December 2023)
 -   📖 Read chapter 2 - 226 of [Berserk](https://anilist.co/manga/30002) (06:31, 08 December 2023)
 -   📖 Read chapter 1 - 160 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:05, 06 December 2023)
 -   📖 Read chapter 1 - 113 of [To Not Die](https://anilist.co/manga/136099) (15:47, 06 December 2023)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 122 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:37, 28 November 2023)
 -   📖 Read chapter 1 - 38 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:43, 27 November 2023)
 -   📖 Read chapter 1 - 57 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (08:26, 27 November 2023)
--   📖 Read chapter 1 - 58 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:24, 27 November 2023)
 -   📖 Completed [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:14, 18 November 2023)
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
 -   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
