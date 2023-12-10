@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 - 26 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:33, 10 December 2023)
 -   📖 Read chapter 1 - 230 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (19:27, 09 December 2023)
 -   📖 Read chapter 1 - 59 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:09, 09 December 2023)
 -   📖 Read chapter 2 - 226 of [Berserk](https://anilist.co/manga/30002) (06:31, 08 December 2023)
@@ -29,7 +30,6 @@
 -   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
 -   📖 Read chapter 1 - 80 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:30, 09 November 2023)
--   📖 Read chapter 21 - 25 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (05:49, 08 November 2023)
 -   📖 Read chapter 1 - 25 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 06 November 2023)
 -   📺 Plans to watch [Fire Force](https://anilist.co/anime/105310) (17:13, 05 November 2023)
 -   📺 Completed [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:53, 05 November 2023)
