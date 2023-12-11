@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 4 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (11:31, 11 December 2023)
+-   📖 Read chapter 2 - 11 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (11:47, 11 December 2023)
 -   📖 Read chapter 56 - 91 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:06, 11 December 2023)
 -   📖 Read chapter 1 - 123 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:58, 11 December 2023)
 -   📖 Read chapter 1 - 69 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (05:13, 11 December 2023)
