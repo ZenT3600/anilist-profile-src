@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
 -   📖 Read chapter 2 - 11 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (11:47, 11 December 2023)
 -   📖 Read chapter 56 - 91 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:06, 11 December 2023)
 -   📖 Read chapter 1 - 123 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:58, 11 December 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 37 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:39, 22 October 2023)
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
--   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
