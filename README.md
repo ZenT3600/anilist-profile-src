@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 4 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (11:31, 11 December 2023)
 -   📖 Read chapter 56 - 91 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:06, 11 December 2023)
 -   📖 Read chapter 1 - 123 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:58, 11 December 2023)
 -   📖 Read chapter 1 - 69 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (05:13, 11 December 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 35 of [Citrus+](https://anilist.co/manga/103884) (04:11, 22 October 2023)
 -   📖 Completed [Yagiza no Yuujin](https://anilist.co/manga/86833) (05:54, 21 October 2023)
 -   📖 Plans to read [Yagiza no Yuujin](https://anilist.co/manga/86833) (08:06, 19 October 2023)
--   📖 Read chapter 1 - 122 of [Chainsaw Man](https://anilist.co/manga/105778) (04:35, 18 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
