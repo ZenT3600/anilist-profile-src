@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 246 of [Berserk](https://anilist.co/manga/30002) (08:46, 13 December 2023)
 -   📖 Read chapter 1 - 114 of [To Not Die](https://anilist.co/manga/136099) (06:47, 13 December 2023)
--   📖 Read chapter 2 - 236 of [Berserk](https://anilist.co/manga/30002) (11:05, 12 December 2023)
 -   📖 Read chapter 1 - 166 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:59, 12 December 2023)
 -   📖 Read chapter 2 - 13 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (06:50, 12 December 2023)
 -   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
