@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 246 of [Berserk](https://anilist.co/manga/30002) (08:46, 13 December 2023)
+-   📖 Read chapter 2 - 256 of [Berserk](https://anilist.co/manga/30002) (17:25, 13 December 2023)
+-   📖 Read chapter 1 - 231 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:18, 13 December 2023)
 -   📖 Read chapter 1 - 114 of [To Not Die](https://anilist.co/manga/136099) (06:47, 13 December 2023)
 -   📖 Read chapter 1 - 166 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:59, 12 December 2023)
 -   📖 Read chapter 2 - 13 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (06:50, 12 December 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 69 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (05:13, 11 December 2023)
 -   📖 Read chapter 1 - 160 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (09:07, 10 December 2023)
 -   📖 Read chapter 21 - 26 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:33, 10 December 2023)
--   📖 Read chapter 1 - 230 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (19:27, 09 December 2023)
 -   📖 Read chapter 1 - 59 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:09, 09 December 2023)
 -   📖 Read chapter 1 - 160 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:05, 06 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
