@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 182 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:21, 14 December 2023)
 -   📖 Read chapter 1 - 162 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:08, 14 December 2023)
 -   📖 Read chapter 1 - 109 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:07, 14 December 2023)
 -   📖 Read chapter 1 - 184 of [Nano Machine](https://anilist.co/manga/120980) (07:00, 14 December 2023)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 21 - 26 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:33, 10 December 2023)
 -   📖 Read chapter 1 - 59 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:09, 09 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
--   📖 Read chapter 1 - 180 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:55, 30 November 2023)
 -   📖 Read chapter 1 - 183 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (21:01, 28 November 2023)
 -   📖 Read chapter 1 - 14 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (12:18, 28 November 2023)
 -   📖 Read chapter 1 - 38 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:43, 27 November 2023)
