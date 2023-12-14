@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 162 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:08, 14 December 2023)
+-   📖 Read chapter 1 - 109 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:07, 14 December 2023)
 -   📖 Read chapter 1 - 184 of [Nano Machine](https://anilist.co/manga/120980) (07:00, 14 December 2023)
 -   📖 Read chapter 1 - 161 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:46, 14 December 2023)
 -   📖 Read chapter 2 - 256 of [Berserk](https://anilist.co/manga/30002) (17:25, 13 December 2023)
@@ -11,7 +13,6 @@
 -   📖 Read chapter 56 - 91 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:06, 11 December 2023)
 -   📖 Read chapter 1 - 123 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:58, 11 December 2023)
 -   📖 Read chapter 1 - 69 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (05:13, 11 December 2023)
--   📖 Read chapter 1 - 160 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (09:07, 10 December 2023)
 -   📖 Read chapter 21 - 26 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:33, 10 December 2023)
 -   📖 Read chapter 1 - 59 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:09, 09 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
@@ -24,7 +25,6 @@
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
 -   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
 -   📖 Read chapter 1 - 98 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:42, 17 November 2023)
--   📖 Read chapter 1 - 108 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (05:12, 16 November 2023)
 -   📖 Read chapter 1 - 38 of [Zhizhu Si](https://anilist.co/manga/161716) (14:48, 15 November 2023)
 -   📖 Read chapter 4 - 8 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (18:03, 13 November 2023)
 -   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
