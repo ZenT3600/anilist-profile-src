@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 - 27 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:26, 16 December 2023)
 -   📖 Read chapter 1 - 99 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:52, 15 December 2023)
 -   📖 Read chapter 1 - 182 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:21, 14 December 2023)
 -   📖 Read chapter 1 - 162 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:08, 14 December 2023)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 56 - 91 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:06, 11 December 2023)
 -   📖 Read chapter 1 - 123 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:58, 11 December 2023)
 -   📖 Read chapter 1 - 69 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (05:13, 11 December 2023)
--   📖 Read chapter 21 - 26 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:33, 10 December 2023)
 -   📖 Read chapter 1 - 59 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:09, 09 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
 -   📖 Read chapter 1 - 183 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (21:01, 28 November 2023)
