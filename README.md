@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 167 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:27, 17 December 2023)
 -   📖 Read chapter 2 - 266 of [Berserk](https://anilist.co/manga/30002) (07:14, 16 December 2023)
 -   📖 Read chapter 1 - 232 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:00, 16 December 2023)
 -   📖 Read chapter 21 - 27 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:26, 16 December 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 184 of [Nano Machine](https://anilist.co/manga/120980) (07:00, 14 December 2023)
 -   📖 Read chapter 1 - 161 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:46, 14 December 2023)
 -   📖 Read chapter 1 - 114 of [To Not Die](https://anilist.co/manga/136099) (06:47, 13 December 2023)
--   📖 Read chapter 1 - 166 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:59, 12 December 2023)
 -   📖 Read chapter 2 - 13 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (06:50, 12 December 2023)
 -   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
 -   📖 Read chapter 56 - 91 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:06, 11 December 2023)
