@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 276 of [Berserk](https://anilist.co/manga/30002) (07:18, 18 December 2023)
 -   📖 Read chapter 1 - 233 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 18 December 2023)
 -   📖 Read chapter 1 - 70 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (12:06, 17 December 2023)
 -   📖 Read chapter 1 - 167 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:27, 17 December 2023)
--   📖 Read chapter 2 - 266 of [Berserk](https://anilist.co/manga/30002) (07:14, 16 December 2023)
 -   📖 Read chapter 21 - 27 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:26, 16 December 2023)
 -   📖 Read chapter 1 - 99 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:52, 15 December 2023)
 -   📖 Read chapter 1 - 182 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:21, 14 December 2023)
