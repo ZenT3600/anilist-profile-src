@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 276 of [Berserk](https://anilist.co/manga/30002) (07:18, 18 December 2023)
+-   📖 Read chapter 2 - 293 of [Berserk](https://anilist.co/manga/30002) (10:18, 19 December 2023)
 -   📖 Read chapter 1 - 233 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 18 December 2023)
 -   📖 Read chapter 1 - 70 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (12:06, 17 December 2023)
 -   📖 Read chapter 1 - 167 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:27, 17 December 2023)
