@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 311 of [Berserk](https://anilist.co/manga/30002) (06:58, 21 December 2023)
 -   📖 Read chapter 1 - 185 of [Nano Machine](https://anilist.co/manga/120980) (05:49, 21 December 2023)
 -   📖 Read chapter 1 - 162 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:03, 20 December 2023)
 -   📺 Plans to watch [Pompo: The Cinéphile](https://anilist.co/anime/99900) (14:47, 20 December 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (14:41, 20 December 2023)
--   📖 Read chapter 2 - 307 of [Berserk](https://anilist.co/manga/30002) (08:04, 20 December 2023)
 -   📖 Read chapter 12 - 31 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:25, 19 December 2023)
 -   📖 Read chapter 1 - 233 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 18 December 2023)
 -   📖 Read chapter 1 - 70 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (12:06, 17 December 2023)
