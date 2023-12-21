@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 185 of [Nano Machine](https://anilist.co/manga/120980) (05:49, 21 December 2023)
 -   📖 Read chapter 1 - 162 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:03, 20 December 2023)
 -   📺 Plans to watch [Pompo: The Cinéphile](https://anilist.co/anime/99900) (14:47, 20 December 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (14:41, 20 December 2023)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 182 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:21, 14 December 2023)
 -   📖 Read chapter 1 - 162 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:08, 14 December 2023)
 -   📖 Read chapter 1 - 109 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (07:07, 14 December 2023)
--   📖 Read chapter 1 - 184 of [Nano Machine](https://anilist.co/manga/120980) (07:00, 14 December 2023)
 -   📖 Read chapter 1 - 114 of [To Not Die](https://anilist.co/manga/136099) (06:47, 13 December 2023)
 -   📖 Read chapter 2 - 13 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (06:50, 12 December 2023)
 -   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
