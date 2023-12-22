@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Song of Yoru & Asa](https://anilist.co/manga/86364) (10:04, 22 December 2023)
 -   📖 Read chapter 2 - 311 of [Berserk](https://anilist.co/manga/30002) (06:58, 21 December 2023)
 -   📖 Read chapter 1 - 185 of [Nano Machine](https://anilist.co/manga/120980) (05:49, 21 December 2023)
 -   📖 Read chapter 1 - 162 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:03, 20 December 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 486 of [Martial Peak](https://anilist.co/manga/104494) (05:17, 27 October 2023)
 -   📖 Read chapter 8 - 47 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:25, 25 October 2023)
 -   📖 Read chapter 1 - 22 of [The Coppersmith's Bride](https://anilist.co/manga/117675) (05:12, 25 October 2023)
--   📖 Read chapter 8 - 16 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (06:58, 23 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
