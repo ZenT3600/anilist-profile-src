@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 116 of [Solo Leveling](https://anilist.co/manga/105398) (18:27, 23 December 2023)
 -   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
 -   📖 Read chapter 21 - 28 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:29, 23 December 2023)
 -   📖 Plans to read [The Song of Yoru & Asa](https://anilist.co/manga/86364) (10:04, 22 December 2023)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 2 of [My Ultramarine Sky](https://anilist.co/manga/87432) (08:26, 27 October 2023)
 -   📖 Plans to read [My Ultramarine Sky](https://anilist.co/manga/87432) (08:08, 27 October 2023)
 -   📖 Read chapter 1 - 486 of [Martial Peak](https://anilist.co/manga/104494) (05:17, 27 October 2023)
--   📖 Read chapter 8 - 47 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (10:25, 25 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
