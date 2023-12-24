@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 60 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:04, 24 December 2023)
+-   📖 Read chapter 1 - 234 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:57, 24 December 2023)
+-   📖 Read chapter 1 - 168 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:52, 24 December 2023)
 -   📖 Read chapter 1 - 116 of [Solo Leveling](https://anilist.co/manga/105398) (18:27, 23 December 2023)
 -   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
 -   📖 Read chapter 21 - 28 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:29, 23 December 2023)
@@ -10,9 +13,7 @@
 -   📺 Plans to watch [Pompo: The Cinéphile](https://anilist.co/anime/99900) (14:47, 20 December 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (14:41, 20 December 2023)
 -   📖 Read chapter 12 - 31 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:25, 19 December 2023)
--   📖 Read chapter 1 - 233 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 18 December 2023)
 -   📖 Read chapter 1 - 70 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (12:06, 17 December 2023)
--   📖 Read chapter 1 - 167 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:27, 17 December 2023)
 -   📖 Read chapter 1 - 99 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:52, 15 December 2023)
 -   📖 Read chapter 1 - 182 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:21, 14 December 2023)
 -   📖 Read chapter 1 - 162 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:08, 14 December 2023)
@@ -22,7 +23,6 @@
 -   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
 -   📖 Read chapter 56 - 91 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:06, 11 December 2023)
 -   📖 Read chapter 1 - 123 of [Love’s in Sight!](https://anilist.co/manga/107445) (05:58, 11 December 2023)
--   📖 Read chapter 1 - 59 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:09, 09 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
 -   📖 Read chapter 1 - 183 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (21:01, 28 November 2023)
 -   📖 Read chapter 1 - 14 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (12:18, 28 November 2023)
