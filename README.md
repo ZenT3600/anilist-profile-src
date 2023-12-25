@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 318 of [Berserk](https://anilist.co/manga/30002) (08:26, 25 December 2023)
 -   📖 Read chapter 56 - 92 of [SPY x FAMILY](https://anilist.co/manga/108556) (07:28, 25 December 2023)
 -   📖 Read chapter 1 - 71 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (20:17, 24 December 2023)
 -   📖 Read chapter 1 - 124 of [Love’s in Sight!](https://anilist.co/manga/107445) (20:16, 24 December 2023)
@@ -10,7 +11,6 @@
 -   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
 -   📖 Read chapter 21 - 28 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:29, 23 December 2023)
 -   📖 Plans to read [The Song of Yoru & Asa](https://anilist.co/manga/86364) (10:04, 22 December 2023)
--   📖 Read chapter 2 - 311 of [Berserk](https://anilist.co/manga/30002) (06:58, 21 December 2023)
 -   📖 Read chapter 1 - 185 of [Nano Machine](https://anilist.co/manga/120980) (05:49, 21 December 2023)
 -   📖 Read chapter 1 - 162 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:03, 20 December 2023)
 -   📺 Plans to watch [Pompo: The Cinéphile](https://anilist.co/anime/99900) (14:47, 20 December 2023)
