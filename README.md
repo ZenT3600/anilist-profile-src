@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 92 of [SPY x FAMILY](https://anilist.co/manga/108556) (07:28, 25 December 2023)
 -   📖 Read chapter 1 - 71 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (20:17, 24 December 2023)
 -   📖 Read chapter 1 - 124 of [Love’s in Sight!](https://anilist.co/manga/107445) (20:16, 24 December 2023)
 -   📖 Read chapter 1 - 60 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:04, 24 December 2023)
@@ -22,7 +23,6 @@
 -   📖 Read chapter 1 - 114 of [To Not Die](https://anilist.co/manga/136099) (06:47, 13 December 2023)
 -   📖 Read chapter 2 - 13 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (06:50, 12 December 2023)
 -   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
--   📖 Read chapter 56 - 91 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:06, 11 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
 -   📖 Read chapter 1 - 183 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (21:01, 28 November 2023)
 -   📖 Read chapter 1 - 14 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (12:18, 28 November 2023)
