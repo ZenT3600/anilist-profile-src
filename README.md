@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 235 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:39, 25 December 2023)
 -   📖 Read chapter 2 - 318 of [Berserk](https://anilist.co/manga/30002) (08:26, 25 December 2023)
 -   📖 Read chapter 56 - 92 of [SPY x FAMILY](https://anilist.co/manga/108556) (07:28, 25 December 2023)
 -   📖 Read chapter 1 - 71 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (20:17, 24 December 2023)
 -   📖 Read chapter 1 - 124 of [Love’s in Sight!](https://anilist.co/manga/107445) (20:16, 24 December 2023)
 -   📖 Read chapter 1 - 60 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:04, 24 December 2023)
--   📖 Read chapter 1 - 234 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:57, 24 December 2023)
 -   📖 Read chapter 1 - 168 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:52, 24 December 2023)
 -   📖 Read chapter 1 - 116 of [Solo Leveling](https://anilist.co/manga/105398) (18:27, 23 December 2023)
 -   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
