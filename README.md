@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (20:45, 26 December 2023)
 -   📖 Read chapter 1 - 58 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:41, 26 December 2023)
 -   📖 Read chapter 1 - 27 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:39, 26 December 2023)
 -   📖 Read chapter 2 - 319 of [Berserk](https://anilist.co/manga/30002) (06:16, 26 December 2023)
@@ -49,6 +50,5 @@
 -   📖 Completed [My Ultramarine Sky](https://anilist.co/manga/87432) (16:54, 27 October 2023)
 -   📖 Read chapter 2 of [My Ultramarine Sky](https://anilist.co/manga/87432) (08:26, 27 October 2023)
 -   📖 Plans to read [My Ultramarine Sky](https://anilist.co/manga/87432) (08:08, 27 October 2023)
--   📖 Read chapter 1 - 486 of [Martial Peak](https://anilist.co/manga/104494) (05:17, 27 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
