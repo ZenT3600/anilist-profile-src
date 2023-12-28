@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of [Harem Marriage](https://anilist.co/manga/86283) (19:52, 28 December 2023)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Read chapter 1 - 183 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:10, 28 December 2023)
 -   📖 Read chapter 1 - 110 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:08, 28 December 2023)
 -   📖 Read chapter 1 - 186 of [Nano Machine](https://anilist.co/manga/120980) (08:03, 28 December 2023)
--   📖 Read chapter 1 - 18 of [Harem Marriage](https://anilist.co/manga/86283) (09:43, 27 December 2023)
 -   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (20:45, 26 December 2023)
 -   📖 Read chapter 1 - 58 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:41, 26 December 2023)
 -   📖 Read chapter 1 - 27 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:39, 26 December 2023)
