@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Harem Marriage](https://anilist.co/manga/86283) (19:52, 28 December 2023)
+-   📖 Read chapter 1 - 25 of [Harem Marriage](https://anilist.co/manga/86283) (08:53, 29 December 2023)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Read chapter 1 - 183 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:10, 28 December 2023)
 -   📖 Read chapter 1 - 110 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:08, 28 December 2023)
