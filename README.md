@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 236 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:16, 29 December 2023)
 -   📖 Read chapter 1 - 25 of [Harem Marriage](https://anilist.co/manga/86283) (08:53, 29 December 2023)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Read chapter 1 - 183 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:10, 28 December 2023)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 27 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:39, 26 December 2023)
 -   📖 Read chapter 2 - 319 of [Berserk](https://anilist.co/manga/30002) (06:16, 26 December 2023)
 -   📖 Read chapter 1 - 15 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:42, 25 December 2023)
--   📖 Read chapter 1 - 235 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (10:39, 25 December 2023)
 -   📖 Read chapter 56 - 92 of [SPY x FAMILY](https://anilist.co/manga/108556) (07:28, 25 December 2023)
 -   📖 Read chapter 1 - 71 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (20:17, 24 December 2023)
 -   📖 Read chapter 1 - 124 of [Love’s in Sight!](https://anilist.co/manga/107445) (20:16, 24 December 2023)
