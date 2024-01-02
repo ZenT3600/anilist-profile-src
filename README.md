@@ -1,8 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 237 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:48, 02 January 2024)
+-   📖 Read chapter 1 - 115 of [To Not Die](https://anilist.co/manga/136099) (08:45, 02 January 2024)
+-   📖 Read chapter 1 - 169 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:42, 02 January 2024)
 -   📖 Read chapter 1 - 31 of [Harem Marriage](https://anilist.co/manga/86283) (08:47, 30 December 2023)
 -   📖 Read chapter 1 - 163 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:36, 30 December 2023)
--   📖 Read chapter 1 - 236 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:16, 29 December 2023)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Read chapter 1 - 183 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:10, 28 December 2023)
 -   📖 Read chapter 1 - 110 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:08, 28 December 2023)
@@ -16,7 +18,6 @@
 -   📖 Read chapter 1 - 71 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (20:17, 24 December 2023)
 -   📖 Read chapter 1 - 124 of [Love’s in Sight!](https://anilist.co/manga/107445) (20:16, 24 December 2023)
 -   📖 Read chapter 1 - 60 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:04, 24 December 2023)
--   📖 Read chapter 1 - 168 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:52, 24 December 2023)
 -   📖 Read chapter 1 - 116 of [Solo Leveling](https://anilist.co/manga/105398) (18:27, 23 December 2023)
 -   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
 -   📖 Read chapter 21 - 28 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:29, 23 December 2023)
@@ -26,7 +27,6 @@
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (14:41, 20 December 2023)
 -   📖 Read chapter 12 - 31 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:25, 19 December 2023)
 -   📖 Read chapter 1 - 99 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:52, 15 December 2023)
--   📖 Read chapter 1 - 114 of [To Not Die](https://anilist.co/manga/136099) (06:47, 13 December 2023)
 -   📖 Read chapter 2 - 13 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (06:50, 12 December 2023)
 -   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
