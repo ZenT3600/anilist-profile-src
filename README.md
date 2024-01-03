@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
 -   📖 Read chapter 1 - 237 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:48, 02 January 2024)
 -   📖 Read chapter 1 - 115 of [To Not Die](https://anilist.co/manga/136099) (08:45, 02 January 2024)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (21:25, 03 November 2023)
 -   📖 Read chapter 5 - 35 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (16:46, 02 November 2023)
 -   📖 Read chapter 9 - 90 of [The Way of the Househusband](https://anilist.co/manga/101233) (17:58, 30 October 2023)
--   📖 Read chapter 1 - 97 of [Toradora!](https://anilist.co/manga/34368) (17:16, 29 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
