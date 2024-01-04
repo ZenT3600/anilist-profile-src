@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 187 of [Nano Machine](https://anilist.co/manga/120980) (08:20, 04 January 2024)
+-   📖 Read chapter 1 - 163 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:16, 04 January 2024)
 -   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
 -   📖 Read chapter 1 - 237 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:48, 02 January 2024)
@@ -10,7 +12,6 @@
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Read chapter 1 - 183 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:10, 28 December 2023)
 -   📖 Read chapter 1 - 110 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:08, 28 December 2023)
--   📖 Read chapter 1 - 186 of [Nano Machine](https://anilist.co/manga/120980) (08:03, 28 December 2023)
 -   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (20:45, 26 December 2023)
 -   📖 Read chapter 1 - 58 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:41, 26 December 2023)
 -   📖 Read chapter 1 - 27 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:39, 26 December 2023)
@@ -24,7 +25,6 @@
 -   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
 -   📖 Read chapter 21 - 28 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:29, 23 December 2023)
 -   📖 Plans to read [The Song of Yoru & Asa](https://anilist.co/manga/86364) (10:04, 22 December 2023)
--   📖 Read chapter 1 - 162 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:03, 20 December 2023)
 -   📺 Plans to watch [Pompo: The Cinéphile](https://anilist.co/anime/99900) (14:47, 20 December 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (14:41, 20 December 2023)
 -   📖 Read chapter 12 - 31 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:25, 19 December 2023)
