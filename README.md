@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 141 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (20:24, 04 January 2024)
 -   📖 Read chapter 1 - 187 of [Nano Machine](https://anilist.co/manga/120980) (08:20, 04 January 2024)
 -   📖 Read chapter 1 - 163 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:16, 04 January 2024)
 -   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
@@ -49,6 +50,5 @@
 -   📺 Watched episode 1 - 9 of [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:30, 05 November 2023)
 -   📺 Plans to watch [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (21:25, 03 November 2023)
 -   📖 Read chapter 5 - 35 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (16:46, 02 November 2023)
--   📖 Read chapter 9 - 90 of [The Way of the Househusband](https://anilist.co/manga/101233) (17:58, 30 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
