@@ -1,11 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 - 46 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (08:24, 05 January 2024)
+-   📖 Read chapter 1 - 238 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:15, 05 January 2024)
 -   📖 Read chapter 1 - 141 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (20:24, 04 January 2024)
 -   📖 Read chapter 1 - 187 of [Nano Machine](https://anilist.co/manga/120980) (08:20, 04 January 2024)
 -   📖 Read chapter 1 - 163 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:16, 04 January 2024)
 -   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
--   📖 Read chapter 1 - 237 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:48, 02 January 2024)
 -   📖 Read chapter 1 - 115 of [To Not Die](https://anilist.co/manga/136099) (08:45, 02 January 2024)
 -   📖 Read chapter 1 - 169 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:42, 02 January 2024)
 -   📖 Read chapter 1 - 31 of [Harem Marriage](https://anilist.co/manga/86283) (08:47, 30 December 2023)
@@ -49,6 +50,5 @@
 -   📺 Completed [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:53, 05 November 2023)
 -   📺 Watched episode 1 - 9 of [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:30, 05 November 2023)
 -   📺 Plans to watch [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (21:25, 03 November 2023)
--   📖 Read chapter 5 - 35 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (16:46, 02 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
