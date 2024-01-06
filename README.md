@@ -1,7 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 43 of [Harem Marriage](https://anilist.co/manga/86283) (08:08, 06 January 2024)
+-   📖 Read chapter 1 - 117 of [To Not Die](https://anilist.co/manga/136099) (07:45, 06 January 2024)
 -   📖 Read chapter 1 - 61 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:41, 06 January 2024)
--   📖 Read chapter 1 - 116 of [To Not Die](https://anilist.co/manga/136099) (18:49, 05 January 2024)
 -   📖 Read chapter 28 - 46 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (08:24, 05 January 2024)
 -   📖 Read chapter 1 - 238 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:15, 05 January 2024)
 -   📖 Read chapter 1 - 141 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (20:24, 04 January 2024)
@@ -10,7 +11,6 @@
 -   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
 -   📖 Read chapter 1 - 169 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:42, 02 January 2024)
--   📖 Read chapter 1 - 31 of [Harem Marriage](https://anilist.co/manga/86283) (08:47, 30 December 2023)
 -   📖 Read chapter 1 - 163 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:36, 30 December 2023)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Read chapter 1 - 183 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:10, 28 December 2023)
