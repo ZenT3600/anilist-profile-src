@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 61 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:41, 06 January 2024)
 -   📖 Read chapter 1 - 116 of [To Not Die](https://anilist.co/manga/136099) (18:49, 05 January 2024)
 -   📖 Read chapter 28 - 46 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (08:24, 05 January 2024)
 -   📖 Read chapter 1 - 238 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:15, 05 January 2024)
@@ -22,7 +23,6 @@
 -   📖 Read chapter 56 - 92 of [SPY x FAMILY](https://anilist.co/manga/108556) (07:28, 25 December 2023)
 -   📖 Read chapter 1 - 71 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (20:17, 24 December 2023)
 -   📖 Read chapter 1 - 124 of [Love’s in Sight!](https://anilist.co/manga/107445) (20:16, 24 December 2023)
--   📖 Read chapter 1 - 60 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (07:04, 24 December 2023)
 -   📖 Read chapter 1 - 116 of [Solo Leveling](https://anilist.co/manga/105398) (18:27, 23 December 2023)
 -   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
 -   📖 Read chapter 21 - 28 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:29, 23 December 2023)
