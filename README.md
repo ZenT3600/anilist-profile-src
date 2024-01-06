@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 43 of [Harem Marriage](https://anilist.co/manga/86283) (08:08, 06 January 2024)
+-   📖 Read chapter 1 - 44 of [Harem Marriage](https://anilist.co/manga/86283) (08:09, 06 January 2024)
 -   📖 Read chapter 1 - 117 of [To Not Die](https://anilist.co/manga/136099) (07:45, 06 January 2024)
 -   📖 Read chapter 1 - 61 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:41, 06 January 2024)
 -   📖 Read chapter 28 - 46 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (08:24, 05 January 2024)
