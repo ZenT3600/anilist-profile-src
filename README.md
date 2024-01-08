@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 164 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:47, 08 January 2024)
 -   📖 Read chapter 1 - 239 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:48, 07 January 2024)
 -   📖 Read chapter 1 - 170 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:41, 07 January 2024)
 -   📖 Completed [Star Protector Dog](https://anilist.co/manga/55245) (10:16, 06 January 2024)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 163 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:16, 04 January 2024)
 -   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
--   📖 Read chapter 1 - 163 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:36, 30 December 2023)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Read chapter 1 - 183 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:10, 28 December 2023)
 -   📖 Read chapter 1 - 110 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:08, 28 December 2023)
