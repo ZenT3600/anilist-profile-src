@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
 -   📖 Read chapter 1 - 164 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:47, 08 January 2024)
 -   📖 Read chapter 1 - 239 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:48, 07 January 2024)
@@ -27,7 +28,6 @@
 -   📖 Read chapter 1 - 124 of [Love’s in Sight!](https://anilist.co/manga/107445) (20:16, 24 December 2023)
 -   📖 Read chapter 1 - 116 of [Solo Leveling](https://anilist.co/manga/105398) (18:27, 23 December 2023)
 -   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
--   📖 Read chapter 21 - 28 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:29, 23 December 2023)
 -   📖 Plans to read [The Song of Yoru & Asa](https://anilist.co/manga/86364) (10:04, 22 December 2023)
 -   📺 Plans to watch [Pompo: The Cinéphile](https://anilist.co/anime/99900) (14:47, 20 December 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (14:41, 20 December 2023)
