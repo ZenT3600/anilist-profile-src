@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 93 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:31, 12 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
 -   📖 Read chapter 1 - 164 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:47, 08 January 2024)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 1 - 27 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:39, 26 December 2023)
 -   📖 Read chapter 2 - 319 of [Berserk](https://anilist.co/manga/30002) (06:16, 26 December 2023)
 -   📖 Read chapter 1 - 15 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:42, 25 December 2023)
--   📖 Read chapter 56 - 92 of [SPY x FAMILY](https://anilist.co/manga/108556) (07:28, 25 December 2023)
 -   📖 Read chapter 1 - 71 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (20:17, 24 December 2023)
 -   📖 Read chapter 1 - 124 of [Love’s in Sight!](https://anilist.co/manga/107445) (20:16, 24 December 2023)
 -   📖 Read chapter 1 - 116 of [Solo Leveling](https://anilist.co/manga/105398) (18:27, 23 December 2023)
