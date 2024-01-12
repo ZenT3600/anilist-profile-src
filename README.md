@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 184 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:42, 12 January 2024)
 -   📖 Read chapter 1 - 111 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 12 January 2024)
 -   📖 Read chapter 1 - 188 of [Nano Machine](https://anilist.co/manga/120980) (06:40, 12 January 2024)
 -   📖 Read chapter 1 - 118 of [To Not Die](https://anilist.co/manga/136099) (06:36, 12 January 2024)
@@ -18,7 +19,6 @@
 -   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
--   📖 Read chapter 1 - 183 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:10, 28 December 2023)
 -   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (20:45, 26 December 2023)
 -   📖 Read chapter 1 - 58 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:41, 26 December 2023)
 -   📖 Read chapter 1 - 27 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:39, 26 December 2023)
