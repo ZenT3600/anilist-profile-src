@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 142 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:13, 12 January 2024)
 -   📖 Read chapter 1 - 184 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:42, 12 January 2024)
 -   📖 Read chapter 1 - 111 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 12 January 2024)
 -   📖 Read chapter 1 - 188 of [Nano Machine](https://anilist.co/manga/120980) (06:40, 12 January 2024)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 44 of [Harem Marriage](https://anilist.co/manga/86283) (08:09, 06 January 2024)
 -   📖 Read chapter 1 - 61 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:41, 06 January 2024)
 -   📖 Read chapter 28 - 46 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (08:24, 05 January 2024)
--   📖 Read chapter 1 - 141 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (20:24, 04 January 2024)
 -   📖 Read chapter 1 - 163 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:16, 04 January 2024)
 -   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
