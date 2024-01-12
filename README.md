@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 38 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:53, 12 January 2024)
 -   📖 Read chapter 1 - 142 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:13, 12 January 2024)
 -   📖 Read chapter 1 - 184 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:42, 12 January 2024)
 -   📖 Read chapter 1 - 111 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 12 January 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
 -   📖 Read chapter 1 - 80 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:30, 09 November 2023)
 -   📺 Plans to watch [Fire Force](https://anilist.co/anime/105310) (17:13, 05 November 2023)
--   📺 Completed [Cyberpunk: Edgerunners](https://anilist.co/anime/120377) (15:53, 05 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
