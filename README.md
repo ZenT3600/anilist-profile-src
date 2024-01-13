@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 43 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (07:22, 13 January 2024)
 -   📖 Read chapter 1 - 184 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:02, 13 January 2024)
--   📖 Read chapter 1 - 38 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:53, 12 January 2024)
 -   📖 Read chapter 1 - 142 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:13, 12 January 2024)
 -   📖 Read chapter 1 - 184 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:42, 12 January 2024)
 -   📖 Read chapter 1 - 111 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 12 January 2024)
