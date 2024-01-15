@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 44 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:48, 15 January 2024)
+-   📖 Read chapter 1 - 186 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:43, 15 January 2024)
 -   📖 Read chapter 1 - 171 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:49, 15 January 2024)
--   📖 Read chapter 1 - 185 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:50, 15 January 2024)
 -   📖 Read chapter 1 - 241 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:48, 15 January 2024)
--   📖 Read chapter 1 - 43 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (07:22, 13 January 2024)
 -   📖 Read chapter 1 - 142 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:13, 12 January 2024)
 -   📖 Read chapter 1 - 184 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:42, 12 January 2024)
 -   📖 Read chapter 1 - 111 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 12 January 2024)
