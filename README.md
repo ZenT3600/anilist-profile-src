@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 119 of [To Not Die](https://anilist.co/manga/136099) (07:47, 16 January 2024)
 -   📖 Read chapter 1 - 44 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:48, 15 January 2024)
 -   📖 Read chapter 1 - 186 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:43, 15 January 2024)
 -   📖 Read chapter 1 - 171 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:49, 15 January 2024)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 184 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (11:42, 12 January 2024)
 -   📖 Read chapter 1 - 111 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 12 January 2024)
 -   📖 Read chapter 1 - 188 of [Nano Machine](https://anilist.co/manga/120980) (06:40, 12 January 2024)
--   📖 Read chapter 1 - 118 of [To Not Die](https://anilist.co/manga/136099) (06:36, 12 January 2024)
 -   📖 Read chapter 56 - 93 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:31, 12 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
