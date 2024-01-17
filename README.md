@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 - 47 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:07, 17 January 2024)
+-   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 -   📖 Read chapter 1 - 187 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:33, 17 January 2024)
 -   📖 Read chapter 1 - 119 of [To Not Die](https://anilist.co/manga/136099) (07:47, 16 January 2024)
 -   📖 Read chapter 1 - 44 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:48, 15 January 2024)
@@ -16,14 +18,12 @@
 -   📖 Completed [Star Protector Dog](https://anilist.co/manga/55245) (10:16, 06 January 2024)
 -   📖 Read chapter 1 - 44 of [Harem Marriage](https://anilist.co/manga/86283) (08:09, 06 January 2024)
 -   📖 Read chapter 1 - 61 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:41, 06 January 2024)
--   📖 Read chapter 28 - 46 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (08:24, 05 January 2024)
 -   📖 Read chapter 1 - 163 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:16, 04 January 2024)
 -   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (20:45, 26 December 2023)
 -   📖 Read chapter 1 - 58 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:41, 26 December 2023)
--   📖 Read chapter 1 - 27 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (17:39, 26 December 2023)
 -   📖 Read chapter 2 - 319 of [Berserk](https://anilist.co/manga/30002) (06:16, 26 December 2023)
 -   📖 Read chapter 1 - 15 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:42, 25 December 2023)
 -   📖 Read chapter 1 - 71 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (20:17, 24 December 2023)
