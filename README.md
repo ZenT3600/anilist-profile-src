@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 187 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:33, 17 January 2024)
 -   📖 Read chapter 1 - 119 of [To Not Die](https://anilist.co/manga/136099) (07:47, 16 January 2024)
 -   📖 Read chapter 1 - 44 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:48, 15 January 2024)
--   📖 Read chapter 1 - 186 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (13:43, 15 January 2024)
 -   📖 Read chapter 1 - 171 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:49, 15 January 2024)
 -   📖 Read chapter 1 - 241 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:48, 15 January 2024)
 -   📖 Read chapter 1 - 142 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (12:13, 12 January 2024)
