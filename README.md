@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 242 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:15, 20 January 2024)
 -   📖 Read chapter 1 - 100 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:03, 19 January 2024)
 -   📖 Read chapter 1 - 185 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:23, 19 January 2024)
 -   📖 Read chapter 1 - 143 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:20, 19 January 2024)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 119 of [To Not Die](https://anilist.co/manga/136099) (07:47, 16 January 2024)
 -   📖 Read chapter 1 - 44 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:48, 15 January 2024)
 -   📖 Read chapter 1 - 171 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:49, 15 January 2024)
--   📖 Read chapter 1 - 241 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:48, 15 January 2024)
 -   📖 Read chapter 1 - 111 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 12 January 2024)
 -   📖 Read chapter 56 - 93 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:31, 12 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
