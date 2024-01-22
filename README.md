@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 59 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:07, 22 January 2024)
 -   📖 Read chapter 1 - 172 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:31, 20 January 2024)
 -   📖 Read chapter 2 - 320 of [Berserk](https://anilist.co/manga/30002) (09:06, 20 January 2024)
 -   📖 Read chapter 1 - 242 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:15, 20 January 2024)
@@ -25,7 +26,6 @@
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (20:45, 26 December 2023)
--   📖 Read chapter 1 - 58 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (17:41, 26 December 2023)
 -   📖 Read chapter 1 - 15 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (19:42, 25 December 2023)
 -   📖 Read chapter 1 - 71 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (20:17, 24 December 2023)
 -   📖 Read chapter 1 - 124 of [Love’s in Sight!](https://anilist.co/manga/107445) (20:16, 24 December 2023)
