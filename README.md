@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 94 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:53, 22 January 2024)
+-   📖 Read chapter 1 - 165 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:48, 22 January 2024)
 -   📖 Read chapter 1 - 59 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:07, 22 January 2024)
 -   📖 Read chapter 1 - 172 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:31, 20 January 2024)
 -   📖 Read chapter 2 - 320 of [Berserk](https://anilist.co/manga/30002) (09:06, 20 January 2024)
@@ -15,10 +17,8 @@
 -   📖 Read chapter 1 - 119 of [To Not Die](https://anilist.co/manga/136099) (07:47, 16 January 2024)
 -   📖 Read chapter 1 - 44 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:48, 15 January 2024)
 -   📖 Read chapter 1 - 111 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 12 January 2024)
--   📖 Read chapter 56 - 93 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:31, 12 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
--   📖 Read chapter 1 - 164 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:47, 08 January 2024)
 -   📖 Completed [Star Protector Dog](https://anilist.co/manga/55245) (10:16, 06 January 2024)
 -   📖 Read chapter 1 - 44 of [Harem Marriage](https://anilist.co/manga/86283) (08:09, 06 January 2024)
 -   📖 Read chapter 1 - 61 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:41, 06 January 2024)
