@@ -1,11 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 243 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:02, 22 January 2024)
+-   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
 -   📖 Read chapter 56 - 94 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:53, 22 January 2024)
 -   📖 Read chapter 1 - 165 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:48, 22 January 2024)
 -   📖 Read chapter 1 - 59 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:07, 22 January 2024)
 -   📖 Read chapter 1 - 172 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:31, 20 January 2024)
 -   📖 Read chapter 2 - 320 of [Berserk](https://anilist.co/manga/30002) (09:06, 20 January 2024)
--   📖 Read chapter 1 - 242 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:15, 20 January 2024)
 -   📖 Read chapter 1 - 100 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:03, 19 January 2024)
 -   📖 Read chapter 1 - 185 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:23, 19 January 2024)
 -   📖 Read chapter 1 - 143 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:20, 19 January 2024)
@@ -49,6 +50,5 @@
 -   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
 -   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
 -   📖 Read chapter 1 - 80 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (14:30, 09 November 2023)
--   📺 Plans to watch [Fire Force](https://anilist.co/anime/105310) (17:13, 05 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
