@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (14:37, 22 January 2024)
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
 -   📖 Read chapter 1 - 243 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:02, 22 January 2024)
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
 -   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (12:53, 10 November 2023)
 -   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
--   📖 Read chapter 16 - 84 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:32, 09 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
