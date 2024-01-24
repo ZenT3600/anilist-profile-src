@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 190 of [Nano Machine](https://anilist.co/manga/120980) (18:24, 24 January 2024)
 -   📖 Read chapter 1 - 120 of [To Not Die](https://anilist.co/manga/136099) (06:41, 24 January 2024)
 -   📖 Read chapter 8 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (14:37, 22 January 2024)
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 185 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:23, 19 January 2024)
 -   📖 Read chapter 1 - 143 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:20, 19 January 2024)
 -   📖 Read chapter 1 - 164 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (07:17, 19 January 2024)
--   📖 Read chapter 1 - 189 of [Nano Machine](https://anilist.co/manga/120980) (07:16, 19 January 2024)
 -   📖 Read chapter 28 - 47 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:07, 17 January 2024)
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 -   📖 Read chapter 1 - 187 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:33, 17 January 2024)
