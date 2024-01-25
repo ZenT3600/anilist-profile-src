@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 186 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:35, 25 January 2024)
+-   📖 Read chapter 1 - 165 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:32, 25 January 2024)
+-   📖 Read chapter 1 - 112 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 25 January 2024)
 -   📖 Read chapter 1 - 190 of [Nano Machine](https://anilist.co/manga/120980) (18:24, 24 January 2024)
 -   📖 Read chapter 1 - 120 of [To Not Die](https://anilist.co/manga/136099) (06:41, 24 January 2024)
 -   📖 Read chapter 8 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (14:37, 22 January 2024)
@@ -12,14 +15,11 @@
 -   📖 Read chapter 1 - 172 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:31, 20 January 2024)
 -   📖 Read chapter 2 - 320 of [Berserk](https://anilist.co/manga/30002) (09:06, 20 January 2024)
 -   📖 Read chapter 1 - 100 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:03, 19 January 2024)
--   📖 Read chapter 1 - 185 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:23, 19 January 2024)
 -   📖 Read chapter 1 - 143 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:20, 19 January 2024)
--   📖 Read chapter 1 - 164 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (07:17, 19 January 2024)
 -   📖 Read chapter 28 - 47 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:07, 17 January 2024)
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 -   📖 Read chapter 1 - 187 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:33, 17 January 2024)
 -   📖 Read chapter 1 - 44 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:48, 15 January 2024)
--   📖 Read chapter 1 - 111 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:43, 12 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
 -   📖 Completed [Star Protector Dog](https://anilist.co/manga/55245) (10:16, 06 January 2024)
