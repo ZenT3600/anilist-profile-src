@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 124 of [Get Schooled](https://anilist.co/manga/128521) (08:16, 27 January 2024)
+-   📖 Read chapter 1 - 125 of [Get Schooled](https://anilist.co/manga/128521) (17:41, 27 January 2024)
 -   📖 Read chapter 1 - 186 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:35, 25 January 2024)
 -   📖 Read chapter 1 - 165 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:32, 25 January 2024)
 -   📖 Read chapter 1 - 112 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 25 January 2024)
