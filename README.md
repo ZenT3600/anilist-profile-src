@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 124 of [Get Schooled](https://anilist.co/manga/128521) (08:16, 27 January 2024)
 -   📖 Read chapter 1 - 186 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:35, 25 January 2024)
 -   📖 Read chapter 1 - 165 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:32, 25 January 2024)
 -   📖 Read chapter 1 - 112 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 25 January 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 4 - 8 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (18:03, 13 November 2023)
 -   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
 -   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (12:53, 10 November 2023)
--   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (14:35, 09 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
