@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 144 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:01, 29 January 2024)
+-   📖 Read chapter 1 - 39 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:56, 29 January 2024)
 -   📖 Read chapter 1 - 245 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:31, 28 January 2024)
 -   📖 Read chapter 1 - 173 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:22, 28 January 2024)
 -   📖 Read chapter 1 - 125 of [Get Schooled](https://anilist.co/manga/128521) (17:41, 27 January 2024)
@@ -16,7 +18,6 @@
 -   📖 Read chapter 1 - 59 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:07, 22 January 2024)
 -   📖 Read chapter 2 - 320 of [Berserk](https://anilist.co/manga/30002) (09:06, 20 January 2024)
 -   📖 Read chapter 1 - 100 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:03, 19 January 2024)
--   📖 Read chapter 1 - 143 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:20, 19 January 2024)
 -   📖 Read chapter 28 - 47 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:07, 17 January 2024)
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 -   📖 Read chapter 1 - 187 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:33, 17 January 2024)
@@ -42,7 +43,6 @@
 -   📖 Read chapter 2 - 13 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (06:50, 12 December 2023)
 -   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
--   📖 Read chapter 1 - 38 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:43, 27 November 2023)
 -   📖 Completed [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:14, 18 November 2023)
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
 -   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
