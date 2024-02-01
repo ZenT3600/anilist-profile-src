@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 187 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (18:00, 01 February 2024)
 -   📖 Read chapter 1 - 121 of [To Not Die](https://anilist.co/manga/136099) (12:50, 01 February 2024)
 -   📖 Read chapter 1 - 191 of [Nano Machine](https://anilist.co/manga/120980) (07:22, 01 February 2024)
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 245 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:31, 28 January 2024)
 -   📖 Read chapter 1 - 173 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:22, 28 January 2024)
 -   📖 Read chapter 1 - 125 of [Get Schooled](https://anilist.co/manga/128521) (17:41, 27 January 2024)
--   📖 Read chapter 1 - 186 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:35, 25 January 2024)
 -   📖 Read chapter 1 - 165 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:32, 25 January 2024)
 -   📖 Read chapter 1 - 112 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 25 January 2024)
 -   📖 Read chapter 8 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (14:37, 22 January 2024)
