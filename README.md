@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 246 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:03, 02 February 2024)
+-   📖 Read chapter 1 - 60 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:01, 02 February 2024)
 -   📖 Read chapter 1 - 187 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (18:00, 01 February 2024)
 -   📖 Read chapter 1 - 121 of [To Not Die](https://anilist.co/manga/136099) (12:50, 01 February 2024)
 -   📖 Read chapter 1 - 191 of [Nano Machine](https://anilist.co/manga/120980) (07:22, 01 February 2024)
@@ -9,7 +11,6 @@
 -   📖 Read chapter 4 - 12 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (16:16, 30 January 2024)
 -   📖 Read chapter 1 - 144 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:01, 29 January 2024)
 -   📖 Read chapter 1 - 39 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:56, 29 January 2024)
--   📖 Read chapter 1 - 245 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:31, 28 January 2024)
 -   📖 Read chapter 1 - 173 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:22, 28 January 2024)
 -   📖 Read chapter 1 - 125 of [Get Schooled](https://anilist.co/manga/128521) (17:41, 27 January 2024)
 -   📖 Read chapter 1 - 165 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:32, 25 January 2024)
@@ -19,7 +20,6 @@
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
 -   📖 Read chapter 56 - 94 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:53, 22 January 2024)
 -   📖 Read chapter 1 - 165 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:48, 22 January 2024)
--   📖 Read chapter 1 - 59 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:07, 22 January 2024)
 -   📖 Read chapter 2 - 320 of [Berserk](https://anilist.co/manga/30002) (09:06, 20 January 2024)
 -   📖 Read chapter 1 - 100 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:03, 19 January 2024)
 -   📖 Read chapter 28 - 47 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:07, 17 January 2024)
