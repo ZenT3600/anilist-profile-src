@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 131 of [Get Schooled](https://anilist.co/manga/128521) (06:09, 02 February 2024)
 -   📖 Read chapter 1 - 246 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:03, 02 February 2024)
 -   📖 Read chapter 1 - 60 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:01, 02 February 2024)
 -   📖 Read chapter 1 - 187 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (18:00, 01 February 2024)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 144 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:01, 29 January 2024)
 -   📖 Read chapter 1 - 39 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:56, 29 January 2024)
 -   📖 Read chapter 1 - 173 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:22, 28 January 2024)
--   📖 Read chapter 1 - 125 of [Get Schooled](https://anilist.co/manga/128521) (17:41, 27 January 2024)
 -   📖 Read chapter 1 - 165 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:32, 25 January 2024)
 -   📖 Read chapter 1 - 112 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 25 January 2024)
 -   📖 Read chapter 8 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (14:37, 22 January 2024)
