@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 - 48 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (06:33, 03 February 2024)
 -   📖 Read chapter 1 - 62 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (18:49, 02 February 2024)
 -   📖 Read chapter 1 - 131 of [Get Schooled](https://anilist.co/manga/128521) (06:09, 02 February 2024)
 -   📖 Read chapter 1 - 246 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:03, 02 February 2024)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 1 - 165 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:48, 22 January 2024)
 -   📖 Read chapter 2 - 320 of [Berserk](https://anilist.co/manga/30002) (09:06, 20 January 2024)
 -   📖 Read chapter 1 - 100 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:03, 19 January 2024)
--   📖 Read chapter 28 - 47 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:07, 17 January 2024)
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 -   📖 Read chapter 1 - 187 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:33, 17 January 2024)
 -   📖 Read chapter 1 - 44 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:48, 15 January 2024)
