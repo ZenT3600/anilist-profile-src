@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 -   📖 Read chapter 28 - 48 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (06:33, 03 February 2024)
 -   📖 Read chapter 1 - 62 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (18:49, 02 February 2024)
 -   📖 Read chapter 1 - 131 of [Get Schooled](https://anilist.co/manga/128521) (06:09, 02 February 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
 -   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
 -   📖 Read chapter 1 - 38 of [Zhizhusi](https://anilist.co/manga/161716) (14:48, 15 November 2023)
--   📖 Plans to read [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (06:08, 12 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
