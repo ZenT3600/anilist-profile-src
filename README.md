@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 247 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:45, 05 February 2024)
 -   📖 Read chapter 1 - 61 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:25, 05 February 2024)
 -   📖 Read chapter 1 - 73 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (15:42, 04 February 2024)
 -   📖 Read chapter 1 - 174 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:50, 03 February 2024)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 28 - 48 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (06:33, 03 February 2024)
 -   📖 Read chapter 1 - 62 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (18:49, 02 February 2024)
 -   📖 Read chapter 1 - 131 of [Get Schooled](https://anilist.co/manga/128521) (06:09, 02 February 2024)
--   📖 Read chapter 1 - 246 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:03, 02 February 2024)
 -   📖 Read chapter 1 - 187 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (18:00, 01 February 2024)
 -   📖 Read chapter 1 - 121 of [To Not Die](https://anilist.co/manga/136099) (12:50, 01 February 2024)
 -   📖 Read chapter 1 - 191 of [Nano Machine](https://anilist.co/manga/120980) (07:22, 01 February 2024)
