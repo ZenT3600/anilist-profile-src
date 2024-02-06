@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 40 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:10, 06 February 2024)
 -   📖 Read chapter 1 - 247 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:45, 05 February 2024)
 -   📖 Read chapter 1 - 61 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:25, 05 February 2024)
 -   📖 Read chapter 1 - 73 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (15:42, 04 February 2024)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 16 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:46, 30 January 2024)
 -   📖 Read chapter 4 - 12 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (16:16, 30 January 2024)
 -   📖 Read chapter 1 - 144 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:01, 29 January 2024)
--   📖 Read chapter 1 - 39 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:56, 29 January 2024)
 -   📖 Read chapter 1 - 165 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:32, 25 January 2024)
 -   📖 Read chapter 1 - 112 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 25 January 2024)
 -   📖 Read chapter 8 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (14:37, 22 January 2024)
