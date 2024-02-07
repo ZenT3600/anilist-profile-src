@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 47 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (06:51, 07 February 2024)
 -   📖 Read chapter 1 - 40 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:10, 06 February 2024)
 -   📖 Read chapter 1 - 247 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:45, 05 February 2024)
 -   📖 Read chapter 1 - 61 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:25, 05 February 2024)
@@ -28,7 +29,6 @@
 -   📖 Read chapter 1 - 100 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:03, 19 January 2024)
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 -   📖 Read chapter 1 - 187 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:33, 17 January 2024)
--   📖 Read chapter 1 - 44 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (13:48, 15 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
 -   📖 Completed [Star Protector Dog](https://anilist.co/manga/55245) (10:16, 06 January 2024)
