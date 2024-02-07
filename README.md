@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 192 of [Nano Machine](https://anilist.co/manga/120980) (16:28, 07 February 2024)
+-   📖 Read chapter 28 - 49 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:26, 07 February 2024)
 -   📖 Read chapter 1 - 47 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (06:51, 07 February 2024)
 -   📖 Read chapter 1 - 40 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:10, 06 February 2024)
 -   📖 Read chapter 1 - 247 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:45, 05 February 2024)
@@ -7,12 +9,10 @@
 -   📖 Read chapter 1 - 73 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (15:42, 04 February 2024)
 -   📖 Read chapter 1 - 174 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:50, 03 February 2024)
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
--   📖 Read chapter 28 - 48 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (06:33, 03 February 2024)
 -   📖 Read chapter 1 - 62 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (18:49, 02 February 2024)
 -   📖 Read chapter 1 - 131 of [Get Schooled](https://anilist.co/manga/128521) (06:09, 02 February 2024)
 -   📖 Read chapter 1 - 187 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (18:00, 01 February 2024)
 -   📖 Read chapter 1 - 121 of [To Not Die](https://anilist.co/manga/136099) (12:50, 01 February 2024)
--   📖 Read chapter 1 - 191 of [Nano Machine](https://anilist.co/manga/120980) (07:22, 01 February 2024)
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
 -   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
 -   📖 Read chapter 1 - 16 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:46, 30 January 2024)
