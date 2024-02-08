@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 55 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (11:06, 08 February 2024)
+-   📖 Read chapter 1 - 66 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (12:33, 08 February 2024)
 -   📖 Read chapter 1 - 166 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 08 February 2024)
 -   📖 Read chapter 1 - 192 of [Nano Machine](https://anilist.co/manga/120980) (16:28, 07 February 2024)
 -   📖 Read chapter 28 - 49 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:26, 07 February 2024)
