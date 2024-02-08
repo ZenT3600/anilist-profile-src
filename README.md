@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 166 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 08 February 2024)
 -   📖 Read chapter 1 - 192 of [Nano Machine](https://anilist.co/manga/120980) (16:28, 07 February 2024)
 -   📖 Read chapter 28 - 49 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:26, 07 February 2024)
 -   📖 Read chapter 1 - 47 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (06:51, 07 February 2024)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 16 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:46, 30 January 2024)
 -   📖 Read chapter 4 - 12 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (16:16, 30 January 2024)
 -   📖 Read chapter 1 - 144 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (06:01, 29 January 2024)
--   📖 Read chapter 1 - 165 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:32, 25 January 2024)
 -   📖 Read chapter 1 - 112 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 25 January 2024)
 -   📖 Read chapter 8 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (14:37, 22 January 2024)
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
