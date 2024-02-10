@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 78 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (06:23, 10 February 2024)
 -   📖 Read chapter 1 - 188 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:20, 10 February 2024)
--   📖 Read chapter 1 - 74 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (09:02, 09 February 2024)
 -   📖 Read chapter 1 - 122 of [To Not Die](https://anilist.co/manga/136099) (18:44, 08 February 2024)
 -   📖 Read chapter 1 - 166 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 08 February 2024)
 -   📖 Read chapter 1 - 192 of [Nano Machine](https://anilist.co/manga/120980) (16:28, 07 February 2024)
