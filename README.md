@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 188 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:20, 10 February 2024)
 -   📖 Read chapter 1 - 74 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (09:02, 09 February 2024)
 -   📖 Read chapter 1 - 122 of [To Not Die](https://anilist.co/manga/136099) (18:44, 08 February 2024)
 -   📖 Read chapter 1 - 166 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 08 February 2024)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 -   📖 Read chapter 1 - 62 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (18:49, 02 February 2024)
 -   📖 Read chapter 1 - 131 of [Get Schooled](https://anilist.co/manga/128521) (06:09, 02 February 2024)
--   📖 Read chapter 1 - 187 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (18:00, 01 February 2024)
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
 -   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
 -   📖 Read chapter 1 - 16 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:46, 30 January 2024)
