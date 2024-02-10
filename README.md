@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 175 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:33, 10 February 2024)
 -   📖 Read chapter 1 - 78 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (06:23, 10 February 2024)
 -   📖 Read chapter 1 - 188 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:20, 10 February 2024)
 -   📖 Read chapter 1 - 122 of [To Not Die](https://anilist.co/manga/136099) (18:44, 08 February 2024)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 247 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:45, 05 February 2024)
 -   📖 Read chapter 1 - 61 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:25, 05 February 2024)
 -   📖 Read chapter 1 - 73 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (15:42, 04 February 2024)
--   📖 Read chapter 1 - 174 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:50, 03 February 2024)
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 -   📖 Read chapter 1 - 62 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (18:49, 02 February 2024)
 -   📖 Read chapter 1 - 131 of [Get Schooled](https://anilist.co/manga/128521) (06:09, 02 February 2024)
