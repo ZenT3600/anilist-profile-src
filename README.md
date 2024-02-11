@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 74 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (19:37, 11 February 2024)
 -   📖 Read chapter 1 - 80 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (06:07, 11 February 2024)
 -   📖 Read chapter 1 - 248 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 11 February 2024)
 -   📖 Read chapter 1 - 175 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:33, 10 February 2024)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 28 - 49 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (16:26, 07 February 2024)
 -   📖 Read chapter 1 - 40 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:10, 06 February 2024)
 -   📖 Read chapter 1 - 61 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:25, 05 February 2024)
--   📖 Read chapter 1 - 73 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (15:42, 04 February 2024)
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 -   📖 Read chapter 1 - 62 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (18:49, 02 February 2024)
 -   📖 Read chapter 1 - 131 of [Get Schooled](https://anilist.co/manga/128521) (06:09, 02 February 2024)
