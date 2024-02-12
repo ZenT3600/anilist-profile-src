@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
 -   📖 Read chapter 1 - 90 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (14:01, 12 February 2024)
 -   📖 Read chapter 1 - 74 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (19:37, 11 February 2024)
 -   📖 Read chapter 1 - 248 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 11 February 2024)
@@ -49,6 +50,5 @@
 -   📖 Completed [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:14, 18 November 2023)
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
 -   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
--   📖 Read chapter 1 - 38 of [Zhizhusi](https://anilist.co/manga/161716) (14:48, 15 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
