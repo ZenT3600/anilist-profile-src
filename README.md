@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 91 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (04:59, 13 February 2024)
+-   📖 Read chapter 1 - 94 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (05:50, 13 February 2024)
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
 -   📖 Read chapter 1 - 74 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (19:37, 11 February 2024)
 -   📖 Read chapter 1 - 248 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 11 February 2024)
