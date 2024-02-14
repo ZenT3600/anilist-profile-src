@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 95 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (07:06, 14 February 2024)
+-   📖 Read chapter 1 - 96 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (07:10, 14 February 2024)
 -   📖 Read chapter 1 - 123 of [To Not Die](https://anilist.co/manga/136099) (07:01, 14 February 2024)
 -   📖 Read chapter 1 - 249 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:56, 14 February 2024)
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
