@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 -   📖 Read chapter 1 - 96 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (07:10, 14 February 2024)
 -   📖 Read chapter 1 - 123 of [To Not Die](https://anilist.co/manga/136099) (07:01, 14 February 2024)
 -   📖 Read chapter 1 - 249 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:56, 14 February 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
 -   📖 Completed [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:14, 18 November 2023)
 -   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
--   📖 Completed [Death Note Short Stories](https://anilist.co/manga/127819) (05:36, 17 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
