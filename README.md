@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 189 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:18, 15 February 2024)
+-   📖 Read chapter 1 - 193 of [Nano Machine](https://anilist.co/manga/120980) (10:17, 15 February 2024)
+-   📖 Read chapter 1 - 167 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (10:14, 15 February 2024)
 -   📖 Read chapter 28 - 50 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:21, 15 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 -   📖 Read chapter 1 - 96 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (07:10, 14 February 2024)
@@ -8,9 +11,6 @@
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
 -   📖 Read chapter 1 - 74 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (19:37, 11 February 2024)
 -   📖 Read chapter 1 - 175 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:33, 10 February 2024)
--   📖 Read chapter 1 - 188 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:20, 10 February 2024)
--   📖 Read chapter 1 - 166 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:03, 08 February 2024)
--   📖 Read chapter 1 - 192 of [Nano Machine](https://anilist.co/manga/120980) (16:28, 07 February 2024)
 -   📖 Read chapter 1 - 40 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:10, 06 February 2024)
 -   📖 Read chapter 1 - 61 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:25, 05 February 2024)
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
