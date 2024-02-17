@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 102 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (05:31, 17 February 2024)
+-   📖 Read chapter 1 - 107 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (05:52, 17 February 2024)
 -   📖 Read chapter 1 - 63 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:58, 17 February 2024)
 -   📖 Read chapter 1 - 101 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:16, 16 February 2024)
 -   📖 Read chapter 1 - 250 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:24, 15 February 2024)
