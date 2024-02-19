@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 75 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (13:49, 19 February 2024)
 -   📖 Read chapter 1 - 251 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:18, 18 February 2024)
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
 -   📖 Read chapter 1 - 63 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:58, 17 February 2024)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 -   📖 Read chapter 1 - 123 of [To Not Die](https://anilist.co/manga/136099) (07:01, 14 February 2024)
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
--   📖 Read chapter 1 - 74 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (19:37, 11 February 2024)
 -   📖 Read chapter 1 - 175 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:33, 10 February 2024)
 -   📖 Read chapter 1 - 40 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:10, 06 February 2024)
 -   📖 Read chapter 1 - 61 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:25, 05 February 2024)
