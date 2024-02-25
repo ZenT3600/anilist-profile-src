@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 189 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:25, 25 February 2024)
 -   📖 Read chapter 1 - 176 of [Teenage Mercenary](https://anilist.co/manga/126297) (13:58, 20 February 2024)
 -   📖 Read chapter 1 - 75 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (13:49, 19 February 2024)
 -   📖 Read chapter 1 - 251 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:18, 18 February 2024)
@@ -30,7 +31,6 @@
 -   📖 Read chapter 1 - 165 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:48, 22 January 2024)
 -   📖 Read chapter 2 - 320 of [Berserk](https://anilist.co/manga/30002) (09:06, 20 January 2024)
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
--   📖 Read chapter 1 - 187 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:33, 17 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
 -   📖 Completed [Star Protector Dog](https://anilist.co/manga/55245) (10:16, 06 January 2024)
