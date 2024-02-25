@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 168 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:14, 25 February 2024)
+-   📖 Read chapter 1 - 194 of [Nano Machine](https://anilist.co/manga/120980) (06:11, 25 February 2024)
 -   📖 Read chapter 1 - 253 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:07, 25 February 2024)
 -   📖 Read chapter 1 - 132 of [Get Schooled](https://anilist.co/manga/128521) (05:58, 25 February 2024)
 -   📖 Read chapter 1 - 189 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:25, 25 February 2024)
@@ -9,8 +11,6 @@
 -   📖 Read chapter 1 - 63 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:58, 17 February 2024)
 -   📖 Read chapter 1 - 101 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:16, 16 February 2024)
 -   📖 Read chapter 1 - 189 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (10:18, 15 February 2024)
--   📖 Read chapter 1 - 193 of [Nano Machine](https://anilist.co/manga/120980) (10:17, 15 February 2024)
--   📖 Read chapter 1 - 167 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (10:14, 15 February 2024)
 -   📖 Read chapter 28 - 50 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:21, 15 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 -   📖 Read chapter 1 - 123 of [To Not Die](https://anilist.co/manga/136099) (07:01, 14 February 2024)
