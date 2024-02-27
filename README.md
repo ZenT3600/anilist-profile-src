@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
 -   📖 Read chapter 28 - 51 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:25, 27 February 2024)
 -   📖 Read chapter 1 - 124 of [To Not Die](https://anilist.co/manga/136099) (06:29, 26 February 2024)
 -   📖 Read chapter 1 - 190 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:22, 26 February 2024)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
 -   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
 -   📖 Completed [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:14, 18 November 2023)
--   📖 Read chapter 1 - 37 of [Ogami-san Can’t Keep It In](https://anilist.co/manga/101755) (17:11, 18 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
