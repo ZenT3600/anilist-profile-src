@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 122 of [Solo Leveling](https://anilist.co/manga/105398) (14:25, 28 February 2024)
 -   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
 -   📖 Read chapter 28 - 51 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:25, 27 February 2024)
 -   📖 Read chapter 1 - 124 of [To Not Die](https://anilist.co/manga/136099) (06:29, 26 February 2024)
@@ -40,7 +41,6 @@
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (20:45, 26 December 2023)
--   📖 Read chapter 1 - 116 of [Solo Leveling](https://anilist.co/manga/105398) (18:27, 23 December 2023)
 -   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
 -   📖 Plans to read [The Song of Yoru & Asa](https://anilist.co/manga/86364) (10:04, 22 December 2023)
 -   📺 Plans to watch [Pompo: The Cinéphile](https://anilist.co/anime/99900) (14:47, 20 December 2023)
