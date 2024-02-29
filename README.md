@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 191 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:45, 29 February 2024)
+-   📖 Read chapter 1 - 169 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (07:44, 29 February 2024)
 -   📖 Read chapter 1 - 195 of [Nano Machine](https://anilist.co/manga/120980) (06:58, 29 February 2024)
 -   📖 Read chapter 1 - 122 of [Solo Leveling](https://anilist.co/manga/105398) (14:25, 28 February 2024)
 -   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
@@ -7,10 +9,8 @@
 -   📖 Read chapter 1 - 124 of [To Not Die](https://anilist.co/manga/136099) (06:29, 26 February 2024)
 -   📖 Read chapter 1 - 190 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:22, 26 February 2024)
 -   📖 Read chapter 1 - 177 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:47, 25 February 2024)
--   📖 Read chapter 1 - 190 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (17:43, 25 February 2024)
 -   📖 Read chapter 1 - 146 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:40, 25 February 2024)
 -   📖 Read chapter 1 - 76 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:34, 25 February 2024)
--   📖 Read chapter 1 - 168 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:14, 25 February 2024)
 -   📖 Read chapter 1 - 253 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:07, 25 February 2024)
 -   📖 Read chapter 1 - 132 of [Get Schooled](https://anilist.co/manga/128521) (05:58, 25 February 2024)
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
