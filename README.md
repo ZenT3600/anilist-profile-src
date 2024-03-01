@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
 -   📖 Read chapter 3 of [Batsu Naki Gaiden: Takanashi-kun to Karasuma-san](https://anilist.co/manga/169593) (10:58, 29 February 2024)
 -   📖 Read chapter 1 - 191 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:45, 29 February 2024)
 -   📖 Read chapter 1 - 169 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (07:44, 29 February 2024)
@@ -8,7 +9,6 @@
 -   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
 -   📖 Read chapter 28 - 51 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:25, 27 February 2024)
 -   📖 Read chapter 1 - 124 of [To Not Die](https://anilist.co/manga/136099) (06:29, 26 February 2024)
--   📖 Read chapter 1 - 190 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:22, 26 February 2024)
 -   📖 Read chapter 1 - 177 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:47, 25 February 2024)
 -   📖 Read chapter 1 - 146 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:40, 25 February 2024)
 -   📖 Read chapter 1 - 76 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:34, 25 February 2024)
