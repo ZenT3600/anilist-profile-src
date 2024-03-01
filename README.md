@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Red Theatre](https://anilist.co/manga/98065) (18:02, 01 March 2024)
 -   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
 -   📖 Read chapter 3 of [Batsu Naki Gaiden: Takanashi-kun to Karasuma-san](https://anilist.co/manga/169593) (10:58, 29 February 2024)
 -   📖 Read chapter 1 - 191 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:45, 29 February 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 12 - 31 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:25, 19 December 2023)
 -   📖 Read chapter 2 - 13 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (06:50, 12 December 2023)
 -   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (14:49, 11 December 2023)
--   📖 Read chapter 13 - 108 of [True Beauty](https://anilist.co/manga/103995) (11:55, 02 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
