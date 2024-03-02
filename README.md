@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 64 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:29, 02 March 2024)
 -   📖 Completed [Red Theatre](https://anilist.co/manga/98065) (18:02, 01 March 2024)
 -   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
 -   📖 Read chapter 3 of [Batsu Naki Gaiden: Takanashi-kun to Karasuma-san](https://anilist.co/manga/169593) (10:58, 29 February 2024)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 253 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:07, 25 February 2024)
 -   📖 Read chapter 1 - 132 of [Get Schooled](https://anilist.co/manga/128521) (05:58, 25 February 2024)
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
--   📖 Read chapter 1 - 63 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:58, 17 February 2024)
 -   📖 Read chapter 1 - 101 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:16, 16 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
