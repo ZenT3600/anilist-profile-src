@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 28 of [No Love Zone](https://anilist.co/manga/115610) (16:55, 03 March 2024)
 -   📖 Read chapter 1 - 133 of [Get Schooled](https://anilist.co/manga/128521) (07:30, 03 March 2024)
 -   📖 Read chapter 1 - 255 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:27, 03 March 2024)
--   📖 Read chapter 16 - 18 of [No Love Zone](https://anilist.co/manga/115610) (14:59, 02 March 2024)
 -   📖 Read chapter 1 - 64 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:29, 02 March 2024)
 -   📖 Completed [Red Theatre](https://anilist.co/manga/98065) (18:02, 01 March 2024)
 -   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
