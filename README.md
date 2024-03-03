@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 133 of [Get Schooled](https://anilist.co/manga/128521) (07:30, 03 March 2024)
+-   📖 Read chapter 1 - 255 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:27, 03 March 2024)
 -   📖 Read chapter 16 - 18 of [No Love Zone](https://anilist.co/manga/115610) (14:59, 02 March 2024)
 -   📖 Read chapter 1 - 64 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:29, 02 March 2024)
 -   📖 Completed [Red Theatre](https://anilist.co/manga/98065) (18:02, 01 March 2024)
@@ -15,8 +17,6 @@
 -   📖 Read chapter 1 - 177 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:47, 25 February 2024)
 -   📖 Read chapter 1 - 146 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:40, 25 February 2024)
 -   📖 Read chapter 1 - 76 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:34, 25 February 2024)
--   📖 Read chapter 1 - 253 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:07, 25 February 2024)
--   📖 Read chapter 1 - 132 of [Get Schooled](https://anilist.co/manga/128521) (05:58, 25 February 2024)
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
 -   📖 Read chapter 1 - 101 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:16, 16 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
