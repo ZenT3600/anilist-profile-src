@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [This Wonderful Season With You](https://anilist.co/manga/109987) (14:25, 11 March 2024)
 -   📖 Read chapter 16 - 73 of [No Love Zone](https://anilist.co/manga/115610) (10:10, 11 March 2024)
 -   📖 Read chapter 88 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (09:56, 11 March 2024)
 -   📖 Read chapter 1 - 257 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:19, 11 March 2024)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [The Song of Yoru & Asa](https://anilist.co/manga/86364) (10:04, 22 December 2023)
 -   📺 Plans to watch [Pompo: The Cinéphile](https://anilist.co/anime/99900) (14:47, 20 December 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (14:41, 20 December 2023)
--   📖 Read chapter 12 - 31 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:25, 19 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
