@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (09:56, 11 March 2024)
 -   📖 Read chapter 1 - 257 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:19, 11 March 2024)
 -   📖 Read chapter 16 - 72 of [No Love Zone](https://anilist.co/manga/115610) (09:04, 11 March 2024)
 -   📖 Read chapter 2 - 350 of [Berserk](https://anilist.co/manga/30002) (09:03, 11 March 2024)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Pompo: The Cinéphile](https://anilist.co/anime/99900) (14:47, 20 December 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (14:41, 20 December 2023)
 -   📖 Read chapter 12 - 31 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:25, 19 December 2023)
--   📖 Read chapter 2 - 13 of ["Kawaii" wa Kimi no Mono](https://anilist.co/manga/121251) (06:50, 12 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
