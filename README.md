@@ -1,6 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 - 29 of [No Love Zone](https://anilist.co/manga/115610) (19:17, 03 March 2024)
+-   📖 Read chapter 16 - 72 of [No Love Zone](https://anilist.co/manga/115610) (09:04, 11 March 2024)
+-   📖 Read chapter 2 - 350 of [Berserk](https://anilist.co/manga/30002) (09:03, 11 March 2024)
+-   📖 Read chapter 1 - 77 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (09:02, 11 March 2024)
 -   📖 Read chapter 1 - 133 of [Get Schooled](https://anilist.co/manga/128521) (07:30, 03 March 2024)
 -   📖 Read chapter 1 - 255 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:27, 03 March 2024)
 -   📖 Read chapter 1 - 64 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:29, 02 March 2024)
@@ -16,7 +18,6 @@
 -   📖 Read chapter 1 - 124 of [To Not Die](https://anilist.co/manga/136099) (06:29, 26 February 2024)
 -   📖 Read chapter 1 - 177 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:47, 25 February 2024)
 -   📖 Read chapter 1 - 146 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:40, 25 February 2024)
--   📖 Read chapter 1 - 76 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:34, 25 February 2024)
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
 -   📖 Read chapter 1 - 101 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:16, 16 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
@@ -34,7 +35,6 @@
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
 -   📖 Read chapter 56 - 94 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:53, 22 January 2024)
 -   📖 Read chapter 1 - 165 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:48, 22 January 2024)
--   📖 Read chapter 2 - 320 of [Berserk](https://anilist.co/manga/30002) (09:06, 20 January 2024)
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
