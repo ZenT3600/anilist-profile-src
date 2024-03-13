@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 41 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:36, 13 March 2024)
 -   📖 Completed [No Love Zone](https://anilist.co/manga/115610) (08:16, 12 March 2024)
 -   📖 Read chapter 16 - 77 of [No Love Zone](https://anilist.co/manga/115610) (08:14, 12 March 2024)
 -   📖 Plans to read [This Wonderful Season With You](https://anilist.co/manga/109987) (14:25, 11 March 2024)
@@ -25,7 +26,6 @@
 -   📖 Read chapter 1 - 101 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:16, 16 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
--   📖 Read chapter 1 - 40 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:10, 06 February 2024)
 -   📖 Read chapter 1 - 61 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:25, 05 February 2024)
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
