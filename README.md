@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
 -   📖 Read chapter 1 - 41 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:36, 13 March 2024)
 -   📖 Completed [No Love Zone](https://anilist.co/manga/115610) (08:16, 12 March 2024)
 -   📖 Read chapter 16 - 77 of [No Love Zone](https://anilist.co/manga/115610) (08:14, 12 March 2024)
@@ -33,7 +34,6 @@
 -   📖 Read chapter 1 - 16 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:46, 30 January 2024)
 -   📖 Read chapter 4 - 12 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (16:16, 30 January 2024)
 -   📖 Read chapter 1 - 112 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 25 January 2024)
--   📖 Read chapter 8 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (14:37, 22 January 2024)
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
 -   📖 Read chapter 56 - 94 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:53, 22 January 2024)
