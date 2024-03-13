@@ -1,11 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 89 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (19:07, 13 March 2024)
+-   📖 Read chapter 1 - 170 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:07, 13 March 2024)
 -   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
 -   📖 Read chapter 1 - 41 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:36, 13 March 2024)
 -   📖 Completed [No Love Zone](https://anilist.co/manga/115610) (08:16, 12 March 2024)
 -   📖 Read chapter 16 - 77 of [No Love Zone](https://anilist.co/manga/115610) (08:14, 12 March 2024)
 -   📖 Plans to read [This Wonderful Season With You](https://anilist.co/manga/109987) (14:25, 11 March 2024)
--   📖 Read chapter 88 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (09:56, 11 March 2024)
 -   📖 Read chapter 1 - 257 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:19, 11 March 2024)
 -   📖 Read chapter 2 - 350 of [Berserk](https://anilist.co/manga/30002) (09:03, 11 March 2024)
 -   📖 Read chapter 1 - 77 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (09:02, 11 March 2024)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
 -   📖 Read chapter 3 of [Batsu Naki Gaiden: Takanashi-kun to Karasuma-san](https://anilist.co/manga/169593) (10:58, 29 February 2024)
 -   📖 Read chapter 1 - 191 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:45, 29 February 2024)
--   📖 Read chapter 1 - 169 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (07:44, 29 February 2024)
 -   📖 Read chapter 1 - 195 of [Nano Machine](https://anilist.co/manga/120980) (06:58, 29 February 2024)
 -   📖 Read chapter 1 - 122 of [Solo Leveling](https://anilist.co/manga/105398) (14:25, 28 February 2024)
 -   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
