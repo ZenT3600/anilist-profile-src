@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 147 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (21:23, 14 March 2024)
+-   📖 Read chapter 1 - 197 of [Nano Machine](https://anilist.co/manga/120980) (21:20, 14 March 2024)
 -   📖 Completed [This Wonderful Season With You](https://anilist.co/manga/109987) (07:21, 14 March 2024)
 -   📖 Read chapter 88 - 89 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (19:07, 13 March 2024)
 -   📖 Read chapter 1 - 170 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:07, 13 March 2024)
@@ -17,13 +19,11 @@
 -   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
 -   📖 Read chapter 3 of [Batsu Naki Gaiden: Takanashi-kun to Karasuma-san](https://anilist.co/manga/169593) (10:58, 29 February 2024)
 -   📖 Read chapter 1 - 191 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:45, 29 February 2024)
--   📖 Read chapter 1 - 195 of [Nano Machine](https://anilist.co/manga/120980) (06:58, 29 February 2024)
 -   📖 Read chapter 1 - 122 of [Solo Leveling](https://anilist.co/manga/105398) (14:25, 28 February 2024)
 -   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
 -   📖 Read chapter 28 - 51 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:25, 27 February 2024)
 -   📖 Read chapter 1 - 124 of [To Not Die](https://anilist.co/manga/136099) (06:29, 26 February 2024)
 -   📖 Read chapter 1 - 177 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:47, 25 February 2024)
--   📖 Read chapter 1 - 146 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (17:40, 25 February 2024)
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
 -   📖 Read chapter 1 - 101 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:16, 16 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
