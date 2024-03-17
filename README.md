@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of [Hajimari no Niina](https://anilist.co/manga/56021) (14:02, 17 March 2024)
+-   📖 Completed [Hajimari no Niina](https://anilist.co/manga/56021) (14:15, 17 March 2024)
+-   📖 Read chapter 1 - 19 of [Hajimari no Niina](https://anilist.co/manga/56021) (14:14, 17 March 2024)
 -   📖 Read chapter 1 - 180 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:57, 17 March 2024)
 -   📖 Read chapter 1 - 102 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:19, 16 March 2024)
 -   📖 Read chapter 1 - 157 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (11:51, 16 March 2024)
@@ -49,6 +50,5 @@
 -   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
--   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (20:45, 26 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
