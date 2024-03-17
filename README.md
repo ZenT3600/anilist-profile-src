@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Hajimari no Niina](https://anilist.co/manga/56021) (08:07, 17 March 2024)
+-   📖 Read chapter 1 - 180 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:57, 17 March 2024)
 -   📖 Read chapter 1 - 102 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:19, 16 March 2024)
 -   📖 Read chapter 1 - 157 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (11:51, 16 March 2024)
 -   📖 Read chapter 1 - 65 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:19, 16 March 2024)
@@ -25,7 +27,6 @@
 -   📖 Read chapter 1 - 122 of [Solo Leveling](https://anilist.co/manga/105398) (14:25, 28 February 2024)
 -   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
 -   📖 Read chapter 28 - 51 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:25, 27 February 2024)
--   📖 Read chapter 1 - 177 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:47, 25 February 2024)
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 8 - 26 of [There's No Freaking Way I'll be Your Lover! Unless...](https://anilist.co/manga/119650) (08:26, 03 January 2024)
 -   📖 Completed [The Funeral Concerto](https://anilist.co/manga/136506) (12:37, 28 December 2023)
 -   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (20:45, 26 December 2023)
--   📖 Completed [The Song of Yoru & Asa](https://anilist.co/manga/86364) (05:59, 23 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
