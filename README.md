@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 42 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:44, 18 March 2024)
 -   📖 Read chapter 1 of [I Am a Hero](https://anilist.co/manga/44440) (10:29, 18 March 2024)
 -   📖 Read chapter 56 - 96 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:52, 18 March 2024)
 -   📖 Read chapter 1 - 4 of [My First Times with Suwa-san](https://anilist.co/manga/123238) (17:50, 17 March 2024)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 88 - 89 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (19:07, 13 March 2024)
 -   📖 Read chapter 1 - 170 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:07, 13 March 2024)
 -   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
--   📖 Read chapter 1 - 41 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (10:36, 13 March 2024)
 -   📖 Completed [No Love Zone](https://anilist.co/manga/115610) (08:16, 12 March 2024)
 -   📖 Read chapter 16 - 77 of [No Love Zone](https://anilist.co/manga/115610) (08:14, 12 March 2024)
 -   📖 Plans to read [This Wonderful Season With You](https://anilist.co/manga/109987) (14:25, 11 March 2024)
