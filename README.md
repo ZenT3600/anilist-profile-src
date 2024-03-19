@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 13 of [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:30, 19 March 2024)
+-   📖 Completed [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
+-   📖 Read chapter 1 - 24 of [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
 -   📖 Read chapter 1 - 259 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:03, 19 March 2024)
 -   📖 Read chapter 1 - 42 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:44, 18 March 2024)
 -   📖 Read chapter 1 of [I Am a Hero](https://anilist.co/manga/44440) (10:29, 18 March 2024)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
 -   📖 Completed [Star Protector Dog](https://anilist.co/manga/55245) (10:16, 06 January 2024)
 -   📖 Read chapter 1 - 44 of [Harem Marriage](https://anilist.co/manga/86283) (08:09, 06 January 2024)
--   📖 Completed [Stargazing Dog](https://anilist.co/manga/51467) (16:07, 03 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
