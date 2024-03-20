@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 17 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (17:49, 20 March 2024)
+-   📖 Completed [Classmates](https://anilist.co/manga/39699) (17:49, 20 March 2024)
+-   📖 Read chapter 1 - 198 of [Nano Machine](https://anilist.co/manga/120980) (17:33, 20 March 2024)
 -   📖 Read chapter 1 - 4 of [I Am a Hero](https://anilist.co/manga/44440) (09:45, 20 March 2024)
 -   📖 Read chapter 1 - 62 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:02, 20 March 2024)
 -   📖 Completed [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
@@ -17,7 +20,6 @@
 -   📖 Read chapter 1 - 148 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:17, 16 March 2024)
 -   📖 Read chapter 1 - 193 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:31, 15 March 2024)
 -   📖 Read chapter 1 - 126 of [To Not Die](https://anilist.co/manga/136099) (07:27, 15 March 2024)
--   📖 Read chapter 1 - 197 of [Nano Machine](https://anilist.co/manga/120980) (21:20, 14 March 2024)
 -   📖 Completed [This Wonderful Season With You](https://anilist.co/manga/109987) (07:21, 14 March 2024)
 -   📖 Read chapter 88 - 89 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (19:07, 13 March 2024)
 -   📖 Read chapter 1 - 170 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (19:07, 13 March 2024)
@@ -40,7 +42,6 @@
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
 -   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
 -   📖 Read chapter 1 - 16 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:46, 30 January 2024)
--   📖 Read chapter 4 - 12 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (16:16, 30 January 2024)
 -   📖 Read chapter 1 - 112 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 25 January 2024)
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
 -   📖 Completed [Star Protector Dog](https://anilist.co/manga/55245) (10:16, 06 January 2024)
--   📖 Read chapter 1 - 44 of [Harem Marriage](https://anilist.co/manga/86283) (08:09, 06 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
