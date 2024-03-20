@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 62 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:02, 20 March 2024)
 -   📖 Completed [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
 -   📖 Read chapter 1 - 24 of [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
 -   📖 Read chapter 1 - 259 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:03, 19 March 2024)
@@ -35,7 +36,6 @@
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
--   📖 Read chapter 1 - 61 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (07:25, 05 February 2024)
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
 -   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
