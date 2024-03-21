@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [I Am a Hero](https://anilist.co/manga/44440) (17:31, 21 March 2024)
+-   📖 Read chapter 1 - 9 of [I Am a Hero](https://anilist.co/manga/44440) (17:34, 21 March 2024)
 -   📖 Read chapter 1 - 194 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:52, 21 March 2024)
 -   📖 Read chapter 88 - 90 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:49, 21 March 2024)
 -   📖 Read chapter 1 - 171 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:48, 21 March 2024)
