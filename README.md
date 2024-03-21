@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 194 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:52, 21 March 2024)
 -   📖 Read chapter 88 - 90 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:49, 21 March 2024)
 -   📖 Read chapter 1 - 171 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:48, 21 March 2024)
 -   📖 Read chapter 4 - 17 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (17:49, 20 March 2024)
@@ -20,7 +21,6 @@
 -   📖 Read chapter 1 - 157 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (11:51, 16 March 2024)
 -   📖 Read chapter 1 - 65 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:19, 16 March 2024)
 -   📖 Read chapter 1 - 148 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:17, 16 March 2024)
--   📖 Read chapter 1 - 193 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:31, 15 March 2024)
 -   📖 Read chapter 1 - 126 of [To Not Die](https://anilist.co/manga/136099) (07:27, 15 March 2024)
 -   📖 Completed [This Wonderful Season With You](https://anilist.co/manga/109987) (07:21, 14 March 2024)
 -   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
