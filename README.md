@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [I Am a Hero](https://anilist.co/manga/44440) (17:31, 21 March 2024)
 -   📖 Read chapter 1 - 194 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:52, 21 March 2024)
 -   📖 Read chapter 88 - 90 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:49, 21 March 2024)
 -   📖 Read chapter 1 - 171 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:48, 21 March 2024)
 -   📖 Read chapter 4 - 17 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (17:49, 20 March 2024)
 -   📖 Completed [Classmates](https://anilist.co/manga/39699) (17:49, 20 March 2024)
 -   📖 Read chapter 1 - 198 of [Nano Machine](https://anilist.co/manga/120980) (17:33, 20 March 2024)
--   📖 Read chapter 1 - 4 of [I Am a Hero](https://anilist.co/manga/44440) (09:45, 20 March 2024)
 -   📖 Read chapter 1 - 62 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:02, 20 March 2024)
 -   📖 Completed [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
 -   📖 Read chapter 1 - 24 of [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
