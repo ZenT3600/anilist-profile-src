@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 18 of [I Am a Hero](https://anilist.co/manga/44440) (16:33, 22 March 2024)
+-   📖 Read chapter 1 - 21 of [I Am a Hero](https://anilist.co/manga/44440) (16:36, 22 March 2024)
 -   📖 Read chapter 1 - 127 of [To Not Die](https://anilist.co/manga/136099) (10:09, 22 March 2024)
 -   📖 Read chapter 1 - 194 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:52, 21 March 2024)
 -   📖 Read chapter 88 - 90 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:49, 21 March 2024)
