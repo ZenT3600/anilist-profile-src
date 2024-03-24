@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 79 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (14:10, 24 March 2024)
 -   📖 Read chapter 1 - 181 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:27, 24 March 2024)
 -   📖 Read chapter 1 - 63 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:23, 24 March 2024)
 -   📖 Read chapter 1 - 260 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:27, 23 March 2024)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 24 of [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
 -   📖 Read chapter 1 - 42 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:44, 18 March 2024)
 -   📖 Read chapter 56 - 96 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:52, 18 March 2024)
--   📖 Read chapter 1 - 78 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (16:08, 17 March 2024)
 -   📖 Completed [Hajimari no Niina](https://anilist.co/manga/56021) (14:15, 17 March 2024)
 -   📖 Read chapter 1 - 19 of [Hajimari no Niina](https://anilist.co/manga/56021) (14:14, 17 March 2024)
 -   📖 Read chapter 1 - 102 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:19, 16 March 2024)
