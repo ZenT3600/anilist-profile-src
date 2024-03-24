@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
 -   📖 Read chapter 1 - 79 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (14:10, 24 March 2024)
 -   📖 Read chapter 1 - 181 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:27, 24 March 2024)
 -   📖 Read chapter 1 - 63 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:23, 24 March 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 -   📖 Plans to read [Peace-Hame!](https://anilist.co/manga/58249) (13:18, 10 January 2024)
--   📖 Completed [Star Protector Dog](https://anilist.co/manga/55245) (10:16, 06 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
