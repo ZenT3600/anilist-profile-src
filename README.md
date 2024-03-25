@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 91 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (09:51, 25 March 2024)
 -   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
 -   📖 Read chapter 1 - 79 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (14:10, 24 March 2024)
 -   📖 Read chapter 1 - 181 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:27, 24 March 2024)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 1 - 21 of [I Am a Hero](https://anilist.co/manga/44440) (16:36, 22 March 2024)
 -   📖 Read chapter 1 - 127 of [To Not Die](https://anilist.co/manga/136099) (10:09, 22 March 2024)
 -   📖 Read chapter 1 - 194 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:52, 21 March 2024)
--   📖 Read chapter 88 - 90 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:49, 21 March 2024)
 -   📖 Read chapter 1 - 171 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:48, 21 March 2024)
 -   📖 Read chapter 4 - 17 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (17:49, 20 March 2024)
 -   📖 Completed [Classmates](https://anilist.co/manga/39699) (17:49, 20 March 2024)
