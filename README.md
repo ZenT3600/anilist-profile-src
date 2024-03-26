@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 17 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (06:41, 26 March 2024)
 -   📖 Read chapter 88 - 91 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (09:51, 25 March 2024)
 -   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
 -   📖 Read chapter 1 - 79 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (14:10, 24 March 2024)
@@ -43,7 +44,6 @@
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
 -   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
--   📖 Read chapter 1 - 16 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:46, 30 January 2024)
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
 -   📖 Read chapter 1 - 165 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:48, 22 January 2024)
