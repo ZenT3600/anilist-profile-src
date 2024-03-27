@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [I Am a Hero](https://anilist.co/manga/44440) (06:53, 27 March 2024)
+-   📖 Read chapter 1 - 167 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:43, 27 March 2024)
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Read chapter 1 - 17 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (06:41, 26 March 2024)
 -   📖 Read chapter 88 - 91 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (09:51, 25 March 2024)
@@ -9,7 +11,6 @@
 -   📖 Read chapter 1 - 63 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:23, 24 March 2024)
 -   📖 Read chapter 1 - 260 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:27, 23 March 2024)
 -   📖 Read chapter 1 - 114 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:24, 23 March 2024)
--   📖 Read chapter 1 - 21 of [I Am a Hero](https://anilist.co/manga/44440) (16:36, 22 March 2024)
 -   📖 Read chapter 1 - 127 of [To Not Die](https://anilist.co/manga/136099) (10:09, 22 March 2024)
 -   📖 Read chapter 1 - 194 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:52, 21 March 2024)
 -   📖 Read chapter 1 - 171 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:48, 21 March 2024)
@@ -47,7 +48,6 @@
 -   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
--   📖 Read chapter 1 - 165 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:48, 22 January 2024)
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 -   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 
