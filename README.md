@@ -1,7 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 44 of [I Am a Hero](https://anilist.co/manga/44440) (06:25, 28 March 2024)
+-   📖 Read chapter 1 - 199 of [Nano Machine](https://anilist.co/manga/120980) (06:13, 28 March 2024)
 -   📖 Read chapter 1 - 195 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:09, 28 March 2024)
--   📖 Read chapter 1 - 38 of [I Am a Hero](https://anilist.co/manga/44440) (16:54, 27 March 2024)
 -   📖 Read chapter 1 - 167 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:43, 27 March 2024)
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Read chapter 1 - 17 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (06:41, 26 March 2024)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 171 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:48, 21 March 2024)
 -   📖 Read chapter 4 - 17 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (17:49, 20 March 2024)
 -   📖 Completed [Classmates](https://anilist.co/manga/39699) (17:49, 20 March 2024)
--   📖 Read chapter 1 - 198 of [Nano Machine](https://anilist.co/manga/120980) (17:33, 20 March 2024)
 -   📖 Completed [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
 -   📖 Read chapter 1 - 24 of [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
 -   📖 Read chapter 1 - 42 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:44, 18 March 2024)
