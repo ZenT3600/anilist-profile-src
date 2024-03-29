@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 128 of [To Not Die](https://anilist.co/manga/136099) (18:10, 29 March 2024)
 -   📖 Read chapter 1 - 51 of [I Am a Hero](https://anilist.co/manga/44440) (07:28, 29 March 2024)
 -   📖 Read chapter 1 - 262 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:17, 29 March 2024)
 -   📖 Read chapter 1 - 199 of [Nano Machine](https://anilist.co/manga/120980) (06:13, 28 March 2024)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 181 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:27, 24 March 2024)
 -   📖 Read chapter 1 - 63 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:23, 24 March 2024)
 -   📖 Read chapter 1 - 114 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:24, 23 March 2024)
--   📖 Read chapter 1 - 127 of [To Not Die](https://anilist.co/manga/136099) (10:09, 22 March 2024)
 -   📖 Read chapter 1 - 171 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:48, 21 March 2024)
 -   📖 Read chapter 4 - 17 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (17:49, 20 March 2024)
 -   📖 Completed [Classmates](https://anilist.co/manga/39699) (17:49, 20 March 2024)
