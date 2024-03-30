@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 93 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (15:41, 30 March 2024)
 -   📖 Read chapter 1 - 56 of [I Am a Hero](https://anilist.co/manga/44440) (06:23, 30 March 2024)
 -   📖 Read chapter 1 - 128 of [To Not Die](https://anilist.co/manga/136099) (18:10, 29 March 2024)
 -   📖 Read chapter 1 - 262 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:17, 29 March 2024)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 167 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:43, 27 March 2024)
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Read chapter 1 - 17 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (06:41, 26 March 2024)
--   📖 Read chapter 88 - 91 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (09:51, 25 March 2024)
 -   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
 -   📖 Read chapter 1 - 79 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (14:10, 24 March 2024)
 -   📖 Read chapter 1 - 181 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:27, 24 March 2024)
