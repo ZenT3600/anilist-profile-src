@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 80 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:46, 31 March 2024)
 -   📖 Read chapter 1 - 129 of [To Not Die](https://anilist.co/manga/136099) (10:56, 31 March 2024)
 -   📖 Read chapter 1 - 64 of [I Am a Hero](https://anilist.co/manga/44440) (09:26, 31 March 2024)
 -   📖 Read chapter 1 - 182 of [Teenage Mercenary](https://anilist.co/manga/126297) (09:17, 31 March 2024)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Read chapter 1 - 17 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (06:41, 26 March 2024)
 -   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
--   📖 Read chapter 1 - 79 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (14:10, 24 March 2024)
 -   📖 Read chapter 1 - 63 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:23, 24 March 2024)
 -   📖 Read chapter 1 - 114 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:24, 23 March 2024)
 -   📖 Read chapter 1 - 171 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:48, 21 March 2024)
