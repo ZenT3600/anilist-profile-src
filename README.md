@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 86 of [I Am a Hero](https://anilist.co/manga/44440) (11:12, 01 April 2024)
+-   📖 Read chapter 1 - 97 of [I Am a Hero](https://anilist.co/manga/44440) (06:53, 02 April 2024)
+-   📖 Read chapter 1 - 66 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:39, 02 April 2024)
 -   📖 Read chapter 1 - 80 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:46, 31 March 2024)
 -   📖 Read chapter 1 - 129 of [To Not Die](https://anilist.co/manga/136099) (10:56, 31 March 2024)
 -   📖 Read chapter 1 - 182 of [Teenage Mercenary](https://anilist.co/manga/126297) (09:17, 31 March 2024)
@@ -25,7 +26,6 @@
 -   📖 Read chapter 1 - 19 of [Hajimari no Niina](https://anilist.co/manga/56021) (14:14, 17 March 2024)
 -   📖 Read chapter 1 - 102 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:19, 16 March 2024)
 -   📖 Read chapter 1 - 157 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (11:51, 16 March 2024)
--   📖 Read chapter 1 - 65 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (08:19, 16 March 2024)
 -   📖 Read chapter 1 - 148 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:17, 16 March 2024)
 -   📖 Completed [This Wonderful Season With You](https://anilist.co/manga/109987) (07:21, 14 March 2024)
 -   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
