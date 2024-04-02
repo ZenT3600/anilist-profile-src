@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
 -   📖 Read chapter 1 - 263 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (11:55, 02 April 2024)
 -   📖 Read chapter 1 - 97 of [I Am a Hero](https://anilist.co/manga/44440) (06:53, 02 April 2024)
 -   📖 Read chapter 1 - 66 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:39, 02 April 2024)
@@ -49,6 +50,5 @@
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
 -   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
--   📖 Read chapter 21 - 29 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (20:41, 10 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
