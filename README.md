@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 196 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:46, 04 April 2024)
 -   📖 Read chapter 1 - 172 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:56, 04 April 2024)
 -   📖 Read chapter 1 - 200 of [Nano Machine](https://anilist.co/manga/120980) (05:54, 04 April 2024)
 -   📖 Read chapter 88 - 94 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:01, 04 April 2024)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 80 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:46, 31 March 2024)
 -   📖 Read chapter 1 - 129 of [To Not Die](https://anilist.co/manga/136099) (10:56, 31 March 2024)
 -   📖 Read chapter 1 - 182 of [Teenage Mercenary](https://anilist.co/manga/126297) (09:17, 31 March 2024)
--   📖 Read chapter 1 - 195 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:09, 28 March 2024)
 -   📖 Read chapter 1 - 167 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:43, 27 March 2024)
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Read chapter 1 - 17 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (06:41, 26 March 2024)
