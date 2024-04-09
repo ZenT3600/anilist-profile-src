@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 129 of [I Am a Hero](https://anilist.co/manga/44440) (11:37, 09 April 2024)
 -   📖 Read chapter 1 - 130 of [To Not Die](https://anilist.co/manga/136099) (05:24, 09 April 2024)
--   📖 Read chapter 1 - 128 of [I Am a Hero](https://anilist.co/manga/44440) (06:07, 08 April 2024)
 -   📖 Read chapter 1 - 81 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:31, 07 April 2024)
 -   📖 Read chapter 1 - 183 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:41, 07 April 2024)
 -   📖 Read chapter 88 - 95 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (18:32, 06 April 2024)
