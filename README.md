@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 201 of [Nano Machine](https://anilist.co/manga/120980) (17:23, 10 April 2024)
 -   📖 Read chapter 1 - 129 of [I Am a Hero](https://anilist.co/manga/44440) (11:37, 09 April 2024)
 -   📖 Read chapter 1 - 130 of [To Not Die](https://anilist.co/manga/136099) (05:24, 09 April 2024)
 -   📖 Read chapter 1 - 81 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:31, 07 April 2024)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 1 - 168 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:43, 05 April 2024)
 -   📖 Read chapter 1 - 196 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:46, 04 April 2024)
 -   📖 Read chapter 1 - 172 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:56, 04 April 2024)
--   📖 Read chapter 1 - 200 of [Nano Machine](https://anilist.co/manga/120980) (05:54, 04 April 2024)
 -   📖 Read chapter 1 - 136 of [Get Schooled](https://anilist.co/manga/128521) (15:48, 03 April 2024)
 -   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
 -   📖 Read chapter 1 - 66 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:39, 02 April 2024)
