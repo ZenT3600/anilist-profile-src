@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 266 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:31, 13 April 2024)
+-   📖 Read chapter 1 - 67 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:25, 13 April 2024)
 -   📖 Read chapter 1 - 143 of [I Am a Hero](https://anilist.co/manga/44440) (06:03, 12 April 2024)
 -   📖 Read chapter 1 - 197 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:02, 11 April 2024)
 -   📖 Read chapter 1 - 173 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:01, 11 April 2024)
@@ -8,11 +10,9 @@
 -   📖 Read chapter 1 - 130 of [To Not Die](https://anilist.co/manga/136099) (05:24, 09 April 2024)
 -   📖 Read chapter 1 - 81 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:31, 07 April 2024)
 -   📖 Read chapter 1 - 183 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:41, 07 April 2024)
--   📖 Read chapter 1 - 265 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:39, 06 April 2024)
 -   📖 Read chapter 1 - 168 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:43, 05 April 2024)
 -   📖 Read chapter 1 - 136 of [Get Schooled](https://anilist.co/manga/128521) (15:48, 03 April 2024)
 -   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
--   📖 Read chapter 1 - 66 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:39, 02 April 2024)
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Read chapter 1 - 17 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (06:41, 26 March 2024)
 -   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
