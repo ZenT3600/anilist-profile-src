@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 82 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (18:05, 14 April 2024)
+-   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
 -   📖 Read chapter 1 - 184 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:11, 14 April 2024)
 -   📖 Read chapter 1 - 267 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:08, 14 April 2024)
 -   📖 Read chapter 88 - 97 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:05, 14 April 2024)
@@ -9,7 +11,6 @@
 -   📖 Read chapter 1 - 173 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:01, 11 April 2024)
 -   📖 Read chapter 1 - 201 of [Nano Machine](https://anilist.co/manga/120980) (17:23, 10 April 2024)
 -   📖 Read chapter 1 - 130 of [To Not Die](https://anilist.co/manga/136099) (05:24, 09 April 2024)
--   📖 Read chapter 1 - 81 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:31, 07 April 2024)
 -   📖 Read chapter 1 - 168 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:43, 05 April 2024)
 -   📖 Read chapter 1 - 136 of [Get Schooled](https://anilist.co/manga/128521) (15:48, 03 April 2024)
 -   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
--   📖 Read chapter 1 - 28 of [Kawaii Kanojo-chan](https://anilist.co/manga/144155) (16:03, 17 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
