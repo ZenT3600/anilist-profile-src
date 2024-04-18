@@ -1,5 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 198 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:53, 18 April 2024)
+-   📖 Read chapter 1 - 169 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:52, 18 April 2024)
+-   📖 Read chapter 1 - 202 of [Nano Machine](https://anilist.co/manga/120980) (04:49, 18 April 2024)
+-   📖 Read chapter 88 - 98 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:45, 18 April 2024)
 -   📖 Read chapter 1 - 161 of [I Am a Hero](https://anilist.co/manga/44440) (06:08, 16 April 2024)
 -   📖 Read chapter 1 - 131 of [To Not Die](https://anilist.co/manga/136099) (05:54, 16 April 2024)
 -   📖 Read chapter 1 - 64 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:22, 15 April 2024)
@@ -7,12 +11,8 @@
 -   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
 -   📖 Read chapter 1 - 184 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:11, 14 April 2024)
 -   📖 Read chapter 1 - 267 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:08, 14 April 2024)
--   📖 Read chapter 88 - 97 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:05, 14 April 2024)
 -   📖 Read chapter 1 - 67 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:25, 13 April 2024)
--   📖 Read chapter 1 - 197 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:02, 11 April 2024)
 -   📖 Read chapter 1 - 173 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:01, 11 April 2024)
--   📖 Read chapter 1 - 201 of [Nano Machine](https://anilist.co/manga/120980) (17:23, 10 April 2024)
--   📖 Read chapter 1 - 168 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:43, 05 April 2024)
 -   📖 Read chapter 1 - 136 of [Get Schooled](https://anilist.co/manga/128521) (15:48, 03 April 2024)
 -   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
