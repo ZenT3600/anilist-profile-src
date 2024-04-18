@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 181 of [I Am a Hero](https://anilist.co/manga/44440) (17:27, 18 April 2024)
 -   📖 Read chapter 1 - 198 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:53, 18 April 2024)
 -   📖 Read chapter 1 - 169 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:52, 18 April 2024)
 -   📖 Read chapter 1 - 202 of [Nano Machine](https://anilist.co/manga/120980) (04:49, 18 April 2024)
 -   📖 Read chapter 88 - 98 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:45, 18 April 2024)
--   📖 Read chapter 1 - 161 of [I Am a Hero](https://anilist.co/manga/44440) (06:08, 16 April 2024)
 -   📖 Read chapter 1 - 131 of [To Not Die](https://anilist.co/manga/136099) (05:54, 16 April 2024)
 -   📖 Read chapter 1 - 64 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:22, 15 April 2024)
 -   📖 Read chapter 1 - 82 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (18:05, 14 April 2024)
