@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 88 - 99 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (14:47, 20 April 2024)
 -   📖 Read chapter 1 - 195 of [I Am a Hero](https://anilist.co/manga/44440) (06:41, 20 April 2024)
 -   📖 Read chapter 1 - 268 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:32, 20 April 2024)
@@ -49,6 +50,5 @@
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
 -   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
 -   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
--   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (10:56, 22 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
