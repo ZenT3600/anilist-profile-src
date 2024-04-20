@@ -1,6 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 187 of [I Am a Hero](https://anilist.co/manga/44440) (05:04, 19 April 2024)
+-   📖 Read chapter 1 - 188 of [I Am a Hero](https://anilist.co/manga/44440) (06:33, 20 April 2024)
+-   📖 Read chapter 1 - 268 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:32, 20 April 2024)
+-   📖 Read chapter 1 - 115 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 20 April 2024)
 -   📖 Read chapter 1 - 198 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:53, 18 April 2024)
 -   📖 Read chapter 1 - 169 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:52, 18 April 2024)
 -   📖 Read chapter 1 - 202 of [Nano Machine](https://anilist.co/manga/120980) (04:49, 18 April 2024)
@@ -10,7 +12,6 @@
 -   📖 Read chapter 1 - 82 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (18:05, 14 April 2024)
 -   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
 -   📖 Read chapter 1 - 184 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:11, 14 April 2024)
--   📖 Read chapter 1 - 267 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:08, 14 April 2024)
 -   📖 Read chapter 1 - 67 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:25, 13 April 2024)
 -   📖 Read chapter 1 - 173 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:01, 11 April 2024)
 -   📖 Read chapter 1 - 136 of [Get Schooled](https://anilist.co/manga/128521) (15:48, 03 April 2024)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Read chapter 1 - 17 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (06:41, 26 March 2024)
 -   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
--   📖 Read chapter 1 - 114 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:24, 23 March 2024)
 -   📖 Read chapter 4 - 17 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (17:49, 20 March 2024)
 -   📖 Completed [Classmates](https://anilist.co/manga/39699) (17:49, 20 March 2024)
 -   📖 Completed [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
