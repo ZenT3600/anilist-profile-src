@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 185 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:06, 21 April 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 88 - 99 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (14:47, 20 April 2024)
 -   📖 Read chapter 1 - 195 of [I Am a Hero](https://anilist.co/manga/44440) (06:41, 20 April 2024)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 64 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:22, 15 April 2024)
 -   📖 Read chapter 1 - 82 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (18:05, 14 April 2024)
 -   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
--   📖 Read chapter 1 - 184 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:11, 14 April 2024)
 -   📖 Read chapter 1 - 67 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:25, 13 April 2024)
 -   📖 Read chapter 1 - 173 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:01, 11 April 2024)
 -   📖 Read chapter 1 - 136 of [Get Schooled](https://anilist.co/manga/128521) (15:48, 03 April 2024)
