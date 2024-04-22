@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 197 of [I Am a Hero](https://anilist.co/manga/44440) (04:59, 22 April 2024)
 -   📖 Read chapter 1 - 138 of [Get Schooled](https://anilist.co/manga/128521) (17:29, 21 April 2024)
 -   📖 Read chapter 1 - 83 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:19, 21 April 2024)
--   📖 Read chapter 1 - 196 of [I Am a Hero](https://anilist.co/manga/44440) (05:15, 21 April 2024)
 -   📖 Read chapter 1 - 185 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:06, 21 April 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 88 - 99 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (14:47, 20 April 2024)
