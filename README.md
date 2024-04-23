@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 49 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:35, 23 April 2024)
 -   📖 Read chapter 1 - 18 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (15:33, 23 April 2024)
 -   📖 Read chapter 1 - 224 of [I Am a Hero](https://anilist.co/manga/44440) (07:54, 23 April 2024)
 -   📖 Read chapter 1 - 138 of [Get Schooled](https://anilist.co/manga/128521) (17:29, 21 April 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
 -   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
--   📖 Paused reading [Harem Marriage](https://anilist.co/manga/86283) (13:50, 22 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
