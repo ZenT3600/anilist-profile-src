@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 214 of [I Am a Hero](https://anilist.co/manga/44440) (06:48, 23 April 2024)
+-   📖 Read chapter 1 - 224 of [I Am a Hero](https://anilist.co/manga/44440) (07:54, 23 April 2024)
 -   📖 Read chapter 1 - 138 of [Get Schooled](https://anilist.co/manga/128521) (17:29, 21 April 2024)
 -   📖 Read chapter 1 - 83 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:19, 21 April 2024)
 -   📖 Read chapter 1 - 185 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:06, 21 April 2024)
