@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 231 of [I Am a Hero](https://anilist.co/manga/44440) (06:37, 24 April 2024)
+-   📖 Read chapter 1 - 238 of [I Am a Hero](https://anilist.co/manga/44440) (06:47, 24 April 2024)
 -   📖 Read chapter 1 - 132 of [To Not Die](https://anilist.co/manga/136099) (06:26, 24 April 2024)
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
 -   📖 Read chapter 1 - 18 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (15:33, 23 April 2024)
