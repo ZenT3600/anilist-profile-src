@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 231 of [I Am a Hero](https://anilist.co/manga/44440) (06:37, 24 April 2024)
+-   📖 Read chapter 1 - 132 of [To Not Die](https://anilist.co/manga/136099) (06:26, 24 April 2024)
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
 -   📖 Read chapter 1 - 18 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (15:33, 23 April 2024)
--   📖 Read chapter 1 - 224 of [I Am a Hero](https://anilist.co/manga/44440) (07:54, 23 April 2024)
 -   📖 Read chapter 1 - 138 of [Get Schooled](https://anilist.co/manga/128521) (17:29, 21 April 2024)
 -   📖 Read chapter 1 - 83 of [Ki ni Natteru Hito ga Otoko Janakatta](https://anilist.co/manga/149544) (17:19, 21 April 2024)
 -   📖 Read chapter 1 - 185 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:06, 21 April 2024)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 198 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:53, 18 April 2024)
 -   📖 Read chapter 1 - 169 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:52, 18 April 2024)
 -   📖 Read chapter 1 - 202 of [Nano Machine](https://anilist.co/manga/120980) (04:49, 18 April 2024)
--   📖 Read chapter 1 - 131 of [To Not Die](https://anilist.co/manga/136099) (05:54, 16 April 2024)
 -   📖 Read chapter 1 - 64 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (06:22, 15 April 2024)
 -   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
 -   📖 Read chapter 1 - 67 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:25, 13 April 2024)
