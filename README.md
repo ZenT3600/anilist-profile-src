@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 258 of [I Am a Hero](https://anilist.co/manga/44440) (16:08, 24 April 2024)
+-   📖 Completed [I Am a Hero](https://anilist.co/manga/44440) (16:21, 24 April 2024)
+-   📖 Read chapter 1 - 264 of [I Am a Hero](https://anilist.co/manga/44440) (16:17, 24 April 2024)
 -   📖 Read chapter 1 - 43 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:46, 24 April 2024)
 -   📖 Read chapter 1 - 132 of [To Not Die](https://anilist.co/manga/136099) (06:26, 24 April 2024)
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
 -   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 -   📖 Completed [Love’s in Sight!](https://anilist.co/manga/107445) (09:42, 31 January 2024)
--   📖 Read chapter 1 - 125 of [Love’s in Sight!](https://anilist.co/manga/107445) (09:41, 31 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
