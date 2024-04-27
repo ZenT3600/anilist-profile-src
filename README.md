@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Sora & Haena](https://anilist.co/manga/126769) (05:29, 27 April 2024)
+-   📖 Read chapter 1 - 13 of [Sora & Haena](https://anilist.co/manga/126769) (05:54, 27 April 2024)
 -   📖 Read chapter 1 - 199 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:54, 26 April 2024)
 -   📖 Read chapter 1 - 269 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:49, 26 April 2024)
 -   📖 Read chapter 1 - 203 of [Nano Machine](https://anilist.co/manga/120980) (05:06, 25 April 2024)
