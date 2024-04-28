@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 28 of [Sora & Haena](https://anilist.co/manga/126769) (06:12, 28 April 2024)
+-   📖 Read chapter 1 - 40 of [Sora & Haena](https://anilist.co/manga/126769) (16:32, 28 April 2024)
 -   📖 Read chapter 1 - 186 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:47, 28 April 2024)
 -   📖 Read chapter 1 - 270 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:04, 27 April 2024)
 -   📖 Read chapter 1 - 199 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:54, 26 April 2024)
