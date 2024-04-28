@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 19 of [Sora & Haena](https://anilist.co/manga/126769) (17:14, 27 April 2024)
+-   📖 Read chapter 1 - 26 of [Sora & Haena](https://anilist.co/manga/126769) (06:07, 28 April 2024)
+-   📖 Read chapter 1 - 186 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:47, 28 April 2024)
 -   📖 Read chapter 1 - 270 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:04, 27 April 2024)
 -   📖 Read chapter 1 - 199 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:54, 26 April 2024)
 -   📖 Read chapter 1 - 203 of [Nano Machine](https://anilist.co/manga/120980) (05:06, 25 April 2024)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 18 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (15:33, 23 April 2024)
 -   📖 Read chapter 1 - 138 of [Get Schooled](https://anilist.co/manga/128521) (17:29, 21 April 2024)
 -   📖 Read chapter 1 - 83 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (17:19, 21 April 2024)
--   📖 Read chapter 1 - 185 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:06, 21 April 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 1 - 115 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 20 April 2024)
 -   📖 Read chapter 1 - 169 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:52, 18 April 2024)
