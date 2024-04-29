@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 48 of [Sora & Haena](https://anilist.co/manga/126769) (05:33, 29 April 2024)
+-   📖 Completed [Sora & Haena](https://anilist.co/manga/126769) (05:40, 29 April 2024)
+-   📖 Read chapter 1 - 50 of [Sora & Haena](https://anilist.co/manga/126769) (05:37, 29 April 2024)
 -   📖 Read chapter 110 - 156 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:19, 29 April 2024)
 -   📖 Read chapter 88 - 101 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:18, 29 April 2024)
 -   📖 Read chapter 1 - 186 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:47, 28 April 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 28 - 51 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:25, 27 February 2024)
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
--   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
