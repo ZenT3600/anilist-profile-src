@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Astral Pet Store](https://anilist.co/manga/160143) (16:32, 29 April 2024)
 -   📖 Read chapter 56 - 97 of [SPY x FAMILY](https://anilist.co/manga/108556) (15:32, 29 April 2024)
 -   📖 Completed [Sora & Haena](https://anilist.co/manga/126769) (05:40, 29 April 2024)
 -   📖 Read chapter 1 - 50 of [Sora & Haena](https://anilist.co/manga/126769) (05:37, 29 April 2024)
@@ -49,6 +50,5 @@
 -   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
 -   📖 Read chapter 28 - 51 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:25, 27 February 2024)
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
--   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
