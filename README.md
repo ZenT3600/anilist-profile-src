@@ -1,12 +1,13 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 43 of [Sora & Haena](https://anilist.co/manga/126769) (16:37, 28 April 2024)
+-   📖 Read chapter 1 - 48 of [Sora & Haena](https://anilist.co/manga/126769) (05:33, 29 April 2024)
+-   📖 Read chapter 110 - 156 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:19, 29 April 2024)
+-   📖 Read chapter 88 - 101 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:18, 29 April 2024)
 -   📖 Read chapter 1 - 186 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:47, 28 April 2024)
 -   📖 Read chapter 1 - 270 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:04, 27 April 2024)
 -   📖 Read chapter 1 - 199 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:54, 26 April 2024)
 -   📖 Read chapter 1 - 203 of [Nano Machine](https://anilist.co/manga/120980) (05:06, 25 April 2024)
 -   📖 Read chapter 1 - 174 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:02, 25 April 2024)
--   📖 Read chapter 88 - 100 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:10, 25 April 2024)
 -   📖 Completed [I Am a Hero](https://anilist.co/manga/44440) (16:21, 24 April 2024)
 -   📖 Read chapter 1 - 264 of [I Am a Hero](https://anilist.co/manga/44440) (16:17, 24 April 2024)
 -   📖 Read chapter 1 - 43 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:46, 24 April 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 110 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (16:00, 17 February 2024)
 -   📖 Read chapter 1 - 63 of [The Apothecary Diaries](https://anilist.co/manga/99022) (17:24, 14 February 2024)
 -   📖 Read chapter 6 of [Classmates](https://anilist.co/manga/39699) (17:37, 12 February 2024)
--   📖 Read chapter 1 - 133 of [Chainsaw Man](https://anilist.co/manga/105778) (07:29, 03 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
