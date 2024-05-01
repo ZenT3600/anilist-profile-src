@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 271 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:04, 01 May 2024)
+-   📖 Read chapter 1 - 133 of [To Not Die](https://anilist.co/manga/136099) (07:04, 01 May 2024)
 -   📖 Read chapter 1 - 37 of [Astral Pet Store](https://anilist.co/manga/160143) (15:58, 30 April 2024)
 -   📖 Read chapter 1 - 65 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:43, 30 April 2024)
 -   📖 Read chapter 56 - 97 of [SPY x FAMILY](https://anilist.co/manga/108556) (15:32, 29 April 2024)
@@ -8,14 +10,12 @@
 -   📖 Read chapter 110 - 156 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:19, 29 April 2024)
 -   📖 Read chapter 88 - 101 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:18, 29 April 2024)
 -   📖 Read chapter 1 - 186 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:47, 28 April 2024)
--   📖 Read chapter 1 - 270 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:04, 27 April 2024)
 -   📖 Read chapter 1 - 199 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:54, 26 April 2024)
 -   📖 Read chapter 1 - 203 of [Nano Machine](https://anilist.co/manga/120980) (05:06, 25 April 2024)
 -   📖 Read chapter 1 - 174 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:02, 25 April 2024)
 -   📖 Completed [I Am a Hero](https://anilist.co/manga/44440) (16:21, 24 April 2024)
 -   📖 Read chapter 1 - 264 of [I Am a Hero](https://anilist.co/manga/44440) (16:17, 24 April 2024)
 -   📖 Read chapter 1 - 43 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:46, 24 April 2024)
--   📖 Read chapter 1 - 132 of [To Not Die](https://anilist.co/manga/136099) (06:26, 24 April 2024)
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
 -   📖 Read chapter 1 - 18 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (15:33, 23 April 2024)
 -   📖 Read chapter 1 - 138 of [Get Schooled](https://anilist.co/manga/128521) (17:29, 21 April 2024)
