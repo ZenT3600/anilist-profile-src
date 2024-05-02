@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 39 of [Astral Pet Store](https://anilist.co/manga/160143) (09:31, 02 May 2024)
+-   📖 Read chapter 1 - 46 of [Astral Pet Store](https://anilist.co/manga/160143) (09:50, 02 May 2024)
 -   📖 Read chapter 1 - 204 of [Nano Machine](https://anilist.co/manga/120980) (06:24, 02 May 2024)
 -   📖 Read chapter 1 - 271 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:04, 01 May 2024)
 -   📖 Read chapter 1 - 133 of [To Not Die](https://anilist.co/manga/136099) (07:04, 01 May 2024)
