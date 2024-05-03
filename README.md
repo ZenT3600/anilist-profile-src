@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 159 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (06:00, 03 May 2024)
+-   📖 Read chapter 88 - 102 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:56, 03 May 2024)
 -   📖 Read chapter 1 - 47 of [Astral Pet Store](https://anilist.co/manga/160143) (15:53, 02 May 2024)
 -   📖 Read chapter 1 - 204 of [Nano Machine](https://anilist.co/manga/120980) (06:24, 02 May 2024)
 -   📖 Read chapter 1 - 271 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:04, 01 May 2024)
@@ -9,7 +11,6 @@
 -   📖 Completed [Sora & Haena](https://anilist.co/manga/126769) (05:40, 29 April 2024)
 -   📖 Read chapter 1 - 50 of [Sora & Haena](https://anilist.co/manga/126769) (05:37, 29 April 2024)
 -   📖 Read chapter 110 - 156 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (05:19, 29 April 2024)
--   📖 Read chapter 88 - 101 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:18, 29 April 2024)
 -   📖 Read chapter 1 - 186 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:47, 28 April 2024)
 -   📖 Read chapter 1 - 199 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (04:54, 26 April 2024)
 -   📖 Read chapter 1 - 174 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:02, 25 April 2024)
@@ -35,7 +36,6 @@
 -   📖 Completed [Hajimari no Niina](https://anilist.co/manga/56021) (14:15, 17 March 2024)
 -   📖 Read chapter 1 - 19 of [Hajimari no Niina](https://anilist.co/manga/56021) (14:14, 17 March 2024)
 -   📖 Read chapter 1 - 102 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:19, 16 March 2024)
--   📖 Read chapter 1 - 157 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (11:51, 16 March 2024)
 -   📖 Read chapter 1 - 148 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:17, 16 March 2024)
 -   📖 Completed [This Wonderful Season With You](https://anilist.co/manga/109987) (07:21, 14 March 2024)
 -   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
