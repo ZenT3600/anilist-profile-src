@@ -1,10 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 53 of [Astral Pet Store](https://anilist.co/manga/160143) (05:56, 06 May 2024)
+-   📖 Read chapter 1 - 84 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:39, 06 May 2024)
 -   📖 Read chapter 1 - 187 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:17, 05 May 2024)
 -   📖 Read chapter 1 - 272 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:14, 05 May 2024)
 -   📖 Read chapter 88 - 103 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:31, 05 May 2024)
 -   📖 Read chapter 1 - 161 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (08:11, 03 May 2024)
--   📖 Read chapter 1 - 47 of [Astral Pet Store](https://anilist.co/manga/160143) (15:53, 02 May 2024)
 -   📖 Read chapter 1 - 204 of [Nano Machine](https://anilist.co/manga/120980) (06:24, 02 May 2024)
 -   📖 Read chapter 1 - 133 of [To Not Die](https://anilist.co/manga/136099) (07:04, 01 May 2024)
 -   📖 Read chapter 1 - 65 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:43, 30 April 2024)
@@ -20,7 +21,6 @@
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
 -   📖 Read chapter 1 - 18 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (15:33, 23 April 2024)
 -   📖 Read chapter 1 - 138 of [Get Schooled](https://anilist.co/manga/128521) (17:29, 21 April 2024)
--   📖 Read chapter 1 - 83 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (17:19, 21 April 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 1 - 115 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 20 April 2024)
 -   📖 Read chapter 1 - 169 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:52, 18 April 2024)
