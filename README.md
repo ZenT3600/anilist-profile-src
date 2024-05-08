@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 134 of [To Not Die](https://anilist.co/manga/136099) (07:51, 08 May 2024)
 -   📖 Read chapter 1 - 170 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:13, 07 May 2024)
 -   📖 Read chapter 1 - 163 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (13:31, 07 May 2024)
 -   📖 Read chapter 1 - 273 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:27, 07 May 2024)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 187 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:17, 05 May 2024)
 -   📖 Read chapter 88 - 103 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:31, 05 May 2024)
 -   📖 Read chapter 1 - 204 of [Nano Machine](https://anilist.co/manga/120980) (06:24, 02 May 2024)
--   📖 Read chapter 1 - 133 of [To Not Die](https://anilist.co/manga/136099) (07:04, 01 May 2024)
 -   📖 Read chapter 1 - 65 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:43, 30 April 2024)
 -   📖 Read chapter 56 - 97 of [SPY x FAMILY](https://anilist.co/manga/108556) (15:32, 29 April 2024)
 -   📖 Completed [Sora & Haena](https://anilist.co/manga/126769) (05:40, 29 April 2024)
