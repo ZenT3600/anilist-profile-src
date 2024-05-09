@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
 -   📖 Read chapter 1 - 200 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:16, 09 May 2024)
 -   📖 Read chapter 1 - 205 of [Nano Machine](https://anilist.co/manga/120980) (12:14, 09 May 2024)
 -   📖 Read chapter 88 - 104 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:54, 09 May 2024)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 1 - 174 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:02, 25 April 2024)
 -   📖 Completed [I Am a Hero](https://anilist.co/manga/44440) (16:21, 24 April 2024)
 -   📖 Read chapter 1 - 264 of [I Am a Hero](https://anilist.co/manga/44440) (16:17, 24 April 2024)
--   📖 Read chapter 1 - 43 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:46, 24 April 2024)
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
 -   📖 Read chapter 1 - 18 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (15:33, 23 April 2024)
 -   📖 Read chapter 1 - 138 of [Get Schooled](https://anilist.co/manga/128521) (17:29, 21 April 2024)
