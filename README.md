@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 150 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:04, 10 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
 -   📖 Read chapter 1 - 200 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:16, 09 May 2024)
 -   📖 Read chapter 1 - 205 of [Nano Machine](https://anilist.co/manga/120980) (12:14, 09 May 2024)
@@ -36,7 +37,6 @@
 -   📖 Completed [Hajimari no Niina](https://anilist.co/manga/56021) (14:15, 17 March 2024)
 -   📖 Read chapter 1 - 19 of [Hajimari no Niina](https://anilist.co/manga/56021) (14:14, 17 March 2024)
 -   📖 Read chapter 1 - 102 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:19, 16 March 2024)
--   📖 Read chapter 1 - 148 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (08:17, 16 March 2024)
 -   📖 Completed [This Wonderful Season With You](https://anilist.co/manga/109987) (07:21, 14 March 2024)
 -   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
 -   📖 Completed [No Love Zone](https://anilist.co/manga/115610) (08:16, 12 March 2024)
