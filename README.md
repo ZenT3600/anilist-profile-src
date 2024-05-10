@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 64 of [Astral Pet Store](https://anilist.co/manga/160143) (05:06, 10 May 2024)
+-   📖 Read chapter 1 - 166 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:42, 10 May 2024)
 -   📖 Read chapter 1 - 150 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:04, 10 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
 -   📖 Read chapter 1 - 200 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:16, 09 May 2024)
@@ -7,9 +9,7 @@
 -   📖 Read chapter 88 - 104 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:54, 09 May 2024)
 -   📖 Read chapter 1 - 134 of [To Not Die](https://anilist.co/manga/136099) (07:51, 08 May 2024)
 -   📖 Read chapter 1 - 170 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:13, 07 May 2024)
--   📖 Read chapter 1 - 163 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (13:31, 07 May 2024)
 -   📖 Read chapter 1 - 273 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:27, 07 May 2024)
--   📖 Read chapter 1 - 53 of [Astral Pet Store](https://anilist.co/manga/160143) (05:56, 06 May 2024)
 -   📖 Read chapter 1 - 84 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:39, 06 May 2024)
 -   📖 Read chapter 1 - 187 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:17, 05 May 2024)
 -   📖 Read chapter 1 - 65 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:43, 30 April 2024)
