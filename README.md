@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 167 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (13:01, 11 May 2024)
 -   📖 Read chapter 1 - 82 of [Astral Pet Store](https://anilist.co/manga/160143) (08:08, 11 May 2024)
--   📖 Read chapter 1 - 166 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (04:42, 10 May 2024)
 -   📖 Read chapter 1 - 150 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:04, 10 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
 -   📖 Read chapter 1 - 200 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:16, 09 May 2024)
