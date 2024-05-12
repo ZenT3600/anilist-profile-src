@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
 -   📖 Read chapter 1 - 167 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (13:01, 11 May 2024)
 -   📖 Read chapter 1 - 82 of [Astral Pet Store](https://anilist.co/manga/160143) (08:08, 11 May 2024)
 -   📖 Read chapter 1 - 150 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:04, 10 May 2024)
@@ -26,7 +27,6 @@
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 1 - 115 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 20 April 2024)
 -   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
--   📖 Read chapter 1 - 67 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (06:25, 13 April 2024)
 -   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
