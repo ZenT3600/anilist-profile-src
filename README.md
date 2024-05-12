@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 168 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (15:07, 12 May 2024)
 -   📖 Read chapter 1 - 188 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:43, 12 May 2024)
 -   📖 Read chapter 1 - 139 of [Get Schooled](https://anilist.co/manga/128521) (05:39, 12 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
--   📖 Read chapter 1 - 167 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (13:01, 11 May 2024)
 -   📖 Read chapter 1 - 82 of [Astral Pet Store](https://anilist.co/manga/160143) (08:08, 11 May 2024)
 -   📖 Read chapter 1 - 150 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:04, 10 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
