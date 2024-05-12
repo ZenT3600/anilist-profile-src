@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 188 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:43, 12 May 2024)
+-   📖 Read chapter 1 - 139 of [Get Schooled](https://anilist.co/manga/128521) (05:39, 12 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
 -   📖 Read chapter 1 - 167 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (13:01, 11 May 2024)
 -   📖 Read chapter 1 - 82 of [Astral Pet Store](https://anilist.co/manga/160143) (08:08, 11 May 2024)
@@ -12,7 +14,6 @@
 -   📖 Read chapter 1 - 170 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:13, 07 May 2024)
 -   📖 Read chapter 1 - 273 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:27, 07 May 2024)
 -   📖 Read chapter 1 - 84 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:39, 06 May 2024)
--   📖 Read chapter 1 - 187 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:17, 05 May 2024)
 -   📖 Read chapter 1 - 65 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:43, 30 April 2024)
 -   📖 Read chapter 56 - 97 of [SPY x FAMILY](https://anilist.co/manga/108556) (15:32, 29 April 2024)
 -   📖 Completed [Sora & Haena](https://anilist.co/manga/126769) (05:40, 29 April 2024)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 1 - 264 of [I Am a Hero](https://anilist.co/manga/44440) (16:17, 24 April 2024)
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
 -   📖 Read chapter 1 - 18 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (15:33, 23 April 2024)
--   📖 Read chapter 1 - 138 of [Get Schooled](https://anilist.co/manga/128521) (17:29, 21 April 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 1 - 115 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:30, 20 April 2024)
 -   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
