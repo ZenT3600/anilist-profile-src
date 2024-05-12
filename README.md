@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 168 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (15:07, 12 May 2024)
+-   📖 Read chapter 1 - 85 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (15:09, 12 May 2024)
+-   📖 Read chapter 1 - 169 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (15:09, 12 May 2024)
 -   📖 Read chapter 1 - 188 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:43, 12 May 2024)
 -   📖 Read chapter 1 - 139 of [Get Schooled](https://anilist.co/manga/128521) (05:39, 12 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 134 of [To Not Die](https://anilist.co/manga/136099) (07:51, 08 May 2024)
 -   📖 Read chapter 1 - 170 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:13, 07 May 2024)
 -   📖 Read chapter 1 - 273 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (13:27, 07 May 2024)
--   📖 Read chapter 1 - 84 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:39, 06 May 2024)
 -   📖 Read chapter 1 - 65 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:43, 30 April 2024)
 -   📖 Read chapter 56 - 97 of [SPY x FAMILY](https://anilist.co/manga/108556) (15:32, 29 April 2024)
 -   📖 Completed [Sora & Haena](https://anilist.co/manga/126769) (05:40, 29 April 2024)
