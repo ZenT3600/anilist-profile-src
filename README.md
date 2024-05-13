@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 86 of [Astral Pet Store](https://anilist.co/manga/160143) (08:56, 13 May 2024)
 -   📖 Read chapter 56 - 98 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:12, 13 May 2024)
 -   📖 Read chapter 1 - 274 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:00, 13 May 2024)
 -   📖 Read chapter 1 - 85 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (15:09, 12 May 2024)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 188 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:43, 12 May 2024)
 -   📖 Read chapter 1 - 139 of [Get Schooled](https://anilist.co/manga/128521) (05:39, 12 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
--   📖 Read chapter 1 - 82 of [Astral Pet Store](https://anilist.co/manga/160143) (08:08, 11 May 2024)
 -   📖 Read chapter 1 - 150 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:04, 10 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
 -   📖 Read chapter 1 - 200 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:16, 09 May 2024)
