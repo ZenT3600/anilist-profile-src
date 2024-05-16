@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 107 of [Astral Pet Store](https://anilist.co/manga/160143) (10:00, 16 May 2024)
+-   📖 Read chapter 1 - 108 of [Astral Pet Store](https://anilist.co/manga/160143) (17:03, 16 May 2024)
+-   📖 Read chapter 88 - 106 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (16:58, 16 May 2024)
 -   📖 Read chapter 1 - 207 of [Nano Machine](https://anilist.co/manga/120980) (07:41, 16 May 2024)
 -   📖 Read chapter 1 - 201 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:36, 16 May 2024)
 -   📖 Read chapter 1 - 276 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:56, 16 May 2024)
--   📖 Read chapter 88 - 105 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:44, 16 May 2024)
 -   📖 Read chapter 56 - 98 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:12, 13 May 2024)
 -   📖 Read chapter 1 - 85 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (15:09, 12 May 2024)
 -   📖 Read chapter 1 - 169 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (15:09, 12 May 2024)
