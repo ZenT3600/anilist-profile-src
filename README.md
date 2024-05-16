@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 207 of [Nano Machine](https://anilist.co/manga/120980) (07:41, 16 May 2024)
+-   📖 Read chapter 1 - 201 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (07:36, 16 May 2024)
 -   📖 Read chapter 1 - 276 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:56, 16 May 2024)
 -   📖 Read chapter 88 - 105 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:44, 16 May 2024)
 -   📖 Read chapter 1 - 106 of [Astral Pet Store](https://anilist.co/manga/160143) (15:08, 14 May 2024)
@@ -11,8 +13,6 @@
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
 -   📖 Read chapter 1 - 150 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:04, 10 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
--   📖 Read chapter 1 - 200 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (12:16, 09 May 2024)
--   📖 Read chapter 1 - 205 of [Nano Machine](https://anilist.co/manga/120980) (12:14, 09 May 2024)
 -   📖 Read chapter 1 - 134 of [To Not Die](https://anilist.co/manga/136099) (07:51, 08 May 2024)
 -   📖 Read chapter 1 - 170 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:13, 07 May 2024)
 -   📖 Read chapter 1 - 65 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:43, 30 April 2024)
