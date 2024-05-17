@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 140 of [Get Schooled](https://anilist.co/manga/128521) (18:07, 17 May 2024)
 -   📖 Read chapter 1 - 143 of [Astral Pet Store](https://anilist.co/manga/160143) (10:53, 17 May 2024)
 -   📖 Read chapter 88 - 106 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (16:58, 16 May 2024)
 -   📖 Read chapter 1 - 207 of [Nano Machine](https://anilist.co/manga/120980) (07:41, 16 May 2024)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 1 - 85 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (15:09, 12 May 2024)
 -   📖 Read chapter 1 - 169 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (15:09, 12 May 2024)
 -   📖 Read chapter 1 - 188 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:43, 12 May 2024)
--   📖 Read chapter 1 - 139 of [Get Schooled](https://anilist.co/manga/128521) (05:39, 12 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
 -   📖 Read chapter 1 - 150 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (04:04, 10 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
