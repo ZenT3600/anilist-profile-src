@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 146 of [Astral Pet Store](https://anilist.co/manga/160143) (13:47, 19 May 2024)
 -   📖 Read chapter 1 - 116 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:28, 19 May 2024)
 -   📖 Read chapter 1 - 189 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:24, 19 May 2024)
 -   📖 Read chapter 1 - 103 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:21, 19 May 2024)
--   📖 Read chapter 1 - 144 of [Astral Pet Store](https://anilist.co/manga/160143) (15:22, 18 May 2024)
 -   📖 Read chapter 1 - 173 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (15:20, 18 May 2024)
 -   📖 Read chapter 1 - 141 of [Get Schooled](https://anilist.co/manga/128521) (05:50, 18 May 2024)
 -   📖 Read chapter 88 - 106 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (16:58, 16 May 2024)
