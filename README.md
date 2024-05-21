@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 143 of [Chainsaw Man](https://anilist.co/manga/105778) (05:38, 21 May 2024)
 -   📖 Read chapter 1 - 148 of [Astral Pet Store](https://anilist.co/manga/160143) (05:39, 20 May 2024)
 -   📖 Read chapter 1 - 36 of [Citrus+](https://anilist.co/manga/103884) (05:35, 20 May 2024)
 -   📖 Read chapter 1 - 277 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 20 May 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 3 of [Batsu Naki Gaiden: Takanashi-kun to Karasuma-san](https://anilist.co/manga/169593) (10:58, 29 February 2024)
 -   📖 Read chapter 1 - 122 of [Solo Leveling](https://anilist.co/manga/105398) (14:25, 28 February 2024)
 -   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
--   📖 Read chapter 28 - 51 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:25, 27 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
