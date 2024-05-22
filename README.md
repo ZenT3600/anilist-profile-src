@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 149 of [Astral Pet Store](https://anilist.co/manga/160143) (07:37, 22 May 2024)
 -   📖 Read chapter 110 - 157 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:38, 22 May 2024)
 -   📖 Read chapter 1 - 143 of [Chainsaw Man](https://anilist.co/manga/105778) (05:38, 21 May 2024)
--   📖 Read chapter 1 - 148 of [Astral Pet Store](https://anilist.co/manga/160143) (05:39, 20 May 2024)
 -   📖 Read chapter 1 - 36 of [Citrus+](https://anilist.co/manga/103884) (05:35, 20 May 2024)
 -   📖 Read chapter 1 - 277 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 20 May 2024)
 -   📖 Read chapter 1 - 86 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:54, 20 May 2024)
