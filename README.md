@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 179 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (09:43, 24 May 2024)
 -   📖 Read chapter 1 - 208 of [Nano Machine](https://anilist.co/manga/120980) (09:31, 24 May 2024)
 -   📖 Read chapter 88 - 108 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:16, 24 May 2024)
 -   📖 Read chapter 1 - 202 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:53, 23 May 2024)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 116 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:28, 19 May 2024)
 -   📖 Read chapter 1 - 189 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:24, 19 May 2024)
 -   📖 Read chapter 1 - 103 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:21, 19 May 2024)
--   📖 Read chapter 1 - 173 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (15:20, 18 May 2024)
 -   📖 Read chapter 1 - 141 of [Get Schooled](https://anilist.co/manga/128521) (05:50, 18 May 2024)
 -   📖 Read chapter 56 - 98 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:12, 13 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
