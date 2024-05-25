@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (06:07, 25 May 2024)
 -   📖 Read chapter 1 - 180 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:03, 24 May 2024)
 -   📖 Read chapter 1 - 208 of [Nano Machine](https://anilist.co/manga/120980) (09:31, 24 May 2024)
 -   📖 Read chapter 88 - 108 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:16, 24 May 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
 -   📖 Read chapter 3 of [Batsu Naki Gaiden: Takanashi-kun to Karasuma-san](https://anilist.co/manga/169593) (10:58, 29 February 2024)
 -   📖 Read chapter 1 - 122 of [Solo Leveling](https://anilist.co/manga/105398) (14:25, 28 February 2024)
--   📖 Completed [Kuroi Santa Yori](https://anilist.co/manga/175255) (07:20, 27 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
