@@ -1,7 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 17 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (07:29, 26 May 2024)
+-   📖 Read chapter 1 - 190 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:21, 26 May 2024)
 -   📖 Read chapter 88 - 109 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:44, 26 May 2024)
--   📖 Read chapter 1 - 13 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (14:06, 25 May 2024)
 -   📖 Read chapter 1 - 180 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:03, 24 May 2024)
 -   📖 Read chapter 1 - 208 of [Nano Machine](https://anilist.co/manga/120980) (09:31, 24 May 2024)
 -   📖 Read chapter 1 - 202 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:53, 23 May 2024)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 1 - 277 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 20 May 2024)
 -   📖 Read chapter 1 - 86 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:54, 20 May 2024)
 -   📖 Read chapter 1 - 116 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:28, 19 May 2024)
--   📖 Read chapter 1 - 189 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:24, 19 May 2024)
 -   📖 Read chapter 1 - 103 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:21, 19 May 2024)
 -   📖 Read chapter 1 - 141 of [Get Schooled](https://anilist.co/manga/128521) (05:50, 18 May 2024)
 -   📖 Read chapter 56 - 98 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:12, 13 May 2024)
