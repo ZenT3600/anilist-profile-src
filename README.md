@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 87 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (06:15, 27 May 2024)
 -   📖 Read chapter 1 - 17 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (07:29, 26 May 2024)
 -   📖 Read chapter 1 - 190 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:21, 26 May 2024)
 -   📖 Read chapter 88 - 109 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:44, 26 May 2024)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 143 of [Chainsaw Man](https://anilist.co/manga/105778) (05:38, 21 May 2024)
 -   📖 Read chapter 1 - 36 of [Citrus+](https://anilist.co/manga/103884) (05:35, 20 May 2024)
 -   📖 Read chapter 1 - 277 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:32, 20 May 2024)
--   📖 Read chapter 1 - 86 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:54, 20 May 2024)
 -   📖 Read chapter 1 - 116 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:28, 19 May 2024)
 -   📖 Read chapter 1 - 103 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:21, 19 May 2024)
 -   📖 Read chapter 1 - 141 of [Get Schooled](https://anilist.co/manga/128521) (05:50, 18 May 2024)
