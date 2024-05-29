@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 22 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:34, 29 May 2024)
 -   📖 Read chapter 1 - 171 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:12, 29 May 2024)
 -   📖 Read chapter 1 - 150 of [Astral Pet Store](https://anilist.co/manga/160143) (05:05, 28 May 2024)
 -   📖 Read chapter 1 - 279 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:02, 28 May 2024)
 -   📖 Read chapter 1 - 87 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (06:15, 27 May 2024)
--   📖 Read chapter 1 - 17 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (07:29, 26 May 2024)
 -   📖 Read chapter 1 - 190 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:21, 26 May 2024)
 -   📖 Read chapter 88 - 109 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:44, 26 May 2024)
 -   📖 Read chapter 1 - 180 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:03, 24 May 2024)
