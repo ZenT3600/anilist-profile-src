@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 22 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:34, 29 May 2024)
+-   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
+-   📖 Read chapter 1 - 28 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:43, 29 May 2024)
 -   📖 Read chapter 1 - 171 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:12, 29 May 2024)
 -   📖 Read chapter 1 - 150 of [Astral Pet Store](https://anilist.co/manga/160143) (05:05, 28 May 2024)
 -   📖 Read chapter 1 - 279 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:02, 28 May 2024)
@@ -49,6 +50,5 @@
 -   📖 Completed [Red Theatre](https://anilist.co/manga/98065) (18:02, 01 March 2024)
 -   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
 -   📖 Read chapter 3 of [Batsu Naki Gaiden: Takanashi-kun to Karasuma-san](https://anilist.co/manga/169593) (10:58, 29 February 2024)
--   📖 Read chapter 1 - 122 of [Solo Leveling](https://anilist.co/manga/105398) (14:25, 28 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
