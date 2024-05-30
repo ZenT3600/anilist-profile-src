@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (08:58, 30 May 2024)
+-   📖 Read chapter 1 - 209 of [Nano Machine](https://anilist.co/manga/120980) (08:41, 30 May 2024)
 -   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
 -   📖 Read chapter 1 - 28 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:43, 29 May 2024)
 -   📖 Read chapter 1 - 171 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:12, 29 May 2024)
@@ -9,7 +11,6 @@
 -   📖 Read chapter 1 - 190 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:21, 26 May 2024)
 -   📖 Read chapter 88 - 109 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:44, 26 May 2024)
 -   📖 Read chapter 1 - 180 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:03, 24 May 2024)
--   📖 Read chapter 1 - 208 of [Nano Machine](https://anilist.co/manga/120980) (09:31, 24 May 2024)
 -   📖 Read chapter 1 - 202 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:53, 23 May 2024)
 -   📖 Read chapter 1 - 175 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (14:52, 23 May 2024)
 -   📖 Read chapter 1 - 151 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (14:49, 23 May 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 2 - 350 of [Berserk](https://anilist.co/manga/30002) (09:03, 11 March 2024)
 -   📖 Completed [Red Theatre](https://anilist.co/manga/98065) (18:02, 01 March 2024)
 -   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
--   📖 Read chapter 3 of [Batsu Naki Gaiden: Takanashi-kun to Karasuma-san](https://anilist.co/manga/169593) (10:58, 29 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
