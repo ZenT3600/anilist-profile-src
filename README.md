@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 9 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (18:56, 31 May 2024)
+-   📖 Completed [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
+-   📖 Read chapter 1 - 13 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
 -   📖 Read chapter 1 - 135 of [To Not Die](https://anilist.co/manga/136099) (12:20, 31 May 2024)
 -   📖 Read chapter 1 - 203 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:25, 31 May 2024)
 -   📖 Read chapter 88 - 110 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:00, 31 May 2024)
@@ -49,6 +50,5 @@
 -   📖 Plans to read [This Wonderful Season With You](https://anilist.co/manga/109987) (14:25, 11 March 2024)
 -   📖 Read chapter 2 - 350 of [Berserk](https://anilist.co/manga/30002) (09:03, 11 March 2024)
 -   📖 Completed [Red Theatre](https://anilist.co/manga/98065) (18:02, 01 March 2024)
--   📖 Read chapter 1 - 191 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:30, 01 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
