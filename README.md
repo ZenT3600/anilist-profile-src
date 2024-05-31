@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (17:15, 31 May 2024)
+-   📖 Read chapter 1 - 9 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (18:56, 31 May 2024)
 -   📖 Read chapter 1 - 135 of [To Not Die](https://anilist.co/manga/136099) (12:20, 31 May 2024)
 -   📖 Read chapter 1 - 203 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:25, 31 May 2024)
 -   📖 Read chapter 88 - 110 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:00, 31 May 2024)
