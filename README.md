@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 110 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:00, 31 May 2024)
+-   📖 Read chapter 1 - 19 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (05:00, 31 May 2024)
 -   📖 Read chapter 1 - 3 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (08:58, 30 May 2024)
 -   📖 Read chapter 1 - 209 of [Nano Machine](https://anilist.co/manga/120980) (08:41, 30 May 2024)
 -   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
@@ -9,7 +11,6 @@
 -   📖 Read chapter 1 - 279 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:02, 28 May 2024)
 -   📖 Read chapter 1 - 87 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (06:15, 27 May 2024)
 -   📖 Read chapter 1 - 190 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:21, 26 May 2024)
--   📖 Read chapter 88 - 109 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:44, 26 May 2024)
 -   📖 Read chapter 1 - 180 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:03, 24 May 2024)
 -   📖 Read chapter 1 - 202 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:53, 23 May 2024)
 -   📖 Read chapter 1 - 175 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (14:52, 23 May 2024)
@@ -30,7 +31,6 @@
 -   📖 Completed [I Am a Hero](https://anilist.co/manga/44440) (16:21, 24 April 2024)
 -   📖 Read chapter 1 - 264 of [I Am a Hero](https://anilist.co/manga/44440) (16:17, 24 April 2024)
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
--   📖 Read chapter 1 - 18 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (15:33, 23 April 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
 -   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
