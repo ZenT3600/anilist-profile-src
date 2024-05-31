@@ -1,9 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (12:28, 31 May 2024)
+-   📖 Read chapter 1 - 135 of [To Not Die](https://anilist.co/manga/136099) (12:20, 31 May 2024)
 -   📖 Read chapter 1 - 203 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:25, 31 May 2024)
 -   📖 Read chapter 88 - 110 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:00, 31 May 2024)
 -   📖 Read chapter 1 - 19 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (05:00, 31 May 2024)
--   📖 Read chapter 1 - 3 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (08:58, 30 May 2024)
 -   📖 Read chapter 1 - 209 of [Nano Machine](https://anilist.co/manga/120980) (08:41, 30 May 2024)
 -   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
 -   📖 Read chapter 1 - 28 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:43, 29 May 2024)
@@ -24,7 +25,6 @@
 -   📖 Read chapter 56 - 98 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:12, 13 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
--   📖 Read chapter 1 - 134 of [To Not Die](https://anilist.co/manga/136099) (07:51, 08 May 2024)
 -   📖 Read chapter 1 - 65 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:43, 30 April 2024)
 -   📖 Completed [Sora & Haena](https://anilist.co/manga/126769) (05:40, 29 April 2024)
 -   📖 Read chapter 1 - 50 of [Sora & Haena](https://anilist.co/manga/126769) (05:37, 29 April 2024)
