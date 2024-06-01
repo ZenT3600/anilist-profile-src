@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 10 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (06:27, 01 June 2024)
+-   📖 Read chapter 1 - 16 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (11:33, 01 June 2024)
 -   📖 Completed [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
 -   📖 Read chapter 1 - 13 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
 -   📖 Read chapter 1 - 135 of [To Not Die](https://anilist.co/manga/136099) (12:20, 31 May 2024)
