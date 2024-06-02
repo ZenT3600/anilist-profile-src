@@ -1,12 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 111 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:44, 02 June 2024)
 -   📖 Completed [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
 -   📖 Read chapter 1 - 42 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
 -   📖 Completed [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
 -   📖 Read chapter 1 - 13 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
 -   📖 Read chapter 1 - 135 of [To Not Die](https://anilist.co/manga/136099) (12:20, 31 May 2024)
 -   📖 Read chapter 1 - 203 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:25, 31 May 2024)
--   📖 Read chapter 88 - 110 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:00, 31 May 2024)
 -   📖 Read chapter 1 - 19 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (05:00, 31 May 2024)
 -   📖 Read chapter 1 - 209 of [Nano Machine](https://anilist.co/manga/120980) (08:41, 30 May 2024)
 -   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
