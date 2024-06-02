@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Catch These Hands!](https://anilist.co/manga/104112) (05:34, 02 June 2024)
 -   📖 Read chapter 1 - 151 of [Astral Pet Store](https://anilist.co/manga/160143) (05:28, 02 June 2024)
 -   📖 Read chapter 1 - 66 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:25, 02 June 2024)
 -   📖 Read chapter 88 - 111 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:44, 02 June 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
 -   📖 Completed [No Love Zone](https://anilist.co/manga/115610) (08:16, 12 March 2024)
 -   📖 Read chapter 16 - 77 of [No Love Zone](https://anilist.co/manga/115610) (08:14, 12 March 2024)
--   📖 Plans to read [This Wonderful Season With You](https://anilist.co/manga/109987) (14:25, 11 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
