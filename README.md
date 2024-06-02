@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 151 of [Astral Pet Store](https://anilist.co/manga/160143) (05:28, 02 June 2024)
+-   📖 Read chapter 1 - 66 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:25, 02 June 2024)
 -   📖 Read chapter 88 - 111 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:44, 02 June 2024)
 -   📖 Completed [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
 -   📖 Read chapter 1 - 42 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
@@ -12,7 +14,6 @@
 -   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
 -   📖 Read chapter 1 - 28 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:43, 29 May 2024)
 -   📖 Read chapter 1 - 171 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:12, 29 May 2024)
--   📖 Read chapter 1 - 150 of [Astral Pet Store](https://anilist.co/manga/160143) (05:05, 28 May 2024)
 -   📖 Read chapter 1 - 279 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:02, 28 May 2024)
 -   📖 Read chapter 1 - 87 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (06:15, 27 May 2024)
 -   📖 Read chapter 1 - 190 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:21, 26 May 2024)
@@ -28,7 +29,6 @@
 -   📖 Read chapter 56 - 98 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:12, 13 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
--   📖 Read chapter 1 - 65 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:43, 30 April 2024)
 -   📖 Completed [Sora & Haena](https://anilist.co/manga/126769) (05:40, 29 April 2024)
 -   📖 Read chapter 1 - 50 of [Sora & Haena](https://anilist.co/manga/126769) (05:37, 29 April 2024)
 -   📖 Completed [I Am a Hero](https://anilist.co/manga/44440) (16:21, 24 April 2024)
