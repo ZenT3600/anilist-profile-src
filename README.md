@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [A Lotus Flower in the Mud](https://anilist.co/manga/100037) (07:30, 03 June 2024)
 -   📖 Read chapter 1 - 191 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:25, 03 June 2024)
 -   📖 Read chapter 1 - 280 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:46, 03 June 2024)
 -   📖 Read chapter 1 - 2 of [Catch These Hands!](https://anilist.co/manga/104112) (13:27, 02 June 2024)
@@ -49,6 +50,5 @@
 -   📖 Completed [This Wonderful Season With You](https://anilist.co/manga/109987) (07:21, 14 March 2024)
 -   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
 -   📖 Completed [No Love Zone](https://anilist.co/manga/115610) (08:16, 12 March 2024)
--   📖 Read chapter 16 - 77 of [No Love Zone](https://anilist.co/manga/115610) (08:14, 12 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
