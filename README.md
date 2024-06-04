@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Catch These Hands!](https://anilist.co/manga/104112) (06:02, 04 June 2024)
 -   📖 Completed [A Lotus Flower in the Mud](https://anilist.co/manga/100037) (07:30, 03 June 2024)
 -   📖 Read chapter 1 - 191 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:25, 03 June 2024)
 -   📖 Read chapter 1 - 280 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:46, 03 June 2024)
--   📖 Read chapter 1 - 2 of [Catch These Hands!](https://anilist.co/manga/104112) (13:27, 02 June 2024)
 -   📖 Read chapter 1 - 151 of [Astral Pet Store](https://anilist.co/manga/160143) (05:28, 02 June 2024)
 -   📖 Read chapter 1 - 66 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:25, 02 June 2024)
 -   📖 Read chapter 88 - 111 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:44, 02 June 2024)
