@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Catch These Hands!](https://anilist.co/manga/104112) (06:02, 04 June 2024)
+-   📖 Read chapter 1 - 5 of [Catch These Hands!](https://anilist.co/manga/104112) (04:15, 05 June 2024)
 -   📖 Completed [A Lotus Flower in the Mud](https://anilist.co/manga/100037) (07:30, 03 June 2024)
 -   📖 Read chapter 1 - 191 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:25, 03 June 2024)
 -   📖 Read chapter 1 - 280 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:46, 03 June 2024)
