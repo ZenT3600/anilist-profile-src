@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 152 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:47, 06 June 2024)
+-   📖 Read chapter 1 - 210 of [Nano Machine](https://anilist.co/manga/120980) (09:44, 06 June 2024)
 -   📖 Read chapter 1 - 204 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:05, 06 June 2024)
 -   📖 Read chapter 1 - 176 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:05, 06 June 2024)
 -   📖 Read chapter 1 - 5 of [Catch These Hands!](https://anilist.co/manga/104112) (04:15, 05 June 2024)
@@ -15,13 +17,11 @@
 -   📖 Read chapter 1 - 13 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
 -   📖 Read chapter 1 - 135 of [To Not Die](https://anilist.co/manga/136099) (12:20, 31 May 2024)
 -   📖 Read chapter 1 - 19 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (05:00, 31 May 2024)
--   📖 Read chapter 1 - 209 of [Nano Machine](https://anilist.co/manga/120980) (08:41, 30 May 2024)
 -   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
 -   📖 Read chapter 1 - 28 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:43, 29 May 2024)
 -   📖 Read chapter 1 - 171 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:12, 29 May 2024)
 -   📖 Read chapter 1 - 87 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (06:15, 27 May 2024)
 -   📖 Read chapter 1 - 180 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:03, 24 May 2024)
--   📖 Read chapter 1 - 151 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (14:49, 23 May 2024)
 -   📖 Read chapter 110 - 157 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:38, 22 May 2024)
 -   📖 Read chapter 1 - 143 of [Chainsaw Man](https://anilist.co/manga/105778) (05:38, 21 May 2024)
 -   📖 Read chapter 1 - 36 of [Citrus+](https://anilist.co/manga/103884) (05:35, 20 May 2024)
