@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Catch These Hands!](https://anilist.co/manga/104112) (05:07, 07 June 2024)
+-   📖 Read chapter 1 - 8 of [Catch These Hands!](https://anilist.co/manga/104112) (05:11, 07 June 2024)
 -   📖 Read chapter 1 - 152 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:47, 06 June 2024)
 -   📖 Read chapter 1 - 210 of [Nano Machine](https://anilist.co/manga/120980) (09:44, 06 June 2024)
 -   📖 Read chapter 1 - 204 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:05, 06 June 2024)
