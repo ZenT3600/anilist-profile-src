@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 136 of [To Not Die](https://anilist.co/manga/136099) (05:54, 08 June 2024)
+-   📖 Read chapter 1 - 281 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:48, 08 June 2024)
 -   📖 Read chapter 1 - 8 of [Catch These Hands!](https://anilist.co/manga/104112) (05:11, 07 June 2024)
 -   📖 Read chapter 1 - 152 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:47, 06 June 2024)
 -   📖 Read chapter 1 - 210 of [Nano Machine](https://anilist.co/manga/120980) (09:44, 06 June 2024)
@@ -7,7 +9,6 @@
 -   📖 Read chapter 1 - 176 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:05, 06 June 2024)
 -   📖 Completed [A Lotus Flower in the Mud](https://anilist.co/manga/100037) (07:30, 03 June 2024)
 -   📖 Read chapter 1 - 191 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:25, 03 June 2024)
--   📖 Read chapter 1 - 280 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:46, 03 June 2024)
 -   📖 Read chapter 1 - 151 of [Astral Pet Store](https://anilist.co/manga/160143) (05:28, 02 June 2024)
 -   📖 Read chapter 1 - 66 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:25, 02 June 2024)
 -   📖 Read chapter 88 - 111 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:44, 02 June 2024)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 42 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
 -   📖 Completed [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
 -   📖 Read chapter 1 - 13 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
--   📖 Read chapter 1 - 135 of [To Not Die](https://anilist.co/manga/136099) (12:20, 31 May 2024)
 -   📖 Read chapter 1 - 19 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (05:00, 31 May 2024)
 -   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
 -   📖 Read chapter 1 - 28 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:43, 29 May 2024)
