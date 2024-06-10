@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 99 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:41, 10 June 2024)
 -   📖 Read chapter 1 - 152 of [Astral Pet Store](https://anilist.co/manga/160143) (15:20, 09 June 2024)
 -   📖 Read chapter 1 - 192 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:17, 09 June 2024)
 -   📖 Read chapter 1 - 282 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:13, 09 June 2024)
@@ -28,7 +29,6 @@
 -   📖 Read chapter 1 - 116 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:28, 19 May 2024)
 -   📖 Read chapter 1 - 103 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:21, 19 May 2024)
 -   📖 Read chapter 1 - 141 of [Get Schooled](https://anilist.co/manga/128521) (05:50, 18 May 2024)
--   📖 Read chapter 56 - 98 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:12, 13 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
 -   📖 Completed [Sora & Haena](https://anilist.co/manga/126769) (05:40, 29 April 2024)
