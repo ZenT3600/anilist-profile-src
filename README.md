@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 155 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:07, 11 June 2024)
 -   📖 Read chapter 88 - 113 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:26, 11 June 2024)
 -   📖 Read chapter 56 - 99 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:41, 10 June 2024)
 -   📖 Read chapter 1 - 152 of [Astral Pet Store](https://anilist.co/manga/160143) (15:20, 09 June 2024)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 88 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (15:09, 09 June 2024)
 -   📖 Read chapter 1 - 136 of [To Not Die](https://anilist.co/manga/136099) (05:54, 08 June 2024)
 -   📖 Read chapter 1 - 8 of [Catch These Hands!](https://anilist.co/manga/104112) (05:11, 07 June 2024)
--   📖 Read chapter 1 - 152 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (09:47, 06 June 2024)
 -   📖 Read chapter 1 - 210 of [Nano Machine](https://anilist.co/manga/120980) (09:44, 06 June 2024)
 -   📖 Read chapter 1 - 204 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:05, 06 June 2024)
 -   📖 Read chapter 1 - 176 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:05, 06 June 2024)
