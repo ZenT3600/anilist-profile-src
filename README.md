@@ -1,8 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Catch These Hands!](https://anilist.co/manga/104112) (13:29, 13 June 2024)
+-   📖 Read chapter 1 - 19 of [Catch These Hands!](https://anilist.co/manga/104112) (13:25, 13 June 2024)
 -   📖 Read chapter 1 - 211 of [Nano Machine](https://anilist.co/manga/120980) (06:10, 13 June 2024)
 -   📖 Read chapter 1 - 205 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:06, 13 June 2024)
--   📖 Read chapter 1 - 16 of [Catch These Hands!](https://anilist.co/manga/104112) (12:18, 12 June 2024)
 -   📖 Read chapter 1 - 159 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:16, 11 June 2024)
 -   📖 Read chapter 88 - 113 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:26, 11 June 2024)
 -   📖 Read chapter 56 - 99 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:41, 10 June 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 19 of [Hajimari no Niina](https://anilist.co/manga/56021) (14:14, 17 March 2024)
 -   📖 Completed [This Wonderful Season With You](https://anilist.co/manga/109987) (07:21, 14 March 2024)
 -   📖 Read chapter 8 - 17 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (16:34, 13 March 2024)
--   📖 Completed [No Love Zone](https://anilist.co/manga/115610) (08:16, 12 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
