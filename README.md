@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 211 of [Nano Machine](https://anilist.co/manga/120980) (06:10, 13 June 2024)
+-   📖 Read chapter 1 - 205 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:06, 13 June 2024)
 -   📖 Read chapter 1 - 16 of [Catch These Hands!](https://anilist.co/manga/104112) (12:18, 12 June 2024)
 -   📖 Read chapter 1 - 159 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:16, 11 June 2024)
 -   📖 Read chapter 88 - 113 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:26, 11 June 2024)
@@ -9,8 +11,6 @@
 -   📖 Read chapter 1 - 282 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (15:13, 09 June 2024)
 -   📖 Read chapter 1 - 88 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (15:09, 09 June 2024)
 -   📖 Read chapter 1 - 136 of [To Not Die](https://anilist.co/manga/136099) (05:54, 08 June 2024)
--   📖 Read chapter 1 - 210 of [Nano Machine](https://anilist.co/manga/120980) (09:44, 06 June 2024)
--   📖 Read chapter 1 - 204 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:05, 06 June 2024)
 -   📖 Read chapter 1 - 176 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:05, 06 June 2024)
 -   📖 Completed [A Lotus Flower in the Mud](https://anilist.co/manga/100037) (07:30, 03 June 2024)
 -   📖 Read chapter 1 - 66 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:25, 02 June 2024)
