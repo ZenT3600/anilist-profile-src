@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:09, 16 June 2024)
+-   📖 Read chapter 1 - 5 of [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:14, 16 June 2024)
 -   📖 Plans to read [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:08, 16 June 2024)
 -   📖 Read chapter 4 - 22 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (15:15, 16 June 2024)
 -   📖 Read chapter 1 - 89 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (14:33, 16 June 2024)
