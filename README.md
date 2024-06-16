@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 115 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (08:45, 16 June 2024)
 -   📖 Read chapter 1 - 193 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:23, 16 June 2024)
 -   📖 Read chapter 1 - 117 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:17, 16 June 2024)
 -   📖 Read chapter 1 - 283 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (01:15, 15 June 2024)
--   📖 Read chapter 88 - 114 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (01:12, 15 June 2024)
 -   📖 Read chapter 1 - 137 of [To Not Die](https://anilist.co/manga/136099) (07:31, 14 June 2024)
 -   📖 Completed [Catch These Hands!](https://anilist.co/manga/104112) (13:29, 13 June 2024)
 -   📖 Read chapter 1 - 19 of [Catch These Hands!](https://anilist.co/manga/104112) (13:25, 13 June 2024)
