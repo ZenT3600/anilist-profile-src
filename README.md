@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 193 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:23, 16 June 2024)
+-   📖 Read chapter 1 - 117 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:17, 16 June 2024)
 -   📖 Read chapter 1 - 283 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (01:15, 15 June 2024)
 -   📖 Read chapter 88 - 114 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (01:12, 15 June 2024)
 -   📖 Read chapter 1 - 137 of [To Not Die](https://anilist.co/manga/136099) (07:31, 14 June 2024)
@@ -10,7 +12,6 @@
 -   📖 Read chapter 1 - 159 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:16, 11 June 2024)
 -   📖 Read chapter 56 - 99 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:41, 10 June 2024)
 -   📖 Read chapter 1 - 152 of [Astral Pet Store](https://anilist.co/manga/160143) (15:20, 09 June 2024)
--   📖 Read chapter 1 - 192 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:17, 09 June 2024)
 -   📖 Read chapter 1 - 88 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (15:09, 09 June 2024)
 -   📖 Read chapter 1 - 176 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:05, 06 June 2024)
 -   📖 Completed [A Lotus Flower in the Mud](https://anilist.co/manga/100037) (07:30, 03 June 2024)
@@ -27,7 +28,6 @@
 -   📖 Read chapter 110 - 157 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:38, 22 May 2024)
 -   📖 Read chapter 1 - 143 of [Chainsaw Man](https://anilist.co/manga/105778) (05:38, 21 May 2024)
 -   📖 Read chapter 1 - 36 of [Citrus+](https://anilist.co/manga/103884) (05:35, 20 May 2024)
--   📖 Read chapter 1 - 116 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (08:28, 19 May 2024)
 -   📖 Read chapter 1 - 103 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:21, 19 May 2024)
 -   📖 Read chapter 1 - 141 of [Get Schooled](https://anilist.co/manga/128521) (05:50, 18 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
