@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 22 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (15:15, 16 June 2024)
 -   📖 Read chapter 1 - 89 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (14:33, 16 June 2024)
 -   📖 Read chapter 88 - 115 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (08:45, 16 June 2024)
 -   📖 Read chapter 1 - 193 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:23, 16 June 2024)
@@ -42,7 +43,6 @@
 -   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
--   📖 Read chapter 4 - 17 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (17:49, 20 March 2024)
 -   📖 Completed [Classmates](https://anilist.co/manga/39699) (17:49, 20 March 2024)
 -   📖 Completed [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
 -   📖 Read chapter 1 - 24 of [My First Times with Suwa-san](https://anilist.co/manga/123238) (07:41, 19 March 2024)
