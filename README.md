@@ -1,7 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 212 of [Nano Machine](https://anilist.co/manga/120980) (17:43, 19 June 2024)
+-   📖 Read chapter 1 - 177 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (17:39, 19 June 2024)
+-   📖 Read chapter 1 - 194 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:37, 19 June 2024)
 -   📖 Read chapter 1 - 127 of [Solo Leveling](https://anilist.co/manga/105398) (10:48, 17 June 2024)
--   📖 Read chapter 1 - 193 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (22:40, 16 June 2024)
 -   📖 Read chapter 1 - 5 of [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:14, 16 June 2024)
 -   📖 Plans to read [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:08, 16 June 2024)
 -   📖 Read chapter 4 - 22 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (15:15, 16 June 2024)
@@ -13,12 +15,10 @@
 -   📖 Read chapter 1 - 137 of [To Not Die](https://anilist.co/manga/136099) (07:31, 14 June 2024)
 -   📖 Completed [Catch These Hands!](https://anilist.co/manga/104112) (13:29, 13 June 2024)
 -   📖 Read chapter 1 - 19 of [Catch These Hands!](https://anilist.co/manga/104112) (13:25, 13 June 2024)
--   📖 Read chapter 1 - 211 of [Nano Machine](https://anilist.co/manga/120980) (06:10, 13 June 2024)
 -   📖 Read chapter 1 - 205 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:06, 13 June 2024)
 -   📖 Read chapter 1 - 159 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:16, 11 June 2024)
 -   📖 Read chapter 56 - 99 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:41, 10 June 2024)
 -   📖 Read chapter 1 - 152 of [Astral Pet Store](https://anilist.co/manga/160143) (15:20, 09 June 2024)
--   📖 Read chapter 1 - 176 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:05, 06 June 2024)
 -   📖 Completed [A Lotus Flower in the Mud](https://anilist.co/manga/100037) (07:30, 03 June 2024)
 -   📖 Read chapter 1 - 66 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:25, 02 June 2024)
 -   📖 Completed [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
