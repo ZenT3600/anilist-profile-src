@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 206 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:25, 20 June 2024)
 -   📖 Read chapter 1 - 212 of [Nano Machine](https://anilist.co/manga/120980) (17:43, 19 June 2024)
 -   📖 Read chapter 1 - 177 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (17:39, 19 June 2024)
 -   📖 Read chapter 1 - 194 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:37, 19 June 2024)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 137 of [To Not Die](https://anilist.co/manga/136099) (07:31, 14 June 2024)
 -   📖 Completed [Catch These Hands!](https://anilist.co/manga/104112) (13:29, 13 June 2024)
 -   📖 Read chapter 1 - 19 of [Catch These Hands!](https://anilist.co/manga/104112) (13:25, 13 June 2024)
--   📖 Read chapter 1 - 205 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:06, 13 June 2024)
 -   📖 Read chapter 1 - 159 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:16, 11 June 2024)
 -   📖 Read chapter 56 - 99 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:41, 10 June 2024)
 -   📖 Read chapter 1 - 152 of [Astral Pet Store](https://anilist.co/manga/160143) (15:20, 09 June 2024)
