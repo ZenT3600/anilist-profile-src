@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 - 158 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:26, 21 June 2024)
 -   📖 Read chapter 1 - 284 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:44, 21 June 2024)
 -   📖 Read chapter 1 - 104 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:43, 21 June 2024)
 -   📖 Read chapter 88 - 116 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (07:40, 21 June 2024)
@@ -31,7 +32,6 @@
 -   📖 Read chapter 1 - 28 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:43, 29 May 2024)
 -   📖 Read chapter 1 - 171 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:12, 29 May 2024)
 -   📖 Read chapter 1 - 180 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:03, 24 May 2024)
--   📖 Read chapter 110 - 157 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:38, 22 May 2024)
 -   📖 Read chapter 1 - 143 of [Chainsaw Man](https://anilist.co/manga/105778) (05:38, 21 May 2024)
 -   📖 Read chapter 1 - 36 of [Citrus+](https://anilist.co/manga/103884) (05:35, 20 May 2024)
 -   📖 Read chapter 1 - 141 of [Get Schooled](https://anilist.co/manga/128521) (05:50, 18 May 2024)
