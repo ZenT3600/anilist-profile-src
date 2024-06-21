@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 284 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (07:44, 21 June 2024)
+-   📖 Read chapter 1 - 104 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:43, 21 June 2024)
+-   📖 Read chapter 88 - 116 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (07:40, 21 June 2024)
 -   📖 Read chapter 1 - 206 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:25, 20 June 2024)
 -   📖 Read chapter 1 - 212 of [Nano Machine](https://anilist.co/manga/120980) (17:43, 19 June 2024)
 -   📖 Read chapter 1 - 177 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (17:39, 19 June 2024)
@@ -9,10 +12,8 @@
 -   📖 Plans to read [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:08, 16 June 2024)
 -   📖 Read chapter 4 - 22 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (15:15, 16 June 2024)
 -   📖 Read chapter 1 - 89 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (14:33, 16 June 2024)
--   📖 Read chapter 88 - 115 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (08:45, 16 June 2024)
 -   📖 Read chapter 1 - 193 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:23, 16 June 2024)
 -   📖 Read chapter 1 - 117 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:17, 16 June 2024)
--   📖 Read chapter 1 - 283 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (01:15, 15 June 2024)
 -   📖 Read chapter 1 - 137 of [To Not Die](https://anilist.co/manga/136099) (07:31, 14 June 2024)
 -   📖 Completed [Catch These Hands!](https://anilist.co/manga/104112) (13:29, 13 June 2024)
 -   📖 Read chapter 1 - 19 of [Catch These Hands!](https://anilist.co/manga/104112) (13:25, 13 June 2024)
@@ -33,7 +34,6 @@
 -   📖 Read chapter 110 - 157 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (04:38, 22 May 2024)
 -   📖 Read chapter 1 - 143 of [Chainsaw Man](https://anilist.co/manga/105778) (05:38, 21 May 2024)
 -   📖 Read chapter 1 - 36 of [Citrus+](https://anilist.co/manga/103884) (05:35, 20 May 2024)
--   📖 Read chapter 1 - 103 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:21, 19 May 2024)
 -   📖 Read chapter 1 - 141 of [Get Schooled](https://anilist.co/manga/128521) (05:50, 18 May 2024)
 -   📖 Read chapter 1 - 68 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:05, 12 May 2024)
 -   📖 Read chapter 1 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:41, 09 May 2024)
