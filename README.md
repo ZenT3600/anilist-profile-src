@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 153 of [Astral Pet Store](https://anilist.co/manga/160143) (20:06, 22 June 2024)
 -   📖 Read chapter 1 - 285 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:37, 22 June 2024)
 -   📖 Read chapter 110 - 158 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:26, 21 June 2024)
 -   📖 Read chapter 1 - 104 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:43, 21 June 2024)
@@ -20,7 +21,6 @@
 -   📖 Read chapter 1 - 19 of [Catch These Hands!](https://anilist.co/manga/104112) (13:25, 13 June 2024)
 -   📖 Read chapter 1 - 159 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:16, 11 June 2024)
 -   📖 Read chapter 56 - 99 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:41, 10 June 2024)
--   📖 Read chapter 1 - 152 of [Astral Pet Store](https://anilist.co/manga/160143) (15:20, 09 June 2024)
 -   📖 Completed [A Lotus Flower in the Mud](https://anilist.co/manga/100037) (07:30, 03 June 2024)
 -   📖 Read chapter 1 - 66 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:25, 02 June 2024)
 -   📖 Completed [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
