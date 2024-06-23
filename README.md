@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 117 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:26, 23 June 2024)
 -   📖 Read chapter 1 - 153 of [Astral Pet Store](https://anilist.co/manga/160143) (20:06, 22 June 2024)
 -   📖 Read chapter 1 - 285 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:37, 22 June 2024)
 -   📖 Read chapter 110 - 158 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:26, 21 June 2024)
 -   📖 Read chapter 1 - 104 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:43, 21 June 2024)
--   📖 Read chapter 88 - 116 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (07:40, 21 June 2024)
 -   📖 Read chapter 1 - 206 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:25, 20 June 2024)
 -   📖 Read chapter 1 - 212 of [Nano Machine](https://anilist.co/manga/120980) (17:43, 19 June 2024)
 -   📖 Read chapter 1 - 177 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (17:39, 19 June 2024)
