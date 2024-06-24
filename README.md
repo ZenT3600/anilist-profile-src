@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (16:19, 24 June 2024)
 -   📖 Read chapter 56 - 100 of [SPY x FAMILY](https://anilist.co/manga/108556) (02:54, 24 June 2024)
 -   📖 Read chapter 1 - 90 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (02:51, 24 June 2024)
 -   📖 Read chapter 1 - 286 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (02:50, 24 June 2024)
@@ -27,7 +28,6 @@
 -   📖 Read chapter 1 - 42 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
 -   📖 Completed [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
 -   📖 Read chapter 1 - 13 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
--   📖 Read chapter 1 - 19 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (05:00, 31 May 2024)
 -   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
 -   📖 Read chapter 1 - 28 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:43, 29 May 2024)
 -   📖 Read chapter 1 - 171 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:12, 29 May 2024)
