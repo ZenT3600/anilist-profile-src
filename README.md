@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 118 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:08, 27 June 2024)
 -   📖 Read chapter 1 - 170 of [One Piece](https://anilist.co/manga/30013) (04:07, 26 June 2024)
 -   📖 Read chapter 1 - 287 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:13, 26 June 2024)
 -   📖 Read chapter 28 - 52 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (03:11, 26 June 2024)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 56 - 100 of [SPY x FAMILY](https://anilist.co/manga/108556) (02:54, 24 June 2024)
 -   📖 Read chapter 1 - 90 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (02:51, 24 June 2024)
 -   📖 Read chapter 1 - 194 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:11, 23 June 2024)
--   📖 Read chapter 88 - 117 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:26, 23 June 2024)
 -   📖 Read chapter 1 - 153 of [Astral Pet Store](https://anilist.co/manga/160143) (20:06, 22 June 2024)
 -   📖 Read chapter 110 - 158 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:26, 21 June 2024)
 -   📖 Read chapter 1 - 104 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:43, 21 June 2024)
