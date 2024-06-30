@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 91 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (17:06, 30 June 2024)
 -   📖 Read chapter 1 - 139 of [To Not Die](https://anilist.co/manga/136099) (07:12, 30 June 2024)
 -   📖 Read chapter 1 - 195 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:03, 30 June 2024)
 -   📖 Read chapter 1 - 118 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:59, 30 June 2024)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 28 - 52 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (03:11, 26 June 2024)
 -   📖 Read chapter 1 - 20 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (16:19, 24 June 2024)
 -   📖 Read chapter 56 - 100 of [SPY x FAMILY](https://anilist.co/manga/108556) (02:54, 24 June 2024)
--   📖 Read chapter 1 - 90 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (02:51, 24 June 2024)
 -   📖 Read chapter 1 - 153 of [Astral Pet Store](https://anilist.co/manga/160143) (20:06, 22 June 2024)
 -   📖 Read chapter 110 - 158 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:26, 21 June 2024)
 -   📖 Read chapter 1 - 104 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:43, 21 June 2024)
