@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 139 of [To Not Die](https://anilist.co/manga/136099) (07:12, 30 June 2024)
 -   📖 Read chapter 1 - 195 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:03, 30 June 2024)
 -   📖 Read chapter 1 - 118 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:59, 30 June 2024)
 -   📖 Read chapter 1 - 195 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:18, 30 June 2024)
@@ -21,7 +22,6 @@
 -   📖 Read chapter 1 - 5 of [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:14, 16 June 2024)
 -   📖 Plans to read [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:08, 16 June 2024)
 -   📖 Read chapter 4 - 22 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (15:15, 16 June 2024)
--   📖 Read chapter 1 - 137 of [To Not Die](https://anilist.co/manga/136099) (07:31, 14 June 2024)
 -   📖 Completed [Catch These Hands!](https://anilist.co/manga/104112) (13:29, 13 June 2024)
 -   📖 Read chapter 1 - 19 of [Catch These Hands!](https://anilist.co/manga/104112) (13:25, 13 June 2024)
 -   📖 Read chapter 1 - 159 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:16, 11 June 2024)
