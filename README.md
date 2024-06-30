@@ -1,11 +1,12 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 195 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:18, 30 June 2024)
+-   📖 Read chapter 88 - 119 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:17, 30 June 2024)
 -   📖 Read chapter 1 - 191 of [One Piece](https://anilist.co/manga/30013) (06:29, 29 June 2024)
 -   📖 Read chapter 1 - 37 of [Citrus+](https://anilist.co/manga/103884) (05:29, 29 June 2024)
 -   📖 Read chapter 1 - 213 of [Nano Machine](https://anilist.co/manga/120980) (16:08, 27 June 2024)
 -   📖 Read chapter 1 - 207 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (16:04, 27 June 2024)
 -   📖 Read chapter 1 - 178 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:08, 27 June 2024)
--   📖 Read chapter 88 - 118 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:08, 27 June 2024)
 -   📖 Read chapter 1 - 287 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (03:13, 26 June 2024)
 -   📖 Read chapter 28 - 52 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (03:11, 26 June 2024)
 -   📖 Read chapter 1 - 20 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (16:19, 24 June 2024)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 153 of [Astral Pet Store](https://anilist.co/manga/160143) (20:06, 22 June 2024)
 -   📖 Read chapter 110 - 158 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:26, 21 June 2024)
 -   📖 Read chapter 1 - 104 of [My Dress-Up Darling](https://anilist.co/manga/101583) (07:43, 21 June 2024)
--   📖 Read chapter 1 - 194 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (17:37, 19 June 2024)
 -   📖 Read chapter 1 - 127 of [Solo Leveling](https://anilist.co/manga/105398) (10:48, 17 June 2024)
 -   📖 Read chapter 1 - 5 of [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:14, 16 June 2024)
 -   📖 Plans to read [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:08, 16 June 2024)
