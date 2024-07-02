@@ -1,6 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 198 of [One Piece](https://anilist.co/manga/30013) (06:20, 01 July 2024)
+-   📖 Read chapter 1 - 200 of [One Piece](https://anilist.co/manga/30013) (08:21, 02 July 2024)
+-   📖 Read chapter 1 - 173 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:15, 02 July 2024)
 -   📖 Read chapter 1 - 289 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:10, 30 June 2024)
 -   📖 Read chapter 1 - 91 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (17:06, 30 June 2024)
 -   📖 Read chapter 1 - 139 of [To Not Die](https://anilist.co/manga/136099) (07:12, 30 June 2024)
@@ -33,7 +34,6 @@
 -   📖 Read chapter 1 - 13 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
 -   📖 Completed [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:46, 29 May 2024)
 -   📖 Read chapter 1 - 28 of [Miki-san, Daisuki desu!](https://anilist.co/manga/118993) (08:43, 29 May 2024)
--   📖 Read chapter 1 - 171 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:12, 29 May 2024)
 -   📖 Read chapter 1 - 180 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (16:03, 24 May 2024)
 -   📖 Read chapter 1 - 143 of [Chainsaw Man](https://anilist.co/manga/105778) (05:38, 21 May 2024)
 -   📖 Read chapter 1 - 141 of [Get Schooled](https://anilist.co/manga/128521) (05:50, 18 May 2024)
