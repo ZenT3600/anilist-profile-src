@@ -1,8 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 214 of [Nano Machine](https://anilist.co/manga/120980) (07:07, 04 July 2024)
+-   📖 Read chapter 1 - 174 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:02, 04 July 2024)
+-   📖 Read chapter 1 - 179 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (07:00, 04 July 2024)
+-   📖 Read chapter 1 - 208 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:56, 04 July 2024)
 -   📖 Read chapter 88 - 121 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:19, 04 July 2024)
 -   📖 Read chapter 1 - 202 of [One Piece](https://anilist.co/manga/30013) (07:11, 03 July 2024)
--   📖 Read chapter 1 - 173 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:15, 02 July 2024)
 -   📖 Read chapter 1 - 289 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:10, 30 June 2024)
 -   📖 Read chapter 1 - 91 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (17:06, 30 June 2024)
 -   📖 Read chapter 1 - 139 of [To Not Die](https://anilist.co/manga/136099) (07:12, 30 June 2024)
@@ -10,9 +13,6 @@
 -   📖 Read chapter 1 - 118 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:59, 30 June 2024)
 -   📖 Read chapter 1 - 195 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:18, 30 June 2024)
 -   📖 Read chapter 1 - 37 of [Citrus+](https://anilist.co/manga/103884) (05:29, 29 June 2024)
--   📖 Read chapter 1 - 213 of [Nano Machine](https://anilist.co/manga/120980) (16:08, 27 June 2024)
--   📖 Read chapter 1 - 207 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (16:04, 27 June 2024)
--   📖 Read chapter 1 - 178 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:08, 27 June 2024)
 -   📖 Read chapter 28 - 52 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (03:11, 26 June 2024)
 -   📖 Read chapter 1 - 20 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (16:19, 24 June 2024)
 -   📖 Read chapter 56 - 100 of [SPY x FAMILY](https://anilist.co/manga/108556) (02:54, 24 June 2024)
