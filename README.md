@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 290 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 05 July 2024)
 -   📖 Read chapter 1 - 105 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:00, 05 July 2024)
 -   📖 Read chapter 1 - 207 of [One Piece](https://anilist.co/manga/30013) (14:31, 04 July 2024)
 -   📖 Read chapter 1 - 214 of [Nano Machine](https://anilist.co/manga/120980) (07:07, 04 July 2024)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 179 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (07:00, 04 July 2024)
 -   📖 Read chapter 1 - 208 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:56, 04 July 2024)
 -   📖 Read chapter 88 - 121 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:19, 04 July 2024)
--   📖 Read chapter 1 - 289 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (17:10, 30 June 2024)
 -   📖 Read chapter 1 - 91 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (17:06, 30 June 2024)
 -   📖 Read chapter 1 - 139 of [To Not Die](https://anilist.co/manga/136099) (07:12, 30 June 2024)
 -   📖 Read chapter 1 - 195 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:03, 30 June 2024)
