@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 196 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:01, 06 July 2024)
 -   📖 Read chapter 1 - 290 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:59, 05 July 2024)
 -   📖 Read chapter 1 - 105 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:00, 05 July 2024)
 -   📖 Read chapter 1 - 207 of [One Piece](https://anilist.co/manga/30013) (14:31, 04 July 2024)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 139 of [To Not Die](https://anilist.co/manga/136099) (07:12, 30 June 2024)
 -   📖 Read chapter 1 - 195 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:03, 30 June 2024)
 -   📖 Read chapter 1 - 118 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:59, 30 June 2024)
--   📖 Read chapter 1 - 195 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:18, 30 June 2024)
 -   📖 Read chapter 1 - 37 of [Citrus+](https://anilist.co/manga/103884) (05:29, 29 June 2024)
 -   📖 Read chapter 28 - 52 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (03:11, 26 June 2024)
 -   📖 Read chapter 1 - 20 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (16:19, 24 June 2024)
