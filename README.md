@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 196 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:56, 07 July 2024)
+-   📖 Read chapter 28 - 53 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (06:53, 07 July 2024)
 -   📖 Read chapter 110 - 159 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:46, 06 July 2024)
 -   📖 Read chapter 1 - 155 of [Astral Pet Store](https://anilist.co/manga/160143) (07:47, 06 July 2024)
 -   📖 Read chapter 1 - 196 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:01, 06 July 2024)
@@ -13,10 +15,8 @@
 -   📖 Read chapter 88 - 121 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:19, 04 July 2024)
 -   📖 Read chapter 1 - 91 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (17:06, 30 June 2024)
 -   📖 Read chapter 1 - 139 of [To Not Die](https://anilist.co/manga/136099) (07:12, 30 June 2024)
--   📖 Read chapter 1 - 195 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:03, 30 June 2024)
 -   📖 Read chapter 1 - 118 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:59, 30 June 2024)
 -   📖 Read chapter 1 - 37 of [Citrus+](https://anilist.co/manga/103884) (05:29, 29 June 2024)
--   📖 Read chapter 28 - 52 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (03:11, 26 June 2024)
 -   📖 Read chapter 1 - 20 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (16:19, 24 June 2024)
 -   📖 Read chapter 56 - 100 of [SPY x FAMILY](https://anilist.co/manga/108556) (02:54, 24 June 2024)
 -   📖 Read chapter 1 - 127 of [Solo Leveling](https://anilist.co/manga/105398) (10:48, 17 June 2024)
