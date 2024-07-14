@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:06, 14 July 2024)
+-   📖 Read chapter 1 - 119 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:05, 14 July 2024)
+-   📖 Read chapter 1 - 93 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (09:00, 14 July 2024)
 -   📖 Read chapter 1 - 69 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (02:29, 14 July 2024)
 -   📖 Read chapter 1 - 140 of [To Not Die](https://anilist.co/manga/136099) (06:57, 12 July 2024)
 -   📖 Read chapter 1 - 215 of [Nano Machine](https://anilist.co/manga/120980) (06:52, 12 July 2024)
@@ -9,7 +12,6 @@
 -   📖 Read chapter 1 - 213 of [One Piece](https://anilist.co/manga/30013) (06:04, 09 July 2024)
 -   📖 Read chapter 1 - 291 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:36, 08 July 2024)
 -   📖 Read chapter 56 - 101 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:33, 08 July 2024)
--   📖 Read chapter 1 - 92 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (06:30, 08 July 2024)
 -   📖 Read chapter 1 - 196 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:56, 07 July 2024)
 -   📖 Read chapter 28 - 53 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (06:53, 07 July 2024)
 -   📖 Read chapter 110 - 159 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:46, 06 July 2024)
@@ -18,7 +20,6 @@
 -   📖 Read chapter 1 - 105 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:00, 05 July 2024)
 -   📖 Read chapter 1 - 174 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:02, 04 July 2024)
 -   📖 Read chapter 88 - 121 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:19, 04 July 2024)
--   📖 Read chapter 1 - 118 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (06:59, 30 June 2024)
 -   📖 Read chapter 1 - 37 of [Citrus+](https://anilist.co/manga/103884) (05:29, 29 June 2024)
 -   📖 Read chapter 1 - 20 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (16:19, 24 June 2024)
 -   📖 Read chapter 1 - 127 of [Solo Leveling](https://anilist.co/manga/105398) (10:48, 17 June 2024)
@@ -49,6 +50,5 @@
 -   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
 -   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 -   📖 Completed [Touch Within the Abyss](https://anilist.co/manga/143079) (18:38, 24 March 2024)
--   📖 Completed [Classmates](https://anilist.co/manga/39699) (17:49, 20 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
