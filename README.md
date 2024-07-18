@@ -1,5 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 216 of [Nano Machine](https://anilist.co/manga/120980) (06:49, 18 July 2024)
+-   📖 Read chapter 1 - 181 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:44, 18 July 2024)
+-   📖 Read chapter 1 - 197 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:43, 18 July 2024)
 -   📖 Read chapter 28 - 54 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:57, 16 July 2024)
 -   📖 Read chapter 1 - 214 of [One Piece](https://anilist.co/manga/30013) (06:59, 16 July 2024)
 -   📖 Read chapter 1 - 293 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:56, 16 July 2024)
@@ -9,14 +12,11 @@
 -   📖 Read chapter 1 - 93 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (09:00, 14 July 2024)
 -   📖 Read chapter 1 - 69 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (02:29, 14 July 2024)
 -   📖 Read chapter 1 - 140 of [To Not Die](https://anilist.co/manga/136099) (06:57, 12 July 2024)
--   📖 Read chapter 1 - 215 of [Nano Machine](https://anilist.co/manga/120980) (06:52, 12 July 2024)
 -   📖 Read chapter 1 - 209 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:48, 12 July 2024)
--   📖 Read chapter 1 - 180 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:48, 12 July 2024)
 -   📖 Read chapter 1 - 184 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (06:25, 10 July 2024)
 -   📖 Read chapter 56 - 101 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:33, 08 July 2024)
 -   📖 Read chapter 1 - 196 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:56, 07 July 2024)
 -   📖 Read chapter 110 - 159 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:46, 06 July 2024)
--   📖 Read chapter 1 - 196 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (07:01, 06 July 2024)
 -   📖 Read chapter 1 - 105 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:00, 05 July 2024)
 -   📖 Read chapter 1 - 174 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:02, 04 July 2024)
 -   📖 Read chapter 88 - 121 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:19, 04 July 2024)
