@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 216 of [One Piece](https://anilist.co/manga/30013) (08:21, 19 July 2024)
 -   📖 Read chapter 1 - 106 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:32, 19 July 2024)
 -   📖 Read chapter 1 - 216 of [Nano Machine](https://anilist.co/manga/120980) (06:49, 18 July 2024)
 -   📖 Read chapter 1 - 181 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:44, 18 July 2024)
 -   📖 Read chapter 1 - 197 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:43, 18 July 2024)
 -   📖 Read chapter 28 - 54 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:57, 16 July 2024)
--   📖 Read chapter 1 - 214 of [One Piece](https://anilist.co/manga/30013) (06:59, 16 July 2024)
 -   📖 Read chapter 1 - 293 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:56, 16 July 2024)
 -   📖 Read chapter 1 - 156 of [Astral Pet Store](https://anilist.co/manga/160143) (06:40, 15 July 2024)
 -   📖 Completed [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:06, 14 July 2024)
