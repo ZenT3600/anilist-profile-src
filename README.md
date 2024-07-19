@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 106 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:32, 19 July 2024)
 -   📖 Read chapter 1 - 216 of [Nano Machine](https://anilist.co/manga/120980) (06:49, 18 July 2024)
 -   📖 Read chapter 1 - 181 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:44, 18 July 2024)
 -   📖 Read chapter 1 - 197 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:43, 18 July 2024)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 56 - 101 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:33, 08 July 2024)
 -   📖 Read chapter 1 - 196 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:56, 07 July 2024)
 -   📖 Read chapter 110 - 159 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (21:46, 06 July 2024)
--   📖 Read chapter 1 - 105 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:00, 05 July 2024)
 -   📖 Read chapter 1 - 174 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:02, 04 July 2024)
 -   📖 Read chapter 88 - 121 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:19, 04 July 2024)
 -   📖 Read chapter 1 - 37 of [Citrus+](https://anilist.co/manga/103884) (05:29, 29 June 2024)
