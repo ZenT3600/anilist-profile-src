@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 102 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:37, 22 July 2024)
 -   📖 Read chapter 1 - 94 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:33, 22 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
 -   📖 Read chapter 1 - 198 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:50, 20 July 2024)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 140 of [To Not Die](https://anilist.co/manga/136099) (06:57, 12 July 2024)
 -   📖 Read chapter 1 - 209 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:48, 12 July 2024)
 -   📖 Read chapter 1 - 184 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (06:25, 10 July 2024)
--   📖 Read chapter 56 - 101 of [SPY x FAMILY](https://anilist.co/manga/108556) (06:33, 08 July 2024)
 -   📖 Read chapter 1 - 196 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:56, 07 July 2024)
 -   📖 Read chapter 1 - 174 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:02, 04 July 2024)
 -   📖 Read chapter 1 - 37 of [Citrus+](https://anilist.co/manga/103884) (05:29, 29 June 2024)
