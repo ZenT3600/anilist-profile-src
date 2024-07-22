@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 94 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:33, 22 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
 -   📖 Read chapter 1 - 198 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:50, 20 July 2024)
 -   📖 Read chapter 88 - 122 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:18, 20 July 2024)
@@ -12,7 +13,6 @@
 -   📖 Read chapter 1 - 156 of [Astral Pet Store](https://anilist.co/manga/160143) (06:40, 15 July 2024)
 -   📖 Completed [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:06, 14 July 2024)
 -   📖 Read chapter 1 - 119 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:05, 14 July 2024)
--   📖 Read chapter 1 - 93 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (09:00, 14 July 2024)
 -   📖 Read chapter 1 - 69 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (02:29, 14 July 2024)
 -   📖 Read chapter 1 - 140 of [To Not Die](https://anilist.co/manga/136099) (06:57, 12 July 2024)
 -   📖 Read chapter 1 - 209 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:48, 12 July 2024)
