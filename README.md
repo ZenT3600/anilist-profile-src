@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 294 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:55, 23 July 2024)
 -   📖 Read chapter 56 - 102 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:37, 22 July 2024)
 -   📖 Read chapter 1 - 94 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:33, 22 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 216 of [Nano Machine](https://anilist.co/manga/120980) (06:49, 18 July 2024)
 -   📖 Read chapter 1 - 181 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:44, 18 July 2024)
 -   📖 Read chapter 28 - 54 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:57, 16 July 2024)
--   📖 Read chapter 1 - 293 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:56, 16 July 2024)
 -   📖 Read chapter 1 - 156 of [Astral Pet Store](https://anilist.co/manga/160143) (06:40, 15 July 2024)
 -   📖 Completed [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:06, 14 July 2024)
 -   📖 Read chapter 1 - 119 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:05, 14 July 2024)
