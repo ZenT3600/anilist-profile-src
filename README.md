@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 157 of [Astral Pet Store](https://anilist.co/manga/160143) (16:03, 27 July 2024)
 -   📖 Read chapter 1 - 142 of [To Not Die](https://anilist.co/manga/136099) (05:56, 27 July 2024)
 -   📖 Read chapter 1 - 142 of [Get Schooled](https://anilist.co/manga/128521) (05:46, 27 July 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 1 - 216 of [One Piece](https://anilist.co/manga/30013) (08:21, 19 July 2024)
 -   📖 Read chapter 1 - 106 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:32, 19 July 2024)
 -   📖 Read chapter 28 - 54 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:57, 16 July 2024)
--   📖 Read chapter 1 - 156 of [Astral Pet Store](https://anilist.co/manga/160143) (06:40, 15 July 2024)
 -   📖 Completed [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:06, 14 July 2024)
 -   📖 Read chapter 1 - 119 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:05, 14 July 2024)
 -   📖 Read chapter 1 - 184 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (06:25, 10 July 2024)
