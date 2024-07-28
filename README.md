@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 198 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:39, 28 July 2024)
 -   📖 Read chapter 1 - 157 of [Astral Pet Store](https://anilist.co/manga/160143) (16:03, 27 July 2024)
 -   📖 Read chapter 1 - 142 of [To Not Die](https://anilist.co/manga/136099) (05:56, 27 July 2024)
 -   📖 Read chapter 1 - 142 of [Get Schooled](https://anilist.co/manga/128521) (05:46, 27 July 2024)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 182 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:44, 25 July 2024)
 -   📖 Read chapter 1 - 210 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (06:43, 25 July 2024)
 -   📖 Read chapter 88 - 126 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:10, 25 July 2024)
--   📖 Read chapter 1 - 197 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:29, 24 July 2024)
 -   📖 Read chapter 56 - 102 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:37, 22 July 2024)
 -   📖 Read chapter 1 - 94 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:33, 22 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
