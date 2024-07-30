@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 199 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:42, 30 July 2024)
 -   📖 Read chapter 1 - 95 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:46, 29 July 2024)
 -   📖 Read chapter 1 - 198 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:39, 28 July 2024)
 -   📖 Read chapter 1 - 157 of [Astral Pet Store](https://anilist.co/manga/160143) (16:03, 27 July 2024)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 88 - 126 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:10, 25 July 2024)
 -   📖 Read chapter 56 - 102 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:37, 22 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
--   📖 Read chapter 1 - 198 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:50, 20 July 2024)
 -   📖 Read chapter 1 - 216 of [One Piece](https://anilist.co/manga/30013) (08:21, 19 July 2024)
 -   📖 Read chapter 1 - 106 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:32, 19 July 2024)
 -   📖 Read chapter 28 - 54 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:57, 16 July 2024)
