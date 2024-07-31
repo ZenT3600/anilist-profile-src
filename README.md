@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 297 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:13, 31 July 2024)
 -   📖 Read chapter 88 - 130 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (14:45, 30 July 2024)
 -   📖 Read chapter 1 - 199 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:42, 30 July 2024)
 -   📖 Read chapter 1 - 95 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:46, 29 July 2024)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 142 of [To Not Die](https://anilist.co/manga/136099) (05:56, 27 July 2024)
 -   📖 Read chapter 1 - 142 of [Get Schooled](https://anilist.co/manga/128521) (05:46, 27 July 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
--   📖 Read chapter 1 - 295 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:52, 26 July 2024)
 -   📖 Read chapter 1 - 217 of [Nano Machine](https://anilist.co/manga/120980) (06:49, 25 July 2024)
 -   📖 Read chapter 1 - 175 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:46, 25 July 2024)
 -   📖 Read chapter 1 - 182 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (06:44, 25 July 2024)
