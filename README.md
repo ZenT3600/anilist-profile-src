@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 143 of [To Not Die](https://anilist.co/manga/136099) (05:54, 03 August 2024)
+-   📖 Read chapter 1 - 144 of [To Not Die](https://anilist.co/manga/136099) (15:08, 03 August 2024)
 -   📖 Read chapter 1 - 218 of [Nano Machine](https://anilist.co/manga/120980) (05:19, 01 August 2024)
 -   📖 Read chapter 1 - 211 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:16, 01 August 2024)
 -   📖 Read chapter 1 - 297 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:13, 31 July 2024)
