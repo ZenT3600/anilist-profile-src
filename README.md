@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 143 of [To Not Die](https://anilist.co/manga/136099) (05:54, 03 August 2024)
 -   📖 Read chapter 1 - 218 of [Nano Machine](https://anilist.co/manga/120980) (05:19, 01 August 2024)
 -   📖 Read chapter 1 - 211 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:16, 01 August 2024)
 -   📖 Read chapter 1 - 297 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:13, 31 July 2024)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 95 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:46, 29 July 2024)
 -   📖 Read chapter 1 - 198 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:39, 28 July 2024)
 -   📖 Read chapter 1 - 157 of [Astral Pet Store](https://anilist.co/manga/160143) (16:03, 27 July 2024)
--   📖 Read chapter 1 - 142 of [To Not Die](https://anilist.co/manga/136099) (05:56, 27 July 2024)
 -   📖 Read chapter 1 - 142 of [Get Schooled](https://anilist.co/manga/128521) (05:46, 27 July 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
 -   📖 Read chapter 1 - 175 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:46, 25 July 2024)
