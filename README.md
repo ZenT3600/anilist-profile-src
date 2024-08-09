@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 200 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 09 August 2024)
 -   📖 Read chapter 1 - 219 of [Nano Machine](https://anilist.co/manga/120980) (08:49, 08 August 2024)
 -   📖 Read chapter 1 - 299 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:45, 08 August 2024)
 -   📖 Read chapter 1 - 212 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:42, 08 August 2024)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 88 - 132 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:40, 05 August 2024)
 -   📖 Read chapter 1 - 199 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:21, 04 August 2024)
 -   📖 Read chapter 1 - 144 of [To Not Die](https://anilist.co/manga/136099) (15:08, 03 August 2024)
--   📖 Read chapter 1 - 199 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:42, 30 July 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
 -   📖 Read chapter 56 - 102 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:37, 22 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
