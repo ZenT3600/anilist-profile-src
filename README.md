@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 152 of [Get Schooled](https://anilist.co/manga/128521) (06:24, 10 August 2024)
+-   📖 Read chapter 1 - 154 of [Get Schooled](https://anilist.co/manga/128521) (10:33, 10 August 2024)
 -   📖 Read chapter 1 - 300 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:15, 10 August 2024)
 -   📖 Read chapter 1 - 200 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 09 August 2024)
 -   📖 Read chapter 1 - 219 of [Nano Machine](https://anilist.co/manga/120980) (08:49, 08 August 2024)
