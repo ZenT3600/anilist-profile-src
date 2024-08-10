@@ -1,9 +1,9 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 150 of [Get Schooled](https://anilist.co/manga/128521) (07:23, 09 August 2024)
+-   📖 Read chapter 1 - 152 of [Get Schooled](https://anilist.co/manga/128521) (06:24, 10 August 2024)
+-   📖 Read chapter 1 - 300 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:15, 10 August 2024)
 -   📖 Read chapter 1 - 200 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 09 August 2024)
 -   📖 Read chapter 1 - 219 of [Nano Machine](https://anilist.co/manga/120980) (08:49, 08 August 2024)
--   📖 Read chapter 1 - 299 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (08:45, 08 August 2024)
 -   📖 Read chapter 1 - 212 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:42, 08 August 2024)
 -   📖 Read chapter 1 - 183 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:04, 08 August 2024)
 -   📖 Read chapter 1 - 176 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:46, 06 August 2024)
