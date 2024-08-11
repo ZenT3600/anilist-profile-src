@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
+-   📖 Read chapter 88 - 133 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:54, 11 August 2024)
 -   📖 Read chapter 1 - 154 of [Get Schooled](https://anilist.co/manga/128521) (10:33, 10 August 2024)
 -   📖 Read chapter 1 - 300 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:15, 10 August 2024)
 -   📖 Read chapter 1 - 200 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 09 August 2024)
@@ -9,7 +11,6 @@
 -   📖 Read chapter 1 - 176 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:46, 06 August 2024)
 -   📖 Read chapter 1 - 158 of [Astral Pet Store](https://anilist.co/manga/160143) (07:20, 05 August 2024)
 -   📖 Read chapter 1 - 96 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (06:41, 05 August 2024)
--   📖 Read chapter 88 - 132 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:40, 05 August 2024)
 -   📖 Read chapter 1 - 199 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:21, 04 August 2024)
 -   📖 Read chapter 1 - 144 of [To Not Die](https://anilist.co/manga/136099) (15:08, 03 August 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
@@ -31,7 +32,6 @@
 -   📖 Read chapter 1 - 19 of [Catch These Hands!](https://anilist.co/manga/104112) (13:25, 13 June 2024)
 -   📖 Read chapter 1 - 159 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:16, 11 June 2024)
 -   📖 Completed [A Lotus Flower in the Mud](https://anilist.co/manga/100037) (07:30, 03 June 2024)
--   📖 Read chapter 1 - 66 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:25, 02 June 2024)
 -   📖 Completed [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
 -   📖 Read chapter 1 - 42 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (20:45, 01 June 2024)
 -   📖 Completed [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (21:51, 31 May 2024)
