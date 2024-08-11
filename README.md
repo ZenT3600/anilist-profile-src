@@ -1,11 +1,11 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 156 of [Get Schooled](https://anilist.co/manga/128521) (19:05, 11 August 2024)
 -   📖 Read chapter 1 - 97 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (14:12, 11 August 2024)
 -   📖 Read chapter 1 - 301 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:37, 11 August 2024)
 -   📖 Read chapter 1 - 145 of [To Not Die](https://anilist.co/manga/136099) (06:35, 11 August 2024)
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
 -   📖 Read chapter 88 - 133 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:54, 11 August 2024)
--   📖 Read chapter 1 - 154 of [Get Schooled](https://anilist.co/manga/128521) (10:33, 10 August 2024)
 -   📖 Read chapter 1 - 200 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 09 August 2024)
 -   📖 Read chapter 1 - 219 of [Nano Machine](https://anilist.co/manga/120980) (08:49, 08 August 2024)
 -   📖 Read chapter 1 - 212 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:42, 08 August 2024)
