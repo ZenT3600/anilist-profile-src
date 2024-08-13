@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
 -   📖 Read chapter 1 - 157 of [Get Schooled](https://anilist.co/manga/128521) (06:04, 12 August 2024)
 -   📖 Read chapter 21 - 30 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:01, 12 August 2024)
 -   📖 Read chapter 88 - 134 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:01, 12 August 2024)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 212 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:42, 08 August 2024)
 -   📖 Read chapter 1 - 183 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:04, 08 August 2024)
 -   📖 Read chapter 1 - 176 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:46, 06 August 2024)
--   📖 Read chapter 1 - 158 of [Astral Pet Store](https://anilist.co/manga/160143) (07:20, 05 August 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
 -   📖 Read chapter 56 - 102 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:37, 22 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
