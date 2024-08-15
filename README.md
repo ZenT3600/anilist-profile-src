@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
 -   📖 Read chapter 1 - 220 of [Nano Machine](https://anilist.co/manga/120980) (05:58, 15 August 2024)
 -   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
 -   📖 Read chapter 1 - 157 of [Get Schooled](https://anilist.co/manga/128521) (06:04, 12 August 2024)
@@ -18,7 +19,6 @@
 -   📖 Read chapter 56 - 102 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:37, 22 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
 -   📖 Read chapter 1 - 216 of [One Piece](https://anilist.co/manga/30013) (08:21, 19 July 2024)
--   📖 Read chapter 1 - 106 of [My Dress-Up Darling](https://anilist.co/manga/101583) (00:32, 19 July 2024)
 -   📖 Read chapter 28 - 54 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:57, 16 July 2024)
 -   📖 Completed [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:06, 14 July 2024)
 -   📖 Read chapter 1 - 119 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:05, 14 July 2024)
