@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 220 of [Nano Machine](https://anilist.co/manga/120980) (05:58, 15 August 2024)
 -   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
 -   📖 Read chapter 1 - 157 of [Get Schooled](https://anilist.co/manga/128521) (06:04, 12 August 2024)
 -   📖 Read chapter 21 - 30 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:01, 12 August 2024)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 145 of [To Not Die](https://anilist.co/manga/136099) (06:35, 11 August 2024)
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
 -   📖 Read chapter 1 - 200 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 09 August 2024)
--   📖 Read chapter 1 - 219 of [Nano Machine](https://anilist.co/manga/120980) (08:49, 08 August 2024)
 -   📖 Read chapter 1 - 212 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:42, 08 August 2024)
 -   📖 Read chapter 1 - 183 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:04, 08 August 2024)
 -   📖 Read chapter 1 - 176 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:46, 06 August 2024)
