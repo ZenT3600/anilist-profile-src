@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 302 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:49, 17 August 2024)
+-   📖 Read chapter 1 - 303 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:56, 17 August 2024)
 -   📖 Read chapter 1 - 146 of [To Not Die](https://anilist.co/manga/136099) (05:43, 16 August 2024)
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
 -   📖 Read chapter 1 - 220 of [Nano Machine](https://anilist.co/manga/120980) (05:58, 15 August 2024)
