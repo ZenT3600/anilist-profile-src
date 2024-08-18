@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 103 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:00, 18 August 2024)
 -   📖 Read chapter 1 - 201 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:44, 18 August 2024)
 -   📖 Read chapter 1 - 303 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:56, 17 August 2024)
 -   📖 Read chapter 1 - 146 of [To Not Die](https://anilist.co/manga/136099) (05:43, 16 August 2024)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 183 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:04, 08 August 2024)
 -   📖 Read chapter 1 - 176 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:46, 06 August 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
--   📖 Read chapter 56 - 102 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:37, 22 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
 -   📖 Read chapter 1 - 216 of [One Piece](https://anilist.co/manga/30013) (08:21, 19 July 2024)
 -   📖 Read chapter 28 - 54 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:57, 16 July 2024)
