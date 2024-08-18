@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 201 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:44, 18 August 2024)
 -   📖 Read chapter 1 - 303 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:56, 17 August 2024)
 -   📖 Read chapter 1 - 146 of [To Not Die](https://anilist.co/manga/136099) (05:43, 16 August 2024)
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 157 of [Get Schooled](https://anilist.co/manga/128521) (06:04, 12 August 2024)
 -   📖 Read chapter 21 - 30 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:01, 12 August 2024)
 -   📖 Read chapter 88 - 134 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:01, 12 August 2024)
--   📖 Read chapter 1 - 200 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:18, 12 August 2024)
 -   📖 Read chapter 1 - 97 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (14:12, 11 August 2024)
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
 -   📖 Read chapter 1 - 200 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 09 August 2024)
