@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 158 of [Get Schooled](https://anilist.co/manga/128521) (05:47, 19 August 2024)
 -   📖 Read chapter 56 - 103 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:00, 18 August 2024)
 -   📖 Read chapter 1 - 201 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:44, 18 August 2024)
 -   📖 Read chapter 1 - 303 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:56, 17 August 2024)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
 -   📖 Read chapter 1 - 220 of [Nano Machine](https://anilist.co/manga/120980) (05:58, 15 August 2024)
 -   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
--   📖 Read chapter 1 - 157 of [Get Schooled](https://anilist.co/manga/128521) (06:04, 12 August 2024)
 -   📖 Read chapter 21 - 30 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:01, 12 August 2024)
 -   📖 Read chapter 88 - 134 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:01, 12 August 2024)
 -   📖 Read chapter 1 - 97 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (14:12, 11 August 2024)
