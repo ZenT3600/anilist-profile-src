@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
 -   📖 Read chapter 1 - 158 of [Get Schooled](https://anilist.co/manga/128521) (05:47, 19 August 2024)
 -   📖 Read chapter 56 - 103 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:00, 18 August 2024)
 -   📖 Read chapter 1 - 201 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:44, 18 August 2024)
@@ -28,7 +29,6 @@
 -   📖 Read chapter 1 - 127 of [Solo Leveling](https://anilist.co/manga/105398) (10:48, 17 June 2024)
 -   📖 Read chapter 1 - 5 of [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:14, 16 June 2024)
 -   📖 Plans to read [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:08, 16 June 2024)
--   📖 Read chapter 4 - 22 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (15:15, 16 June 2024)
 -   📖 Completed [Catch These Hands!](https://anilist.co/manga/104112) (13:29, 13 June 2024)
 -   📖 Read chapter 1 - 19 of [Catch These Hands!](https://anilist.co/manga/104112) (13:25, 13 June 2024)
 -   📖 Read chapter 1 - 159 of [Flirting with The Villain's Dad](https://anilist.co/manga/117581) (07:16, 11 June 2024)
