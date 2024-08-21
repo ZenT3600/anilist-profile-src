@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
 -   📖 Read chapter 1 - 158 of [Get Schooled](https://anilist.co/manga/128521) (05:47, 19 August 2024)
 -   📖 Read chapter 56 - 103 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:00, 18 August 2024)
@@ -49,6 +50,5 @@
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
 -   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
--   📖 Read chapter 1 - 132 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:00, 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
