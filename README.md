@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 221 of [Nano Machine](https://anilist.co/manga/120980) (05:58, 22 August 2024)
 -   📖 Read chapter 1 - 213 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 22 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 1 - 303 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (09:56, 17 August 2024)
 -   📖 Read chapter 1 - 146 of [To Not Die](https://anilist.co/manga/136099) (05:43, 16 August 2024)
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
--   📖 Read chapter 1 - 220 of [Nano Machine](https://anilist.co/manga/120980) (05:58, 15 August 2024)
 -   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
 -   📖 Read chapter 21 - 30 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:01, 12 August 2024)
 -   📖 Read chapter 88 - 134 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:01, 12 August 2024)
