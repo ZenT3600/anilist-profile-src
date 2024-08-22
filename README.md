@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 213 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 22 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
 -   📖 Read chapter 1 - 158 of [Get Schooled](https://anilist.co/manga/128521) (05:47, 19 August 2024)
@@ -15,7 +16,6 @@
 -   📖 Read chapter 1 - 97 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (14:12, 11 August 2024)
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
 -   📖 Read chapter 1 - 200 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 09 August 2024)
--   📖 Read chapter 1 - 212 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (08:42, 08 August 2024)
 -   📖 Read chapter 1 - 183 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:04, 08 August 2024)
 -   📖 Read chapter 1 - 176 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:46, 06 August 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
