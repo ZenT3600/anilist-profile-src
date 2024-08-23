@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 494 of [Martial Peak](https://anilist.co/manga/104494) (05:31, 23 August 2024)
 -   📖 Read chapter 1 - 221 of [Nano Machine](https://anilist.co/manga/120980) (05:58, 22 August 2024)
 -   📖 Read chapter 1 - 213 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 22 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
 -   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
--   📖 Completed [40 Made ni Shitai 10 no Koto](https://anilist.co/manga/161929) (14:04, 02 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
