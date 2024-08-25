@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 201 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:58, 25 August 2024)
+-   📖 Read chapter 1 - 202 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:57, 25 August 2024)
 -   📖 Read chapter 1 - 219 of [One Piece](https://anilist.co/manga/30013) (05:42, 24 August 2024)
 -   📖 Read chapter 1 - 508 of [Martial Peak](https://anilist.co/manga/104494) (05:32, 24 August 2024)
 -   📖 Read chapter 1 - 304 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:16, 23 August 2024)
@@ -9,7 +11,6 @@
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
 -   📖 Read chapter 1 - 158 of [Get Schooled](https://anilist.co/manga/128521) (05:47, 19 August 2024)
 -   📖 Read chapter 56 - 103 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:00, 18 August 2024)
--   📖 Read chapter 1 - 201 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:44, 18 August 2024)
 -   📖 Read chapter 1 - 146 of [To Not Die](https://anilist.co/manga/136099) (05:43, 16 August 2024)
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
 -   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 88 - 134 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:01, 12 August 2024)
 -   📖 Read chapter 1 - 97 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (14:12, 11 August 2024)
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
--   📖 Read chapter 1 - 200 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:29, 09 August 2024)
 -   📖 Read chapter 1 - 183 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:04, 08 August 2024)
 -   📖 Read chapter 1 - 176 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:46, 06 August 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
