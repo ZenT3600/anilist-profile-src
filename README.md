@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 147 of [To Not Die](https://anilist.co/manga/136099) (06:08, 26 August 2024)
+-   📖 Read chapter 1 - 159 of [Get Schooled](https://anilist.co/manga/128521) (06:03, 26 August 2024)
 -   📖 Read chapter 1 - 98 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:16, 26 August 2024)
 -   📖 Read chapter 1 - 201 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (06:58, 25 August 2024)
 -   📖 Read chapter 1 - 202 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:57, 25 August 2024)
@@ -10,9 +12,7 @@
 -   📖 Read chapter 1 - 213 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 22 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
--   📖 Read chapter 1 - 158 of [Get Schooled](https://anilist.co/manga/128521) (05:47, 19 August 2024)
 -   📖 Read chapter 56 - 103 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:00, 18 August 2024)
--   📖 Read chapter 1 - 146 of [To Not Die](https://anilist.co/manga/136099) (05:43, 16 August 2024)
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
 -   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
 -   📖 Read chapter 21 - 30 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:01, 12 August 2024)
