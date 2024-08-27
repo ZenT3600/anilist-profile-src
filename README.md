@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 136 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:28, 27 August 2024)
+-   📖 Read chapter 21 - 31 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:27, 27 August 2024)
 -   📖 Read chapter 1 - 147 of [To Not Die](https://anilist.co/manga/136099) (06:08, 26 August 2024)
 -   📖 Read chapter 1 - 159 of [Get Schooled](https://anilist.co/manga/128521) (06:03, 26 August 2024)
 -   📖 Read chapter 1 - 98 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:16, 26 August 2024)
@@ -15,8 +17,6 @@
 -   📖 Read chapter 56 - 103 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:00, 18 August 2024)
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
 -   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
--   📖 Read chapter 21 - 30 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (06:01, 12 August 2024)
--   📖 Read chapter 88 - 134 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (06:01, 12 August 2024)
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
 -   📖 Read chapter 1 - 183 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (08:04, 08 August 2024)
 -   📖 Read chapter 1 - 176 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:46, 06 August 2024)
