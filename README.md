@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 26 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (05:21, 27 August 2024)
 -   📖 Read chapter 88 - 136 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:28, 27 August 2024)
 -   📖 Read chapter 21 - 31 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:27, 27 August 2024)
 -   📖 Read chapter 1 - 147 of [To Not Die](https://anilist.co/manga/136099) (06:08, 26 August 2024)
@@ -49,6 +50,5 @@
 -   📖 Read chapter 1 - 264 of [I Am a Hero](https://anilist.co/manga/44440) (16:17, 24 April 2024)
 -   📖 Read chapter 8 - 51 of [Fucking My Niece at the Girls' Pajama Party](https://anilist.co/manga/128678) (16:36, 23 April 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (18:36, 20 April 2024)
--   📖 Read chapter 12 - 39 of [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (15:40, 14 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
