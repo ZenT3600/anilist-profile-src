@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 305 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:23, 28 August 2024)
 -   📖 Read chapter 8 - 26 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (05:21, 27 August 2024)
 -   📖 Read chapter 88 - 136 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:28, 27 August 2024)
 -   📖 Read chapter 21 - 31 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:27, 27 August 2024)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 202 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:57, 25 August 2024)
 -   📖 Read chapter 1 - 219 of [One Piece](https://anilist.co/manga/30013) (05:42, 24 August 2024)
 -   📖 Read chapter 1 - 508 of [Martial Peak](https://anilist.co/manga/104494) (05:32, 24 August 2024)
--   📖 Read chapter 1 - 304 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (16:16, 23 August 2024)
 -   📖 Read chapter 1 - 221 of [Nano Machine](https://anilist.co/manga/120980) (05:58, 22 August 2024)
 -   📖 Read chapter 1 - 213 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:23, 22 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
