@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 34 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (06:46, 28 August 2024)
 -   📖 Read chapter 1 - 305 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (06:23, 28 August 2024)
--   📖 Read chapter 8 - 26 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (05:21, 27 August 2024)
 -   📖 Read chapter 88 - 136 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:28, 27 August 2024)
 -   📖 Read chapter 21 - 31 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:27, 27 August 2024)
 -   📖 Read chapter 1 - 147 of [To Not Die](https://anilist.co/manga/136099) (06:08, 26 August 2024)
