@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 513 of [Martial Peak](https://anilist.co/manga/104494) (14:54, 30 August 2024)
 -   📖 Read chapter 1 - 306 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:07, 30 August 2024)
 -   📖 Read chapter 1 - 222 of [Nano Machine](https://anilist.co/manga/120980) (05:28, 29 August 2024)
 -   📖 Read chapter 1 - 184 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:23, 29 August 2024)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 98 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:16, 26 August 2024)
 -   📖 Read chapter 1 - 202 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:57, 25 August 2024)
 -   📖 Read chapter 1 - 219 of [One Piece](https://anilist.co/manga/30013) (05:42, 24 August 2024)
--   📖 Read chapter 1 - 508 of [Martial Peak](https://anilist.co/manga/104494) (05:32, 24 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
 -   📖 Read chapter 56 - 103 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:00, 18 August 2024)
