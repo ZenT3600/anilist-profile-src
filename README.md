@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [Get Schooled](https://anilist.co/manga/128521) (14:40, 02 September 2024)
 -   📖 Read chapter 56 - 104 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:00, 02 September 2024)
 -   📖 Read chapter 1 - 99 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (12:01, 01 September 2024)
 -   📖 Read chapter 1 - 307 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:00, 01 September 2024)
@@ -14,7 +15,6 @@
 -   📖 Read chapter 8 - 34 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (06:46, 28 August 2024)
 -   📖 Read chapter 88 - 136 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:28, 27 August 2024)
 -   📖 Read chapter 1 - 147 of [To Not Die](https://anilist.co/manga/136099) (06:08, 26 August 2024)
--   📖 Read chapter 1 - 159 of [Get Schooled](https://anilist.co/manga/128521) (06:03, 26 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
