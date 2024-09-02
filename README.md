@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 104 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:00, 02 September 2024)
 -   📖 Read chapter 1 - 99 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (12:01, 01 September 2024)
 -   📖 Read chapter 1 - 307 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (12:00, 01 September 2024)
 -   📖 Read chapter 1 - 228 of [One Piece](https://anilist.co/manga/30013) (06:22, 01 September 2024)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 159 of [Get Schooled](https://anilist.co/manga/128521) (06:03, 26 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
--   📖 Read chapter 56 - 103 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:00, 18 August 2024)
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
 -   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
