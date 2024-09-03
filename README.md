@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [Astral Pet Store](https://anilist.co/manga/160143) (04:47, 03 September 2024)
+-   📖 Read chapter 1 - 177 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:44, 03 September 2024)
 -   📖 Read chapter 1 - 160 of [Get Schooled](https://anilist.co/manga/128521) (14:40, 02 September 2024)
 -   📖 Read chapter 56 - 104 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:00, 02 September 2024)
 -   📖 Read chapter 1 - 99 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (12:01, 01 September 2024)
@@ -18,9 +20,7 @@
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
 -   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
--   📖 Read chapter 1 - 159 of [Astral Pet Store](https://anilist.co/manga/160143) (05:49, 13 August 2024)
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
--   📖 Read chapter 1 - 176 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:46, 06 August 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
 -   📖 Read chapter 28 - 54 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:57, 16 July 2024)
