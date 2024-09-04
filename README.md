@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 - 55 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:07, 04 September 2024)
 -   📖 Read chapter 88 - 137 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:30, 04 September 2024)
 -   📖 Read chapter 1 - 160 of [Astral Pet Store](https://anilist.co/manga/160143) (04:47, 03 September 2024)
 -   📖 Read chapter 1 - 177 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:44, 03 September 2024)
@@ -23,7 +24,6 @@
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
--   📖 Read chapter 28 - 54 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:57, 16 July 2024)
 -   📖 Completed [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:06, 14 July 2024)
 -   📖 Read chapter 1 - 119 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:05, 14 July 2024)
 -   📖 Read chapter 1 - 184 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (06:25, 10 July 2024)
