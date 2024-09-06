@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 108 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:44, 06 September 2024)
 -   📖 Read chapter 1 - 149 of [To Not Die](https://anilist.co/manga/136099) (05:10, 05 September 2024)
 -   📖 Read chapter 1 - 215 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:02, 05 September 2024)
 -   📖 Read chapter 1 - 308 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:58, 05 September 2024)
@@ -20,7 +21,6 @@
 -   📖 Read chapter 8 - 34 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (06:46, 28 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
 -   📖 Read chapter 4 - 26 of [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (05:54, 20 August 2024)
--   📖 Read chapter 1 - 107 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:59, 15 August 2024)
 -   📖 Read chapter 1 - 67 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (05:55, 11 August 2024)
 -   📖 Read chapter 1 - 70 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (05:43, 27 July 2024)
 -   📖 Read chapter 110 - 160 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (03:08, 21 July 2024)
