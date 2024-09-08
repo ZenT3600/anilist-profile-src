@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 100 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (11:11, 08 September 2024)
 -   📖 Read chapter 1 - 204 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:18, 08 September 2024)
 -   📖 Read chapter 21 - 33 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (05:47, 08 September 2024)
 -   📖 Read chapter 1 - 309 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:16, 07 September 2024)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 1 - 177 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:44, 03 September 2024)
 -   📖 Read chapter 1 - 160 of [Get Schooled](https://anilist.co/manga/128521) (14:40, 02 September 2024)
 -   📖 Read chapter 56 - 104 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:00, 02 September 2024)
--   📖 Read chapter 1 - 99 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (12:01, 01 September 2024)
 -   📖 Read chapter 1 - 228 of [One Piece](https://anilist.co/manga/30013) (06:22, 01 September 2024)
 -   📖 Read chapter 1 - 513 of [Martial Peak](https://anilist.co/manga/104494) (14:54, 30 August 2024)
 -   📖 Read chapter 1 - 184 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:23, 29 August 2024)
