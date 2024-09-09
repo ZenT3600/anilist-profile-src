@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 161 of [Get Schooled](https://anilist.co/manga/128521) (02:57, 09 September 2024)
 -   📖 Read chapter 1 - 68 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (02:50, 09 September 2024)
 -   📖 Read chapter 1 - 100 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (11:11, 08 September 2024)
 -   📖 Read chapter 1 - 204 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:18, 08 September 2024)
@@ -13,7 +14,6 @@
 -   📖 Read chapter 28 - 55 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:07, 04 September 2024)
 -   📖 Read chapter 88 - 137 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:30, 04 September 2024)
 -   📖 Read chapter 1 - 177 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:44, 03 September 2024)
--   📖 Read chapter 1 - 160 of [Get Schooled](https://anilist.co/manga/128521) (14:40, 02 September 2024)
 -   📖 Read chapter 56 - 104 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:00, 02 September 2024)
 -   📖 Read chapter 1 - 228 of [One Piece](https://anilist.co/manga/30013) (06:22, 01 September 2024)
 -   📖 Read chapter 1 - 513 of [Martial Peak](https://anilist.co/manga/104494) (14:54, 30 August 2024)
