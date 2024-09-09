@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
 -   📖 Read chapter 1 - 161 of [Get Schooled](https://anilist.co/manga/128521) (02:57, 09 September 2024)
 -   📖 Read chapter 1 - 68 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (02:50, 09 September 2024)
 -   📖 Read chapter 1 - 100 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (11:11, 08 September 2024)
@@ -29,7 +30,6 @@
 -   📖 Read chapter 1 - 184 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (06:25, 10 July 2024)
 -   📖 Read chapter 1 - 37 of [Citrus+](https://anilist.co/manga/103884) (05:29, 29 June 2024)
 -   📖 Read chapter 1 - 20 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (16:19, 24 June 2024)
--   📖 Read chapter 1 - 127 of [Solo Leveling](https://anilist.co/manga/105398) (10:48, 17 June 2024)
 -   📖 Read chapter 1 - 5 of [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:14, 16 June 2024)
 -   📖 Plans to read [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:08, 16 June 2024)
 -   📖 Completed [Catch These Hands!](https://anilist.co/manga/104112) (13:29, 13 June 2024)
