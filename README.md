@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 233 of [One Piece](https://anilist.co/manga/30013) (05:28, 10 September 2024)
 -   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
 -   📖 Read chapter 1 - 161 of [Get Schooled](https://anilist.co/manga/128521) (02:57, 09 September 2024)
 -   📖 Read chapter 1 - 68 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (02:50, 09 September 2024)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 88 - 137 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:30, 04 September 2024)
 -   📖 Read chapter 1 - 177 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:44, 03 September 2024)
 -   📖 Read chapter 56 - 104 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:00, 02 September 2024)
--   📖 Read chapter 1 - 228 of [One Piece](https://anilist.co/manga/30013) (06:22, 01 September 2024)
 -   📖 Read chapter 1 - 513 of [Martial Peak](https://anilist.co/manga/104494) (14:54, 30 August 2024)
 -   📖 Read chapter 1 - 184 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:23, 29 August 2024)
 -   📖 Read chapter 1 - 202 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (05:19, 29 August 2024)
