@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 224 of [Nano Machine](https://anilist.co/manga/120980) (04:47, 12 September 2024)
+-   📖 Read chapter 1 - 150 of [To Not Die](https://anilist.co/manga/136099) (04:42, 12 September 2024)
 -   📖 Read chapter 1 - 310 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:37, 12 September 2024)
 -   📖 Read chapter 1 - 185 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:34, 12 September 2024)
 -   📖 Read chapter 1 - 235 of [One Piece](https://anilist.co/manga/30013) (05:11, 11 September 2024)
@@ -10,9 +12,7 @@
 -   📖 Read chapter 1 - 204 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:18, 08 September 2024)
 -   📖 Read chapter 21 - 33 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (05:47, 08 September 2024)
 -   📖 Read chapter 1 - 108 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:44, 06 September 2024)
--   📖 Read chapter 1 - 149 of [To Not Die](https://anilist.co/manga/136099) (05:10, 05 September 2024)
 -   📖 Read chapter 1 - 215 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:02, 05 September 2024)
--   📖 Read chapter 1 - 223 of [Nano Machine](https://anilist.co/manga/120980) (18:23, 04 September 2024)
 -   📖 Read chapter 1 - 161 of [Astral Pet Store](https://anilist.co/manga/160143) (06:36, 04 September 2024)
 -   📖 Read chapter 28 - 55 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (05:07, 04 September 2024)
 -   📖 Read chapter 88 - 137 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:30, 04 September 2024)
