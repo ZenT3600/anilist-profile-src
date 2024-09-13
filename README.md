@@ -1,10 +1,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 236 of [One Piece](https://anilist.co/manga/30013) (17:52, 13 September 2024)
 -   📖 Read chapter 1 - 224 of [Nano Machine](https://anilist.co/manga/120980) (04:47, 12 September 2024)
 -   📖 Read chapter 1 - 150 of [To Not Die](https://anilist.co/manga/136099) (04:42, 12 September 2024)
 -   📖 Read chapter 1 - 310 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:37, 12 September 2024)
 -   📖 Read chapter 1 - 185 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:34, 12 September 2024)
--   📖 Read chapter 1 - 235 of [One Piece](https://anilist.co/manga/30013) (05:11, 11 September 2024)
 -   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
 -   📖 Read chapter 1 - 161 of [Get Schooled](https://anilist.co/manga/128521) (02:57, 09 September 2024)
 -   📖 Read chapter 1 - 68 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (02:50, 09 September 2024)
