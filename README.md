@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 21 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (14:47, 14 September 2024)
 -   📖 Read chapter 1 - 241 of [One Piece](https://anilist.co/manga/30013) (06:21, 14 September 2024)
 -   📖 Read chapter 1 - 224 of [Nano Machine](https://anilist.co/manga/120980) (04:47, 12 September 2024)
 -   📖 Read chapter 1 - 150 of [To Not Die](https://anilist.co/manga/136099) (04:42, 12 September 2024)
@@ -29,7 +30,6 @@
 -   📖 Read chapter 1 - 119 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (09:05, 14 July 2024)
 -   📖 Read chapter 1 - 184 of [My Food Looks Very Cute](https://anilist.co/manga/129345) (06:25, 10 July 2024)
 -   📖 Read chapter 1 - 37 of [Citrus+](https://anilist.co/manga/103884) (05:29, 29 June 2024)
--   📖 Read chapter 1 - 20 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (16:19, 24 June 2024)
 -   📖 Read chapter 1 - 5 of [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:14, 16 June 2024)
 -   📖 Plans to read [Namaiki na Gal Ane wo Ore no Houhou de Wakaraseru Koto ni Shita Hi](https://anilist.co/manga/172383) (18:08, 16 June 2024)
 -   📖 Completed [Catch These Hands!](https://anilist.co/manga/104112) (13:29, 13 June 2024)
