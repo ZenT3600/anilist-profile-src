@@ -1,6 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 237 of [One Piece](https://anilist.co/manga/30013) (06:07, 14 September 2024)
+-   📖 Read chapter 1 - 241 of [One Piece](https://anilist.co/manga/30013) (06:21, 14 September 2024)
 -   📖 Read chapter 1 - 224 of [Nano Machine](https://anilist.co/manga/120980) (04:47, 12 September 2024)
 -   📖 Read chapter 1 - 150 of [To Not Die](https://anilist.co/manga/136099) (04:42, 12 September 2024)
 -   📖 Read chapter 1 - 310 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:37, 12 September 2024)
