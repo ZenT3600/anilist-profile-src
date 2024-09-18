@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 225 of [Nano Machine](https://anilist.co/manga/120980) (17:59, 18 September 2024)
 -   📖 Read chapter 1 - 311 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:19, 18 September 2024)
 -   📖 Read chapter 1 - 162 of [Get Schooled](https://anilist.co/manga/128521) (04:17, 17 September 2024)
 -   📖 Read chapter 56 - 105 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:28, 16 September 2024)
@@ -10,7 +11,6 @@
 -   📖 Read chapter 1 - 139 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:32, 14 September 2024)
 -   📖 Read chapter 1 - 21 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (14:47, 14 September 2024)
 -   📖 Read chapter 1 - 241 of [One Piece](https://anilist.co/manga/30013) (06:21, 14 September 2024)
--   📖 Read chapter 1 - 224 of [Nano Machine](https://anilist.co/manga/120980) (04:47, 12 September 2024)
 -   📖 Read chapter 1 - 150 of [To Not Die](https://anilist.co/manga/136099) (04:42, 12 September 2024)
 -   📖 Read chapter 1 - 185 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:34, 12 September 2024)
 -   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
