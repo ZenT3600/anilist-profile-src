@@ -1,7 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 217 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:01, 19 September 2024)
+-   📖 Read chapter 1 - 312 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:57, 19 September 2024)
 -   📖 Read chapter 1 - 225 of [Nano Machine](https://anilist.co/manga/120980) (17:59, 18 September 2024)
--   📖 Read chapter 1 - 311 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:19, 18 September 2024)
 -   📖 Read chapter 1 - 162 of [Get Schooled](https://anilist.co/manga/128521) (04:17, 17 September 2024)
 -   📖 Read chapter 56 - 105 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:28, 16 September 2024)
 -   📖 Read chapter 1 - 101 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:23, 16 September 2024)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
 -   📖 Read chapter 1 - 68 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (02:50, 09 September 2024)
 -   📖 Read chapter 1 - 108 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:44, 06 September 2024)
--   📖 Read chapter 1 - 215 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:02, 05 September 2024)
 -   📖 Read chapter 1 - 161 of [Astral Pet Store](https://anilist.co/manga/160143) (06:36, 04 September 2024)
 -   📖 Read chapter 88 - 137 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:30, 04 September 2024)
 -   📖 Read chapter 1 - 177 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:44, 03 September 2024)
