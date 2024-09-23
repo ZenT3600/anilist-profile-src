@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 102 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:22, 23 September 2024)
+-   📖 Read chapter 88 - 138 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:19, 23 September 2024)
 -   📖 Read chapter 1 - 206 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:45, 22 September 2024)
 -   📖 Read chapter 1 - 313 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:42, 22 September 2024)
 -   📖 Read chapter 1 - 151 of [To Not Die](https://anilist.co/manga/136099) (05:06, 21 September 2024)
@@ -11,7 +13,6 @@
 -   📖 Read chapter 1 - 225 of [Nano Machine](https://anilist.co/manga/120980) (17:59, 18 September 2024)
 -   📖 Read chapter 1 - 162 of [Get Schooled](https://anilist.co/manga/128521) (04:17, 17 September 2024)
 -   📖 Read chapter 56 - 105 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:28, 16 September 2024)
--   📖 Read chapter 1 - 101 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:23, 16 September 2024)
 -   📖 Read chapter 21 - 34 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:49, 15 September 2024)
 -   📖 Read chapter 1 - 139 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:32, 14 September 2024)
 -   📖 Read chapter 1 - 21 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (14:47, 14 September 2024)
@@ -20,7 +21,6 @@
 -   📖 Read chapter 1 - 68 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (02:50, 09 September 2024)
 -   📖 Read chapter 1 - 108 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:44, 06 September 2024)
 -   📖 Read chapter 1 - 161 of [Astral Pet Store](https://anilist.co/manga/160143) (06:36, 04 September 2024)
--   📖 Read chapter 88 - 137 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:30, 04 September 2024)
 -   📖 Read chapter 1 - 177 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (04:44, 03 September 2024)
 -   📖 Read chapter 1 - 513 of [Martial Peak](https://anilist.co/manga/104494) (14:54, 30 August 2024)
 -   📖 Read chapter 8 - 34 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (06:46, 28 August 2024)
