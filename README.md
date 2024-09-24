@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 163 of [Get Schooled](https://anilist.co/manga/128521) (05:07, 24 September 2024)
 -   📖 Read chapter 1 - 102 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:22, 23 September 2024)
 -   📖 Read chapter 88 - 138 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:19, 23 September 2024)
 -   📖 Read chapter 1 - 206 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:45, 22 September 2024)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 1 - 246 of [One Piece](https://anilist.co/manga/30013) (05:40, 20 September 2024)
 -   📖 Read chapter 1 - 217 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:01, 19 September 2024)
 -   📖 Read chapter 1 - 225 of [Nano Machine](https://anilist.co/manga/120980) (17:59, 18 September 2024)
--   📖 Read chapter 1 - 162 of [Get Schooled](https://anilist.co/manga/128521) (04:17, 17 September 2024)
 -   📖 Read chapter 56 - 105 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:28, 16 September 2024)
 -   📖 Read chapter 21 - 34 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:49, 15 September 2024)
 -   📖 Read chapter 1 - 139 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:32, 14 September 2024)
