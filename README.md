@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 186 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:35, 26 September 2024)
 -   📖 Read chapter 1 - 178 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:16, 25 September 2024)
 -   📖 Read chapter 1 - 248 of [One Piece](https://anilist.co/manga/30013) (13:50, 24 September 2024)
 -   📖 Read chapter 1 - 163 of [Get Schooled](https://anilist.co/manga/128521) (05:07, 24 September 2024)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 21 - 34 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:49, 15 September 2024)
 -   📖 Read chapter 1 - 139 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:32, 14 September 2024)
 -   📖 Read chapter 1 - 21 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (14:47, 14 September 2024)
--   📖 Read chapter 1 - 185 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:34, 12 September 2024)
 -   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
 -   📖 Read chapter 1 - 68 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (02:50, 09 September 2024)
 -   📖 Read chapter 1 - 108 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:44, 06 September 2024)
