@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 152 of [To Not Die](https://anilist.co/manga/136099) (05:09, 27 September 2024)
 -   📖 Read chapter 1 - 69 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:28, 27 September 2024)
 -   📖 Read chapter 110 - 161 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (13:01, 26 September 2024)
 -   📖 Read chapter 1 - 226 of [Nano Machine](https://anilist.co/manga/120980) (04:40, 26 September 2024)
@@ -11,7 +12,6 @@
 -   📖 Read chapter 88 - 138 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:19, 23 September 2024)
 -   📖 Read chapter 1 - 206 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:45, 22 September 2024)
 -   📖 Read chapter 1 - 313 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:42, 22 September 2024)
--   📖 Read chapter 1 - 151 of [To Not Die](https://anilist.co/manga/136099) (05:06, 21 September 2024)
 -   📖 Read chapter 1 - 203 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:49, 21 September 2024)
 -   📖 Read chapter 28 - 57 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (04:48, 21 September 2024)
 -   📖 Read chapter 1 - 72 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:46, 21 September 2024)
