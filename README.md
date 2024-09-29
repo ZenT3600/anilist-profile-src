@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 22 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:33, 29 September 2024)
+-   📖 Read chapter 1 - 103 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:31, 29 September 2024)
 -   📖 Read chapter 1 - 207 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:58, 29 September 2024)
 -   📖 Read chapter 1 - 314 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:55, 29 September 2024)
 -   📖 Read chapter 88 - 139 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:22, 29 September 2024)
@@ -11,7 +13,6 @@
 -   📖 Read chapter 1 - 186 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:35, 26 September 2024)
 -   📖 Read chapter 1 - 178 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:16, 25 September 2024)
 -   📖 Read chapter 1 - 163 of [Get Schooled](https://anilist.co/manga/128521) (05:07, 24 September 2024)
--   📖 Read chapter 1 - 102 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:22, 23 September 2024)
 -   📖 Read chapter 1 - 203 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:49, 21 September 2024)
 -   📖 Read chapter 28 - 57 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (04:48, 21 September 2024)
 -   📖 Read chapter 1 - 72 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:46, 21 September 2024)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 56 - 105 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:28, 16 September 2024)
 -   📖 Read chapter 21 - 34 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:49, 15 September 2024)
 -   📖 Read chapter 1 - 139 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:32, 14 September 2024)
--   📖 Read chapter 1 - 21 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (14:47, 14 September 2024)
 -   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
 -   📖 Read chapter 1 - 108 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:44, 06 September 2024)
 -   📖 Read chapter 1 - 161 of [Astral Pet Store](https://anilist.co/manga/160143) (06:36, 04 September 2024)
