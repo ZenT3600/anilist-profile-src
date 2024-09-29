@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 139 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:22, 29 September 2024)
 -   📖 Read chapter 1 - 249 of [One Piece](https://anilist.co/manga/30013) (04:44, 28 September 2024)
 -   📖 Read chapter 1 - 152 of [To Not Die](https://anilist.co/manga/136099) (05:09, 27 September 2024)
 -   📖 Read chapter 1 - 69 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:28, 27 September 2024)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 1 - 178 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:16, 25 September 2024)
 -   📖 Read chapter 1 - 163 of [Get Schooled](https://anilist.co/manga/128521) (05:07, 24 September 2024)
 -   📖 Read chapter 1 - 102 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (04:22, 23 September 2024)
--   📖 Read chapter 88 - 138 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:19, 23 September 2024)
 -   📖 Read chapter 1 - 206 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:45, 22 September 2024)
 -   📖 Read chapter 1 - 313 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:42, 22 September 2024)
 -   📖 Read chapter 1 - 203 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:49, 21 September 2024)
