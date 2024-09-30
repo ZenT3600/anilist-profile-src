@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 162 of [Astral Pet Store](https://anilist.co/manga/160143) (04:14, 30 September 2024)
 -   📖 Read chapter 1 - 22 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:33, 29 September 2024)
 -   📖 Read chapter 1 - 103 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:31, 29 September 2024)
 -   📖 Read chapter 1 - 207 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:58, 29 September 2024)
@@ -22,7 +23,6 @@
 -   📖 Read chapter 1 - 139 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:32, 14 September 2024)
 -   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
 -   📖 Read chapter 1 - 108 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:44, 06 September 2024)
--   📖 Read chapter 1 - 161 of [Astral Pet Store](https://anilist.co/manga/160143) (06:36, 04 September 2024)
 -   📖 Read chapter 1 - 513 of [Martial Peak](https://anilist.co/manga/104494) (14:54, 30 August 2024)
 -   📖 Read chapter 8 - 34 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (06:46, 28 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
