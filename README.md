@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 153 of [To Not Die](https://anilist.co/manga/136099) (05:11, 01 October 2024)
 -   📖 Read chapter 1 - 162 of [Astral Pet Store](https://anilist.co/manga/160143) (04:14, 30 September 2024)
 -   📖 Read chapter 1 - 22 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:33, 29 September 2024)
 -   📖 Read chapter 1 - 103 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:31, 29 September 2024)
@@ -7,7 +8,6 @@
 -   📖 Read chapter 1 - 314 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:55, 29 September 2024)
 -   📖 Read chapter 88 - 139 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:22, 29 September 2024)
 -   📖 Read chapter 1 - 249 of [One Piece](https://anilist.co/manga/30013) (04:44, 28 September 2024)
--   📖 Read chapter 1 - 152 of [To Not Die](https://anilist.co/manga/136099) (05:09, 27 September 2024)
 -   📖 Read chapter 1 - 69 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:28, 27 September 2024)
 -   📖 Read chapter 110 - 161 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (13:01, 26 September 2024)
 -   📖 Read chapter 1 - 226 of [Nano Machine](https://anilist.co/manga/120980) (04:40, 26 September 2024)
