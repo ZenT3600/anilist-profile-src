@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 164 of [Get Schooled](https://anilist.co/manga/128521) (05:58, 03 October 2024)
+-   📖 Read chapter 1 - 227 of [Nano Machine](https://anilist.co/manga/120980) (05:54, 03 October 2024)
 -   📖 Read chapter 1 - 153 of [To Not Die](https://anilist.co/manga/136099) (05:11, 01 October 2024)
 -   📖 Read chapter 1 - 162 of [Astral Pet Store](https://anilist.co/manga/160143) (04:14, 30 September 2024)
 -   📖 Read chapter 1 - 22 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:33, 29 September 2024)
@@ -10,10 +12,8 @@
 -   📖 Read chapter 1 - 249 of [One Piece](https://anilist.co/manga/30013) (04:44, 28 September 2024)
 -   📖 Read chapter 1 - 69 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:28, 27 September 2024)
 -   📖 Read chapter 110 - 161 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (13:01, 26 September 2024)
--   📖 Read chapter 1 - 226 of [Nano Machine](https://anilist.co/manga/120980) (04:40, 26 September 2024)
 -   📖 Read chapter 1 - 186 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:35, 26 September 2024)
 -   📖 Read chapter 1 - 178 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:16, 25 September 2024)
--   📖 Read chapter 1 - 163 of [Get Schooled](https://anilist.co/manga/128521) (05:07, 24 September 2024)
 -   📖 Read chapter 1 - 203 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:49, 21 September 2024)
 -   📖 Read chapter 28 - 57 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (04:48, 21 September 2024)
 -   📖 Read chapter 1 - 72 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:46, 21 September 2024)
