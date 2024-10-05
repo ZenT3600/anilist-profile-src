@@ -1,7 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 254 of [One Piece](https://anilist.co/manga/30013) (06:07, 05 October 2024)
 -   📖 Read chapter 28 - 58 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:31, 04 October 2024)
--   📖 Read chapter 1 - 252 of [One Piece](https://anilist.co/manga/30013) (05:10, 04 October 2024)
 -   📖 Read chapter 88 - 140 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:25, 04 October 2024)
 -   📖 Read chapter 1 - 164 of [Get Schooled](https://anilist.co/manga/128521) (05:58, 03 October 2024)
 -   📖 Read chapter 1 - 227 of [Nano Machine](https://anilist.co/manga/120980) (05:54, 03 October 2024)
