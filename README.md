@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 - 35 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (03:45, 06 October 2024)
 -   📖 Read chapter 1 - 254 of [One Piece](https://anilist.co/manga/30013) (06:07, 05 October 2024)
 -   📖 Read chapter 28 - 58 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:31, 04 October 2024)
 -   📖 Read chapter 88 - 140 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:25, 04 October 2024)
@@ -19,7 +20,6 @@
 -   📖 Read chapter 1 - 72 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:46, 21 September 2024)
 -   📖 Read chapter 1 - 217 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:01, 19 September 2024)
 -   📖 Read chapter 56 - 105 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:28, 16 September 2024)
--   📖 Read chapter 21 - 34 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (04:49, 15 September 2024)
 -   📖 Read chapter 1 - 139 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:32, 14 September 2024)
 -   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
 -   📖 Read chapter 1 - 108 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:44, 06 September 2024)
