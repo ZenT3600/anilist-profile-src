@@ -1,8 +1,8 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 317 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:05, 08 October 2024)
 -   📖 Read chapter 1 - 165 of [Get Schooled](https://anilist.co/manga/128521) (10:55, 07 October 2024)
 -   📖 Read chapter 1 - 255 of [One Piece](https://anilist.co/manga/30013) (05:34, 07 October 2024)
--   📖 Read chapter 1 - 315 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:27, 07 October 2024)
 -   📖 Read chapter 1 - 154 of [To Not Die](https://anilist.co/manga/136099) (05:14, 06 October 2024)
 -   📖 Read chapter 1 - 208 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:09, 06 October 2024)
 -   📖 Read chapter 21 - 35 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (03:45, 06 October 2024)
