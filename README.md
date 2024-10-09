@@ -1,13 +1,13 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 256 of [One Piece](https://anilist.co/manga/30013) (04:17, 09 October 2024)
+-   📖 Read chapter 88 - 141 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:12, 09 October 2024)
 -   📖 Read chapter 1 - 317 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:05, 08 October 2024)
 -   📖 Read chapter 1 - 165 of [Get Schooled](https://anilist.co/manga/128521) (10:55, 07 October 2024)
--   📖 Read chapter 1 - 255 of [One Piece](https://anilist.co/manga/30013) (05:34, 07 October 2024)
 -   📖 Read chapter 1 - 154 of [To Not Die](https://anilist.co/manga/136099) (05:14, 06 October 2024)
 -   📖 Read chapter 1 - 208 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:09, 06 October 2024)
 -   📖 Read chapter 21 - 35 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (03:45, 06 October 2024)
 -   📖 Read chapter 28 - 58 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:31, 04 October 2024)
--   📖 Read chapter 88 - 140 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:25, 04 October 2024)
 -   📖 Read chapter 1 - 227 of [Nano Machine](https://anilist.co/manga/120980) (05:54, 03 October 2024)
 -   📖 Read chapter 1 - 162 of [Astral Pet Store](https://anilist.co/manga/160143) (04:14, 30 September 2024)
 -   📖 Read chapter 1 - 22 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:33, 29 September 2024)
