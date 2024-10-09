@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 204 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (11:17, 09 October 2024)
 -   📖 Read chapter 1 - 256 of [One Piece](https://anilist.co/manga/30013) (04:17, 09 October 2024)
 -   📖 Read chapter 88 - 141 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:12, 09 October 2024)
 -   📖 Read chapter 1 - 317 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:05, 08 October 2024)
@@ -16,7 +17,6 @@
 -   📖 Read chapter 110 - 161 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (13:01, 26 September 2024)
 -   📖 Read chapter 1 - 186 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:35, 26 September 2024)
 -   📖 Read chapter 1 - 178 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:16, 25 September 2024)
--   📖 Read chapter 1 - 203 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (04:49, 21 September 2024)
 -   📖 Read chapter 1 - 72 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:46, 21 September 2024)
 -   📖 Read chapter 1 - 217 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:01, 19 September 2024)
 -   📖 Read chapter 56 - 105 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:28, 16 September 2024)
