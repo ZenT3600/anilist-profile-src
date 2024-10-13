@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 209 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:31, 13 October 2024)
 -   📖 Read chapter 1 - 261 of [One Piece](https://anilist.co/manga/30013) (05:07, 11 October 2024)
 -   📖 Read chapter 1 - 179 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (03:05, 11 October 2024)
 -   📖 Read chapter 1 - 228 of [Nano Machine](https://anilist.co/manga/120980) (04:56, 10 October 2024)
@@ -9,7 +10,6 @@
 -   📖 Read chapter 88 - 141 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (04:12, 09 October 2024)
 -   📖 Read chapter 1 - 165 of [Get Schooled](https://anilist.co/manga/128521) (10:55, 07 October 2024)
 -   📖 Read chapter 1 - 154 of [To Not Die](https://anilist.co/manga/136099) (05:14, 06 October 2024)
--   📖 Read chapter 1 - 208 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:09, 06 October 2024)
 -   📖 Read chapter 21 - 35 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (03:45, 06 October 2024)
 -   📖 Read chapter 28 - 58 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:31, 04 October 2024)
 -   📖 Read chapter 1 - 162 of [Astral Pet Store](https://anilist.co/manga/160143) (04:14, 30 September 2024)
