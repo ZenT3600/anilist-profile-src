@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 109 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:30, 18 October 2024)
 -   📖 Read chapter 1 - 229 of [Nano Machine](https://anilist.co/manga/120980) (05:22, 17 October 2024)
 -   📖 Read chapter 1 - 166 of [Get Schooled](https://anilist.co/manga/128521) (05:18, 17 October 2024)
 -   📖 Read chapter 1 - 320 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (05:14, 17 October 2024)
@@ -22,7 +23,6 @@
 -   📖 Read chapter 1 - 217 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:01, 19 September 2024)
 -   📖 Read chapter 1 - 139 of [Tsuiraku JK to Haijin Kyoushi](https://anilist.co/manga/99737) (18:32, 14 September 2024)
 -   📖 Read chapter 1 - 134 of [Solo Leveling](https://anilist.co/manga/105398) (04:45, 09 September 2024)
--   📖 Read chapter 1 - 108 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:44, 06 September 2024)
 -   📖 Read chapter 1 - 513 of [Martial Peak](https://anilist.co/manga/104494) (14:54, 30 August 2024)
 -   📖 Read chapter 8 - 34 of [Steel of the Celestial Shadows](https://anilist.co/manga/119004) (06:46, 28 August 2024)
 -   📖 Read chapter 5 - 40 of [Whisper Me a Love Song](https://anilist.co/manga/107987) (06:45, 21 August 2024)
