@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 105 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:01, 20 October 2024)
+-   📖 Read chapter 1 - 70 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (18:00, 20 October 2024)
 -   📖 Read chapter 1 - 155 of [To Not Die](https://anilist.co/manga/136099) (07:46, 20 October 2024)
 -   📖 Read chapter 1 - 210 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:40, 20 October 2024)
 -   📖 Read chapter 1 - 321 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:56, 19 October 2024)
@@ -8,7 +10,6 @@
 -   📖 Read chapter 1 - 166 of [Get Schooled](https://anilist.co/manga/128521) (05:18, 17 October 2024)
 -   📖 Read chapter 1 - 263 of [One Piece](https://anilist.co/manga/30013) (05:37, 16 October 2024)
 -   📖 Read chapter 1 - 181 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:31, 16 October 2024)
--   📖 Read chapter 1 - 104 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (05:45, 15 October 2024)
 -   📖 Read chapter 56 - 106 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:44, 15 October 2024)
 -   📖 Read chapter 88 - 142 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:02, 15 October 2024)
 -   📖 Read chapter 1 - 187 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:49, 10 October 2024)
@@ -17,7 +18,6 @@
 -   📖 Read chapter 28 - 58 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:31, 04 October 2024)
 -   📖 Read chapter 1 - 162 of [Astral Pet Store](https://anilist.co/manga/160143) (04:14, 30 September 2024)
 -   📖 Read chapter 1 - 22 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (18:33, 29 September 2024)
--   📖 Read chapter 1 - 69 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (04:28, 27 September 2024)
 -   📖 Read chapter 110 - 161 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (13:01, 26 September 2024)
 -   📖 Read chapter 1 - 72 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (04:46, 21 September 2024)
 -   📖 Read chapter 1 - 217 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (05:01, 19 September 2024)
