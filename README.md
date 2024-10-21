@@ -1,5 +1,6 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 264 of [One Piece](https://anilist.co/manga/30013) (07:23, 21 October 2024)
 -   📖 Read chapter 1 - 105 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:01, 20 October 2024)
 -   📖 Read chapter 1 - 70 of [Jirai Nan desu ka? Chihara-san](https://anilist.co/manga/137714) (18:00, 20 October 2024)
 -   📖 Read chapter 1 - 155 of [To Not Die](https://anilist.co/manga/136099) (07:46, 20 October 2024)
@@ -8,7 +9,6 @@
 -   📖 Read chapter 1 - 109 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:30, 18 October 2024)
 -   📖 Read chapter 1 - 229 of [Nano Machine](https://anilist.co/manga/120980) (05:22, 17 October 2024)
 -   📖 Read chapter 1 - 166 of [Get Schooled](https://anilist.co/manga/128521) (05:18, 17 October 2024)
--   📖 Read chapter 1 - 263 of [One Piece](https://anilist.co/manga/30013) (05:37, 16 October 2024)
 -   📖 Read chapter 1 - 181 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:31, 16 October 2024)
 -   📖 Read chapter 56 - 106 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:44, 15 October 2024)
 -   📖 Read chapter 88 - 142 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:02, 15 October 2024)
