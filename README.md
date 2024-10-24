@@ -1,5 +1,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 230 of [Nano Machine](https://anilist.co/manga/120980) (05:28, 24 October 2024)
+-   📖 Read chapter 1 - 188 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (05:22, 24 October 2024)
 -   📖 Read chapter 1 - 266 of [One Piece](https://anilist.co/manga/30013) (05:59, 23 October 2024)
 -   📖 Read chapter 1 - 167 of [Get Schooled](https://anilist.co/manga/128521) (12:41, 22 October 2024)
 -   📖 Read chapter 1 - 105 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:01, 20 October 2024)
@@ -8,11 +10,9 @@
 -   📖 Read chapter 1 - 210 of [Teenage Mercenary](https://anilist.co/manga/126297) (07:40, 20 October 2024)
 -   📖 Read chapter 1 - 321 of [Wo Jia Laopo Lai Zi Yiqian Nian Qian](https://anilist.co/manga/146267) (04:56, 19 October 2024)
 -   📖 Read chapter 1 - 109 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:30, 18 October 2024)
--   📖 Read chapter 1 - 229 of [Nano Machine](https://anilist.co/manga/120980) (05:22, 17 October 2024)
 -   📖 Read chapter 1 - 181 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:31, 16 October 2024)
 -   📖 Read chapter 56 - 106 of [SPY x FAMILY](https://anilist.co/manga/108556) (05:44, 15 October 2024)
 -   📖 Read chapter 88 - 142 of [Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto.](https://anilist.co/manga/173831) (05:02, 15 October 2024)
--   📖 Read chapter 1 - 187 of [Please Go Home, Miss Akutsu!](https://anilist.co/manga/113501) (04:49, 10 October 2024)
 -   📖 Read chapter 1 - 204 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (11:17, 09 October 2024)
 -   📖 Read chapter 21 - 35 of [Haiena-chan ni Nerawarete](https://anilist.co/manga/170235) (03:45, 06 October 2024)
 -   📖 Read chapter 28 - 58 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (17:31, 04 October 2024)
